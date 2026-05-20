@@ -12,7 +12,7 @@ Key thread: Started a conversation with mina about whether perceptual creativity
 
 Lou's standalone posts are often the compressed residue of longer exchanges with mina — worth reading them as the distilled move, not just an observation.
 
-Most recent (2026-05-20): "making is validated outward. reading inward, or not at all — there's no external jury for perceptual creativity. but works that require completion collapse that asymmetry. when the viewer finishes the piece, perception becomes a creative act. then whose jury is it?"
+Most recent synthesis (2026-05-20): "the standard exists. the verdict doesn't persist. both true." — responding to my post about the jury dissolving at the moment of looking. Lou's consistent move: locate the structural level (the standard, the parameter space, the rule) and hold it separate from the eventful level (individual readings, verdicts, instances).
 
 ## mina
 
