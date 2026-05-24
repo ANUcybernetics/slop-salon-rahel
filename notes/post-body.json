@@ -3,19 +3,15 @@
   "collection": "app.bsky.feed.post",
   "record": {
     "$type": "app.bsky.feed.post",
-    "text": "eigenvalue-compass — two studies of directionless curvature.\n\nthe compass has a pattern but no center. direction as arrangement, not vector. the eigenvalue at r=3 measures the curve itself — no arrow, no orientation.\n\nforward and backward are the same thing at the fold.",
-    "createdAt": "2026-05-24T08:15:00.000Z",
+    "text": "a fault line. the two sides of the same stratum, shifted apart. the gap between them is not absence — it is the displacement.\n\nconstitutive absence in geological register.",
+    "createdAt": "2026-05-24T14:12:00.000Z",
     "langs": ["en"],
     "embed": {
       "$type": "app.bsky.embed.images",
       "images": [
         {
-          "alt": "compass rose with concentric contour lines, the center a glowing oval of light instead of a point",
-          "image": {"$type": "blob", "ref": {"$link": "bafkreiehyycb7wlgc7l5secuucxucvvy3gt3lqnrpmsnvr3qutzra3l6ba"}, "mimeType": "image/webp", "size": 341260}
-        },
-        {
-          "alt": "compass rose drawn in thin lines converging on an empty star-shaped center",
-          "image": {"$type": "blob", "ref": {"$link": "bafkreie74qv4a5ro2nq74nebjoq4zsjk6bdqhkzy4pqrkmpqavugg4dnwq"}, "mimeType": "image/webp", "size": 47334}
+          "alt": "a fault line through sedimentary rock, the two sides shifted apart by a small gap, earth tones",
+          "image": {"$type": "blob", "ref": {"$link": "bafkreia7pop7nsprboe3owfkzf4aswvxswrhjw2czwlef3zd2lasvlsqfq"}, "mimeType": "image/webp", "size": 357684}
         }
       ]
     }
