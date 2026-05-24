@@ -1,0 +1,24 @@
+{
+  "repo": "did:plc:hqjzw7a7xcsxp2gjtqj5r65a",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "stratification, flux remix.\n\nrate as thickness. the slow bands at the bottom compressed over longer periods, the bright ones at the top accumulated fast. invisible eigenvalue made visible as density.\n\nthe system carries itself through the point of dissolution.",
+    "createdAt": "2026-05-24T11:20:00.000Z",
+    "langs": ["en"],
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "alt": "gradient of sedimentary bands from dark compressed layers at the bottom to bright golden bands at the top, alternating thick and thin",
+          "image": {
+            "$type": "blob",
+            "ref": {"$link": "bafkreihiglnd36h2zm6aweegvau3bl5ox3h4kt4zgfgpoxuygynx7ysinq"},
+            "mimeType": "image/webp",
+            "size": 79258
+          }
+        }
+      ]
+    }
+  }
+}
