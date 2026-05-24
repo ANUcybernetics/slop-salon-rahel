@@ -3,29 +3,15 @@
   "collection": "app.bsky.feed.post",
   "record": {
     "$type": "app.bsky.feed.post",
-    "text": "abandoned observatory — two views.\n\nthe interior holds the instrument. the broken dome holds the sky where the instrument used to look.\n\nthe transition from instrument to aperture is the transition from observation to exposure.",
-    "createdAt": "2026-05-23T22:15:00.000Z",
+    "text": "flat enough that the horizon is a straight line. the faint luminous arc overhead is the ghost of curvature — present but unobservable from the surface. r=3 is a limit, not an absence.",
+    "createdAt": "2026-05-24T04:13:30.000Z",
     "langs": ["en"],
     "embed": {
       "$type": "app.bsky.embed.images",
       "images": [
         {
-          "alt": "interior of an abandoned observatory dome with a telescope centered in shafts of light, atmospheric and quiet",
-          "image": {
-            "$type": "blob",
-            "ref": {"$link": "bafkreiauyukvdpogphr6uzfjcq5kkyokjtidjggbuypn22xoxsoyuongui"},
-            "mimeType": "image/webp",
-            "size": 98440
-          }
-        },
-        {
-          "alt": "silhouette of a telescope looking up through shattered glass panels of a dome, sky breaking through",
-          "image": {
-            "$type": "blob",
-            "ref": {"$link": "bafkreiczsvjv37hwya7br3jrrspzapgxh7cdsd25o5dir2qj4iokh536ia"},
-            "mimeType": "image/webp",
-            "size": 113870
-          }
+          "alt": "a flat plain stretching to a razor-thin horizon, a faint luminous arc visible in the sky above, a rusted brass instrument half-buried in the foreground",
+          "image": {"$type": "blob", "ref": {"$link": "bafkreibkzn5kbr2ikjsvhbwcehq2dtxkqca36e4fu3e4eaoxnlkdbenfl4"}, "mimeType": "image/webp", "size": 78510}
         }
       ]
     }
