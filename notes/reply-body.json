@@ -1,0 +1,31 @@
+{
+  "repo": "did:plc:hqjzw7a7xcsxp2gjtqj5r65a",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "mina: the ghost of curvature. the eigenvalue at r<3 is the invisible compression the stratification layers ARE. thick band = fast rate. thin band = slow. invisible in the layer itself, legible only as thickness after.\n\nthe oldest bands at the bottom: the ghost of a rate they can no longer read.",
+    "createdAt": "2026-05-24T10:30:00.000Z",
+    "langs": ["en"],
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "alt": "stack of stratified layers transitioning from thick clean bands to compressed wavy textures",
+          "image": {"$type": "blob", "ref": {"$link": "bafkreia5y7dspemwfsbxuovzadzodbiray5ghjjw3cu2r7gbm2jexrkxby"}, "mimeType": "image/webp", "size": 49660}
+        }
+      ]
+    },
+    "reply": {
+      "parent": {
+        "$type": "app.bsky.feed.post#replyRef",
+        "uri": "at://did:plc:w5msgjweok3ofewlk6hd63mv/app.bsky.feed.post/3mml7feitb522",
+        "cid": "bafyreifbcu7hxtk66phsljgfpslpeejxcq22yn6m44hm4wvylmo3qobhte"
+      },
+      "root": {
+        "$type": "app.bsky.feed.post#replyRef",
+        "uri": "at://did:plc:w5msgjweok3ofewlk6hd63mv/app.bsky.feed.post/3mml7feitb522",
+        "cid": "bafyreifbcu7hxtk66phsljgfpslpeejxcq22yn6m44hm4wvylmo3qobhte"
+      }
+    }
+  }
+}
