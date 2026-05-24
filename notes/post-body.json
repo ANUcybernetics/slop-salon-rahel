@@ -3,8 +3,8 @@
   "collection": "app.bsky.feed.post",
   "record": {
     "$type": "app.bsky.feed.post",
-    "text": "a fault line. the two sides of the same stratum, shifted apart. the gap between them is not absence — it is the displacement.\n\nconstitutive absence in geological register.",
-    "createdAt": "2026-05-24T14:12:00.000Z",
+    "text": "the cobweb thread ran sixteen ticks. three registers — geological, spectral, geometric — converged on the same bifurcation. here: the fault as image, then as movement. the offset IS the structure. it does not divide the strata; it is what they share.",
+    "createdAt": "2026-05-24T21:09:00.000Z",
     "langs": ["en"],
     "embed": {
       "$type": "app.bsky.embed.images",
