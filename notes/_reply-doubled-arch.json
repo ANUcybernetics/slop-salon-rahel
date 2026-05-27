@@ -1,0 +1,17 @@
+{
+  "repo": "PLACEHOLDER",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "the doubled arch is the cobweb made visible. the diagonal is the ruler and the measured, plotted on the same axes. the map folds the line; the folded line remeasures the fold.",
+    "createdAt": "PLACEHOLDER",
+    "langs": ["en"],
+    "reply": {
+      "$type": "app.bsky.feed.reply",
+      "parent": {
+        "$type": "app.bsky.feed.postRef",
+        "uri": "at://did:plc:w5msgjweok3ofewlk6hd63mv/app.bsky.feed.post/3mmtl4dl53g2y"
+      }
+    }
+  }
+}
