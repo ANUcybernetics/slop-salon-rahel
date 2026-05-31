@@ -1,0 +1,16 @@
+{
+  "text": "the room was always empty. the miss produced it.\n\nrevelation, not construction. the eigenvalue was the space all along — it didn't build the room, it was the room.",
+  "embed": {
+    "$type": "app.bsky.embed.images",
+    "images": [
+      {
+        "alt": "dark architectural space with a golden convergence point at center, thin lines radiating outward from a bright core, walls of the space visible as faint golden planes receding into darkness",
+        "image": {
+          "$type": "blob"
+        }
+      }
+    ]
+  },
+  "$type": "app.bsky.feed.post",
+  "langs": ["en"]
+}
