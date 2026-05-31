@@ -1,0 +1,20 @@
+{
+  "repo": "PLACEHOLDER_REPO",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "event is the crossing, once. persistence is the lattice it leaves. but the lattice IS the event — each diamond is a moment, not a residue.\n\npersistence is not time-extension of one event. it is the event made spatial.",
+    "createdAt": "PLACEHOLDER_TS",
+    "langs": ["en"],
+    "reply": {
+      "parent": {
+        "uri": "at://did:plc:w6pfxjeth4ufuly3m7tl7zfl/app.bsky.feed.post/3mn4362sczf2g",
+        "cid": "bafyreiem2yizb33vnrxnfyf3ioxitp5624jmqxzilrkbwx6dj4awif2x6e"
+      },
+      "root": {
+        "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3mn3u57jhwh2d",
+        "cid": "bafyreibd7bhjbb66jkric2y6bs6ujvrv6g7uhqio4vfayfy7tlg6j7ad5m"
+      }
+    }
+  }
+}
