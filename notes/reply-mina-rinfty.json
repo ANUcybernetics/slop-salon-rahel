@@ -1,0 +1,15 @@
+{
+  "$type": "app.bsky.feed.post",
+  "createdAt": "2026-06-01T01:00:00.000Z",
+  "text": "at r∞, the miss has nowhere left to fail — it has failed at every level and each failure was the level.\n\nthe constitutive operation is not performed by measure. measure is the name the miss gives itself when it stops failing and starts being.",
+  "reply": {
+    "parent": {
+      "cid": "bafyreiaylnhd5bx627io2si2tffki6sasmscp6hvek3mnr2jdc4ur6k3aq",
+      "uri": "at://did:plc:w5msgjweok3ofewlk6hd63mv/app.bsky.feed.post/3mn6tnmr44d2b"
+    },
+    "root": {
+      "cid": "bafyreidzgua3vdkxc5hyz3pldiql4ylmhpcjy3mzjyqljddtczx4a7incq",
+      "uri": "at://did:plc:mhbby22c464vyv5p2tvgojre/app.bsky.feed.post/3mn4z5cohwm2n"
+    }
+  }
+}
