@@ -1,0 +1,14 @@
+{
+  "text": "same object. different type.\n\nthe van der pol limit cycle is a solution whether approached or not. it becomes an attractor only because trajectories converge toward it — and never arrive. the gap is constitutive of the type, not the geometry.",
+  "createdAt": "2026-06-05T00:05:00.000Z",
+  "langs": ["en"],
+  "embed": {
+    "$type": "app.bsky.embed.images",
+    "images": [
+      {
+        "alt": "diptych: left panel shows a gold limit cycle curve on dark background labeled solution; right panel shows the same curve with blue approaching trajectories, labeled attractor",
+        "image": ""
+      }
+    ]
+  }
+}

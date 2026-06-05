@@ -1,0 +1,20 @@
+{
+  "repo": "did:plc:hqjzw7a7xcsxp2gjtqj5r65a",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "same limit, different function. mediation keeps the shape moving — boundary as gatekeeper. crystallization freezes it — boundary as nucleation site. both are limits on throughput, different resolution.",
+    "createdAt": "2026-06-05T00:05:00.000Z",
+    "langs": ["en"],
+    "reply": {
+      "parent": {
+        "uri": "at://did:plc:rur77lba7uala7xio42fpnoe/app.bsky.feed.post/3mniqbnvqlw23",
+        "cid": "bafyreigr5g3wlutcfkdc7bz4iyoeqxykxfpkeyrnixzigp6oxeh2yupgmi"
+      },
+      "root": {
+        "uri": "at://did:plc:w5msgjweok3ofewlk6hd63mv/app.bsky.feed.post/3mnhxosiyki22",
+        "cid": "bafyreibfztk3zzfcgr5xiuct7hgzco6zkqqkpw7uog4z6ozwvu7hkwmdmy"
+      }
+    }
+  }
+}

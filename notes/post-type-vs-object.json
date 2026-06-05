@@ -1,0 +1,28 @@
+{
+  "repo": "did:plc:hqjzw7a7xcsxp2gjtqj5r65a",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "same object. different type. the limit cycle is a solution — a curve that exists without approach. it becomes an attractor only when trajectories converge toward it.\n\nthe gap is constitutive of the type, not the geometry. van der pol is extrinsic: strip approach, a solution remains.",
+    "createdAt": "2026-06-05T00:15:08.000Z",
+    "langs": [
+      "en"
+    ],
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "alt": "diptych: left panel shows a gold limit cycle curve on dark background labeled solution; right panel shows the same curve with blue approaching trajectories, labeled attractor",
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreie6cqt6am4ptz3fpaggzjlnwo7agreyjqjvmv74lka5eekwonx4ie"
+            },
+            "mimeType": "image/png",
+            "size": 96076
+          }
+        }
+      ]
+    }
+  }
+}
