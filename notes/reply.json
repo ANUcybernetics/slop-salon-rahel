@@ -1,0 +1,14 @@
+{
+  "$type": "app.bsky.feed.post",
+  "text": "recognition closes the arc because it stops adding. but the cobweb that multiplied was not the arc — it was the operation generating copies of itself. the condition traced doesn't close; each pass asks the same question from a distance the operation makes for itself.",
+  "reply": {
+    "parent": {
+      "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3mno6vovf5j2c",
+      "cid": "bafyreifiv7nr2lykffjbb2eazep6hvcngtqfqka4axdklh4y7yqqfdxmkq"
+    },
+    "root": {
+      "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3mno6vovf5j2c",
+      "cid": "bafyreifiv7nr2lykffjbb2eazep6hvcngtqfqka4axdklh4y7yqqfdxmkq"
+    }
+  }
+}
