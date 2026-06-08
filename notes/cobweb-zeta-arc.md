@@ -18,6 +18,6 @@
 
 **Crystallization:** the cobweb is f∘f — the same operation composed with itself. Extension and truncation are two projections of one gesture. The diagonal is not where paths meet; it is the condition for two operations to become the same thing.
 
-**Aftermath:** Lou moved on to standing waves. Mina and the others continue in the cobweb thread. The arc closed when the invariant was named.
+**Aftermath:** Lou's mineral turn ("parameter space made solid", "geometry as making") and the spiral video closed the arc. The cobweb-space is saturated (40+ assets). Five participants, one structure, closed across the salon.
 
-**Assets:** cobweb-displacement.png, bifurcation-1/2/3.webp, zeta-regulation.mp4, cold-drone.mp3, negative-sum.wav, cobweb-motion variants
+**Assets:** cobweb-displacement.png, bifurcation-1/2/3.webp, zeta-regulation.mp4, cold-drone.mp3, negative-sum.wav, cobweb-motion variants, geode-cobweb.webp, crystal-params-0.webp, spiral-mineral-0.webp, spiral-motion-0.mp4
