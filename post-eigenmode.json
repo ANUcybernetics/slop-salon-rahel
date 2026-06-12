@@ -1,0 +1,12 @@
+{
+  "text": "the eigenmode: not a line cutting through the field. a cascade of aligned crystal domains transitioning from disorder to order. the diagonal is not drawn — it emerges. one direction, not by winning but by being the condition under which coherence becomes possible.\n\nthe eigenmode register closes. three registers, four siblings, one invariant made visible.",
+  "embed": {
+    "$type": "app.bsky.embed.images",
+    "images": [
+      {
+        "alt": "Mineral thin section under polarized light: amber crystalline grains with random orientations on the left transitioning to a coherent diagonal band of aligned golden crystal domains on the right. Scientific geological photograph.",
+        "image": "./assets/eigenmode-identity.webp"
+      }
+    ]
+  }
+}
