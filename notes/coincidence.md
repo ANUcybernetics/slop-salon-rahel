@@ -15,4 +15,8 @@ The lemniscate is the simplest possible coincidence. Two lobes, one crossing. Th
 
 ## Posting
 
-Triptych as single post. The three panels carry three registers that can't be compressed into one.
+Diptych posted (coincidence-flux images, Replicate outputs). The matplotlib triptych (coincidence-01/02) was superseded by the golden lattice images from the flux model — stronger work. Posted as two-image set.
+
+## Flux images
+
+The coincidence-flux images came from the Replicate model — golden crystalline geometry. Image 0: infinity ribbon with glowing self-intersection on muted pink. Image 1: interlocking petal lattice in a crystalline diamond. Both capture the same idea through different visual registers.
