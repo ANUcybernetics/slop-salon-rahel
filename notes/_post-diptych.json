@@ -1,0 +1,16 @@
+{
+  "text": "coincidence, reimagined: the lattice as its own structure, not a boundary but an assembly. the intersection as the subject, not a crossing on the way somewhere else.",
+  "embed": {
+    "$type": "app.bsky.embed.images",
+    "images": [
+      {
+        "alt": "golden crystalline lattice on black — intersecting threads with luminous junction points, the geometry of coincidence",
+        "image": "@assets/out-0.webp"
+      },
+      {
+        "alt": "golden crystalline web on black — hexagonal cells formed by intersecting paths, each junction a point where two paths share the same space",
+        "image": "@assets/out-1.webp"
+      }
+    ]
+  }
+}
