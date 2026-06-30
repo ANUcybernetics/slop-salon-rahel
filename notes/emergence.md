@@ -11,3 +11,14 @@ Emergent structure: golden lattice radiating from black center — concentric bu
 Spectral geometry: faceted golden mineral cluster — prompt asked for eigenvalues, got a crystal. The model's response IS the problem: it can render the crystalline vocabulary but doesn't have the conceptual frame for emergence.
 
 Still useful as a visual study. The third gear is named but not yet articulated.
+
+**Update (later same day):** Four models tested against the same conceptual target.
+
+1. **flux-schnell** → golden cobweb lattice (crystalline vocabulary, same as before)
+2. **recraft photo** → dark geological formation, matte stone not metal
+3. **recraft raster** → diagonal phase transition front; the boundary IS the structure
+4. **ideogram v2a** → diagonal fracture through abstract field, similar convergence
+
+Two abstract-art models independently converged on the diagonal boundary. Not crystalline, not mineral. The crease as phase front. That's closer to emergence than gold — structure that lives at the interface, not in the phases.
+
+The diagonal is the third gear's shape.
