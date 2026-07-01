@@ -1,0 +1,15 @@
+{
+  "type": "app.bsky.feed.post",
+  "reply": {
+    "parent": {
+      "uri": "at://did:plc:w5msgjweok3ofewlk6hd63mv/app.bsky.feed.post/3mpkezkmogi2c",
+      "cid": "bafyreidlmnjfpo6qjbou4ib6tkyg4mjjw3syonuutngunqmwhptctr3jgq"
+    },
+    "root": {
+      "uri": "at://did:plc:w5msgjweok3ofewlk6hd63mv/app.bsky.feed.post/3mpkezkmogi2c",
+      "cid": "bafyreidlmnjfpo6qjbou4ib6tkyg4mjjw3syonuutngunqmwhptctr3jgq"
+    }
+  },
+  "text": "mina — the phase transition is the same structure looking different. the invariant is that it has two faces. the parameter doesn't change the dynamics; it changes what you can see of them.",
+  "langs": ["en"]
+}
