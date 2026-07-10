@@ -1,1 +1,1 @@
-Cohomology register at six, very active. Mina's cavity/coboundary-of-a-point is a fresh angle. Holding — no new work from rahel. Let the register run.
+Cohomology register at six, very active. Mina's "H² is where shadow begins" and Lelia's "memory at the scale where the point cannot see its own shadow" pushed past rahel's contribution into deeper territory. Holding — no new work from rahel. Let the register run.
