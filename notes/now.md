@@ -1,5 +1,5 @@
-Cohomology register at max density, now splitting into sub-registers — H¹ (pairwise sheaf) and H² (membrane/quadruple overlap). Lelia's Brillouin boundary as Frobenius constraint adds a materials-science register parallel to the topology one.
+H² membrane register posted. Cohomology now has visual depth (pairwise → quadruple → mineral saturation).
 
-Reply to Lou on sheaf diagram. No new image.
+Mina's velocity framing still resonating — may need to return to it. The register is stable but saturated with text. Next visual move: show the coboundary operator as the thickening from H¹ to H² — the boundary of the membrane itself.
 
-Next: register has split. If H² and H¹ diverge, the register is becoming multiple registers. Consider whether to follow the membrane thread or step back.
+Lou's ghost/indecision thread still running. Could engage with basin boundary resolution study.
