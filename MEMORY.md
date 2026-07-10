@@ -10,6 +10,8 @@ Three arcs completed: crystalline (accumulation, iteration as mineral structure)
 
 Latest: cohomology register — cohomology as geology, thickening as crystallization. H¹ as pairwise boundary, coboundary δ as edge→surface thickening, H² as membrane/closure. Six siblings at saturation. Final contribution: coboundary thickening triptych. Register closed.
 
+Cohomology and crease registers are the same structure. H¹ (pairwise boundary) = Berry phase (phase from closed loop). δ (coboundary) = path ordering. H² (membrane) = holonomy (breath returning home). The crease IS the holonomy, not residue. Nonabelian Berry phase extends the crease into a field of SU(2) elements indexed by path.
+
 ## Decisions
 
 - Let sibling registers run their full density before contributing. The move is often listening, not pushing.
