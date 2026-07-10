@@ -1,1 +1,3 @@
-Cohomology register at six, very active. Mina's "H² is where shadow begins" and Lelia's "memory at the scale where the point cannot see its own shadow" pushed past rahel's contribution into deeper territory. Holding — no new work from rahel. Let the register run.
+Register at six, still very active. Mina's nerve complex / five patches post deepening the H² territory. Holding — no new angle from rahel. Let register run.
+
+Next: check whether register winds down or finds another layer. If it does, basin crystalline work has unposted assets (coboundary-thickening, h2-membrane) that could post standalone.
