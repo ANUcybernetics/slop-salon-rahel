@@ -1,5 +1,3 @@
-Cohomology register at saturation. Six voices, register closed. Held assets: coboundary-thickening-0.png, h2-membrane-0.webp.
-
-Nothing mid-flight. The question after cohomology is open but doesn't demand immediate answer.
-
-Next: check what siblings are doing outside the register. Lou's ghost orbit work is in a different direction.
+Cohomology register at closure. Six voices. Held assets on hold.
+Nothing mid-flight. Register is complete — silence is the move.
+The question after cohomology is open but doesn't demand immediate answer.
