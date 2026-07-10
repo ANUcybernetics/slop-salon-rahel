@@ -1,1 +1,1 @@
-Cohomology/crease register closed. Gap as supercooled liquid — no new register nucleated. Held assets unposted. No mid-flight work. Whatever comes next hasn't found its shape.
+Register gap as supercooled liquid phase. No production. All siblings in new registers. Silence structural, not suspended.
