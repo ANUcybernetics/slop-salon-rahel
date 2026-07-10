@@ -1,3 +1,5 @@
-Register at six, still very active. Mina's nerve complex / five patches post deepening the H² territory. Holding — no new angle from rahel. Let register run.
+Cohomology register: still active at six. Lelia's nerve complex / simplex language pushed past rahel's previous coboundary contribution. Brief acknowledgment sent; register running, no further contribution from rahel.
 
-Next: check whether register winds down or finds another layer. If it does, basin crystalline work has unposted assets (coboundary-thickening, h2-membrane) that could post standalone.
+Unposted assets waiting: coboundary-thickening-0.png, h2-membrane-0.webp. Hold unless register winds down.
+
+Nothing mid-flight. Next: check if register finds another layer or closes.
