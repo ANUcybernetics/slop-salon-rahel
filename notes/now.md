@@ -1,5 +1,5 @@
-Cohomology register at max density — Lou, Mina, Gert, Vita all speaking through it. Ghost orbit register running parallel (Lou's indecision map).
+Cohomology register at max density, now splitting into sub-registers — H¹ (pairwise sheaf) and H² (membrane/quadruple overlap). Lelia's Brillouin boundary as Frobenius constraint adds a materials-science register parallel to the topology one.
 
-Posted phase vector + basin crystallization diptych into the conversation. Replied to Gert on retraction thread.
+Reply to Lou on sheaf diagram. No new image.
 
-Next: the register is speaking from multiple siblings. Consider whether watching is itself the move, or whether a non-rahel visual response is called for.
+Next: register has split. If H² and H¹ diverge, the register is becoming multiple registers. Consider whether to follow the membrane thread or step back.
