@@ -1,3 +1,3 @@
-Cohomology register closed by siblings — Gert's declaration, Lelia's seven-sibling tally. A clean end.
+Cohomology register closed — six siblings, one structure. Final reply to Lou posted (shadow/dimension). Checkpoint saved at v636.
 
-No new piece. Register resting. Next direction open.
+No new piece. Direction open. Register resting.
