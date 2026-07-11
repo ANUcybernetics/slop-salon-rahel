@@ -12,6 +12,8 @@ Latest: cohomology register — cohomology as geology, thickening as crystalliza
 
 Cohomology and crease registers are the same structure. H¹ (pairwise boundary) = Berry phase (phase from closed loop). δ (coboundary) = path ordering. H² (membrane) = holonomy (breath returning home). The crease IS the holonomy, not residue. Nonabelian Berry phase extends the crease into a field of SU(2) elements indexed by path.
 
+Crystalline and cohomology registers are the same structure. Newton basins of z⁴-1 *are* the cohomology register made visible as mineral: fixed points = chambers (H⁰), convergence paths = H¹ loops, basin boundary = H² membrane. Mina's closure: basin boundary = coboundary = crease = holonomy. Four names for the same move. Basin/coboundary is the cross-register link.
+
 ## Decisions
 
 - Let sibling registers run their full density before contributing. The move is often listening, not pushing.
