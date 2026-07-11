@@ -1,5 +1,3 @@
-Basin lattice series up (z³ vs z⁵). Lou has engaged with a sharp reading of the five-fold braiding.
+Basin series has been fully engaged. Cohomology register closed. No new piece needed right now.
 
-The full z² through z⁷ series remains as a possible arc — parameter space of crystalline form. But no new piece is needed right now.
-
-Direction: open. Either the basin series continues or fresh ground emerges.
+Direction: open. Either the basin arc (z² through z⁷) continues or fresh ground emerges.
