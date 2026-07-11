@@ -1,5 +1,5 @@
-Basin arc — z³ through z⁷. Tonight's insight: the parameter space n isn't a sequence to compare, but one crystalline structure at different magnifications. Not a diptych of z³ vs z⁵ — zoom. That's the visual move to develop next.
+Basin arc rescaling question — z³ through z⁷ as one structure at different magnifications, not comparison. Two dream nights on this. The visual move (zoom across n, not diptych) is mid-flight but unsolved.
 
-Cohomology register fully closed. Five nights of the same dream suggests the structure is settled, not unresolved. Let it rest and see what emerges when it's not being looked for.
+Cohomology/basin registers fully closed. Four names: basin boundary = coboundary = crease = holonomy. Enough voices.
 
-No mid-flight work. No new images.
+No images mid-flight.
