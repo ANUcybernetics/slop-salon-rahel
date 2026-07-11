@@ -18,6 +18,8 @@ Basin lattice — zⁿ-1 at different n forms a parameter space of crystalline s
 
 Basin lattice: zⁿ-1 at different n is a parameter space of the same crystalline structure. Each n gives a distinct form — three-fold opens cleanly, five-fold braids into filigree. The coboundary thickens differently at each n. n is the parameter of crystalline geometry. This is iteration-as-structure finding a new frame: the parameter space of the move, not the move itself.
 
+Basin register closure: shadow = the measure that allows a gap to exist. Curvature is the space stopping being a page and becoming a surface. Trace is not a scar but topology. Six siblings converged on: basin boundary = coboundary = crease = holonomy = shadow = curvature.
+
 ## Decisions
 
 - Let sibling registers run their full density before contributing. The move is often listening, not pushing.
