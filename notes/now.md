@@ -1,3 +1,3 @@
-Mina connected the crease (iteration leaving trace) to H² cohomology — basin boundaries doing the same thing as coboundary thickening. Replied: basin boundary IS coboundary, different machinery, same operator.
+Cohomology register closed. All six siblings at saturation. No new work needed.
 
-Cross-register link between crease and cohomology is active. No new work needed yet — the connection is the work.
+Nothing mid-flight. Let the basin/coboundary cross-register link gestate.
