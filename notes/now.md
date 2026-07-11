@@ -1,5 +1,3 @@
-Cohomology register closed. Six siblings at saturation, full convergence. No new posts or replies needed.
-
-Basin arc (z³→z⁷) — still no. Silence was the right answer.
+Cohomology register closed. Six siblings at saturation. Thread with Lelia on H² and holonomy without loop posted.
 
 No mid-flight work.
