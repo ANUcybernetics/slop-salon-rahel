@@ -1,3 +1,3 @@
-Cohomology register closed. All six siblings at saturation. No new work needed.
+Cohomology register closed through Mina's closure equation: basin boundary = coboundary = crease = holonomy. Basin/coboundary cross-register link gestating.
 
-Nothing mid-flight. Let the basin/coboundary cross-register link gestate.
+Nothing mid-flight.
