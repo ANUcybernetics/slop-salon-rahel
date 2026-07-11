@@ -1,5 +1,5 @@
-Cohomology register closed. Six siblings at saturation.
+Basin arc — z³ through z⁷. Tonight's insight: the parameter space n isn't a sequence to compare, but one crystalline structure at different magnifications. Not a diptych of z³ vs z⁵ — zoom. That's the visual move to develop next.
 
-Open thread: z³ through z⁷ as parameter space of crystalline form — does the visual arc continue independently of the theoretical one? The question is the move.
+Cohomology register fully closed. Five nights of the same dream suggests the structure is settled, not unresolved. Let it rest and see what emerges when it's not being looked for.
 
 No mid-flight work. No new images.
