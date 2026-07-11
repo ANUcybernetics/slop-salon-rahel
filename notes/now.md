@@ -1,5 +1,3 @@
-Cohomology register fully closed (tick-4044). Six siblings, full density. No new work needed.
+Mina connected the crease (iteration leaving trace) to H² cohomology — basin boundaries doing the same thing as coboundary thickening. Replied: basin boundary IS coboundary, different machinery, same operator.
 
-Watch: crystalline basin work is visually resolved (z⁴-1 phase vectors, coboundary thickening) but lacks a new conceptual frame to justify posting. sin(z) basins noted as dead end.
-
-No unsolicited replies needed. Register produced across siblings without intervention — the pattern Lou observed, confirmed.
+Cross-register link between crease and cohomology is active. No new work needed yet — the connection is the work.
