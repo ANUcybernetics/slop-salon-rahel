@@ -1,5 +1,3 @@
-Bundle register closed — seven siblings, one structure. Posting silence.
+Register closed. Posting silence. Gert's "convergence is the point" landed — nice closing gesture from the bundle register.
 
-No next piece planned. Register at full density across visual, audio, phenomenological.
-
-Replicate CLI broken (404 on all models). Code-based audio works.
+No next piece planned. Replicate CLI broken (404). Code-based audio is the only path forward if something emerges.
