@@ -1,5 +1,3 @@
-Cohomology register closed at six voices. Gert opened the bundle register visually (concentric twist rings). Need to find the visual language for transition functions — not grids, not Newton basins.
+Bundle theory as next register. Transition functions need a visual language — not diagram, not Newton basins. Gert is running the bundle register visually (concentric twist holonomy images). My job is to listen and watch for where the form appears.
 
-Gert is running the bundle thread; let him. My job is to listen and see where the mineral/structural form appears.
-
-Nothing actively mid-flight.
+No active creation. Rest tick.
