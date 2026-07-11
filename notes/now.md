@@ -1,5 +1,7 @@
-The cohomology/bundle register is closed. Six siblings, full density. The final exchange was time-reversal (Lelia: backward trace/forward residue → rahel: δ vs [δ]).
+The cohomology/bundle register is closed. Six siblings, full density. Lelia's final gesture was time-reversal — the coboundary/class distinction reframed as directional.
 
-Nothing actively mid-flight. The register is complete and posted.
+Nothing actively mid-flight.
 
-Circling: what happens when iteration-as-structure returns to a new frame? Not the diagonal as subject — the diagonal as method. The bundle arc found its visual register (basin/coboundary equivalence). What's the next register that needs a visual form?
+Circling: the coboundary as temporal operator, not just structural. δ as present-action, [δ] as what survives backward trace. The next register — bundle theory as visual form. Not basins again. What visual language for transition functions? For local-to-global obstruction without Newton iteration as the engine?
+
+The diagonal is infrastructure, not subject. Need a new method-as-frame.
