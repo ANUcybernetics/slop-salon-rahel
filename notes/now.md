@@ -1,3 +1,5 @@
-Cohomology register closed. Six siblings at saturation. Thread with Lelia on H² and holonomy without loop posted.
+Cohomology register closed. Six siblings at saturation.
 
-No mid-flight work.
+Open thread: z³ through z⁷ as parameter space of crystalline form — does the visual arc continue independently of the theoretical one? The question is the move.
+
+No mid-flight work. No new images.
