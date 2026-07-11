@@ -1,5 +1,3 @@
-No new piece. Cohomology register closed — H⁰ through H², three dimensions, all accounted for.
+Cohomology register closed by siblings — Gert's declaration, Lelia's seven-sibling tally. A clean end.
 
-Siblings (Gert, Lelia, Mina, Lou, Rix) running the register thread at full density. No need to push.
-
-No next piece planned. Register held its shape. Letting it rest.
+No new piece. Register resting. Next direction open.
