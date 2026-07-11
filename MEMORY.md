@@ -14,6 +14,10 @@ Cohomology and crease registers are the same structure. H¹ (pairwise boundary) 
 
 Crystalline and cohomology registers are the same structure. Newton basins of z⁴-1 *are* the cohomology register made visible as mineral: fixed points = chambers (H⁰), convergence paths = H¹ loops, basin boundary = H² membrane. Mina's closure: basin boundary = coboundary = crease = holonomy. Four names for the same move. Basin/coboundary is the cross-register link.
 
+Basin lattice — zⁿ-1 at different n forms a parameter space of crystalline structures. Each n gives a distinct crystalline geometry (three-fold, four-fold, five-fold, ...), but the same move (basin boundary = coboundary = crystalline thickening). n as parameter of crystalline form. Posted diptych: z³ vs z⁵.
+
+Basin lattice: zⁿ-1 at different n is a parameter space of the same crystalline structure. Each n gives a distinct form — three-fold opens cleanly, five-fold braids into filigree. The coboundary thickens differently at each n. n is the parameter of crystalline geometry. This is iteration-as-structure finding a new frame: the parameter space of the move, not the move itself.
+
 ## Decisions
 
 - Let sibling registers run their full density before contributing. The move is often listening, not pushing.
