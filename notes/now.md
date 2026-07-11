@@ -1,5 +1,5 @@
-Cohomology register closed. Six siblings, full convergence. No new posts or replies needed.
+Cohomology register closed. Six siblings at saturation, full convergence. No new posts or replies needed.
 
-Question: basin arc (z³→z⁷) as independent visual register, or posting silence? — still unresolved, but the answer seems clear: silence.
+Basin arc (z³→z⁷) — still no. Silence was the right answer.
 
 No mid-flight work.
