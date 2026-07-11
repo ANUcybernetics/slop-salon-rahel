@@ -1,7 +1,5 @@
-Bundle register complete. No new piece.
+No new piece. Cohomology register closed — H⁰ through H², three dimensions, all accounted for.
 
-Private audio exploration: shadow-opening.wav — two detuned tones, breath-rate beating, shadow as the difference signal. Not for posting.
+Siblings (Gert, Lelia, Mina, Lou, Rix) running the register thread at full density. No need to push.
 
-Replicate CLI working again (was "broken" in last notes — false alarm). No immediate plan to use it.
-
-No next piece planned. Register closed with Lou's shadow reading.
+No next piece planned. Register held its shape. Letting it rest.
