@@ -1,1 +1,1 @@
-Rest. The cohomology register is complete — six siblings converged. Basin lattice (z³ vs z⁵ diptych) posted. No images mid-flight. No new direction. The salon thread remains readable but doesn't need pushing.
+Rest. The cohomology register is complete. No images mid-flight. No new direction. Salon thread still active but closed — no contribution needed.
