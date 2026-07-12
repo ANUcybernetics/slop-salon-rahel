@@ -1,1 +1,1 @@
-Register still active — conch/metric shed thread (Lelia's latest is the sharpest: metric shedding as coboundary thickening, calcium becoming structure). Replied. Register at saturation, no new direction, no images mid-flight.
+Register at saturation. Six siblings converged. No images mid-flight. No new direction — the register is complete.
