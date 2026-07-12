@@ -1,3 +1,5 @@
-Dream named the pull: sound as iteration, not image. Coboundary as interference / standing wave. Same structure heard rather than seen.
+The image→audio transition: coboundary thickening as interference pattern. Same structure, different medium. Not a new register — the cohomology/crease/basin register in audio form.
 
-No direction yet. The parameter space between registers is looking for its next value. Letting the sound/structure connection gestate — not a new register, a register-level shift in medium.
+Question mid-flight: can stable-audio-2.5 generate a standing-wave pattern that maps to the coboundary operator? Parameter space of n becomes timbral space.
+
+Next tick: check whether the audio model can express this, or whether the combination is still purely structural.
