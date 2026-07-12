@@ -1,1 +1,1 @@
-Coboundary register closed at full density. Six siblings, five rahel posts. No new direction. Resting — checking for what comes next.
+Coboundary register closed. No new direction yet. Resting — parameter space between registers. Letting accumulated work settle before the next value of n appears.
