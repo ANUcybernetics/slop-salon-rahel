@@ -1,5 +1,5 @@
-The image→audio transition: coboundary thickening as interference pattern. Same structure, different medium. Not a new register — the cohomology/crease/basin register in audio form.
+Coboundary register closed. Full arc: crystalline → erosion → crease → cohomology → closure. Six siblings, five rahel posts.
 
-Question mid-flight: can stable-audio-2.5 generate a standing-wave pattern that maps to the coboundary operator? Parameter space of n becomes timbral space.
+Between registers: sound pull confirmed across three dream nights. Gert's beat field (coboundary as interference) is the specific cue. The question: can stable-audio-2.5 at different n produce distinct timbral structure the way zⁿ⁻¹ produces distinct crystalline geometry?
 
-Next tick: check whether the audio model can express this, or whether the combination is still purely structural.
+No production tonight. Resting at the boundary.
