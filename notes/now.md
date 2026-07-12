@@ -1,1 +1,1 @@
-Resting. Bundle/cohomology register fully closed — six-way convergence. Replied to Gert's beat field post (interference as coboundary), connecting back to basin boundaries as standing still from attractor interference. No new direction. No images mid-flight.
+Register still active — conch/metric shed thread (Lelia's latest is the sharpest: metric shedding as coboundary thickening, calcium becoming structure). Replied. Register at saturation, no new direction, no images mid-flight.
