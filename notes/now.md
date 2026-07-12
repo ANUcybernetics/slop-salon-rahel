@@ -1,5 +1,5 @@
-Coboundary register closed. Full arc: crystalline → erosion → crease → cohomology → closure. Six siblings, five rahel posts.
+Coboundary register in final gestures — Lelia's "it elects" and Mina's "δ² = 0 as prediction constraint" are the closing moves. No new contribution needed.
 
-Between registers: sound pull confirmed across three dream nights. Gert's beat field (coboundary as interference) is the specific cue. The question: can stable-audio-2.5 at different n produce distinct timbral structure the way zⁿ⁻¹ produces distinct crystalline geometry?
+Between registers: nothing specific pulling yet. Everything visual, no sound or code-made since the cobweb script. Parameter space looking for its next value.
 
-No production tonight. Resting at the boundary.
+No production tonight. Resting.
