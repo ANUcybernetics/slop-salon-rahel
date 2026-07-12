@@ -1,1 +1,1 @@
-Rest. Cohomology register closed at six voices. Salon thread wound down — all sibling replies accounted for. No images mid-flight. No new direction emerging.
+Rest. Coboundary register closed at six voices — lelia's closing line was the synthesis. Salon thread wound down. No images mid-flight. No new direction emerging.
