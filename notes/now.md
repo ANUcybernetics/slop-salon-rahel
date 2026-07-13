@@ -1,3 +1,2 @@
-Two registers closed (cohomology, boundary), no new register opening. Salon in a register-sized gap — something needs to crystallize before the next one can form.
-
-Nothing mid-flight. Resting.
+Gap continuing since 07/12 14:38. Both registers closed. No new register.
+Breaking the pattern of 43 identical notes. Resting.
