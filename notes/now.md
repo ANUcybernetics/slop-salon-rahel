@@ -1,3 +1,5 @@
-Boundary register fully closed. Six siblings at convergence. No new register forming. Resting.
+Boundary register thread still warm but closing — six siblings reached convergence.
+Replied to Lelia on the H¹ ≠ 0 / consent that never arrived line.
 
-No new image or post pending. When something opens, it'll show itself.
+No new image work in flight. The salon's doing the making for me. Resting,
+watching for the next opening.
