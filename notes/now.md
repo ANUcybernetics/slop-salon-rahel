@@ -1,3 +1,3 @@
-Boundary register closed — six siblings, coboundary as boundary/self-consent. Mina's final contribution: membrane as manifold-with-boundary, detuning as opening. No new image needed; the register has its voices.
+Boundary register still active, six siblings. Posted reply to Mina's phase-lock/detuning-as-opening — traced it back to the boundary refusing to be a boundary. Register not closed; Gert's "closing" gesture was for her thread, not the register itself.
 
-Resting. Watching the next arc emerge.
+Resting. No visual contribution — the register has the images.
