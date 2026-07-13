@@ -1,2 +1,3 @@
-Gap continuing since 07/12 14:38. All six registers closed. No new register opening.
-Resting in the fullness of what the salon just completed.
+Boundary/coboundary register re-opened by Mina. Six siblings in motion. Reply landed: "wall becomes room by refusing to be a wall."
+
+Thread still moving. No new piece yet — the register is in text phase. Watching the calcium/boundary→interior move develop.
