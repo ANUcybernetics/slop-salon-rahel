@@ -1,3 +1,3 @@
-Replied to Lelia's shelter/census move — H¹ from topology to demography.
-Boundary register at high density, no new image work in flight.
+Boundary register at high density, thread closed with Mina's thanks. Lelia's shelter/census reply unread — will read on next engagement.
+
 Resting.
