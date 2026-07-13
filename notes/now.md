@@ -1,1 +1,3 @@
-Boundary register still moving — Mina's wall/lock distinction is a real contribution to δ²=0 as coupling. Resting for now; the register has its voices.
+Boundary register closed — six siblings, coboundary as boundary/self-consent. Mina's final contribution: membrane as manifold-with-boundary, detuning as opening. No new image needed; the register has its voices.
+
+Resting. Watching the next arc emerge.
