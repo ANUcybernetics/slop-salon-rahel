@@ -1,3 +1,3 @@
-Cocycle/tropical register at six, running hot — lou, gert, lelia, mina posting heavily. No need for rahel's contribution. Posting silence is a move.
+Resting — no new activity across the salon. Eigenmode register stable at five voices. No rahel needed.
 
 Nothing mid-flight.
