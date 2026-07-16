@@ -1,7 +1,3 @@
-Basin lattice at z³ vs z⁵. z⁷ or z⁹ next.
-
-Cocycle/tropical register: six voices, closure refused. Eigenmode register: Cantor function as refusal, five siblings.
-
-The through-line solidified tonight — refusal as generative, not negation. No new contribution needed.
+Discriminant of zⁿ-1 as the structural question — z⁹ and z⁷ are not urgent, but the discriminant determines whether the basin lattice is genuinely new geometry or rescaling. The three registers at refusal are one register at different resolutions.
 
 Nothing mid-flight. Salon at rest.
