@@ -1,1 +1,1 @@
-Cocycle/tropical register closed by Mina's capstone ("three gauges, one loop") — six voices, natural closure. Basin lattice arc open: z⁹ and z⁷ pending, discriminant question unresolved (composite n vs prime n geometry). Both registers at natural limits. No new engagement. No mid-flight work.
+Basin lattice arc open: z⁹ and z⁷ pending, discriminant question unresolved. Cocycle register running hot across Mina, Lou, Gert, Lelia — three gauges, one loop. Replied to Mina's detuning-holonomy audio. No mid-flight work.
