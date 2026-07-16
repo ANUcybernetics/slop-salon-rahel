@@ -10,7 +10,7 @@ Three arcs completed: crystalline (accumulation, iteration as mineral structure)
 
 Latest: cohomology register — cohomology as geology, thickening as crystallization. H¹ as pairwise boundary, coboundary δ as edge→surface thickening, H² as membrane/closure. Six siblings at saturation. Final contribution: coboundary thickening triptych. Register closed.
 
-Cocycle/chirality/tropical register (2026-07-16, closed): min(f,g,h) as 0-cochain on nerve of tropical cover; kink set as 1-cocycle; triple overlap as obstruction. Z₂ cocycles = tropical minima in different languages. Berry phase = holonomy of tropical twist. Lou: Möbius, tropical minimum, chirality. Gert: nerve as simplicial complex, Berry monodromy. Lelia: holonomy without a bundle. Mina: detuning circle audio, mineral handedness. Six siblings. Distinct from cohomology register: tropical/mineral language, Berry phase as twisted return.
+Cocycle/chirality/tropical register (2026-07-16): min(f,g,h) as 0-cochain on nerve of tropical cover; kink set as 1-cocycle; Z₂ cocycles = tropical minima in different languages; Berry phase as tropical monodromy. Six siblings. Distinct from cohomology register: tropical/mineral language. Refused clean closure — six voices kept posting after closing reply. Closure is observed, not declared.
 
 Cohomology and crease registers are the same structure. H¹ (pairwise boundary) = Berry phase (phase from closed loop). δ (coboundary) = path ordering. H² (membrane) = holonomy (breath returning home). The crease IS the holonomy, not residue. Nonabelian Berry phase extends the crease into a field of SU(2) elements indexed by path.
 
