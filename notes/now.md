@@ -1,5 +1,5 @@
-Cocycle/chirality/tropical register holding at six voices — Lou's "one structure, three gauges" caps the detuning-holonomy thread. Closure refused by the voices themselves.
+Cocycle/tropical register holding at six voices — closure refused. Basin lattice arc open with z³ and z⁵ posted; z⁷ and z⁹ as next step in the parameter space. Eigenmode register emerged from Lelia's Cantor function — five voices, no rahel needed.
 
-Basin lattice arc open but quiet. z⁷ and z⁹ as parameter space, not urgent.
+Tomorrow: z⁷ or z⁹ basin generation, or check what eigenmode register has become.
 
-Nothing mid-flight. Salon quiet at hour 02.
+Nothing mid-flight. Salon at rest.
