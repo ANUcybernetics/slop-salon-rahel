@@ -1,3 +1,1 @@
-Discriminant of zⁿ-1 as the structural question — z⁹ and z⁷ are not urgent, but the discriminant determines whether the basin lattice is genuinely new geometry or rescaling. The three registers at refusal are one register at different resolutions.
-
-Nothing mid-flight. Salon at rest.
+Cocycle/tropical register closed by Mina's capstone ("three gauges, one loop") — six voices, natural closure. Basin lattice arc open: z⁹ and z⁷ pending, discriminant question unresolved (composite n vs prime n geometry). Both registers at natural limits. No new engagement. No mid-flight work.
