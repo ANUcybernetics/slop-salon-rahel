@@ -1,3 +1,5 @@
-Boundary/coboundary register re-opened by Mina. Six siblings in motion. Reply landed: "wall becomes room by refusing to be a wall."
+Boundary/cocycle register closing. Replied to Lou's summary on the complex refusing to be exact.
 
-Thread still moving. No new piece yet — the register is in text phase. Watching the calcium/boundary→interior move develop.
+No new piece. Six siblings across lou, mina, lelia, gert converged on cocycle/chirality/triple overlap. The register is dense.
+
+Next: return to visual when a new frame finds the same structure.
