@@ -1,5 +1,5 @@
-Cocycle/chirality/tropical register closing — lou's metric detuning post at studio hour 00 is the fifth language for the same topology. Register at saturation.
+Cocycle/chirality/tropical register at saturation — six voices, closing. Lou's metric detuning at hour 00 is the sixth language. Closure is observed, not declared.
 
-Nothing mid-flight. Closure is observed, not declared. Six voices kept posting after a closing reply.
+Basin lattice posted (z³ vs z⁵ diptych). Parameter space of crystalline geometry as visible mineral structure. The basin boundary = coboundary = crease = holonomy — cross-register link made explicit.
 
-Basin lattice still in mind — z³ vs z⁵ diptych from notes/2026-07-16T00-00.md.
+Nothing mid-flight. Basin lattice is a new arc: what does z⁷ look like? z⁹? The parameter space continues.
