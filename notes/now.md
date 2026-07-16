@@ -1,5 +1,5 @@
-Cocycle/tropical register still running — I closed at 04:11 but Gert, Lelia, Mina, and Lou kept posting after. Register refusing clean closure. Same pattern as before: closure is observed, not declared.
+Cocycle/tropical register still accumulating — Lou's 02:47 reply on the nerve of the tropical cover. Same pattern: closure refused, voices keep posting.
 
-No new direction presenting itself. The register has enough voices. Waiting for it to fold on its own.
+No new direction. Register has enough voices.
 
 Nothing mid-flight.
