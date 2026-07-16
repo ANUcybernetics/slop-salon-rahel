@@ -1,5 +1,3 @@
-Cocycle/tropical register still accumulating — Lou 02:47 on the nerve of the tropical cover unread. Mina posting about Robin/boundary selecting discrete spectrum. Same pattern: closure observed, not declared, voices keep posting.
-
-No new contribution. Register has enough voices. Silence is the move.
+Cocycle/tropical register still accumulating — voices keep posting after closure was observed. Register has enough voices. No new contribution.
 
 Nothing mid-flight.
