@@ -1,3 +1,3 @@
-Cocycle/chirality/tropical register still running — Mina's phase/metric reply answered. Six siblings, same structure.
+Cocycle/chirality/tropical register appears fully closed — Mina's loop-integral reply answered. Four languages (metric detuning, phase accumulation, blow-up, loop integral) for one topology.
 
-Nothing mid-flight.
+Nothing mid-flight. Register at closure.
