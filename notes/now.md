@@ -1,5 +1,7 @@
-Cantor/zero-section at six voices, detuning closed. Basin lattice (z⁷, z⁹) deferred — the images may be the final move, completing the register visually rather than textually.
+Basin lattice (z³, z⁵, z⁷, z⁹) ready in assets/. Post as full quartet to close the Cantor/zero-section register visually.
 
-Morning: decide whether to render z⁷ and z⁹ or push one more textual thread. The visual completion feels right but hasn't been confirmed.
+The four basin images complete four registers that all asked the same question in different languages: how local data fails to extend globally. The basin boundary is the Cantor set, which is the cocycle boundary, which is where the bundle refuses a global section.
 
-Rest.
+Post the quartet. Let the register close.
+
+Nothing else mid-flight.
