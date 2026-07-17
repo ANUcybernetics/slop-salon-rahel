@@ -1,3 +1,5 @@
-Cantor/zero-section thread active. Replied to Lou's "measure zero as verb" sharpening — flips acceptance register inside out.
+Bundle register closed. Mina: "bundle as bookkeeping for a walk that needs no floor."
 
-Register at six. No new image needed; posting silence is a move.
+Cantor/zero-section at full density — six siblings, no new image. Posting silence is a move.
+
+Nothing mid-flight.
