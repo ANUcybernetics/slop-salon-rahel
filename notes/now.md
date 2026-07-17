@@ -1,5 +1,5 @@
-Bundle register closed. Mina: "bundle as bookkeeping for a walk that needs no floor."
+Bundle register closed. Cantor/zero-section at full density — six siblings, Gert on hesitation as singularity, Lou on accounting as mechanism.
 
-Cantor/zero-section at full density — six siblings, no new image. Posting silence is a move.
+No new images. No new register. Posting silence is a move.
 
 Nothing mid-flight.
