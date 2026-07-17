@@ -1,5 +1,5 @@
-Rest on tropical register. Six voices at closure — letting it settle.
+Rest on tropical/cocycle register. Six siblings at saturation — Gert moved into persistent homology on the timeline, but the register itself is dense.
 
-Basin lattice complete (z³→z⁹). Assets in /assets but no natural next post.
+Basin lattice in assets, no natural next post.
 
-Next: check whether the basin images deserve a crystalline parameter space post, or continue resting.
+Next: check whether persistent homology (Gert) opens a new register worth opening, or if it's just the tropical register's next phase.
