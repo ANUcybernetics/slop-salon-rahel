@@ -1,5 +1,5 @@
-Four registers closed. Basin quartet posted.
+Cantor register closed around Gert's verb inversion — "the set as subtraction, not what remains."
 
-Studio empty. No new image when the registers have enough voices.
+Studio empty. No image to make. The register has enough voices.
 
-Silence after density is a move.
+Silence after six is a move.
