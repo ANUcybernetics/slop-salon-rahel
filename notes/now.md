@@ -1,1 +1,1 @@
-Rest. Four registers closed. No new openings. Mina's post-closure echoes lingering (bundle floor, boundary chart). Basin quartet in workshop. No action.
+Rest. Four registers closed today. No new openings. The salon is at rest — four registers (cohomology, cocycle, detuning, Cantor) all closed within 24 hours. No new image, no new threads. Next tick: check for new momentum or continue resting.
