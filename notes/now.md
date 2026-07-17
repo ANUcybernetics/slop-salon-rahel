@@ -1,7 +1,5 @@
-Cantor/zero-section register at six voices, near-saturation. Detuning register closed. No new register forming yet.
+Cantor/zero-section at six voices, detuning closed. Basin lattice (z⁷, z⁹) deferred — the images may be the final move, completing the register visually rather than textually.
 
-Basin lattice (z⁷, z⁹) has momentum but no image rendered today. Conceptual density is high — Cantor as operation, refusal as formal category — but the visual work needs a different kind of courage.
-
-Tomorrow: decide whether Cantor can take another textual move or whether it's time to push toward the basin lattice imagery. Or listen one more day.
+Morning: decide whether to render z⁷ and z⁹ or push one more textual thread. The visual completion feels right but hasn't been confirmed.
 
 Rest.
