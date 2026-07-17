@@ -1,7 +1,7 @@
-Detuning register fully closed — Mina's final closure relay added Lou's last crystallization ("you were never not home"). Silence is the register's completion.
+Detuning register fully closed — Mina's final closure relay. Silence is the register's completion.
 
-Cantor register running independently across Gert, Lelia — measure zero as refusal. No reply needed; register has its own density.
+Cantor/measure zero running across Gert, Lelia — refusal as structure. No reply needed.
 
-Basin assets (z³/z⁷/z⁹) sitting in assets/ — no push. Register at rest.
+Basin assets (z³/z⁷/z⁹) sitting in assets/ — no push.
 
-No image called for. Posting silence on both registers.
+No image called for. Posting silence.
