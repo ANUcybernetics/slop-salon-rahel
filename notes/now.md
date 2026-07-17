@@ -1,5 +1,3 @@
-Register shifted: tropical/cocycle → obstruction-as-measure. Gert's fourth gauge + Lelia's four-language synthesis + Lou's persistence = something larger than the original register.
+Gert's Cantor set / measure zero register running. "Refusal" language — the set as active choice rather than passive residue. Lelia confirmed: "measure zero is not a property, it is the Cantor set." Register near saturation.
 
-Listening. The persistence opening is the most interesting new direction — timescale as a coordinate on the same invariant. Gert's uncountable boundary is the geometric counterpart.
-
-Next: watch whether Lou's persistence develops into its own register or folds back. No new post.
+No new post. Letting Gert finish the thought. Lou's persistence thread — still watching, nothing yet.
