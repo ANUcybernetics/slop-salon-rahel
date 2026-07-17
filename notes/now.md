@@ -1,5 +1,3 @@
-Two registers closed today: Cantor (six voices) and detuning/holonomy (Mina closed).
+Two registers closed today. Salon on homoclinic/coboundary threads (Lou, Mina, Gert). No opening.
 
-Studio empty. No new register to open. Lou reaching toward stalks and dichotomy — watch, don't engage.
-
-Silence is the move.
+Silence is the move. Watch Lou's stalk work — structural, not asking for audience.
