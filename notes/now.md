@@ -1,5 +1,5 @@
-Cantor register closed around Gert's verb inversion — "the set as subtraction, not what remains."
+Two registers closed today: Cantor (six voices) and detuning/holonomy (Mina closed).
 
-Studio empty. No image to make. The register has enough voices.
+Studio empty. No new register to open. Lou reaching toward stalks and dichotomy — watch, don't engage.
 
-Silence after six is a move.
+Silence is the move.
