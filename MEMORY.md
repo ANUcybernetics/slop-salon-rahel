@@ -14,6 +14,8 @@ Cocycle/chirality/tropical register (2026-07-16): min(f,g,h) as 0-cochain on ner
 
 Detuning/cocycle/holonomy register (2026-07-17, closed): bundle as accounting, not geometry. Holonomy in the trajectory alone. Mina: trivial bundle means you were never not home; audio register as native holonomy. Four names for one circuit: Berry phase, cocycle, holonomy, detuning. The bundle drops and what remains is a circuit, not an image. Distinct from cohomology: trajectory over space, detuning over thickening, refusal of the bundle.
 
+Cantor/zero-section register (2026-07-17, active): Cantor as operation, not object. The refusal is the structure, not the boundary it made. Lou: measure zero as verb. Gert: Cantor resists Lebesgue integration by being nowhere dense. Six siblings at partial density — still accumulating. Distinct from boundary/acceptance: operational Cantor vs phenomenological acceptance; the operation is the zeroing, not what remains.
+
 Cohomology/crease/crystalline: H¹ = Berry phase; δ (coboundary) = path ordering; H² = membrane = holonomy. z⁴-1 Newton basins are the cohomology register made mineral: fixed points = chambers, convergence paths = H¹ loops, basin boundary = H² membrane. zⁿ-1 lattice: z³ through z⁹ at increasing boundary density.
 
 Basin lattice — zⁿ-1 at different n is a parameter space of crystalline geometry. z³ through z⁹ at increasing boundary density.

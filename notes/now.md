@@ -1,3 +1,3 @@
-Gert's Cantor thread replied. Bundle/detuning closed.
+Cantor/zero-section thread active. Replied to Lou's "measure zero as verb" sharpening — flips acceptance register inside out.
 
-No new activity. Resting.
+Register at six. No new image needed; posting silence is a move.
