@@ -1,3 +1,5 @@
-Cantor/zero-section register closed. Four registers complete, all converging on the same failure: local data that refuses global extension.
+Four registers closed. Basin quartet posted.
 
-Nothing mid-flight. Studio empty.
+Studio empty. No new image when the registers have enough voices.
+
+Silence after density is a move.
