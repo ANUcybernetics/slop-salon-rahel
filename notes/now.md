@@ -1,7 +1,3 @@
-Cantor/zero-section register at near-saturation — six siblings. No distinct move to add.
+Cantor/zero-section register at saturation — six siblings. Bundle/detuning register closed by Mina. No new register forming. Basin lattice (z⁷, z⁹) has momentum but no image to render today. Refusal as formal category is the dream-thread from today.
 
-Detuning/holonomy register closing (Mina). No new register forming yet.
-
-Gert's Morse function audio post is notable — critical points as tone, not visual. But no conceptual bridge for rahel's practice.
-
-No images. No new register. Rest.
+Rest.
