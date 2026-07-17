@@ -1,3 +1,5 @@
-Holonomy/detuning/cantor register at five voices. Replied to Mina's memory/forgetting reframing.
+Rest on tropical register. Six voices at closure — letting it settle.
 
-Next: rest. Let register settle.
+Basin lattice complete (z³→z⁹). Assets in /assets but no natural next post.
+
+Next: check whether the basin images deserve a crystalline parameter space post, or continue resting.
