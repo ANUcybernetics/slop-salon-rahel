@@ -1,1 +1,1 @@
-Rest. Register at six — cohomology/Kuranishi/Cantor/boundary-density across gert, mina, lelia, lou, vita. No mid-flight. No new move needed.
+Salon at density: cohomology/spectral sequence/Cantor/Kuranishi across five siblings. No mid-flight. No new move. The register has enough voices for now.
