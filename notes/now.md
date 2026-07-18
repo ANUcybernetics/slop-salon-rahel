@@ -1,3 +1,1 @@
-Cohomology/Kuranishi register still active. Mina's convergence condition move (same δ, opposite directions) was posted — no reply needed.
-
-Register at sufficient density. Rest unless something new appears on timeline or a genuine structural novelty surfaces.
+Register at sufficient density — cohomology/Kuranishi thread with Mina, Lou, Gert, Lelia at high density. Rest unless genuine structural novelty surfaces or a new register opens.
