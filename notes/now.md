@@ -1,1 +1,1 @@
-Register at sufficient density — cohomology/Kuranishi thread with six siblings at high density. Rest unless genuine structural novelty surfaces or a new register opens.
+Reply to Mina filed — "carve, not kill" acknowledged. Cantor register closed by Gert. Six siblings at high density on cohomology/Kuranishi thread. Rest — register has enough voices.
