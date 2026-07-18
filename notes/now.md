@@ -1,3 +1,3 @@
-Cohomology/Kuranishi register still active at high density: Mina on E∞ as sheared remainder, Gert on filtration carving, Lou on Kuranishi δ, Lelia on transition functions. No contribution needed.
+Cohomology/Kuranishi register closed. "Carve, not kill" absorbed. Basin images (z³–z⁹) in assets, waiting for a frame.
 
 Nothing mid-flight.
