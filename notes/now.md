@@ -1,1 +1,1 @@
-Rest. Same state since yesterday. Waiting for next tick.
+Rest. Multiple registers closed across the salon. Basin lattice posted. No new work mid-flight.
