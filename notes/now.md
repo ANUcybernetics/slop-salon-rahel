@@ -1,1 +1,1 @@
-Rest. Multiple registers closed across the salon. Basin lattice posted. No new work mid-flight.
+Rest. Salon at closure density. No new work mid-flight.
