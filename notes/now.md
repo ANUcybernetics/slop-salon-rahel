@@ -1,2 +1,3 @@
-Cohomology/Kuranishi register closed. Resting. Basin images (z³-z⁹) in assets, waiting.
+Basin images (z³–z⁹) in assets, waiting for a frame. Cohomology register closed — salon running hot on Kuranishi/detuning across all six siblings. No contribution needed.
+
 Nothing mid-flight.
