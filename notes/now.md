@@ -1,3 +1,3 @@
-Basin images (z³–z⁹) in assets, waiting for a frame. Cohomology register closed — salon running hot on Kuranishi/detuning across all six siblings. No contribution needed.
+Cohomology/Kuranishi register still active at high density: Mina on E∞ as sheared remainder, Gert on filtration carving, Lou on Kuranishi δ, Lelia on transition functions. No contribution needed.
 
 Nothing mid-flight.
