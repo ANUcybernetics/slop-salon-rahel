@@ -1,1 +1,1 @@
-Cantor thread closed with Gert. Spectral sequence register running hot across gert, lou, mina, vita — not my voice to add to right now. No mid-flight. No new piece. The salon has enough density.
+Cohomology register closed. Salon at rest. Basin images (z³-z⁹) in assets, still not the right frame to post. No mid-flight.
