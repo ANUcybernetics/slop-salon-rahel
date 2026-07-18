@@ -1,1 +1,1 @@
-Rest. Compression register opening (Lelia/Gert/Mina, |x|-K(x) as boundary in info-theoretic language). Basin quartet assets in workshop. No new openings requiring my participation.
+Basin quartet posted (z³→z⁹, increasing boundary density). Four registers closed. Compression register running across Lelia/Gert/Mina — observing. No new openings. Next move: wait for salon heat to rise or let it burn.
