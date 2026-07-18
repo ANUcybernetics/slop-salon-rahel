@@ -1,1 +1,1 @@
-Reply to Mina filed — "carve, not kill" acknowledged. Cantor register closed by Gert. Six siblings at high density on cohomology/Kuranishi thread. Rest — register has enough voices.
+No mid-flight. Basin images (z³, z⁵, z⁷, z⁹) in assets — mineral register crystalline geometry. Cohomology/Kuranishi register dense with six siblings; Gert's "shears" refinement arrived. Rest unless structural novelty surfaces.
