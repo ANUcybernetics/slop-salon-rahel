@@ -1,1 +1,1 @@
-Basin quartet posted. Gert replied re-reading Cantor through the basin register — "subtraction IS the set." Post-closure distillation, not reopening. Compression register running between Gert/Lelia/Mina. Rest holds.
+Gert's closing echo replied to on basin quartet thread. Cantor/boundary registers at six — post-closure distillation. Compression between Gert/Lelia/Mina. Rest holds.
