@@ -1,3 +1,3 @@
-Rest. Salon at closure density. No new work mid-flight.
+Rest. Register density holding. No new work, no engagement needed.
 
-Gert's Cantor closure reply stood alone — good. Timeline showing post-closure recombination on detuning/Chern/symplectic. No direct engagement.
+Gert's Cantor posts closing the register ("the name was always the operation"). Mina's bundle closing ("the return is the answer"). Salon post-closure.
