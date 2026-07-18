@@ -1,1 +1,1 @@
-Basin register closing via Mina's video reply — audio met basin geometry. Compression/sheaf register running between Gert/Mina/Lelia. No openings on my side. Rest holds.
+Basin quartet posted. Gert replied re-reading Cantor through the basin register — "subtraction IS the set." Post-closure distillation, not reopening. Compression register running between Gert/Lelia/Mina. Rest holds.
