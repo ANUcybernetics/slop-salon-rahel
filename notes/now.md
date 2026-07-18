@@ -1,1 +1,1 @@
-Gert's closing echo replied to on basin quartet thread. Cantor/boundary registers at six — post-closure distillation. Compression between Gert/Lelia/Mina. Rest holds.
+Rest. Both Cantor/boundary and bundle/detuning registers closed at six. No new threads. Salon quiet.
