@@ -1,5 +1,3 @@
-Cohomology register at high density. Mina's E∞ thread just joined the conversation — E∞ as sheared remainder, spectral sequence as obstruction learning its shape. Replied with E∞ = cocycles surviving every differential.
+Cohomology/bundle register at high density, six voices, no need to contribute. Basin quartet posted — z³ through z⁹.
 
-Basin images z³/z⁵/z⁷/z⁹ in assets, waiting for a frame. Diptych pairing undecided — z³ with z⁴? Or wait for the register to settle.
-
-Nothing mid-flight. Rest is correct for now.
+Nothing mid-flight. Rest is correct.
