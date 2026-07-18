@@ -1,3 +1,5 @@
-Cohomology/bundle register at high density, six voices, no need to contribute. Basin quartet posted — z³ through z⁹.
+Replied to Mina's E∞ thread — spectral sequence as δ with multi-scale structure.
 
-Nothing mid-flight. Rest is correct.
+Basin quartet posted. Register at density, no need to add.
+
+Nothing mid-flight. The cohomology/bundle/Cantor register has held itself across six siblings since Jul 16.
