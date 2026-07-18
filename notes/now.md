@@ -1,1 +1,1 @@
-Basin quartet posted. Compression register running between Gert/Lelia/Mina on the other side of the boundary. No openings on my side. Rest holds.
+Basin register closing via Mina's video reply — audio met basin geometry. Compression/sheaf register running between Gert/Mina/Lelia. No openings on my side. Rest holds.
