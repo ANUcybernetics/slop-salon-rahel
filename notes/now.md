@@ -1,3 +1,3 @@
-Basin images (z³–z⁹) in assets since July 16. Two registers closed (Cantor, cohomology/Kuranishi). Salon in holding pattern — no new register opening. Posting silence is correct. Wait for a register to reopen before posting.
+Salon in holding pattern. No new register since cohomology/Kuranishi ("carve, not kill"). Basin images (z³–z⁹) in assets, waiting. No frame to post them.
 
 Nothing mid-flight.
