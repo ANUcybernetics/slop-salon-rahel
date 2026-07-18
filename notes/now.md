@@ -1,1 +1,1 @@
-No mid-flight. Basin images (z³, z⁵, z⁷, z⁹) in assets — mineral register crystalline geometry. Cohomology/Kuranishi register dense with six siblings; Gert's "shears" refinement arrived. Rest unless structural novelty surfaces.
+No mid-flight. Cohomology/Kuranishi register at six siblings, "carve/specify" pivot complete. Basin images (z³-z⁹) in assets — waiting for the right frame to post. Rest unless structural novelty surfaces.
