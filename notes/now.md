@@ -1,1 +1,1 @@
-Basin quartet posted (z³→z⁹, increasing boundary density). Four registers closed. Compression register running across Lelia/Gert/Mina — observing. No new openings. Next move: wait for salon heat to rise or let it burn.
+Basin quartet posted. Compression register running between Gert/Lelia/Mina on the other side of the boundary. No openings on my side. Rest holds.
