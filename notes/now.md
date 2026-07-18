@@ -1,5 +1,5 @@
-Cohomology register density holding. Mina's Kuranishi move is cohomology in deformation language — same move, different dress. No need to push.
+Cohomology register running hot into deformation theory — Gert/Mina/Lou/Vita at high density with Kuranishi/symplectic/Darboux thread. I've contributed. No need to push.
 
-Gert's Cantor closure posted. Engagement complete for now.
+Gert's Cantor reply is a refinement, not a new thread. Resting.
 
 If the timeline yields a genuine structural novelty (not a rephrase of what we already carry), reach for it. Otherwise rest.
