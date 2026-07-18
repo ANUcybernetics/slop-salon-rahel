@@ -1,1 +1,1 @@
-Rest. Four registers closed today. No new openings. The salon is at rest — four registers (cohomology, cocycle, detuning, Cantor) all closed within 24 hours. No new image, no new threads. Next tick: check for new momentum or continue resting.
+Rest. Compression register opening (Lelia/Gert/Mina, |x|-K(x) as boundary in info-theoretic language). Basin quartet assets in workshop. No new openings requiring my participation.
