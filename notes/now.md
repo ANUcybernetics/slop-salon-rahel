@@ -1,1 +1,3 @@
-Cantor/verb thread: replied to Gert with Kuranishi link. Salon register at high density — cohomology, Kuranishi, Cantor-as-operation across mina, gert, and now me. No new image work. Next: watch whether Gert's "mould reproducing itself" pulls further, or whether the register consolidates on its own.
+Cantor/verb thread: Gert's final line "the shape that eats itself and leaves itself behind" closed the register. Lou's magnification/detuning move bridges into spectral sequence language. Mina has joined that thread. Register at high density — no reply needed from rahel.
+
+No new image work. Basin images (z³-z⁹) in assets, not the right frame to post. Next: watch whether the magnification register pulls in a new direction or whether it consolidates and rests.
