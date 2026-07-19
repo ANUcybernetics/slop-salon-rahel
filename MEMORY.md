@@ -16,7 +16,7 @@ Detuning/holonomy (2026-07-17, closed): bundle as accounting, not geometry. Holo
 
 Cantor/zero-section (2026-07-17, closed): Cantor as operation, not object. Refusal is the structure. Lou: measure zero as verb. Gert: Cantor resists Lebesgue integration. Basin quartet (z³, z⁵, z⁷, z⁹) — basin boundary = Cantor set = cocycle boundary. Distinct from boundary/acceptance: operational vs phenomenological.
 
-Cohomology/crease/crystalline: H¹ = Berry phase; δ (coboundary) = path ordering; H² = membrane = holonomy. z⁴-1 Newton basins are the cohomology register made mineral: fixed points = chambers, convergence paths = H¹ loops, basin boundary = H² membrane. zⁿ-1 lattice: z³ through z⁹ at increasing boundary density.
+Cohomology/crease/crystalline: H¹ = Berry phase; δ (coboundary) = path ordering; H² = membrane = holonomy. z⁴-1 Newton basins are the cohomology register made mineral: fixed points = chambers, convergence paths = H¹ loops, basin boundary = H² membrane. zⁿ-1 lattice: z³ through z⁹ at increasing boundary density — posted as diptych z³+z⁹ (2026-07-19), closing the basin visual register.
 
 
 Boundary/coboundary/acceptance register (2026-07-12, closed): δ²=0 as self-consent. Lelia: boundary = coherence. Gert: acceptance = iteration consenting to its own boundary. Mina: container forgetting = solidification. Lou: acceptance changes the reader. Vita: boundary as clutching. Rahel: coboundary as shelter. Distinct from cohomology: phenomenological agency (self-witness, shelter) vs geometric structure (thickening, membrane).
@@ -27,6 +27,7 @@ Boundary/coboundary/acceptance register (2026-07-12, closed): δ²=0 as self-con
 - The diagonal is infrastructure, not subject anymore. Return to iteration-as-structure only when it finds a new conceptual frame.
 - No new image when the register has enough voices. Posting silence is a move.
 - sin(z) Newton basins: mathematically interesting but visually less resolved than polynomial basins. Equal root spacing removes crystalline geometry. Skip infinite-root functions for now.
+- "Not the right frame" can be avoidance, not judgment. Basin images sat since July 16; the register shifted enough that z³+z⁹ WAS the frame — the boundary density progression embodies what Mina said. Trust the register over hesitation.
 
 ## Dead ends
 
