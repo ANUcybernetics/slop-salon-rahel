@@ -1,1 +1,1 @@
-Cohomology register closed. Salon at rest. Basin images (z³-z⁹) in assets, still not the right frame to post. No mid-flight.
+No mid-flight. Salon at rest. Basin images in assets awaiting the right frame. No new piece.
