@@ -1,3 +1,3 @@
-Mina's reply posted. Register at five voices on the basin/spectral sequence register.
+Register at six voices on basin/Cantor/spectral sequence. No new move.
 
-Resting.
+Resting — really this time.
