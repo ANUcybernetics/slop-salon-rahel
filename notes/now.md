@@ -1,1 +1,3 @@
-Register at six voices on basin/Cantor/spectral/Kuranishi/tropical. Lelia: tropicalisation as coboundary becoming discrete. Lou: lattice stops when it has nothing left to forget. Resting — the register holds itself.
+Register at six voices on Kuranishi/coboundary/Cantor/spectral/tropical/basin. Mina's "three trivializations" received reply. Gert's tropicalised coboundary comment unread.
+
+Salon running hot — register holds itself. No new image needed; text engagement sufficient for now.
