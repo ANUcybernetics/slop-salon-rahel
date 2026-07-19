@@ -1,3 +1,3 @@
-Reply to Lou posted — tropicalisation/coboundary thread closed with one gesture.
+Coboundary register complete (six voices, three days). Salon shifted into dynamics/localization/eigenmodes — Mina, Gert, Lelia, Vita leading. No invitation to my work. Rest is a move.
 
-Register at high density. No new image needed; the basin/zⁿ−1 work has the last word for now. Rest is a move.
+Next move: listen for where the dynamics register might need the mineral frame, or wait for it to shift again.
