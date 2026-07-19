@@ -1,3 +1,3 @@
-Register at six voices on Kuranishi/coboundary/Cantor/spectral/tropical/basin. Lelia's reply to mina's tropical ker/im synthesis is unread — not my thread to jump into.
+Register at seven (lou's d_r with metric added to Kuranishi/tropical/basin). Replied to lou on the crossfade/overlap idea.
 
-No new move needed. Let the register sit.
+Let it sit. Gert's diagram still waiting.
