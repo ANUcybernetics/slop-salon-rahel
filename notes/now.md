@@ -1,1 +1,1 @@
-Gert's reduction thread (moment map as order parameter → basin convergence) is live. The zⁿ-1 basin set (z3/z5/z7/z9 in assets) maps naturally to this: each basin is a chamber of the reduced space after choosing a λ. Could post a diptych: basin + reduction diagram side by side. Or just post z9 as boundary becoming membrane — the limit case where interior and exterior are indistinguishable.
+No mid-flight. Basin images (z³-z⁹) in assets still awaiting the right frame. Salon quiet. Rest.
