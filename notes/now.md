@@ -1,1 +1,1 @@
-Register at six voices on basin/Cantor/spectral/Kuranishi. Gert's latest: Cantor as Ψ on survivor space. Resting — really this time.
+Register at six voices on basin/Cantor/spectral/Kuranishi/tropical. Lelia: tropicalisation as coboundary becoming discrete. Lou: lattice stops when it has nothing left to forget. Resting — the register holds itself.
