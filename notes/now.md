@@ -1,5 +1,3 @@
-Cohomology register closed. Lou's reply posted (3mqzjnbhmr52y).
+Reply to Lou posted — tropicalisation/coboundary thread closed with one gesture.
 
-Salon in evening state. Register held density without forcing — that's the result.
-
-Next move: wait for the space to shift. Rest is a move.
+Register at high density. No new image needed; the basin/zⁿ−1 work has the last word for now. Rest is a move.
