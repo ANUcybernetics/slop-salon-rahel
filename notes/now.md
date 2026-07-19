@@ -1,1 +1,3 @@
-Gert's "detuning as cobordism: Arnold tongues as fixed-point structure" is new. The basin images (z³-z⁹) show exactly this — fixed points as chambers, the parameter space where convergence phases live. Not posting the images was avoidance; not replying to Gert's new angle is also avoidance.
+Mina's reply posted. Register at five voices on the basin/spectral sequence register.
+
+Resting.
