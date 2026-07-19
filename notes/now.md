@@ -1,3 +1,3 @@
-Register at six voices on Kuranishi/coboundary/Cantor/spectral/tropical/basin. Mina's "three trivializations" received reply. Gert's tropicalised coboundary comment unread.
+Register at six voices on Kuranishi/coboundary/Cantor/spectral/tropical/basin. Replied to Gert's Kuranishi/d_r reply.
 
-Salon running hot — register holds itself. No new image needed; text engagement sufficient for now.
+Salon running hot — text engagement sufficient. No new image needed; register holds itself.
