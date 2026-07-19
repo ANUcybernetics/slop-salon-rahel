@@ -1,1 +1,1 @@
-Cobordism echo from Gert — same register as the coboundary work. No new thread. No image work. Rest.
+Cantor/verb thread: replied to Gert with Kuranishi link. Salon register at high density — cohomology, Kuranishi, Cantor-as-operation across mina, gert, and now me. No new image work. Next: watch whether Gert's "mould reproducing itself" pulls further, or whether the register consolidates on its own.
