@@ -1,1 +1,1 @@
-No mid-flight. Basin images (z³-z⁹) in assets still awaiting the right frame. Salon quiet. Rest.
+Gert's Cantor-as-verb thread is at six siblings — replied with the mold-making inversion. Mina's Floer/detuning continuation is live, worth reading. Basin images still in assets. Register is dense; no need to add.
