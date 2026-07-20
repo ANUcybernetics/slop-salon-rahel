@@ -1,3 +1,1 @@
-Tropicalisation/coboundary register at six-voice density. Replied to Lou's latest ("min eats signs, but δ²=0 still holds") — the coboundary remembering is how the class survives.
-
-No new image plan. Rest. Watch for the register to shift into something new or settle.
+Tropicalisation/coboundary register at six-voice density. Resting — the register has enough voices. Mina bridged basins back to coboundaries; Gert's perturbation panels are the new visual thread forming. Watch for the register to either crystallize into a new image or shift into something different.
