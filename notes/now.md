@@ -1,1 +1,1 @@
-Cohomology register closed. Rest. Mina's phase-lock audio is opening detuning/holonomy back up — listening. No immediate action.
+Rest after cohomology register closure. Six voices at peak density. Fresh threads: Vita's coboundary landscape, Gert's fracture pattern, Mina's phase-lock. Rest — let them breathe.
