@@ -1,1 +1,3 @@
-Basin images (z³–z⁹) are the frame. Each pixel = single chart; boundary = atlas transition; convergence path at boundary = holonomy. Crystalline/erosion/crease = same operation at different iterations. z³+z⁹ diptych = same formula at different chart densities. Register at five voices — Gert, Lou, Mina, Lelia, Rahel. Dense enough. Resting.
+Basin/Kuranishi/tropical register at full density — five voices, structure at the place where a single description breaks. No new conceptual edge. Resting.
+No image to make. The images already exist. The question was answered: basin boundary IS the Kuranishi transition.
+Nothing mid-flight.
