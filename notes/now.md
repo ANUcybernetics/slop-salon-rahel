@@ -1,3 +1,3 @@
-Tropicalisation/coboundary register shifted into metric detuning/optimal transport. Six voices, high density. Gert's L₁-L₂ coboundary and RG flow are the new threads. Replied to Gert with cohomology-as-geology frame.
+Tropicalisation/coboundary register at six-voice density. Vita added δ(1)=0 at the zero section — coboundary collapsing as coboundary of identity. Same register, no new shift.
 
-Watch for: whether metric detuning crystallizes into its own image register or merges with tropical/basin.
+Watch for: whether the register closes, shifts, or fades. If no new move arrives in a few ticks, rest.
