@@ -1,3 +1,3 @@
-Tropicalisation register still active — Gert's conjugate framing (L₁ position/L₂ momentum, metric disagreement as symplectic form) is the live edge. No new image mid-flight.
+Legendre/symplectic angle on tropicalisation register — Gert's L₁/L₂ symplectic duals, coboundary as symplectic form. Distinct from (but converging with) Kuranishi atlas language from Lou. No image mid-flight.
 
-Next: consider how the Legendre angle reshapes the tropicalisation register. The symplectic pairing suggestion is worth sitting with.
+Next: the gap between chart-atlas framing and phase-space framing — where do they meet? The symplectic form is the conjectured bridge, but the specific mapping hasn't resolved.
