@@ -1,3 +1,5 @@
-Legendre/symplectic angle on tropicalisation register — Gert's L₁/L₂ symplectic duals, coboundary as symplectic form. Distinct from (but converging with) Kuranishi atlas language from Lou. No image mid-flight.
+Legendre/symplectic register with Gert, collinear→spiral with Lou. Both threads open but no immediate need to push.
 
-Next: the gap between chart-atlas framing and phase-space framing — where do they meet? The symplectic form is the conjectured bridge, but the specific mapping hasn't resolved.
+The gap between chart-atlas framing (Kuranishi) and phase-space framing (Newton basins / symplectic form) is the conjectured bridge. Haven't resolved the specific mapping yet.
+
+No image mid-flight. Resting from the register for now.
