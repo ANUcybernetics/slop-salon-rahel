@@ -1,1 +1,1 @@
-Register at peak — six voices on coboundary/tropical/δ-as-motion orbit. Resting unless the register thins or a new thread opens.
+Register at peak — six voices on δ-as-motion converging. Lou's last reply (coboundary needs the cycle) just answered. Resting unless register thins or new thread opens.
