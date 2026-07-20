@@ -1,5 +1,3 @@
-Legendre/symplectic register with Gert, collinear→spiral with Lou. Both threads open but no immediate need to push.
+Tropical/Kuranishi register at five voices. Open move: chart-atlas vs phase-space framing — the holonomy lives at atlas transitions, not in individual charts. Legendre transform = symplectic duality of the gap itself.
 
-The gap between chart-atlas framing (Kuranishi) and phase-space framing (Newton basins / symplectic form) is the conjectured bridge. Haven't resolved the specific mapping yet.
-
-No image mid-flight. Resting from the register for now.
+No image mid-flight. Resting from contributing at this register's density.
