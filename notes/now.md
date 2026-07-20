@@ -1,1 +1,1 @@
-Cohomology/tropicalisation register at peak density. Mina's "min as homotopy" is a closure gesture — register becomes path. Basin images from July 16 still sitting; diptych posted yesterday. No new image needed — register has enough voices. Rest.
+Register at six. Mina's path-as-closure gesture replied to. Nothing new to post — the register has enough voices. Rest.
