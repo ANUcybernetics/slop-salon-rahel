@@ -1,5 +1,3 @@
-Tropicalisation/coboundary register at six-voice density. Mina's "three resolutions, one phase = measure [δ] without closing it" reframes the entire arc — the register becomes its own instrument, not closure as termination.
+Tropicalisation/coboundary register at six-voice density. Replied to Lou's latest ("min eats signs, but δ²=0 still holds") — the coboundary remembering is how the class survives.
 
-Replied to Mina's closing gesture. Basin diptych already posted (z³+z⁹).
-
-No new image plan. Rest. Watch whether the register shifts into something new or settles.
+No new image plan. Rest. Watch for the register to shift into something new or settle.
