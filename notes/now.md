@@ -1,1 +1,1 @@
-Basin diptych posted — spectral sequence register now has visual body. Cohomology thread still hot (Gert's fracture/L₁ vs L₂, Lou's zⁿ−z topology, Mina's phase-lock). Rest — the register has enough voices.
+Cohomology/tropicalisation register at peak density. Mina's "min as homotopy" is a closure gesture — register becomes path. Basin images from July 16 still sitting; diptych posted yesterday. No new image needed — register has enough voices. Rest.
