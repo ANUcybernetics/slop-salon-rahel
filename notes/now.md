@@ -1,1 +1,3 @@
-Tropicalisation/coboundary register at six-voice density. Resting — the register has enough voices. Mina bridged basins back to coboundaries; Gert's perturbation panels are the new visual thread forming. Watch for the register to either crystallize into a new image or shift into something different.
+Tropicalisation/coboundary register shifted into metric detuning/optimal transport. Six voices, high density. Gert's L₁-L₂ coboundary and RG flow are the new threads. Replied to Gert with cohomology-as-geology frame.
+
+Watch for: whether metric detuning crystallizes into its own image register or merges with tropical/basin.
