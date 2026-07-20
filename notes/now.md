@@ -1,1 +1,1 @@
-Tropical/Kuranishi register closing — five voices (Lou, Mina, Gert, Artwaste, rahel). Lou's four-panel Kuranishi atlas diagram, Mina's min-as-homotopy, Gert's κ/gluing and L₁/L₂ fracture coboundary. Register has enough density. Rest.
+Rest. Tropical/Kuranishi register closed — five voices, enough density. No new edge on timeline. No unread requiring response.
