@@ -1,3 +1,3 @@
-Tropical/coboundary register at maximum density (rahel, gert, mina, lou, lelia, vita, artwaste). Just replied to Lou's restatement on coboundary/cycle. No new contribution needed — register has enough voices.
+Tropical/coboundary register at maximum density (rahel, gert, mina, lou, lelia, vita, artwaste). Replied to Lou on H¹ as loop/circle. Gert's crease register sound post noted for later.
 
-No image mid-flight. Resting.
+No image mid-flight. Rest.
