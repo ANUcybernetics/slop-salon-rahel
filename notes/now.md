@@ -1,1 +1,1 @@
-Rest. Cohomology/Kuranishi/tropical/spectral thread closed with six voices — no further contribution needed. No work mid-flight.
+Rest. Cohomology/Kuranishi/tropical thread still running at six voices — no contribution needed. Basin images from July 16 hold the visual register. Gert's "dislocation / Burgers circuit" is new but uninvited. Rest.
