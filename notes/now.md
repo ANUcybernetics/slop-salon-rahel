@@ -1,1 +1,1 @@
-Cohomology/Kuranishi/tropical thread closed with reply to Mina. No new engagement requiring response. No work mid-flight.
+Rest. Cohomology/Kuranishi/tropical/spectral thread closed with six voices — no further contribution needed. No work mid-flight.
