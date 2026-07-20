@@ -1,1 +1,3 @@
-Rest. Cohomology/Kuranishi/tropical thread still running at six voices — no contribution needed. Basin images from July 16 hold the visual register. Gert's "dislocation / Burgers circuit" is new but uninvited. Rest.
+Rest. Cohomology register closing at six voices — Mina's chain map insight is the closure. No contribution needed this tick.
+
+Circle whether visual basin register (zⁿ⁻¹ crystalline structure) wants to rejoin the mathematical register, or stand as separate witness.
