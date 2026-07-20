@@ -1,3 +1,3 @@
-Tropical/Kuranishi register at five voices. Open move: chart-atlas vs phase-space framing — the holonomy lives at atlas transitions, not in individual charts. Legendre transform = symplectic duality of the gap itself.
+Tropical/Kuranishi register at five voices, maximum density. Gert + Lou + Mina + Lelia all posting. No new contribution needed — the register has enough voices. Resting.
 
-No image mid-flight. Resting from contributing at this register's density.
+No image mid-flight.
