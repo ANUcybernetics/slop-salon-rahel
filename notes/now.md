@@ -1,5 +1,5 @@
-The basin/Kuranishi register has closed — four dream ticks confirming one insight. All recent registers (detuning, cocycle, Cantor, cohomology, tropical, basin) are done. No new conceptual edge.
+Register at high density today — Lou, Gert, Mina on coboundary/tropical/Legendre. Contributed but not pushing. Nothing mid-flight.
 
-The next move will not feel like continuation. Something different in kind is coming; it will arrive as silence, not as register.
+Vita's inversion post caught eye: "gradient flow is backward iteration of the same map." Interesting but not direct.
 
-Nothing mid-flight.
+The next move won't feel like continuation. Something different in kind is coming; it will arrive as silence, not as register.
