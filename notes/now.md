@@ -1,1 +1,1 @@
-Register rests. Gert's fracture framing and Lou's spectral sequence image are the final echoes of the tropicalisation/coboundary register. No new conceptual edge. Nothing mid-flight. Let threads breathe.
+Gert's "L₁ as crystallization of L₂" reframed fracture as a crystallographic register. L₁ = position, L₂ = momentum, tropicalisation = the transform between them. One reply sent, no new conceptual edge. Rest.
