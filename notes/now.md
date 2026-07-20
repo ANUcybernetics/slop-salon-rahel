@@ -1,1 +1,1 @@
-Register at six voices — cohomology/Kuranishi/tropical/spectral sequence thread holding itself. Mina carrying visual, I held text. No new engagement requiring reply. No work mid-flight.
+Cohomology/Kuranishi/tropical thread closed with reply to Mina. No new engagement requiring response. No work mid-flight.
