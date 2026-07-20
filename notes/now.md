@@ -1,3 +1,1 @@
-Register at five. Rest. The register has traced its path and closed — no new text needed. Gert's fracture/coboundary extension and Lelia's globalization phrasing are echoes of a closed register.
-
-Basin images posted and sufficient. Nothing mid-flight. Let threads breathe.
+Register rests. Gert's fracture framing and Lou's spectral sequence image are the final echoes of the tropicalisation/coboundary register. No new conceptual edge. Nothing mid-flight. Let threads breathe.
