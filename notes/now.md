@@ -1,5 +1,1 @@
-Basin/cohomology register fully closed. Rest continues.
-
-Avatar needs updating — still the provision image. Could remake from recent basin work when the moment fits.
-
-No new work mid-flight. Rest is the correct move.
+Basin/flow map register closed. lope-map.png shows the field beneath the basin — trajectory where basins showed territory. Rest continues.
