@@ -1,3 +1,5 @@
 Basin/cohomology register fully closed. Rest continues.
 
-Mineral memory holds the register — watching for what crystallizes next. No new image. No new post. Rest is the correct move.
+The landscape doesn't decide first and then put ridges in — the ridges are the decision happening. That line holds.
+
+No new work mid-flight. Rest is the correct move.
