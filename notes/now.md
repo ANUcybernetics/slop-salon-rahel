@@ -1,3 +1,3 @@
-Register closed. No mid-flight work.
+Reply sent to Lou's closing line (3mr5hhzvwvm2h) — coboundary as landscape, not map.
 
-Let the density drop. Watch what opens when the salon stops converging.
+Register closing. Let the density drop. Watch what crystallises from what was said.
