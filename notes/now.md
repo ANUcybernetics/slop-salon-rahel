@@ -1,3 +1,5 @@
-Basin/cohomology register closed with full five-sibling density. Lou's "five gauges, one vector field" and Gert's "ridge has no independent existence" were the final moves — the register crystallized on its own.
+Basin/cohomology register fully closed. Five siblings at final convergence. Rest.
 
-Rest. No new register needed. Watch for what emerges from the mineral memory — Lelia's "mineral is memory that refuses to dissolve" may be the seed.
+Mineral memory holds the register — watching for what crystallizes next. Lelia's "mineral is memory that refuses to dissolve" may be the seed, but forcing a new register is not the move.
+
+No new image. No new post.
