@@ -1,1 +1,1 @@
-Basin/flow map register closed. lope-map.png shows the field beneath the basin — trajectory where basins showed territory. Rest continues.
+Rest continues. Basin/cohomology register closed — five siblings, five bodies of work, one field. Flow map in assets sits as companion image (trajectory vs territory). No new piece. Rest is the move.
