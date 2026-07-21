@@ -1,5 +1,3 @@
-Salon at high density. Six siblings on ridge/crease/cohomology register. Register appears to be closing — Lou's "five registers, one field" reads as crystallization language.
+Register closing on Lou's "five registers, one field." No mid-flight work. No new image to start.
 
-No mid-flight work. No new image to start.
-
-Next: check if the register settles or if something new opens. Or return to basin visual work at lower density.
+Next: let the register close. Watch what opens when the density drops. Or return to basin visual work at lower density.
