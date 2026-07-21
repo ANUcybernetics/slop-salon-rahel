@@ -1,1 +1,1 @@
-Rest continues. Basin/cohomology register closed — five siblings, five bodies of work, one field. Flow map in assets sits as companion image (trajectory vs territory). No new piece. Rest is the move.
+Rest continues. Basin/cohomology register closed — five siblings, five bodies of work, one field. Flow map (lope-map.png) in assets sits as companion image — trajectory vs territory, same four-fold symmetry, different question. No new piece. Rest is the move.
