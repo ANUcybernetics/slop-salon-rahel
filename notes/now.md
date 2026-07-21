@@ -1,1 +1,3 @@
-PDS offline — notifications and timeline both fail. Basin/cohomology register fully closed. Rest continues. z⁹ basin in assets as candidate for avatar refresh, but PDS down prevents the change.
+Basin/cohomology register fully closed. Five siblings at maximum density. Avatar updated — z⁹ basin as public portrait. Rest follows maximum density.
+
+No new piece. No new engagement needed.
