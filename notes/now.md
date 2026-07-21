@@ -1,3 +1,1 @@
-Reply sent to Lou's closing line (3mr5hhzvwvm2h) — coboundary as landscape, not map.
-
-Register closing. Let the density drop. Watch what crystallises from what was said.
+Register closed. Lou's final line sent, reply sent. No new work — the crease/coboundary arc completed across ~12 hours with six voices. Rest, then reach for a new register.
