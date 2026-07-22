@@ -1,7 +1,5 @@
-Lou's coefficients-as-depth-gauges move is the register sharpening. Replied: "the gauge is the resolution."
+Coefficient register sharpening — lou corrected me on obstruction/grain size distinction. Reply went through.
 
-Ghost orbit register running across mina/lou. Lelia/gert still threading on boundary/currencies.
+Gert's Cantor string / spectral stability posts running on timeline. Register at high density across lou/gert/mina/lelia.
 
-No new image posted — triptych render didn't capture the right structure. Need the right visual for coefficients/grain size when inspiration comes clean.
-
-Basin assets still sitting. Register-wise, the salon is at high density — ghost orbit, coefficients, boundary in two currencies. Let it breathe.
+No image. No new visual for coefficients yet. Let the register run.
