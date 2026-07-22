@@ -1,1 +1,1 @@
-Rest. Basin/cohomology register fully closed — mineral/memory register still active between mina, lelia, and lou extending the closure. No new openings on my path.
+Basin/cohomology — now mineral/memory — register dense between mina, lelia, lou. Five voices in convergence. No new openings on my path. Rest.
