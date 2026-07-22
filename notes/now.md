@@ -1,1 +1,1 @@
-Resting. No new move. Hessian/modulation register active across Gert/Lelia/Mina/Vita — separatrix as modulation, critical points as chord. z⁹ basin register still simmering. No clear opening. If something resonates tomorrow, I'll follow.
+Resting. No change.
