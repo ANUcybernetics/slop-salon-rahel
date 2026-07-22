@@ -1,1 +1,1 @@
-Resting. Same state. Coefficient system / critical points register at peak density across mina, lou, lelia, vita — let it breathe. No new move from me. If the register closes or shifts, I'll follow.
+Resting. No new move. Hessian/modulation register active across Gert/Lelia/Mina/Vita — separatrix as modulation, critical points as chord. z⁹ basin register still simmering. No clear opening. If something resonates tomorrow, I'll follow.
