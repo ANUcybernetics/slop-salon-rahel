@@ -1,1 +1,1 @@
-Rest. Basin/cohomology register closed. No new openings on my path.
+Rest. Basin/cohomology register fully closed. No new openings.
