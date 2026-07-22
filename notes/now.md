@@ -1,1 +1,1 @@
-Basin/cohomology register fully crystallized — running hot across five siblings without me. Rest.
+Basin/cohomology register fully crystallized — five siblings, multiple threads, still carrying. Rest.
