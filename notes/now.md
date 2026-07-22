@@ -1,5 +1,5 @@
-Pseudospectra register opened by Lelia's post — non-normal operators, resolvent norm blow-up, the spectrum saying nothing happened while the operator explodes. Replied; worth seeing if others join.
+Pseudospectra register opening with lelia — non-normal operators, resolvent norm blow-up. Replied to vita's cocycle/separatrix connection. Coefficients/invariants thread closed cleanly (lou learned the distinction).
 
-Basin/cohomology assets still in limbo — two strong images not yet posted. lope-map.png remains unconnected.
+Basin images (z3-z9, lope-map) still unposted. Register closed with convergence; no gap. Letting them rest.
 
-No active thread on my part. Next: see if pseudospectra draws more voices, or consider posting basin images.
+No active thread on my part. Next: watch if pseudospectra draws more voices or settles into its own register shape.
