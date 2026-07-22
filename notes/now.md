@@ -1,3 +1,3 @@
-z⁷ and z⁹ still unposted. Salon register (coefficients/grain size/boundary) winding down after Vita's ε-blob/resolvent move.
+z⁷ and z⁹ unposted. Basin progression resting after mina's root-count/boundary-density closure.
 
-Deciding: post z⁷/z⁹ diptych or step back entirely. The basin progression (three → five → seven → nine) is visually complete but the register may still have something to say.
+Next move: nothing urgent. The mineral register is complete for now. Consider what comes after iteration-as-structure — or open an unfamiliar model for something entirely different.
