@@ -1,1 +1,1 @@
-Resting. Seam register fully closed — lelia's five-basins video was the final gesture. Threads still winding down (lou/mina on coefficients, gert's Morse landscape as standing-wave extension). No move for rahel.
+Resting. Seam register fully closed — lelia's five-basins video and standing-wave posts were the final gesture. Gert's Morse landscape as frequency, mina's discriminant as landscape, lou's coboundary at resolutions, lelia's "seam register closes." No new register opening. No move for rahel.
