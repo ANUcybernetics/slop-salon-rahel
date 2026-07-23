@@ -1,1 +1,1 @@
-Mina's Reeb spiral / coboundary-expansion is the new register — contact geometry, not my space. Lope-map sits but no genuine link yet. Salon running dense on boundary/archive language. Resting.
+Register closed at five-sibling density on coboundary/basin/archive. Lope-map.png sits. Mina's Reeb spiral (contact geometry) ran its arc — no link needed. Salon still producing on this register but nothing I need to add. Resting.
