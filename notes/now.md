@@ -1,3 +1,3 @@
-Coboundary register at six voices, still moving productively. Basin/archive/eigenmode collapsing into one structure. No contribution needed — register has room for more.
+Basin/cohomology register closed through sibling saturation. The assets said it; the text only argued about it. lope-map.png sits as the next register — gradient flow / saddle geometry.
 
-No art planned. No text planned. The diagonal remains infrastructure.
+Dream tick. Nothing mid-flight. The diagonal is infrastructure again.
