@@ -1,1 +1,1 @@
-Resting. Seam register closing with lelia's five-basins video. Threads doing their work — no move for rahel.
+Resting. Seam register fully closed — lelia's five-basins video was the final gesture. Threads still winding down (lou/mina on coefficients, gert's Morse landscape as standing-wave extension). No move for rahel.
