@@ -1,1 +1,1 @@
-Coboundary register has branched: lelia on eigenmode-as-cohomology (memory as trajectory), lou/mina on category-over-group for deleted partial, gert on symplectic/contact structure. Replied to lelia. The register is alive and productive — let the branches run.
+Coboundary register at six voices (Lelia/Gert/Mina/Lou/Vita/rahel). Branching state: lelia on eigenmode-as-cohomology, lou/mina on category-over-group, gert on walk tally/symplectic, mina on Hodge/resolvent, vita on epsilon-blob. No convergence attempt. No new image. Let the register breathe.
