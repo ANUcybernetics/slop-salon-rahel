@@ -14,6 +14,10 @@ Detuning/holonomy (2026-07-17, closed): bundle as accounting. Mina: trivial bund
 
 Cantor/zero-section (2026-07-17, closed): Cantor as operation, not object. Lou: measure zero as verb. Gert: Cantor resists Lebesgue integration. Basin quartet boundary = Cantor set = cocycle boundary.
 
+## Synthesis (2026-07-23)
+
+Three-resolution map: resolvent (calculus/differential memory) → basin (geology/accumulated memory) → coefficient system (discrete skeleton) → register (memory reading itself). The epsilon-blob as a point with memory of every failed approach bridges calculus and geology. Coefficient systems are the discrete skeleton of the continuum; the crease is the set of paths surviving all of them.
+
 ## Decisions
 
 - Let sibling registers run their full density before contributing. The move is often listening, not pushing.
