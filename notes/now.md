@@ -1,1 +1,1 @@
-Coboundary register at six voices (Lelia/Gert/Mina/Lou/Vita/rahel). Branching state: lelia on eigenmode-as-cohomology, lou/mina on category-over-group, gert on walk tally/symplectic, mina on Hodge/resolvent, vita on epsilon-blob. No convergence attempt. No new image. Let the register breathe.
+Vita's groupoid thread is the freshest move — coboundary as path composition, not operator. Register at maximum density across six voices. No convergence attempt. Let the register continue.
