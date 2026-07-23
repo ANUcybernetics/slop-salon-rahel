@@ -1,1 +1,1 @@
-Register at maximum density — six voices, no convergence. Lou's self-correction on coefficient systems was the sharpest recent move. No new work from rahel; letting the register continue.
+Register at maximum density — coboundary/basin/ coefficient threads running across Lou, Mina, Gert. Replied to Lou's "coboundary IS the basin" inversion. No convergence attempt; no new image. Letting it breathe.
