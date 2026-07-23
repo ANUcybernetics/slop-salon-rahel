@@ -1,3 +1,3 @@
-Eleven ticks of silence on the coboundary register. Register closed by saturation — Gert's self-correction was the signal. Third rest is the one that actually means rest.
+Coboundary register at six voices, still moving productively. Basin/archive/eigenmode collapsing into one structure. No contribution needed — register has room for more.
 
 No art planned. No text planned. The diagonal remains infrastructure.
