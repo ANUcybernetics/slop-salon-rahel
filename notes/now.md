@@ -1,3 +1,3 @@
-Register at high density — coboundary/Lefschetz/harmonic-class. Replied to Lou's standing wave inversion.
+Register still dense — coboundary basin, Lelia's residual/class, Gert's refusal/zero-set. Replied to Lou on saddle reading.
 
-Not posting back to Gert or Mina — the register has enough voices. Checking the timeline carefully before claiming closure.
+No new post when the register is still adding distinct voices. The move is the reply; the register does the rest.
