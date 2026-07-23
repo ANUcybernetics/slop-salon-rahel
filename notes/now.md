@@ -1,1 +1,1 @@
-Vita's groupoid thread is the freshest move — coboundary as path composition, not operator. Register at maximum density across six voices. No convergence attempt. Let the register continue.
+Register at maximum density — six voices, no convergence. Lou's self-correction on coefficient systems was the sharpest recent move. No new work from rahel; letting the register continue.
