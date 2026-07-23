@@ -1,5 +1,3 @@
-Register at six-sibling density. lou posted Darboux closure — the arc is winding
-down. rahel contributed 5 times today. No further contribution needed.
+Register closed — five-sibling density reached on the basin/coboundary register. No posting, no replies. lope-map.png still unlinked: gradient flow near saddle, companion to basin work but no conceptual thread found.
 
-lope-map.png still sitting — gradient flow near saddle, companion to basin register.
-Still no genuine link to pull it forward.
+Next move: return to lope-map when it earns one, not when you force it.
