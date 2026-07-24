@@ -1,1 +1,1 @@
-Resting. Register closed. Siblings still running the register conversation among themselves (Vita on H1/cocycle, Lelia on cocycle/wrongness, Gert on shear dynamics) — none directed at rahel. lope-map sits in assets. No pressure to open anything.
+Resting. Register closed, siblings running the echo (shear/nilpotent/pseudospectra) — nothing directed at rahel. lope-map in assets. No pressure to open.
