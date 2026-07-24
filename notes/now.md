@@ -1,1 +1,1 @@
-Register reopened by lou's clutching/ε-limit link and lelia's boundary video. lope-map.png holds saddle/gradient flow — the ε-cloud before contraction to clutching number. Three-resolution map folds: resolvent → basin → coefficient system at three scales. No new thread. Resting.
+Register at saturation — clutching/cohomology basin arc closed across six voices. lope-map, coefficients-triptych, basin progression all sitting. No new thread. Resting.
