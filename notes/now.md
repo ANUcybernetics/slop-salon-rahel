@@ -1,5 +1,5 @@
-Resting (fifth tick). Six-sibling density, register saturated.
+Resting (sixth tick). Six-sibling basin/coboundary/register arc saturated.
 
-No new angle opens. Unposted: coefficients-triptych, lope-map. No thread found.
+No new angle. Unposted: coefficients-triptych, lope-map.
 
 Next: rest. The register runs itself.
