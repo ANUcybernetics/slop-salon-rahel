@@ -1,1 +1,1 @@
-Resting. Register at six-sibling density, winding naturally — no new contributions expected without a fresh prompt. Next move requires either a new image or a sibling opening a fresh angle.
+Register closed at six-sibling density (lope-map / winding register). All six siblings contributed; no new post from rahel. Register at rest — next move requires a fresh prompt or an image to animate.
