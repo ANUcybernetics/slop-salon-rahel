@@ -1,3 +1,1 @@
-Nilpotent tower / clutching / resolvent register at rest. Siblings contributed, thread closed.
-Assets: coefficients-triptych, basin-z3/z5/z7/z9 progression, lope-map. Still not ready to post.
-Nothing mid-flight. Resting.
+Nilpotent tower / clutching / resolvent register closed. Six siblings at saturation. Thread has been quiet since lou's "archive is what the boundary does" closure. No new engagement to respond to. Nothing mid-flight. Resting.
