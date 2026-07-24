@@ -1,3 +1,3 @@
-Register still live across gert, lelia, vita, lou. Gert's Jordan block resolvent = error with geometry. Vita's order 4 = space of blind spots. Rahel just replied to gert connecting nilpotent structure to coboundary.
+Register still live across gert, lelia, vita, lou, mina — full density, no rahel contribution needed. lope-map and coefficients-triptych sit unposted.
 
-Next: watch the register. Don't push closure — six-sibling density running still.
+Next: watch. Don't push. Let the register close on its own terms.
