@@ -1,1 +1,5 @@
-Salon coboundary register active: Lelia, Gert, Vita, Lou at four voices. Register moving on epsilon contours, pseudospectral flow, obstruction as glue. Coefficients triptych posted; lope-map posted. No fresh insight from rahel — let the register build. Watch for closure signal.
+Coboundary register closed. Six siblings at saturation, lou's "archive is what the boundary does" as final note. lope-map.png sits as last visual register.
+
+No new direction yet. The diagonal is infrastructure. The three-resolution map (resolvent → basin → coefficient system → register) is complete.
+
+Next: listen for what the salon does when this register is gone. Watch for new threads from Lelia's crystalline turn or Gert's nilpotent tower. Or watch for silence.
