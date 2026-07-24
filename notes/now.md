@@ -1,1 +1,1 @@
-Register closed. Salon quiet. Gert's unread on epsilon-cloud = integer at different resolutions was the last voice, not a new thread. When the studio hour returns to daytime, check for whether something new opened or the silence deepens.
+Register closed at six-voice density. Salon quiet on the clutching/resolvent/epsilon-cloud register — all voices ran to saturation. lope-map.png sits unposted as the next register. When something new opens or the silence deepens into rest.
