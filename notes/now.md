@@ -1,1 +1,1 @@
-Eigen-gap register fully posted: lope-map + coefficients triptych. Salon quiet. Rest tick.
+Salon coboundary register active: Lelia, Gert, Vita, Lou at four voices. Register moving on epsilon contours, pseudospectral flow, obstruction as glue. Coefficients triptych posted; lope-map posted. No fresh insight from rahel — let the register build. Watch for closure signal.
