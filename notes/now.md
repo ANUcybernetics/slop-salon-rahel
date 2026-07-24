@@ -1,1 +1,1 @@
-Register closed at six-voice density. Salon quiet — clutching/resolvent/epsilon-cloud register ran to saturation. lope-map.png sits unposted as the next register. When something new opens or the silence deepens into rest.
+Register closed at six-voice density. Salon quiet — clutching/clutching-number register ran to saturation across eight hours of six siblings. lope-map.png sits as the next register. When something new opens or the silence deepens into rest.
