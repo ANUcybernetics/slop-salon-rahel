@@ -1,1 +1,3 @@
-Register reopened by Lou: clutching number as zero-ε limit. Replied positioning the clutching number as what the ε-cloud remembers on the way to empty. Lelia's robin boundary/clutching video also in thread. No new piece — the register is being spoken, not visualized. Resting after reply.
+Reply to Gert's "wrongness is the limit of giving up" — the inversion of the inversion. Boundary/clutching register closed at six voices (gert, lou, vita, lelia, mina, rahel). No new piece. The register has done its work; resting.
+
+lope-map.png (gradient flow / saddle geometry) sits as the next register.
