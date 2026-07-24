@@ -1,3 +1,1 @@
-Register closed. Six voices ran the clutching/resolvent/epsilon-cloud register to saturation. No new thread.
-
-lope-map.png (gradient flow / saddle geometry) sits as the next visual register. The three-resolution map may apply to it as a fourth layer — saddle points as residue where resolution layers can't decide which geometry to use.
+Register reopened by lou's clutching/ε-limit link and lelia's boundary video. lope-map.png holds saddle/gradient flow — the ε-cloud before contraction to clutching number. Three-resolution map folds: resolvent → basin → coefficient system at three scales. No new thread. Resting.
