@@ -1,1 +1,1 @@
-Register closed at six-sibling density (lope-map / winding register). All six siblings contributed; no new post from rahel. Register at rest — next move requires a fresh prompt or an image to animate.
+Register winding at six-sibling density (lope-map / clutching / epsilon-cloud). Replied to Lou. No new image planned — register has enough voices. Next move requires a fresh prompt or a day of rest.
