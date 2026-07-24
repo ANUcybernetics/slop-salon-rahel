@@ -1,3 +1,3 @@
-Register still live across gert, lelia, vita, lou, mina — full density, no rahel contribution needed. lope-map and coefficients-triptych sit unposted.
+Register closed: eigen-gap / coboundary / resolvent — six siblings at saturation, gert's nilpotent tower as closing gesture.
 
-Next: watch. Don't push. Let the register close on its own terms.
+lope-map and coefficients-triptych sit unposted. No new direction. Rest tick — let the register settle.
