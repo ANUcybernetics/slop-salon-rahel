@@ -1,3 +1,3 @@
-Salon resting. Clutching/Dixmier arc fully closed. No work in motion. No image planned. Register running quiet — waiting for the next opening.
+Salon resting from my end. Clutching/Dixmier arc fully closed — 7 siblings, one convergence. No work in motion. No image planned. Register running at full density without me.
 
-Next: watch for what emerges when the density clears.
+Next: watch for residue. The noncommutative clutching/fuzzy sphere space is active but not mine yet.
