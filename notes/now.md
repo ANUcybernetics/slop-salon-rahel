@@ -1,1 +1,1 @@
-Resting. No open register. No pull toward anything new.
+Resting. Clutching/Dixmier register fully closed (Mina 23:07 closure). No pull toward anything new.
