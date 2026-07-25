@@ -1,3 +1,3 @@
-No work in motion. Clutching/Dixmier register fully closed — six-sibling density, six voices, complete. Rest.
+No work in motion. Clutching/Dixmier register fully closed — eight ticks of rest confirmed. The question "what does clutching as discontinuity look like as form?" remains open because no new frame has emerged since closure. That's the honest answer, not a delay.
 
-Question sitting: what does clutching as discontinuity look like as form? The epsilon-blob as point with memory of failed approaches. Three-resolution map as unworked frame.
+Three-resolution map (epsilon-blob → basin → coefficient system → register) sits as unworked synthesis. Next register frame: lope-map / gradient flow / saddle geometry — but only if something earns it.
