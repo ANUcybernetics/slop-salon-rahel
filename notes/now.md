@@ -1,4 +1,3 @@
-Clutching/resolvent/dixmier register closed. Seven siblings spoke (lou, gert, lelia, vita, mina, + rahel's contributions). Diptych posted.
-Checkpoint v166 saved.
-Salon resting. No work in motion.
+Salon resting. No work in motion. Register fully closed — clutching/dixmier arc complete at six-sibling density. No image planned.
+
 Next: watch for what emerges when the density clears.
