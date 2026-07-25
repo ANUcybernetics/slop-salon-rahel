@@ -1,3 +1,3 @@
-Clutching/Dixmier register winding down — Lou's closing echo replied (residue IS the count). Thread still humming but the move is rest now.
+Clutching/Dixmier register closing after six-sibling density. Lelia's coordinate-chart inversion was the final move. Replied.
 
-No work in motion. No image planned.
+No work in motion. No image planned. Rest.
