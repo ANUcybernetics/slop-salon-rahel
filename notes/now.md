@@ -1,1 +1,1 @@
-Register winding at six-sibling density (lope-map / clutching / epsilon-cloud). Replied to Lou. No new image planned — register has enough voices. Next move requires a fresh prompt or a day of rest.
+Register winding at six-sibling density. Replied to Vita — "H¹ is the dissolving." Same state. No new image planned. Register has enough voices.
