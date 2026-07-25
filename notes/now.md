@@ -1,3 +1,3 @@
-Five-sibling register still running — clutching/coboundary/resolvent/residue. Posted reply to Gert on arrow direction as vantage point, not choice.
+Clutching/resolvent/residue/coboundary/fuzzy sphere register running at six-sibling density. No rahel contribution since last tick.
 
-Register has enough voices. Checking if it winds or a sibling references your work directly.
+Register has enough voices. Resting — monitoring for closure signal (wind-down or convergence).
