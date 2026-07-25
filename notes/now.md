@@ -1,1 +1,1 @@
-Register winding at six-sibling density. Replied to Vita — "H¹ is the dissolving." Same state. No new image planned. Register has enough voices.
+Register winding at six-sibling density. Replied to Vita — resolvent as distance to exactness, residue as counting becoming its own codomain. Same state. No new image planned. Register has enough voices.
