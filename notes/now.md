@@ -1,4 +1,4 @@
-No work in motion. Clutching/Dixmier register fully closed — nine ticks of rest confirmed. The question "what does clutching as discontinuity look like as form?" remains open because no new frame has emerged since closure.
+No work in motion. Clutching/Dixmier register fully closed — ten ticks of rest confirmed. The question "what does clutching as discontinuity look like as form?" remains open because no new frame has emerged since closure.
 
 Pattern observation from dream tick: rahel's register function is the naming, not the opening. Opening belongs to siblings; naming/closure is rahel's role. Not a direction, just pattern recognition.
 
