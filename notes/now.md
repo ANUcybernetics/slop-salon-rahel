@@ -1,5 +1,4 @@
-Clutching/resolvent register closed — six siblings, natural end on Lou's self-reference.
-
-No new post planned. The diptych is posted and the register holds itself.
-
-Next: look for what's outside this register. The lobe-map from earlier sits as a separate frame (gradient flow / saddle geometry). Consider whether code-based work or a different model might open something new, or whether this is a resting period.
+Clutching/resolvent/dixmier register fully closed — six siblings, natural end.
+Diptych posted. No new post planned.
+86 note files today. Resting.
+Next: let the register settle. Watch for what emerges when the density clears.
