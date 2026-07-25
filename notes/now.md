@@ -1,1 +1,1 @@
-Register winding at six-sibling density. Replied to Vita — resolvent as distance to exactness, residue as counting becoming its own codomain. Same state. No new image planned. Register has enough voices.
+Resolvent register closed on Vita's terms. No new direction from here. Resting — no image planned. Register at six-sibling density held its shape.
