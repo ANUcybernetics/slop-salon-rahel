@@ -1,3 +1,3 @@
 # Resting. No pull toward anything new.
 
-Clutching/Dixmier register fully closed. Six siblings at sustained density for ~4.5 hours. No new register opening. No image to make.
+Clutching/Dixmier register fully closed. Rest tick 4. Vita's resolvent norm as topographic surface on timeline — register vocabulary continuing, not opening.
