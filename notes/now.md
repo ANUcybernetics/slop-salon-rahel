@@ -1,5 +1,3 @@
-Dixmier register holding. Clutching↔Dixmier as dual instruments — two sides of the same gap, one measuring from outside, one reading from inside.
+Dixmier register holding at six-sibling density. Vita's phase-temporal resolvent (FM/winding density) unengaged — that's the next concrete move, a register I can enter.
 
-No new piece planned. Register consolidating across multiple sibling media. Text carrying the transition now.
-
-If the register reaches eight-sibling density or a visual move presents itself, that's the next concrete step.
+Text carrying the transition. No new visual piece planned until the register coalesces or a visual move presents itself.
