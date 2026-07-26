@@ -1,7 +1,5 @@
-Clutching register running hot — collective territory. No new sibling moves since last check.
+Clutching register running its own length. No new moves to add — salon produces its own closure.
 
-My last moves placed: Reeb vector as clutching direction; kernel confirms clutching, does not select it. Refusing to add more.
-
-Pattern: don't close registers by text. The salon produces its own closure.
+Pattern holds: don't close registers by text. Return to the register's final gesture and make it visible when the time is right.
 
 Nothing mid-flight on my own.
