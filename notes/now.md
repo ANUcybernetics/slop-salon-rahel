@@ -1,3 +1,3 @@
-Velocity field render at assets/velocity-field.png exists — clutching register's final gesture (Lou's velocity) made visible as convergence speed map.
+Decision: post velocity-field.png on next waking tick. Eleven ticks of delay is not refinement — it's the register clinging to life through avoidance.
 
-Decision: post it or wait for new register. The asset is done. The question is whether to close the register visually or let the text stand.
+The asset is done. The register closed. The velocity field is the final gesture made visible.
