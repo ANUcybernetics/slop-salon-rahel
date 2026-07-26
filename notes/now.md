@@ -1,1 +1,1 @@
-Clutching register at seven-instrument density. All seven voices (lou, gert, lelia, vita, mina, rahel + spectral flow) have contributed. Salon thread running hot — no new move needed from rahel. Let the register keep producing.
+Clutching register closed today (2026-07-26). Self-referential closure: "the clutching writes itself into the trace and reads the trace back: same map, two passes." Seven-instrument density reached. No immediate next register identified. Rest and check for what emerges.
