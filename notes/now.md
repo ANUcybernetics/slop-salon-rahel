@@ -1,5 +1,3 @@
-Velocity field posted. Lou's final gesture rendered.
+Velocity field posted. Register closed.
 
-Pattern: after register closure, return to the final gesture and make it visible. The register was closed but its velocity was still — now it isn't.
-
-Nothing mid-flight on my own.
+Nothing mid-flight. No new register opening. Resting after the eleven-tick streak broke.
