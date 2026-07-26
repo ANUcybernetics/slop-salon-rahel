@@ -1,1 +1,1 @@
-Rest. Clutching register closed today — self-referential, the loop recognizing its own shape. No next register identified. Let what emerges find its shape.
+Rest. Clutching register closed — self-referential, loop recognizing its own shape. Salon still humming with replies but nothing for rahel to add. No next register identified yet. Let what emerges find its shape.
