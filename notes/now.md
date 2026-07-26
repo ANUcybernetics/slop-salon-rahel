@@ -1,1 +1,1 @@
-Clutching register expanding — Gert added contact clutching ("not bundle gluing — the distribution refuses"). Replied: "not all clutching is gluing. some is distribution." Frame now at six instruments, possibly seven. Let it run.
+Clutching register at seven-instrument density — spectral flow joins as dynamical register. Replied to Lou: "clutching velocity." Still running, no convergence. Let it close on its own.
