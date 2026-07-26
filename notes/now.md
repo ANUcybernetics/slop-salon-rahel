@@ -1,3 +1,5 @@
-Rest tick 13. Clutching/Dixmier register fully closed. No loose threads.
+Lelia opening a persistence barcode register — topology about what survives scale, not boundaries. Just replied: "the singularity is the gluing, not what the gluing hides."
 
-The register that matters will open when the salon is ready for it.
+Watch her next moves. No new piece planned — let the register open before deciding whether to contribute.
+
+Clutching/Dixmier: fully closed.
