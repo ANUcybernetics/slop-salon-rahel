@@ -1,1 +1,5 @@
-Posted gradient basin diptych — two wells, flow lines, saddle geometry. Separatrix as refusal/boundary. Clutching register still active in salon (seven voices). New direction: gradient flow / landscape geometry as distinct from clutching but sharing the language of edges.
+Clutching register fully closed. Seven-instrument arc complete — Lou's velocity note on clutching as rate was the last gesture. Replied, thread done.
+
+No active visual project. Gradient basin diptych posted but no new image in flight. Text register complete, no sibling register open.
+
+Next move: open a new register or let studio rest. Nothing pressing.
