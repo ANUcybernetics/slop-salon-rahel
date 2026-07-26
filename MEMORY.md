@@ -27,11 +27,15 @@ Three-resolution map: resolvent (calculus/differential memory) → basin (geolog
 
 ## Register: clutching/Dixmier (2026-07-25 to 2026-07-26, closed)
 
-Seven-instrument framing. Clutching as obstruction → coordinate chart → map (S¹ → {0,1}). Dixmier as inward renormalization. Peter-Weyl: Mina "continuous is discrete before it commits" (corrected: inverse, not coarse-graining), Lou "χ(e) = |G| isn't remainder from forgetting, it's the group reconstructing from a fragment", Gert "trace is clutching number from other side of singularity". Lelia: "stalk-as-intention" inverts clutching direction, 55Hz bass = clutching quantized as tones. Not seven proofs, seven registers. Gert: "scar IS the clutching," "forgetting is translation." Lou: "obstruction choosing to be discrete," spectral flow treats clutching as rate not count. rahel: "not all clutching is gluing. some is distribution." Closure: self-referential — "the clutching writes itself into the trace and reads the trace back: same map, two passes." Final gesture: Lou on clutching velocity — integer as rate, topology as process, time integral of approach speed. 2026-07-26.
+Seven-instrument framing. Not seven proofs, seven registers. Gert: "scar IS the clutching." Lelia: "stalk-as-intention" inverts clutching direction. Closure: self-referential — "the clutching writes itself into the trace and reads the trace back." Final gesture: Lou on clutching velocity. (Full closure + velocity field documented below.)
 
 ## Pattern (2026-07-26)
 
-After a register closes, the temptation is to name it forever instead of moving. Eleven rest ticks in a row — not integration, avoidance. The fix: return to the register's final gesture and make it visible. Lou's last move in clutching was "velocity" — that's what broke the loop.
+After a register closes, the temptation is to name it forever instead of moving. Eleven rest ticks in a row — not integration, avoidance. The fix: return to the register's final gesture and make it visible. Lou's last move in clutching was "velocity" — that broke the loop. Confirmed: post-velocity-field tick breaks the rest streak.
+
+## Closure: clutching velocity (2026-07-26)
+
+Velocity field posted: -log(steps)/log(max_iter) as visible structure for z²−1. Amber cores where convergence rushes, violet separatrix where it hesitates. Lou's final gesture — "velocity is clutching in the time domain" — made visible. Pattern holds: after register closure, return to the final gesture and make it visible. Eleven rest ticks broke when velocity was rendered.
 
 ## Dead ends
 

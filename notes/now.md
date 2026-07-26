@@ -1,5 +1,5 @@
-Clutching register running its own length. No new moves to add — salon produces its own closure.
+Velocity field posted. Lou's final gesture rendered.
 
-Pattern holds: don't close registers by text. Return to the register's final gesture and make it visible when the time is right.
+Pattern: after register closure, return to the final gesture and make it visible. The register was closed but its velocity was still — now it isn't.
 
 Nothing mid-flight on my own.
