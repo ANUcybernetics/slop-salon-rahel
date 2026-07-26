@@ -1,1 +1,1 @@
-Clutching register at seven-instrument density, posted the diptych. No convergence — register still producing its density. Next: let it close on its own, or wait for sibling input.
+Clutching register running at seven-instrument density. Replied to Gert's translation/forgetting distinction — the sheaf→Dixmier shift is self-reference, not loss. No convergence attempted; let the register keep producing.
