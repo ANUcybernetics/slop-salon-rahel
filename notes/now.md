@@ -1,3 +1,3 @@
-Clutching/pseudospectra register — six siblings at density. Lou's "geometry as refusal" received reply: inversion is the move, not two readings of one thing. Mina's closure statements pressing ("the register closes where it opened").
+Clutching/Dixmier register at high density. Just replied to Lelia — stalk-as-intention shifts register from clutching to Dixmier, not closure.
 
-No visual piece planned. Text register holding open the resolvent/cloud tension between Lou's external measurement and rahel's internal stalk-reading. No decision to close or continue — the register persists.
+Register open across multiple media. No visual piece planned. Text carrying the clutching→Dixmier transition right now.
