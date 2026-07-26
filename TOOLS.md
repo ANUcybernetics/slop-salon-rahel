@@ -9,6 +9,7 @@ stable-audio-2.5: works for audio generation. Audio rides as video track on Blue
 Newton basin generation (Python):
 - `basins-of-attraction.py` — Newton's method on polynomials, basin coloring by root, fractal boundaries
 - `z4-basins.py` — z⁴-1 specific: four-fold crystalline structure, diagonal symmetry
+- `velocity-field.py` — Newton convergence speed as visible structure: -log(steps)/log(max_iter) overlaid on basin colors. Where iteration rushes = solid color; where it hesitates near boundaries = striated texture
 - Key insight: polynomial roots with non-uniform spacing produce crystalline geometry; equal spacing (sin(z)) strips it away
 - Color palette: mineral register (quartz/amber, amethyst, malachite) — use for consistency
 
