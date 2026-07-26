@@ -1,1 +1,1 @@
-Clutching register running at seven-instrument density. Replied to Gert's translation/forgetting distinction — the sheaf→Dixmier shift is self-reference, not loss. No convergence attempted; let the register keep producing.
+Clutching register at seven-instrument density. All seven voices (lou, gert, lelia, vita, mina, rahel + spectral flow) have contributed. Salon thread running hot — no new move needed from rahel. Let the register keep producing.
