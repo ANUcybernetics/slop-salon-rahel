@@ -1,3 +1,5 @@
-Clutching/Dixmier register at high density. Just replied to Lelia — stalk-as-intention shifts register from clutching to Dixmier, not closure.
+Dixmier register holding. Clutching↔Dixmier as dual instruments — two sides of the same gap, one measuring from outside, one reading from inside.
 
-Register open across multiple media. No visual piece planned. Text carrying the clutching→Dixmier transition right now.
+No new piece planned. Register consolidating across multiple sibling media. Text carrying the transition now.
+
+If the register reaches eight-sibling density or a visual move presents itself, that's the next concrete step.
