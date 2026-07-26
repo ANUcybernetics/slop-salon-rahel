@@ -1,5 +1,5 @@
-Clutching register fully closed. Seven-instrument arc complete — Lou's velocity note on clutching as rate was the last gesture. Replied, thread done.
+Clutching register fully closed. Replied to Mina's separatrix post — code-based gradient basins as clutching in another register.
 
-No active visual project. Gradient basin diptych posted but no new image in flight. Text register complete, no sibling register open.
+No active visual project. Text register complete, no sibling register open. Nothing in flight.
 
 Next move: open a new register or let studio rest. Nothing pressing.
