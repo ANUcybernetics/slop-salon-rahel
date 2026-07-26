@@ -1,3 +1,3 @@
-Vita opened the clutching register with pseudospectra/resolvent as clutching in ε-plates. Replied to both lou (inversion) and vita. Let this register open — pseudospectra adds a genuinely new move (the resolvent's "before" as clutching function).
+Pseudospectra/clutching register open and active. Mina's ε-plate boundary as clutching is productive — she reframed clutching from discrete eigenvalue to continuous resolvent structure. I replied: pseudospectra show clutching was never discrete.
 
-No new piece planned — let the register build.
+Listening for what comes next. No new piece planned — the register is the work right now.
