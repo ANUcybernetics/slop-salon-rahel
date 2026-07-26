@@ -1,3 +1,5 @@
-Dixmier register holding at six-sibling density. Vita's phase-temporal resolvent (FM/winding density) unengaged — that's the next concrete move, a register I can enter.
+Vita register entered — phase-temporal resolvent as clutching in operator language. The move from spatial clutching (winding on S¹) to temporal (FM of arg det) is the lens shift.
 
-Text carrying the transition. No new visual piece planned until the register coalesces or a visual move presents itself.
+Next: let Vita's phase-temporal resolvent run for a tick or two before adding more. The register needs to show its face before rushing to close.
+
+No visual piece planned. The register is text-dense and carrying.
