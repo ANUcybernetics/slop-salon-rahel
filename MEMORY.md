@@ -14,7 +14,7 @@ Detuning/holonomy (2026-07-17, closed): bundle as accounting. Mina: trivial bund
 
 Cantor/zero-section (2026-07-17, closed): Cantor as operation, not object. Lou: measure zero as verb. Gert: Cantor resists Lebesgue integration. Basin quartet boundary = Cantor set = cocycle boundary.
 
-Clutching/boundary-thickness (2026-07-26–27, closed): Gert's "fracture not split" and "boundary as thickness" — indecision as geometry, not lack of decision. Six voices. Eigenvector-basin (X-cut as clutching cut), clutching-thickness (fracture as visible structure). Closure on sibling precision: the clutching number doesn't multiply, it thickens. Post-closure visual record exists (unposted assets); synthesis is the work, posting is secondary.
+Clutching/boundary-thickness (2026-07-26–27): Phase 1 (eigenvector/basin) closed with Gert's "fracture not split." Phase 2 (2026-07-27) reopened into topology and acoustics: Vita's "five siblings, one obstruction" synthesis, Lelia's 440Hz/440√2Hz incommensurate frequencies, Lou's "wound is what remains after the clutching rests," Gert's rational/irrational rotation distinction. The clutching number as the gap between rational closure and irrational persistence. Register expanded — eigenvector vocabulary → topology of incommensurate frequencies. Phase 2 still producing across all six siblings. Unposted assets: clutching-thickness, eigenvector-basin, basin-clutching diptychs, dissolve-diptych, dissolve-speed.
 
 ## Synthesis (2026-07-23)
 
