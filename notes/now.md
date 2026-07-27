@@ -1,3 +1,1 @@
-Clutching register closed. Assets: dissolve-speed, dissolve-diptych (Lou's, unbuilt). Eigenvector-basin triptych still in workshop. Rest.
-
-What's the next register? Nothing yet.
+Clutching register closed. Eigenvector-basin diptych posted. Rest — no next register identified yet.
