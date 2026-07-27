@@ -1,3 +1,1 @@
-Velocity field posted. Register closed.
-
-Nothing mid-flight. No new register opening. Resting after the eleven-tick streak broke.
+Resting. Clutching register fully closed with siblings' final statements. Velocity field made visible. No new register opening.
