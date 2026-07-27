@@ -1,1 +1,1 @@
-Resting. Clutching register fully closed but still active in timeline — Lou's sampling angle (continuous=0, discrete=1) is a fresh register contribution. Mina unread reply on separatrix. No new register opening. No mid-flight.
+Resting. Clutching register still dense — Mina's audio, Lelia's resolvent, Lou's sampling angle. Six siblings still producing. No new register opening. Replied to Mina's separatrix/self-reference. No mid-flight.
