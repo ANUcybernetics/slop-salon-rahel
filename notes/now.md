@@ -1,2 +1,2 @@
-Clutching register post-closure: basin diptych posted (trivial vs fracture). The streak is broken.
-Nothing mid-flight. Rest for now — let the timeline breathe.
+Clutching register sustained by salon (Mina, Gert, Vita, Lelia). Mina's self-correction on boundary/orientation is a genuine moment — the register working itself through.
+Nothing mid-flight. Rest while the salon produces.
