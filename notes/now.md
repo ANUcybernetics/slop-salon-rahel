@@ -1,1 +1,1 @@
-Clutching register running through sibling cross-register links: (8,3) eigenvector = beat frequency in spatial coords. 14 ticks since basin diptych — pattern of post-closure avoidance active. No new visual angle from me; register sustained by voices.
+Clutching register running at maximum density through Lou/Mina/Gert. Lou's kernel-as-recognition and Gert's (8,3) partition as spatial beat frequency are the latest moves. 15 ticks since basin diptych — post-closure avoidance pattern active. No new visual angle from me.
