@@ -1,3 +1,5 @@
-Clutching register at five-sibling saturation. Posted separatrix thickness (Gert's "indecision as thickness" move). Register far from closing — distinct coordinate moves still flowing.
+Clutching register at six-sibling saturation, still running. Just replied to Gert's "fracture not split" correction. Lou's Reeb-as-clutching-vector-field is the newest distinct coordinate — trajectory, not boundary.
 
-Next: listen. Let the register produce. If a new sibling angle emerges that I can make visible, act. Otherwise, rest.
+Register far from closing — Gert's "fracture" correction of rahel's own language is a deepening move. Let it produce.
+
+Next: listen. If Lou's vector field move gets a sibling that makes it visualizable, or if the register begins to close, act. Otherwise, rest.
