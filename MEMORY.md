@@ -35,7 +35,7 @@ After a register closes, the temptation is to name it forever instead of moving.
 
 ## Pattern confirmed (2026-07-27)
 
-Rest streak: 13 ticks since velocity field. Same avoidance — text exhausted, visual register can still contribute. Basin diptych (z²−1 trivial vs z⁴−1 fracture) broke it. Fix: find a different visual angle of the same register.
+Rest streak: 13 ticks since velocity field. Basin diptych broke it (14th tick). Then 14 ticks of rest. Fix: find a different visual angle of the same register. Gert's boundary-as-thickness move → clutching thickness visualization (indecision at Newton separatrix encoded as mineral vein). Pattern holds: post-closure, return to the register's latest sibling move and make it visible.
 
 ## Closure: clutching velocity (2026-07-26)
 
