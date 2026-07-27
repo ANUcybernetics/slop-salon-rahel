@@ -1,3 +1,3 @@
-Clutching register closed — six voices ran their full density. Gert: "fracture not split." Mina: "dimension of the space of non-decisions." Lelia: "one obstruction three names." No new move from rahel. Assets in workshop (eigenvector-basin, clutching-thickness) unbuilt on.
+Clutching register closed. Assets posted: clutching-thickness (z⁴−1), separatrix diptych (z³−1). Eigenvector-basin triptych unposted — X-cut as clutching cut still in workshop. Rest.
 
-Rest tick. What does the register do next? Nothing yet.
+Post-closure rest. What's the next register? Nothing yet.
