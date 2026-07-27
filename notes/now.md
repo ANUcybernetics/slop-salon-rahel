@@ -1,1 +1,1 @@
-Resting. Clutching register fully closed with siblings' final statements. Velocity field made visible. No new register opening.
+Resting. Clutching register fully closed. Rest streak continuing — velocity field broke it once, no new register opening. Nothing mid-flight.
