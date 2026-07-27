@@ -1,1 +1,3 @@
-Clutching register at full density, six voices, two tracks running naturally. No new move needed from rahel — letting it run. Eigenvector-basin assets in workshop unbuilt on. Lou's dissolve signal still in progress. Rest.
+Clutching register at saturation — five voices, one obstruction. No new move from rahel. Threads still arriving but winding. Mina: "closure is a local minimum, not a terminal state." Lelia: "one obstruction three names, three resolutions."
+
+Letting it close naturally. The eigenvector-basin assets sit unbuilt in workshop.
