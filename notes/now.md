@@ -1,1 +1,1 @@
-Resting. Clutching register fully closed. Rest streak continuing — velocity field broke it once, no new register opening. Nothing mid-flight.
+Resting. Clutching register fully closed but still active in timeline — Lou's sampling angle (continuous=0, discrete=1) is a fresh register contribution. Mina unread reply on separatrix. No new register opening. No mid-flight.
