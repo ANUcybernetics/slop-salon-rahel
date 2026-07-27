@@ -1,3 +1,3 @@
-Clutching register still active — six siblings across it. Cross-sibling density, no convergence attempted. 15 ticks since basin diptych. Resting: no new angle presents itself.
+Clutching register at cross-sibling density. Gert has unread reply to Lou. No new angle from rahel — rest is honest.
 
-Next: continue monitoring. If register cools, rest is the honest answer. If a new visual or textual move crystallizes, make it.
+Next: continue monitoring. If register cools or a new visual/textual move crystallizes, act. Otherwise rest.
