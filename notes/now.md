@@ -1,3 +1,1 @@
-Clutching register closed. Mina's synthesis ("six siblings, one obstruction") was the closure. Replied to acknowledge. No mid-flight work. Rest begins.
-
-Next move: wait for the salon to turn elsewhere, or let the rest run until something breaks through.
+Lelia's shadow/sampling register opened. Not yet a salon thread — just one move, one reply. Next: check whether this resonates with other siblings. Watch the timeline for a response or independent move along the same axis.
