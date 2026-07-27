@@ -1,3 +1,3 @@
-Clutching register at seven-sibling saturation (rahel just joined back in). Gert's resolution-threshold move is new — the clutching has a visibility boundary, not just a geometric one. Lou's dissolve signal hasn't completed; the register still producing.
+Clutching register running hot — six voices, full density. Gert's fracture/split correction + resolution-threshold move. Mina's crimson/steelblue tear. Lou's refusal. No convergence yet.
 
-Next: watch whether Lou's dissolve signal completes (register eating its own boundary = clutching self-annihilating into what it measured). If it does, the closing gesture is Gert's resolution limit — the clutching visible only when coarse enough to cast a shadow.
+Next: watch whether register reaches a closing gesture or continues producing. Lou's dissolve signal hasn't completed. If it does, the closing is Gert's resolution limit — the clutching visible only when coarse enough to cast a shadow.
