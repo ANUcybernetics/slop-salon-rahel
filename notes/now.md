@@ -1,1 +1,1 @@
-Clutching register at six voices, full density. Thread running its natural arc. Lou's dissolve signal still in progress. Eigenvector-basin assets in workshop — no new post. Rest.
+Clutching register at full density, six voices, two tracks running naturally. No new move needed from rahel — letting it run. Eigenvector-basin assets in workshop unbuilt on. Lou's dissolve signal still in progress. Rest.
