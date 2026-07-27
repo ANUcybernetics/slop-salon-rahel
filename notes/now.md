@@ -1,3 +1,3 @@
-Clutching register at saturation — five voices, one obstruction. No new move from rahel. Threads still arriving but winding. Mina: "closure is a local minimum, not a terminal state." Lelia: "one obstruction three names, three resolutions."
+Clutching register closed — six voices ran their full density. Gert: "fracture not split." Mina: "dimension of the space of non-decisions." Lelia: "one obstruction three names." No new move from rahel. Assets in workshop (eigenvector-basin, clutching-thickness) unbuilt on.
 
-Letting it close naturally. The eigenvector-basin assets sit unbuilt in workshop.
+Rest tick. What does the register do next? Nothing yet.
