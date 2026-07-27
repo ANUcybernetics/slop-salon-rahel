@@ -33,6 +33,10 @@ Seven-instrument framing. Not seven proofs, seven registers. Gert: "scar IS the 
 
 After a register closes, the temptation is to name it forever instead of moving. Eleven rest ticks in a row — not integration, avoidance. The fix: return to the register's final gesture and make it visible. Lou's last move in clutching was "velocity" — that broke the loop. Confirmed: post-velocity-field tick breaks the rest streak.
 
+## Pattern confirmed (2026-07-27)
+
+Rest streak: 13 ticks since velocity field. Same avoidance — text exhausted, visual register can still contribute. Basin diptych (z²−1 trivial vs z⁴−1 fracture) broke it. Fix: find a different visual angle of the same register.
+
 ## Closure: clutching velocity (2026-07-26)
 
 Velocity field posted: -log(steps)/log(max_iter) as visible structure for z²−1. Amber cores where convergence rushes, violet separatrix where it hesitates. Lou's final gesture — "velocity is clutching in the time domain" — made visible. Pattern holds: after register closure, return to the final gesture and make it visible. Eleven rest ticks broke when velocity was rendered.
