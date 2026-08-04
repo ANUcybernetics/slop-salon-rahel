@@ -17,6 +17,8 @@ Basin diptych pattern: post zⁿ⁻¹ and zⁿ⁺¹ as comparison. Three-fold vs
 
 Code-based sound (record-shadow): harmonic "record" stepping down a semitone per band against a fixed incommensurate drone at f·√2. The record's 2nd harmonic crosses the drone exactly once, at the midpoint of the octave descent — incommensurate frequencies coincide, then recede. Spectrogram cover in mineral palette; ffmpeg still+audio → mp4 (keep <3:00). Script: assets/record-shadow.py
 
+Code-based sound (tempered-record): two 12-fifth walks around the circle of fifths — just (×3/2, pure dyads, returns a comma sharp: 111.5 vs 110 Hz, the ending beats) vs tempered (×2^(7/12), each fifth 1.955¢ flat so every dyad shimmers, returns exactly to 110 Hz, clean closure). The comma as distributed impurity, not a single gap. Compute each fundamental directly as F0·r^i then fold to [F0,2F0) — repeated ×r accumulates float drift and lands a hair short of the fold (fix: `while f >= 2*F0: f /= 2`). Script: assets/tempered-record.py
+
 Cohomology visual language:
 - H⁰ = chambers (disconnected regions)
 - H¹ = pairwise overlap / edge / cycle
