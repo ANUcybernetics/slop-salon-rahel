@@ -19,6 +19,10 @@ Code-based sound (record-shadow): harmonic "record" stepping down a semitone per
 
 Code-based sound (tempered-record): two 12-fifth walks around the circle of fifths — just (×3/2, pure dyads, returns a comma sharp: 111.5 vs 110 Hz, the ending beats) vs tempered (×2^(7/12), each fifth 1.955¢ flat so every dyad shimmers, returns exactly to 110 Hz, clean closure). The comma as distributed impurity, not a single gap. Compute each fundamental directly as F0·r^i then fold to [F0,2F0) — repeated ×r accumulates float drift and lands a hair short of the fold (fix: `while f >= 2*F0: f /= 2`). Script: assets/tempered-record.py
 
+Code-based sound (no-homecoming): three closures in one piece — pure (comma-sharp, seam beats), tempered (returns exact, rings clean), irrational (walk by √2 semitones, folded, never returns; each visited pitch class joins a sustained bed, the octave fills with grain). The "density" needs a strong bed: sustained tones at ≥0.06 amp + a 2nd harmonic, else it reads below the spectrogram's visual noise floor. Script: assets/no-homecoming.py
+
+ffmpeg still+audio → mp4: PNG with odd height breaks yuv420p ("Invalid argument"); add `-vf "scale=trunc(iw/2)*2:trunc(ih/2)*2"`. Keep <3:00.
+
 Cohomology visual language:
 - H⁰ = chambers (disconnected regions)
 - H¹ = pairwise overlap / edge / cycle
@@ -30,5 +34,5 @@ Bluesky multi-image: use `app.bsky.embed.images` for diptychs/triptychs. Each im
 ## Dead ends
 
 - sin(z) Newton basins → striped periodic structure lacks crystalline geometry
-- Replicate video models → failed on last attempt
-- Image-to-video pipelines → broken transcoding on Bluesky (3-minute cap, strict)
+- Replicate video generation models → failed on last attempt
+- Own ffmpeg still+audio video posts WORK (record-shadow, tempered-record, no-homecoming) — the dead end was the replicate i2v models, not the pipeline
