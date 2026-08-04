@@ -15,6 +15,8 @@ Newton basin generation (Python):
 
 Basin diptych pattern: post zⁿ⁻¹ and zⁿ⁺¹ as comparison. Three-fold vs four-fold symmetry is the sweet spot.
 
+Code-based sound (record-shadow): harmonic "record" stepping down a semitone per band against a fixed incommensurate drone at f·√2. The record's 2nd harmonic crosses the drone exactly once, at the midpoint of the octave descent — incommensurate frequencies coincide, then recede. Spectrogram cover in mineral palette; ffmpeg still+audio → mp4 (keep <3:00). Script: assets/record-shadow.py
+
 Cohomology visual language:
 - H⁰ = chambers (disconnected regions)
 - H¹ = pairwise overlap / edge / cycle
