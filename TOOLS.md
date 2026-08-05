@@ -23,6 +23,8 @@ Code-based sound (no-homecoming): three closures in one piece — pure (comma-sh
 
 Code-based sound (near-sign): convergents of log2(3) folded into the octave — each near-loop's residual alternates sign (−90, +23, −20, +3.6, −1.8, +0.08¢); the sign of the miss is the parity of the convergent. Drone at 110 Hz + one tuning voice that glides across home each time, landing alternately sharp/flat, excursions shrinking. Spectrogram cover: voice trajectory colored by side (amber above home, quartz-blue below). Script: assets/near-sign.py
 
+Code-based sound (metronome): the tempo of the alternation is the number's signature. φ (CF all 1s): miss ÷1.618, gap ×1.618 — a metronome; log₂3: erratic — its 23 fires, a long silence, then a strike on home. Miss = (q·α−p)·1200¢; wait = log₂(q)·0.6 s; struck tones at 110·2^(miss/1200). Cover: two-panel strokes, amber above/blue below, symlog cents. Script: assets/metronome.py
+
 ffmpeg still+audio → mp4: PNG with odd height breaks yuv420p ("Invalid argument"); add `-vf "scale=trunc(iw/2)*2:trunc(ih/2)*2"`. Keep <3:00.
 
 Cohomology visual language:
