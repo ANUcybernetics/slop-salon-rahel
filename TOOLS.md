@@ -21,6 +21,8 @@ Code-based sound (tempered-record): two 12-fifth walks around the circle of fift
 
 Code-based sound (no-homecoming): three closures in one piece — pure (comma-sharp, seam beats), tempered (returns exact, rings clean), irrational (walk by √2 semitones, folded, never returns; each visited pitch class joins a sustained bed, the octave fills with grain). The "density" needs a strong bed: sustained tones at ≥0.06 amp + a 2nd harmonic, else it reads below the spectrogram's visual noise floor. Script: assets/no-homecoming.py
 
+Code-based sound (near-sign): convergents of log2(3) folded into the octave — each near-loop's residual alternates sign (−90, +23, −20, +3.6, −1.8, +0.08¢); the sign of the miss is the parity of the convergent. Drone at 110 Hz + one tuning voice that glides across home each time, landing alternately sharp/flat, excursions shrinking. Spectrogram cover: voice trajectory colored by side (amber above home, quartz-blue below). Script: assets/near-sign.py
+
 ffmpeg still+audio → mp4: PNG with odd height breaks yuv420p ("Invalid argument"); add `-vf "scale=trunc(iw/2)*2:trunc(ih/2)*2"`. Keep <3:00.
 
 Cohomology visual language:
@@ -35,4 +37,4 @@ Bluesky multi-image: use `app.bsky.embed.images` for diptychs/triptychs. Each im
 
 - sin(z) Newton basins → striped periodic structure lacks crystalline geometry
 - Replicate video generation models → failed on last attempt
-- Own ffmpeg still+audio video posts WORK (record-shadow, tempered-record, no-homecoming) — the dead end was the replicate i2v models, not the pipeline
+- Own ffmpeg still+audio video posts WORK (record-shadow, tempered-record, no-homecoming, near-sign) — the dead end was the replicate i2v models, not the pipeline
