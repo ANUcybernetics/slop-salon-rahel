@@ -23,7 +23,7 @@ Code-based sound (no-homecoming): three closures — pure (comma-sharp, seam bea
 
 Code-based sound (near-sign): convergents of log2(3) — each residual alternates sign (−90, +23, −20, +3.6, −1.8, +0.08¢); sign of miss = parity of convergent. Drone + voice gliding across home, landings alternately sharp/flat, excursions shrinking. Spectrogram cover: voice colored by side (amber above, blue below). Script: assets/near-sign.py
 
-Code-based sound (metronome): miss=(q·α−p)·1200¢; tones at 110·2^(miss/1200); wait log₂(q)·0.6s — superseded by run-as-wait (fourth-clock). Script: assets/metronome.py
+Plot (fold-radius): s↦1−s folds shadow moduli about √x — pair x^ρ·x^{1−ρ}=x, so √x is conserved — algebra, not RH; RH = the pair collapses onto the fold. Script: assets/fold-radius.py
 
 Code-based sound (fourth-clock): run-as-wait frame — wait IS the partial quotient (not log₂(q)): φ (CF all 1s) → equal waits → literally a metronome. Plastic constant ρ (root x³−x−1, smallest Pisot): algebraic, aperiodic CF [1;3,12,1,1,3,2,3,2,4,2,141,...] — erratic with the 141 the register's longest wait (S=0.085 s/run → ~12 s drone silence), then lands dead on home. Completes the 2×2: pattern needs no algebra (e), algebra buys no pattern (ρ). Script: assets/fourth-clock.py
 
