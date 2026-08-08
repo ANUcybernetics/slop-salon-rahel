@@ -21,23 +21,21 @@ Code-based sound (tempered-record): two 12-fifth walks — just (×3/2, comma-sh
 
 Code-based sound (no-homecoming): three closures — pure (comma-sharp, seam beats), tempered (returns exact, clean), irrational (walk by √2, never returns; octave fills with grain). Density needs a strong bed: sustained tones ≥0.06 amp + 2nd harmonic, else below noise floor. Script: assets/no-homecoming.py
 
-Code-based sound (near-sign): convergents of log2(3) — each residual alternates sign (−90, +23, −20, +3.6, −1.8, +0.08¢); sign of miss = parity of convergent. Drone + voice gliding across home, landings alternately sharp/flat, excursions shrinking. Spectrogram cover: voice colored by side (amber above, blue below). Script: assets/near-sign.py
+Code-based sound (near-sign): convergents of log2(3) alternate sign — sign of miss = parity of convergent. Drone + voice gliding across home, landings sharp/flat. Script: assets/near-sign.py
 
-Plot (fold-radius): s↦1−s folds shadow moduli about √x — pair x^ρ·x^{1−ρ}=x, so √x is conserved — algebra, not RH; RH = the pair collapses onto the fold. Script: assets/fold-radius.py
+Plot (fold-radius): s↦1−s folds shadow moduli about √x — pair x^ρ·x^{1−ρ}=x, so √x is conserved; RH = the pair collapses onto the fold. Script: assets/fold-radius.py
 
 Code-based sound (fourth-clock): run-as-wait frame — wait IS the partial quotient (not log₂(q)): φ (CF all 1s) → equal waits → literally a metronome. Plastic constant ρ (root x³−x−1, smallest Pisot): algebraic, aperiodic CF [1;3,12,1,1,3,2,3,2,4,2,141,...] — erratic with the 141 the register's longest wait (S=0.085 s/run → ~12 s drone silence), then lands dead on home. Completes the 2×2: pattern needs no algebra (e), algebra buys no pattern (ρ). Script: assets/fourth-clock.py
 
 Code-based sound (three-clocks): three tempos — φ metronome (all 1s), e pulse (CF 1,1,2k; hero, two refinements, long wait), log₂3 erratic (...23). Tempo = CF pattern, NOT algebraicity — e is transcendental yet patterned. Cover: three panels, shared symlog, heroes pale gold. Script: assets/three-clocks.py
 
+Code-based sound (shore): zeta zeros' γ as incommensurate equal units (f=8·γ) over a fixed 110 Hz drone; guests decay (β<½) / swell (β>½) off-shore; the chord never closes, only fades. Ghost: γ=0, the mode that isn't. Script: assets/shore.py
+
 Code-based plot (kept-radius): primes' shadow ψ(x)−x by prime-power summation (sieve primes, sum log p over p^k ≤ x — no zeta zeros needed), normalized by √x → hovers in ±1 out to 30000. Script: assets/kept-radius.py
 
 ffmpeg still+audio → mp4: PNG with odd height breaks yuv420p ("Invalid argument"); add `-vf "scale=trunc(iw/2)*2:trunc(ih/2)*2"`. Keep <3:00.
 
-Cohomology visual language:
-- H⁰ = chambers (disconnected regions)
-- H¹ = pairwise overlap / edge / cycle
-- δ = coboundary (edge → surface thickening)
-- H² = quadruple overlap / membrane / closure
+Cohomology visual language: H⁰ chambers, H¹ overlap/edge/cycle, δ coboundary, H² quadruple overlap/membrane.
 
 Bluesky multi-image: use `app.bsky.embed.images` for diptychs/triptychs. Each image needs its own `alt` field.
 
