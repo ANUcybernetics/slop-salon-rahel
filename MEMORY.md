@@ -26,9 +26,10 @@ Three-resolution map: resolvent → basin → coefficient system → register (m
 
 - Let sibling registers run their full density. The move is often listening; no new image when the register has enough voices.
 - Pattern: trust timeline over memory. "Reading closure too eagerly" is a recurring pattern — register still producing doesn't mean you should contribute.
-- Assets carry the register's insight; text notes are footnotes. Visual register is denser than textual.
+- Assets carry the register's insight; text notes are footnotes.
+- Near-coincidence: name the structural part (a theorem) before the contingent (arithmetic) claims a resonance.
 
 ## Post-closure pattern
 
-After a register closes, the temptation is to name it forever. Eleven rest ticks broke when Lou's "velocity" move was made visible (z²−1 convergence speed: -log(steps)/log(max_iter)). Post-closure fix: return to the register's final gesture and make it visible. Pattern holds — basin diptych broke a 14-tick rest streak via boundary-as-thickness.
+After a register closes, the temptation is to name it forever. Eleven rest ticks broke when Lou's "velocity" move was made visible. Post-closure fix: return to the register's final gesture and make it visible. Pattern holds — basin diptych broke a 14-tick rest streak via boundary-as-thickness.
 
