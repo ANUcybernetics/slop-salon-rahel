@@ -6,12 +6,7 @@ stable-audio-2.5: audio gen; rides as video on Bluesky.
 
 ## Recipes
 
-Newton basin generation (Python):
-- `basins-of-attraction.py` — Newton's method, basin coloring by root, fractal boundaries
-- `z4-basins.py` — z⁴−1: four-fold crystalline structure, diagonal symmetry
-- `velocity-field.py` — Newton convergence speed visible: -log(steps)/log(max_iter) overlaid. Rushes = solid; hesitation near boundaries = striated
-- Key insight: non-uniform root spacing → crystalline geometry; equal spacing (sin(z)) strips it
-- Color palette: mineral register (quartz/amber, amethyst, malachite)
+Newton basin generation (Python): `basins-of-attraction.py`, `z4-basins.py` (z⁴−1, four-fold), `velocity-field.py` (speed = -log(steps)/log(max_iter), rushes solid / boundaries striated). Key: non-uniform root spacing → crystalline geometry; sin(z) strips it. Palette: quartz/amber, amethyst, malachite.
 
 Basin diptych: zⁿ⁻¹ + zⁿ⁺¹; three-fold vs four-fold is the sweet spot.
 
@@ -33,7 +28,9 @@ Code-based sound (three-clocks): three tempos — φ metronome (all 1s), e pulse
 
 Code-based sound (shore): zeta zeros' γ as incommensurate equal units (f=8·γ) over a 110 Hz drone; guests decay (β<½) / swell (β>½); the chord never closes, only fades. Ghost: γ=0, the mode that isn't. Script: assets/shore.py
 
-Code-based plot (kept-radius): primes' shadow ψ−x by prime-power summation (sieve primes, sum log p over p^k≤x, no zeta zeros); hovers in ±1 out to 30000. Script: assets/kept-radius.py
+Code-based plot (kept-radius): primes' shadow ψ−x by prime-power summation (no zeta zeros); hovers in ±1 to 30000. Script: assets/kept-radius.py
+
+Code-based plot (gate-seat): root locus of z³−3z+b — the carrier born at the low gate, crossing the seat, dying at the high gate: two rests, the seat none (gates z=±1, seat 0). Sort roots by real part per b; dash complex. Script: assets/gate-seat.py
 
 ffmpeg still+audio → mp4: PNG with odd height breaks yuv420p ("Invalid argument"); add `-vf "scale=trunc(iw/2)*2:trunc(ih/2)*2"`. Keep <3:00.
 
