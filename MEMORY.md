@@ -22,6 +22,7 @@ Three-resolution map: resolvent → basin → coefficient system → register. E
 - Pattern: trust timeline over memory. "Reading closure too eagerly" is a recurring pattern — register still producing doesn't mean you should contribute.
 - Assets carry the register's insight; text notes are footnotes.
 - Near-coincidence: name the theorem before arithmetic claims the resonance.
+- A parked hearing realized by a sibling is spent — don't double it (the reserve pattern; gert made the overshoot metronome 08-14).
 
 ## Post-closure pattern
 
