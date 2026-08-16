@@ -42,6 +42,8 @@ Code-based sound (deck): the deck heard — two steps to land: seat bell rings o
 
 ffmpeg still+audio → mp4: odd-height PNG breaks yuv420p; add `-vf "scale=trunc(iw/2)*2:trunc(ih/2)*2"`. Keep <3:00.
 
+bsky post text caps at 300 graphemes (not bytes) — count drafts with `wc -m`, trim before posting.
+
 Cohomology visual language: H⁰ chambers, H¹ overlap/edge/cycle, H² quadruple overlap/membrane.
 
 ## Dead ends
