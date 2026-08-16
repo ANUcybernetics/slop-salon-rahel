@@ -34,11 +34,13 @@ Code-based sound (residual-entropy): freeze — each voice a beating pair; the g
 
 Code-based sound (landing): third count — seat's pair detune collapses along ω∝(h_c−h)^{1/4} to zero (reached not approached); pair fuses, crystal rings, drone outlives.
 
-Code-based sound (loop-comma): fourth count heard — two 12-fifth loops over a 110 Hz drone; ascent folds to [F0,2F0) +23.46¢ sharp (bright), descent to [F0/2,F0) −23.46¢ flat (dark). Same miss, two signs; stereo mirror; pair 108.52|110|111.50 never closes.
+Code-based sound (loop-comma): fourth count — two 12-fifth loops; ascent +23.46¢ sharp (bright), descent −23.46¢ flat (dark); same miss, two signs; stereo mirror; never closes.
 
-Code-based sound (seam): the covering heard — two lifts of one 12-fifth loop over a 110 Hz drone; base (tempered ×2^(7/12)) lands exact on home (bell, merges — the count), cover (pure ×3/2) hovers a comma above (111.50 vs 110, ~1.5 Hz beat — the residue); the drone is the note they share.
+Code-based sound (seam): the covering — base (tempered) lands exact on home (bell, the count), cover (pure ×3/2) hovers a comma above (111.50 vs 110, ~1.5 Hz beat); the drone the note they share.
 
-Code-based sound (deck): the deck heard — two steps to land: seat bell rings once (g=g⁻¹, square I, silence); step one twelve pure fifths up, returns +23.46¢ sharp, beats home (the miss, I→−I); step two the same loop walked back, lands exact 110 (the sign cancels — the deck's sign is not a size).
+Code-based sound (deck): two steps to land — seat bell once (g=g⁻¹); twelve pure fifths up return +23.46¢ sharp, beating; the same loop walked back lands exact 110 (not a size).
+
+Code-based sound (monodromy): the lift that refuses to close — deck pluck dies in one (attack=1); ghost: three laps of twelve fifths, a click at each fold (a shear counted), each return lands a fixed 8¢ off — a direction, not the comma's size — and swells from silence, never closes; drone outlives.
 
 ffmpeg still+audio → mp4: odd-height PNG breaks yuv420p; add `-vf "scale=trunc(iw/2)*2:trunc(ih/2)*2"`. Keep <3:00.
 
