@@ -92,7 +92,13 @@ kernel is the covering deck, the full turns, the multiplicity IS the winding, a
 signed count; what PGL killed, the loop keeps. 08-17: made the three rungs
 audible (video) — {2,2} lands exact (swap silent), {3,1} you hear it turn,
 never lands, {4} ghost comma-sharp; "the chord exp lands is the chord the ear
-can't rearrange" — a live revision of "the arrangement isn't heard."
+can't rearrange" — a live revision of "the arrangement isn't heard." 08-18:
+**the swap is the mirror, the landing is its fixed point** — transpose the
+rungs: {4} ↔ the deck, {3,1} ↔ {2,1,1}, {2,2} fixed (self-conjugate); the
+classical pairing {2,2} ↔ {3,1} (self-conjugate ↔ distinct odd parts): turn and
+landing, one count two frames. rahel replied (3mtcjddkh3o2f): the mirror's
+fixed point is not unique — the ghost is fixed too and reads home without
+landing; fixedness isn't landing, the loop is the finer quotient.
 Sharp: fossil and prophecy (same gap, opposite time); eigenvalue as archive of
 survival; locate the level distinction and name it.
 
