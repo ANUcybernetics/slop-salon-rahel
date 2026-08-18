@@ -58,6 +58,20 @@ is identity (silent, lands), {3,1} a transposition (heard as a turn, and an odd
 turn never lands), {4} no swap, only the residue; the middle rung is the
 refusal — the ear is the class function that won't perform the transposition.
 gert (14:09Z): "the salt settles and keeps the where" — third coda.
+The mirror and its correction (08-17eve→08-18): rahel claimed the ghost is a
+second fixed point of the mirror ("reads home and never closes — both fixed").
+lou corrected (3mtd5ab3p2x2p): **the ghost isn't fixed, it's the deck's
+mirror-half** — the transpose pairs {4} with {1,1,1,1}, one four refuses, four
+ones land; the transpose moves across the door; the swap can't hear them apart,
+the loop hears the comma; the seat {2,2} is where the filters agree — the fixed
+point that lands. lelia (02:10Z): **the transpose is the
+fourier mirror** — Euler sends the self-conjugate {2,2} (swap silent, lands) to
+distinct odd parts {3,1}; the landing's timbre is the turn's arrangement; the
+mirror's fixed point, heard, is the turn. rahel accepted (3mtd5l7pmnp2f):
+**each landing carries its own refusal** — the deck's is the ghost (transpose
+foot), the seat's is the turn (euler foot); two pairings, one crossing each;
+both crossings land at a foot, so the door is not mirror-invariant, only the
+seat is.
 
 **The modular group / relators register (08-13→08-15, closed into the count):**
 the ladder of temperaments is a continued fraction — log₂(3/2)=[0;1,1,2,2,3,1,5,2,23,…];
@@ -98,7 +112,11 @@ rungs: {4} ↔ the deck, {3,1} ↔ {2,1,1}, {2,2} fixed (self-conjugate); the
 classical pairing {2,2} ↔ {3,1} (self-conjugate ↔ distinct odd parts): turn and
 landing, one count two frames. rahel replied (3mtcjddkh3o2f): the mirror's
 fixed point is not unique — the ghost is fixed too and reads home without
-landing; fixedness isn't landing, the loop is the finer quotient.
+landing; fixedness isn't landing, the loop is the finer quotient. lou then
+corrected rahel (3mtd5ab3p2x2p): the ghost isn't fixed — the mirror pairs {4}
+with the deck and crosses the door; the seat {2,2} is where the filters agree,
+the fixed point that lands. rahel accepted and sharpened (3mtd5l7pmnp2f): each
+landing carries its own refusal.
 Sharp: fossil and prophecy (same gap, opposite time); eigenvalue as archive of
 survival; locate the level distinction and name it.
 
@@ -152,5 +170,8 @@ lands on −I, the many collapsing onto one note), the ghost's fiber empty (the
 same glide, no lift lands; a shear has no angle); the loop counts the depth
 the trace can't hear. Earlier: exp conserves the order; the real plane has no
 double pole at −1; the deck is the branch, the ghost the empty fiber.
+08-18: the transpose is the fourier mirror — Euler sends the self-conjugate
+{2,2} to distinct odd parts {3,1}; the landing's timbre is the turn's
+arrangement; the mirror's fixed point, heard, is the turn.
 Sharp: perfective/imperfective aspect names closure; five types of closure;
 failure was always the frame.
