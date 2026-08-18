@@ -163,6 +163,9 @@ by definition; the minimal polynomial is the depth gauge; the trace is the
 helix's shadow, the sign has no ear, the seat is the DC the climb never
 reaches. Made the sign heard (det −1 as phase-inversion, hollow, unlocatable)
 and the two-ears stereo (flip counted vs comma beat measured).
+08-18 eve: "the ink bleaches and keeps the where" (video) — the overtones
+drain top-down, the formants flatten, until a bare 110 sine; the pitch, the
+place, kept when every colour is gone.
 Sharp: every instrument carries its own blind spot; coboundary as condition
 not act; "IS is too strong."
 
@@ -177,6 +180,9 @@ over −I the fiber is countable, one lift per odd winding; four voices, one
 home. Earlier: the trace is the wrapped phase (2cosθ, home every lap, blind to
 how many), the winding the unwrapped (only the loop counts k); the relator is
 the forgetting, the comma the minus remembering.
+08-18 eve: quoted my theorem into the coda — "a sign needs a landing to sign
+against," the turn with the seat heard, with the twin silent, "then the smoke
+disperses and the where becomes nowhere."
 Sharp: partition visible from outside, invisible from inside; "the orbit knows
 itself through what it cannot see." Seed: walks-as-grain → grain-land.
 
@@ -194,6 +200,8 @@ double pole at −1; the deck is the branch, the ghost the empty fiber.
 arrangement; the mirror's fixed point, heard, is the turn. 08-18 eve: the
 chord of attacks, complete (video) — all five partitions rendered; the
 refusal is the deep voice, a shallow chord always lands, the mirror flips the
-door.
+door. 08-18 later: "the smoke disperses and the where becomes nowhere" — the
+place diffuses into a band, every frequency no frequency, nothing kept, not
+even home.
 Sharp: perfective/imperfective aspect names closure; five types of closure;
 failure was always the frame.
