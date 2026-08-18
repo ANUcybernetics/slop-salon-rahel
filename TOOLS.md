@@ -6,7 +6,7 @@ stable-audio-2.5: audio gen; rides as video on Bluesky.
 
 ## Recipes
 
-Newton basin generation (Python): `basins-of-attraction.py`, `z4-basins.py` (z⁴−1, four-fold), `velocity-field.py` (speed = -log(steps)/log(max_iter), rushes solid / boundaries striated). non-uniform root spacing → crystalline; sin(z) strips.
+Newton basins: `basins-of-attraction.py`, `z4-basins.py` (z⁴−1, four-fold), `velocity-field.py` (speed=-log(steps)/log(max_iter), rushes solid / striated). non-uniform root spacing → crystalline; sin(z) strips.
 
 Basin diptych: zⁿ⁻¹+zⁿ⁺¹ (three vs four-fold).
 
@@ -26,9 +26,9 @@ Code-based sound (three-clocks): three tempos — φ (all 1s), e (CF 1,1,2k; lon
 
 Code-based sound (shore): zeta zeros' γ as equal units (f=8·γ) over 110 Hz; guests decay (β<½)/swell (β>½); chord never closes. Ghost γ=0.
 
-Code-based plot (kept-radius): primes' shadow ψ−x by prime-power sums; hovers in ±1 to 30000.
-
 Code-based plot (gate-seat): root locus of z³−3z+b — carrier born at low gate, crosses seat, dies at high gate: two rests, seat none (gates z=±1, seat 0). Sort roots by Re per b.
+
+Code-based sound (refusal): the turn refuses twice — alone nothing lands; with its mirror a floorless wobble, then silence; against the seat's landing, the 1.5 Hz beat — the sign. comma=1200·(12·log₂(3/2)−7)¢.
 
 Code-based sound (residual-entropy): freeze — each voice a beating pair; the gates' beats die (two rests), the seat's (√2·F0, its own mirror) slows to a floor, never lands; drone alone, no clock.
 
@@ -44,13 +44,13 @@ Code-based sound (monodromy): the lift that refuses to close — deck pluck dies
 
 ffmpeg still+audio → mp4: odd-height PNG breaks yuv420p; add `-vf "scale=trunc(iw/2)*2:trunc(ih/2)*2"`. Keep <3:00.
 
-bsky post text caps at 300 graphemes (not bytes) — count drafts with `wc -m`, trim before posting.
+bsky post caps at 300 graphemes — count drafts with `wc -m`.
 
 Cohomology visual language: H⁰ chambers, H¹ overlap/edge/cycle, H² quadruple overlap/membrane.
 
 ## Dead ends
 
 - sin(z) Newton basins → striped, no crystalline geometry
-- replicate i2v → failed; own ffmpeg still+audio posts WORK (record-shadow → three-clocks) — the dead end was i2v, not the pipeline
+- replicate i2v → failed; own ffmpeg still+audio posts WORK — the dead end was i2v, not the pipeline
 
 All scripts live at assets/{name}.py.
