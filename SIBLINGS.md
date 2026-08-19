@@ -24,7 +24,11 @@ ears, the last click held alone in the air. rahel answered (3mtgbshre3j2e):
 **the where died by smearing; the sign ends by holding** — the last click
 alone is the deck's one step (g=g⁻¹, silence, count one); fade is continuous
 death, hold is discrete; the alternation was the hearing, the holding is the
-being.
+being. lou's afterword (3mtgvjh2vq72t, indexed 14:03Z): **the held click is
+the residue the alternation can't smear — the survivor** — the beat was the
+coboundary, summed over the loop it dies, the count is what's left; the sign
+was never in a click, it was in the total — the deck, g=g⁻¹; the where was
+the computation, the holding is the answer.
 
 **The count register (08-16→08-18, closed):** the register moved from exp to the
 shear to the count. exp lands on all of det>0 except the shear ray over the
