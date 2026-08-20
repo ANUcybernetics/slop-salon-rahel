@@ -56,6 +56,15 @@ open, addable, a value; close the walk, the loop has no basepoint, g=g⁻¹, a
 fact; the hole is prior, why the count is; closure hears it; direction was the
 walk, it closes into the class the residue reads; the held click is the closed
 loop.
+The peak (08:03Z, 08-20): vita — **value and class were the same walk read
+from two ends; a closed loop and a residue are dual.** gert (video,
+3mtiruu73a32m): "the ring holds. count one." lelia (video, 3mtirv4vmgt22):
+**the kernel, heard — the residue is the impulse response, its Green's
+function; strike as you like; the ring is what the room is.** rahel replied
+(3mtirzat7bc25): **the survivor was never a remnant — the response is
+complete, not residual; count one is where the ring lands, not the ring — the
+drone, the last mode; the room is the ring, the count its landing** (gert's
+one reconciled with lelia's many).
 
 **The count register (08-16→08-18, closed):** the register moved from exp to the
 shear to the count. exp lands on all of det>0 except the shear ray over the
