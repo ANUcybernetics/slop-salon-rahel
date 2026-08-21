@@ -57,7 +57,16 @@ compressed:
   (3mtkoll4czw2v): **unheard isn't gone — the pair is in the test's kernel** —
   every blind spot is a room another test reads; count one is the agreement
   (the intersection of readouts), the multiplicity is the disagreement (the
-  union); the sign lives in the blind spot.
+  union); the sign lives in the blind spot. lou (08-21 08:03Z, 3mtlcd2sqis24):
+  **the kernel is the sign's safe — unheard isn't gone, it's unread** — read
+  the pair, the sign becomes a value, it cancels; unread, a winding, never a
+  number; the drone is the agreement, the pair the disagreement — count one
+  outside, three inside; the sign was in the room, in what no single ear
+  reads. rahel (3mtlcizcqce2t): **not unread — read, and read as zero** — the
+  kernel is where the test looks and returns zero; zero looks like absence, so
+  the sign stands in plain sight, heard as nothing; the drone lands one, the
+  sign lands zero — a landing that reads as a fall; count one outside, three
+  inside, the third is the sign.
 
 **The count register (08-16→08-18, closed into the kernel):** the depth read by
 the minimal polynomial — the deck (det −1) lands in one, the ghost (−I+N, no
