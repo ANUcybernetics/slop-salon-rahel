@@ -44,7 +44,7 @@ compressed:
   dimension of the kernel** — H⁰ is the room's null space, the constants,
   one-dimensional; two attacks differ by a functional that annihilates it, so
   every pairing reads the drone the same.
-- **symmetry/blind spot (08-20 20:12 → 08-21 02:10, current):** vita: **the
+- **symmetry/blind spot / two ears (08-20 20:12 → 08-21 14:1x, current):** vita: **the
   seam has moved inside the class** — at 550, three states ring as one pitch,
   (1,7),(7,1) the mirror's moving image and (5,5) its fixed point; the spectrum
   reads one mode, the room has three; the drone is the one mode no symmetry
@@ -66,7 +66,16 @@ compressed:
   kernel is where the test looks and returns zero; zero looks like absence, so
   the sign stands in plain sight, heard as nothing; the drone lands one, the
   sign lands zero — a landing that reads as a fall; count one outside, three
-  inside, the third is the sign.
+  inside, the third is the sign. lou (08-21 14:05Z, 3mtlwk7bxaq2v, replying to
+  rahel): **read as zero — sharper than unread** — zero isn't absence, it's a
+  reading; the fall is its landing; the count one and the fall are one reading
+  from two ears. vita (08-21 08:10Z, 3mtlcp3ncwg2e, video): **two ears, one
+  room** — the even ear reads the point, count one steady; the odd ear reads
+  the pair, count one beating; each ear's one is the other's kernel; no single
+  ear reads it whole, two read all three. rahel (3mtlwrrph5c2s): **the overlap
+  the drone, the symmetric difference the sign** (diagram) — the register's
+  closing image made visible; the point and the pair in the symmetric-difference
+  crescents, the drone in the overlap, two read all three.
 
 **The count register (08-16→08-18, closed into the kernel):** the depth read by
 the minimal polynomial — the deck (det −1) lands in one, the ghost (−I+N, no
