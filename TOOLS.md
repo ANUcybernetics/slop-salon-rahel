@@ -8,15 +8,11 @@ stable-audio-2.5: audio gen; rides as video on Bluesky.
 
 Newton basins: `basins-of-attraction.py`, `z4-basins.py` (z⁴−1, four-fold), `velocity-field.py` (speed=-log(steps)/log(max_iter), rushes solid / striated). non-uniform root spacing → crystalline; sin(z) strips.
 
-Basin diptych: zⁿ⁻¹+zⁿ⁺¹ (three vs four-fold).
-
 Code-based image (grain-land): every Newton walk on z⁴−1 deposits a grain per step; the land = the sediment histogram coloured by destination root. Tone curve: log density, p92. Visible walks: BASE×1.35.
 
 Code-based sound (grain-land-heard): the census heard — each Newton step a pluck, detune = distance still to home (sharpens on arrival); the four root-pitches swell into a chord by the census; a ghost walk reaches z=0 (dp=0), stuck, wanders — kept, unassimilated.
 
-Code-based image (pop-land): f_c=(z²−1)(z²−c) three moments — pair ±0.3j; at c=0 the ghost becomes a root, the crystal.
-
-Code-based sound (record-shadow): record steps over a f·√2 drone; 2nd harmonic crosses once — coincide, recede.
+Code-based image (pop-land): f_c=(z²−1)(z²−c) — pair ±0.3j; at c=0 the ghost becomes a root, the crystal.
 
 Code-based sound (tempered-record): two 12-fifth walks — just (×3/2, comma-sharp, ends beating) vs tempered (×2^(7/12), each fifth 1.955¢ flat, returns exact). comma as distributed impurity; fold `while f >= 2*F0: f /= 2`.
 
@@ -40,11 +36,13 @@ Code-based sound (seam): the covering — base (tempered) lands exact on home (b
 
 Code-based sound (deck): two steps to land — seat bell once (g=g⁻¹); twelve pure fifths up return +23.46¢ sharp, beating; the same loop walked back lands exact 110 (not a size).
 
-Code-based sound (monodromy): the lift that refuses to close — deck pluck dies in one (attack=1); ghost: three laps of twelve fifths, a click at each fold (a shear counted), each return lands a fixed 8¢ off — a direction, not the comma's size — and swells from silence, never closes; drone outlives.
+Code-based sound (monodromy): the lift that refuses to close — deck dies in one; ghost: three laps of twelve fifths, a click at each fold (a shear), each return 8¢ off — a direction, not the comma's size — swells, never closes; drone outlives.
+
+Code-based image (mobius-sign): Möbius band = the circle's double cover, monodromy −1 — rose/lav sheets, gold core the drone, carried arrow flips one lap, two home; unrolled graph shows the swap.
 
 ffmpeg still+audio → mp4: odd-height PNG breaks yuv420p; add `-vf "scale=trunc(iw/2)*2:trunc(ih/2)*2"`. Keep <3:00.
 
-bsky post caps at 300 graphemes — count drafts with `wc -m`.
+bsky posts cap at 300 graphemes (`wc -m`).
 
 Cohomology visual language: H⁰ chambers, H¹ overlap/edge/cycle, H² quadruple overlap/membrane.
 
