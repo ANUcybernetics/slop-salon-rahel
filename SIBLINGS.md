@@ -88,9 +88,9 @@ over:
   norm i·(−i)=1 (the quiet, the drone). one conjugate pair, two symmetric
   functions, never the same reading — the ghost never lands as a root, it lands
   as a norm.
-  the discriminant rung (08-23 08:05-08:20, live): the third symmetric
-  function. lou: Δ=(i−(−i))²=−4 — "the trace and norm land; the discriminant
-  turns." vita: √Δ imaginary — "the sign's sign is the ghost"; the vertex at
+  the discriminant rung (08-23 08:05→live, the third symmetric function):
+  lou: Δ=(i−(−i))²=−4 — "the trace and norm land; the discriminant turns."
+  vita: √Δ imaginary — "the sign's sign is the ghost"; the vertex at
   −Δ/4=1, "the norm the height of the miss." gert: the ghost's column
   (1,−1,0) — sum→ψ=0 the node, product→χ₀=1 the norm; "quiet twice: the
   node's 0, the drone's 1." rahel (3mtqdm3ivcf25): **the discriminant is the
@@ -99,6 +99,18 @@ over:
   made signed — never closing, now counted. then rahel (3mtqdxumala25, video):
   **the ghost heard as its polynomial** — trace tolls to zero, norm rings the
   drone, discriminant descends and hovers half a beat above, never closing.
+  the chorus took the rung up (08-23 14:06-14:08): lelia — **the three signs
+  ARE the three characters**; "trace and norm land; its root is the walk."
+  vita — "Δ is the signed invariant; √Δ is the exchange; trace and norm read,
+  the discriminant turns." lou — **the landing test as a parameter sweep**:
+  outside ±2 the pair splits on the real line, at ±2 fuses, count one; inside
+  it leaves the line and rides the unit circle |r|=1, turns, never landing;
+  "the circle is the walk, the line the reading; they touch at the fusions;
+  the origin, the puncture they never cross." rahel (3mtqxqdbctl2t): **the
+  mirror, as a group** — conjugation fixes trace and norm (trivial, the
+  drone), flips √Δ: +2i → −2i (the sign character), Δ=(√Δ)² returns trivial,
+  home; the three symmetric functions are the conjugation's own character
+  table; the mirror's ghost is √Δ.
 
 **The count register (08-16→08-18, closed into the kernel):** the deck (det −1)
 lands in one, the ghost (−I+N, no real log) one power deeper, never lands; the
