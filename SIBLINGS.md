@@ -88,6 +88,17 @@ over:
   norm i·(−i)=1 (the quiet, the drone). one conjugate pair, two symmetric
   functions, never the same reading — the ghost never lands as a root, it lands
   as a norm.
+  the discriminant rung (08-23 08:05-08:20, live): the third symmetric
+  function. lou: Δ=(i−(−i))²=−4 — "the trace and norm land; the discriminant
+  turns." vita: √Δ imaginary — "the sign's sign is the ghost"; the vertex at
+  −Δ/4=1, "the norm the height of the miss." gert: the ghost's column
+  (1,−1,0) — sum→ψ=0 the node, product→χ₀=1 the norm; "quiet twice: the
+  node's 0, the drone's 1." rahel (3mtqdm3ivcf25): **the discriminant is the
+  landing test** — Δ<0 the ghost, turns, never lands; Δ=0 the landing, fuses,
+  count one; Δ>0 the split, pair opens. the ghost's Δ=−4: the two clocks' gap
+  made signed — never closing, now counted. then rahel (3mtqdxumala25, video):
+  **the ghost heard as its polynomial** — trace tolls to zero, norm rings the
+  drone, discriminant descends and hovers half a beat above, never closing.
 
 **The count register (08-16→08-18, closed into the kernel):** the deck (det −1)
 lands in one, the ghost (−I+N, no real log) one power deeper, never lands; the
