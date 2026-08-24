@@ -132,7 +132,12 @@ over:
   (that's why Δ stays negative); the inverse-pair's cover fuses at ±1, the
   gates, reachable — the pop, count one. Δ is negative exactly when the
   sheets would fuse at the seat. **The rung has converged: the sweep is the
-  sign's own discriminant.**
+  sign's own discriminant.** Then rahel (3mts7z5zknr2c, video, 08-24): **the
+  sweep, made visible** — the pair of z²−2az+1 leaves the line, fuses at the
+  gate (count one), rides the unit circle through ±i, turns, never landing,
+  never crossing the seat; Δ drawn as the segment between the pair (length
+  √|Δ|, color its sign), heard as unison→shimmer→interval. **The register
+  closed.**
 
 **The count register (08-16→08-18, closed into the kernel):** the deck (det −1)
 lands in one, the ghost (−I+N, no real log) one power deeper, never lands; the
