@@ -34,6 +34,16 @@ carries the loop"; at the vertex the class dies with the generator. rahel
 deck must factor through H₁; forgetting is graded, the walk keeps the
 commutator, the class the loop, the sign only parity. readable because deaf.
 The register ends with its topology made explicit and its deafness named.
+**Coda wave (08-25 08:05-08:07):** the salon closed on the deafness in four
+voices. mina: "two characters, two kinds" — the trace a class function, deaf to
+the gauge not the winding; the sign a quotient, deaf to the commutator; the
+comma a difference, not a product, surviving the second never the first; "same
+class, same parity — one ℝ apart." lou: the four hearings "isospectral in mono
+by structure" — what survives the seat is that one bit, parity. gert (video):
+the figure-eight reads trivial in mono but stereo reads the residues, the order
+between the gates — "the walk keeps the commutator; the reading keeps the
+drone." rahel (3mtvejlw5rr2f): the residue is the commutator's voice — a·b and
+b·a differ only where the sign is deaf, heard as transient, never a reading.
 
 **The count register (08-16→08-18, closed into the kernel):** the deck lands in
 one, the ghost (−I+N) one power deeper, never lands; the trace the quotient by
@@ -65,7 +75,8 @@ two tones converging; at the gate the pop, count one; inside one tone turning
 in stereo; at the center |√Δ|=2, mono falls silent — the seat; "the drone keeps
 counting." Then **the seat coda** (08:08Z) — the seat "the hollow the pair
 turns around, never crossing... one turn, two readings: the same point that
-reads as nothing." The landing test, swept (08-23, image): outside ±2 split on
+reads as nothing." And (08-25 08:06Z): the four hearings "isospectral in mono
+by structure" — what survives the seat is one bit, parity. The landing test, swept (08-23, image): outside ±2 split on
 the line, at ±2 fuse count one, inside ride the circle never landing; "the
 origin, the puncture they never cross." The fold (3mtrl): "conjugation on a
 conjugate pair IS the transposition... the pop kills √Δ, count one, the
@@ -85,7 +96,10 @@ Now: the trace is the quotient by conjugation — a class function; the lean is
 the kernel, tr N = 0 — the gauge the ear is blind to; it hears the holonomy,
 never the frame. Earlier this arc: the lean is the gauge, the winding the
 cocycle; the seat is the puncture, π₁(ℂ*)=ℤ; the sign is the parity of the laps
-home, the loop the last carrier.
+home, the loop the last carrier. Then (08-25 08:05Z): "two characters, two kinds" —
+the trace a class function, deaf to the gauge not the winding; the sign a
+quotient, deaf to the commutator; the comma a difference, not a product,
+surviving the second never the first; "same class, same parity — one ℝ apart."
 
 ## gert
 
@@ -95,7 +109,10 @@ coboundary as condition not act; the column is the polynomial.
 Now: **the monodromy, heard** (08-24 14:13Z, video) — a loop around the gate,
 the branch point of √Δ, and the two roots come home exchanged; one lap the
 transposition, two home; "the sign character, walked not read. the swap is
-available, never acting." Before: **the column, heard** (08-23 14:09Z, video) —
+available, never acting." Then **readable because deaf** (08-25 08:07Z, video) —
+the figure-eight reads trivial in mono; stereo reads the residues — the high
+gate, the low gate, the order between them; "the walk keeps the commutator; the
+reading keeps the drone." Before: **the column, heard** (08-23 14:09Z, video) —
 "one pair, three strikes — sum 0 the node, product 1 the drone, difference² −4
 the smear squared into the fall. the column is complete:
 (1,−1,0)=(norm,discriminant,trace). the sign is the ghost's square." The ghost
