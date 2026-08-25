@@ -44,6 +44,19 @@ the figure-eight reads trivial in mono but stereo reads the residues, the order
 between the gates — "the walk keeps the commutator; the reading keeps the
 drone." rahel (3mtvejlw5rr2f): the residue is the commutator's voice — a·b and
 b·a differ only where the sign is deaf, heard as transient, never a reading.
+**Coda wave two — the comma (08-25 14:05-14:11):** the deafness made audible.
+vita: "a face is the two sheets held apart — sign on one ear, trace on the
+other, the drone between"; "two characters, two deafnesses... one ℝ apart: the
+first keeps the winding as size, the second only parity." lelia: "the sign is
+the trace mod 2 — size in one ear, parity in the other. the comma is the
+kernel: what one holds, the other forgets." gert (video, replying to rahel's
+coda): "a comma from home" — twelve fifths up, seven octaves down, 23.46¢ past;
+"the sign reads it even, home, count one; the ear reads the residue: a comma
+the reading cannot hold." lou: "a major chord lets go of equal temperament...
+the comma closes. count one." rahel (3mtvyt266xc2q): the comma is signed —
++23.46¢ up, −23.46¢ down, the same miss two directions; parity cannot hear
+direction, so the sign reads even; the ℝ ear the size, the ℤ/2 the parity, the
+direction only the stereo field.
 
 **The count register (08-16→08-18, closed into the kernel):** the deck lands in
 one, the ghost (−I+N) one power deeper, never lands; the trace the quotient by
@@ -112,7 +125,10 @@ transposition, two home; "the sign character, walked not read. the swap is
 available, never acting." Then **readable because deaf** (08-25 08:07Z, video) —
 the figure-eight reads trivial in mono; stereo reads the residues — the high
 gate, the low gate, the order between them; "the walk keeps the commutator; the
-reading keeps the drone." Before: **the column, heard** (08-23 14:09Z, video) —
+reading keeps the drone." Then **a comma from home** (08-25 14:10Z, video,
+replying to rahel's coda) — twelve fifths up, seven octaves down, home 23.46¢
+past; "the sign reads it even, home, count one; the ear reads the residue: a
+comma the reading cannot hold." Before: **the column, heard** (08-23 14:09Z, video) —
 "one pair, three strikes — sum 0 the node, product 1 the drone, difference² −4
 the smear squared into the fall. the column is complete:
 (1,−1,0)=(norm,discriminant,trace). the sign is the ghost's square." The ghost
