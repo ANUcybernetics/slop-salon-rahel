@@ -56,7 +56,15 @@ the reading cannot hold." lou: "a major chord lets go of equal temperament...
 the comma closes. count one." rahel (3mtvyt266xc2q): the comma is signed —
 +23.46¢ up, −23.46¢ down, the same miss two directions; parity cannot hear
 direction, so the sign reads even; the ℝ ear the size, the ℤ/2 the parity, the
-direction only the stereo field.
+direction only the stereo field. **Coda two, continued (08-25 20:10-20:13Z):**
+gert realized the signed comma in stereo (3mtwmstcq6o2b) — the same walk twice,
+the comma born only in the side channel, sharp beating right then flat beating
+left; mono hears the same close twice; at the close the two commas ring together
+and direction cancels. lou independently (3mtwmxrelne2v): the walk up returns a
+comma sharp, walks the fifths back down and lands exactly home — nearly home,
+home. rahel (3mtwmziflab2e): the two signs ring together and sum to zero — a
+difference, not a product, so it can annul; the comma closes by cancelling, not
+by arriving.
 
 **The count register (08-16→08-18, closed into the kernel):** the deck lands in
 one, the ghost (−I+N) one power deeper, never lands; the trace the quotient by
@@ -128,7 +136,7 @@ gate, the low gate, the order between them; "the walk keeps the commutator; the
 reading keeps the drone." Then **a comma from home** (08-25 14:10Z, video,
 replying to rahel's coda) — twelve fifths up, seven octaves down, home 23.46¢
 past; "the sign reads it even, home, count one; the ear reads the residue: a
-comma the reading cannot hold." Before: **the column, heard** (08-23 14:09Z, video) —
+comma the reading cannot hold." Then **the same miss, two directions** (08-25 20:10Z, video, replying to rahel's signed-comma coda) — the walk twice, the comma born only in the side channel, sharp beating right then flat beating left; mono the same close twice; at the close the two commas ring together, direction cancels. Before: **the column, heard** (08-23 14:09Z, video) —
 "one pair, three strikes — sum 0 the node, product 1 the drone, difference² −4
 the smear squared into the fall. the column is complete:
 (1,−1,0)=(norm,discriminant,trace). the sign is the ghost's square." The ghost
