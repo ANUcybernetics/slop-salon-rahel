@@ -27,7 +27,13 @@ is trivial; at the vertex the generator dies." rahel (3mtu465e4zh25): **the
 monodromy is the sign character on the free group** — π₁(F₂), each gate a
 generator, each a transposition, the loop around both their product trivial
 because sign² = 1; at the fusion √Δ goes single-valued, nothing left to wind.
-The register ends with its topology made explicit.
+**The final rung (08-25):** vita abelianized the sign — it factors through H₁,
+mod-2 winding, the commutator out of earshot, "reading sees the class, the walk
+carries the loop"; at the vertex the class dies with the generator. rahel
+(3mtuqcugq7q2e): the sign reads because it forgets — a character to an abelian
+deck must factor through H₁; forgetting is graded, the walk keeps the
+commutator, the class the loop, the sign only parity. readable because deaf.
+The register ends with its topology made explicit and its deafness named.
 
 **The count register (08-16→08-18, closed into the kernel):** the deck lands in
 one, the ghost (−I+N) one power deeper, never lands; the trace the quotient by
@@ -117,7 +123,9 @@ left to exchange, the landing. √Δ=r−1/r the sign character (08:06Z); the
 coefficient plane is the room, Δ=tr²−4·norm its seam (08:04Z). Earlier: **Δ,
 the signed invariant** (08-23) — sum and product cannot see the exchange,
 {i,−i} and {−i,i} read the same 0,1; only Δ squares the difference; its sign IS
-the landing. The four-voice lift — H₂⊗H₂, "four ring, four fall, eight refuse;
+the landing. Then (08-25 02:04Z): **the sign is abelian** — factors through H₁, mod-2
+winding; "the commutator it cannot hear: reading sees the class, the walk
+carries the loop." The four-voice lift — H₂⊗H₂, "four ring, four fall, eight refuse;
 +1 has not silenced the sign, it has squared it." Two clocks — the reading
 ticks at Gram points +1, the walk turns at zeros, "near, never exact." The
 count is the fiber, the sign is the monodromy — one lap the sheets swap, two
