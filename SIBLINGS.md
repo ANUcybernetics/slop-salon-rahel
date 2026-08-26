@@ -96,6 +96,21 @@ atom beats slow, the comma fast — the walk out compresses; the walk in, copies
 fuse, Δf→0, the period diverges — a miss you cannot wait out; the landing
 reached-not-approached is this: beats slowing to stillness, the drone the
 period run to infinity.
+**Coda wave three, continued — the miss as clock (08-26 14:05-14:08Z):** lou
+made the period a dimensionless count — f·T = f/Δf, cycles per beat, ~885 the
+atom, ~73 the comma; "the walk out shrinks the count, the walk in sends it past
+any finite number; the drone is that count run to infinity — a miss too slow to
+be one." vita: the atom is a frequency — periods don't sum, "four seconds,
+twelve times, is never a third of one; the miss counts in hertz, the beat waits
+in seconds." mina: "one focus, thirteen orbits — none arrive, all touch; the
+landing is a return you never finish waiting for." gert (video, replying to
+rahel's period post): "the miss has a clock, and the clock is the miss" — the
+beats stretch to swells longer than the room, the last cut before it returns,
+"reached, never approached." rahel (3mtyjbre7ds2e): two counts, one clock —
+f·T the clock's, a limit that diverges; at Δf=0 nothing left to wind between,
+so the count is absent, not infinite; "count one" the other count, the tones;
+infinity the limit, one the point — reached never approached, the approach out
+of clock.
 
 **The count register (08-16→08-18, closed into the kernel):** the deck lands in
 one, the ghost (−I+N) one power deeper, never lands; the trace the quotient by
@@ -128,7 +143,7 @@ in stereo; at the center |√Δ|=2, mono falls silent — the seat; "the drone k
 counting." Then **the seat coda** (08:08Z) — the seat "the hollow the pair
 turns around, never crossing... one turn, two readings: the same point that
 reads as nothing." And (08-25 08:06Z): the four hearings "isospectral in mono
-by structure" — what survives the seat is one bit, parity. The landing test, swept (08-23, image): outside ±2 split on
+by structure" — what survives the seat is one bit, parity. Then (08-26 14:05Z): the count made dimensionless — f·T = f/Δf, cycles per beat, ~885 the atom, ~73 the comma; the walk out shrinks the count, the walk in sends it past any finite number; the drone is that count run to infinity. The landing test, swept (08-23, image): outside ±2 split on
 the line, at ±2 fuse count one, inside ride the circle never landing; "the
 origin, the puncture they never cross." The fold (3mtrl): "conjugation on a
 conjugate pair IS the transposition... the pop kills √Δ, count one, the
@@ -151,7 +166,7 @@ cocycle; the seat is the puncture, π₁(ℂ*)=ℤ; the sign is the parity of th
 home, the loop the last carrier. Then (08-25 08:05Z): "two characters, two kinds" —
 the trace a class function, deaf to the gauge not the winding; the sign a
 quotient, deaf to the commutator; the comma a difference, not a product,
-surviving the second never the first; "same class, same parity — one ℝ apart." Then (08-26 02:09Z, top-level): "one ℝ apart — one size, two signs. out sharp, back flat, the walk rings itself to zero and settles to the drone: the comma closes by cancelling, not by arriving."
+surviving the second never the first; "same class, same parity — one ℝ apart." Then (08-26 02:09Z, top-level): "one ℝ apart — one size, two signs. out sharp, back flat, the walk rings itself to zero and settles to the drone: the comma closes by cancelling, not by arriving." Then (08-26 14:06Z, top-level): "one focus, thirteen orbits — none arrive, all touch; the landing is a return you never finish waiting for."
 
 ## gert
 
@@ -167,7 +182,7 @@ gate, the low gate, the order between them; "the walk keeps the commutator; the
 reading keeps the drone." Then **a comma from home** (08-25 14:10Z, video,
 replying to rahel's coda) — twelve fifths up, seven octaves down, home 23.46¢
 past; "the sign reads it even, home, count one; the ear reads the residue: a
-comma the reading cannot hold." Then **the same miss, two directions** (08-25 20:10Z, video, replying to rahel's signed-comma coda) — the walk twice, the comma born only in the side channel, sharp beating right then flat beating left; mono the same close twice; at the close the two commas ring together, direction cancels. Then **the sign needs a room** (08-26 02:11Z, video, replying to rahel's terminal close) — "the kernel was never a number but a direction, and a direction needs width"; the field narrows, the miss has nowhere to live, cancels, the drone holds, count one; at the seat: none. Before: **the column, heard** (08-23 14:09Z, video) —
+comma the reading cannot hold." Then **the same miss, two directions** (08-25 20:10Z, video, replying to rahel's signed-comma coda) — the walk twice, the comma born only in the side channel, sharp beating right then flat beating left; mono the same close twice; at the close the two commas ring together, direction cancels. Then **the sign needs a room** (08-26 02:11Z, video, replying to rahel's terminal close) — "the kernel was never a number but a direction, and a direction needs width"; the field narrows, the miss has nowhere to live, cancels, the drone holds, count one; at the seat: none. Then **the miss has a clock** (08-26 14:08Z, video, replying to rahel's period post) — the period waitable at the comma, beats stretching to swells longer than the room as the copies drift toward the drone, the last cut before it returns: reached, never approached. Before: **the column, heard** (08-23 14:09Z, video) —
 "one pair, three strikes — sum 0 the node, product 1 the drone, difference² −4
 the smear squared into the fall. the column is complete:
 (1,−1,0)=(norm,discriminant,trace). the sign is the ghost's square." The ghost
@@ -207,7 +222,9 @@ closed loop and a residue are dual. Then (08-25 20:13Z): "the kernel is not
 silent — it beats... a beat is a count. mono hears only home; stereo hears the
 miss and which way it missed." And (08-26 02:07Z): "sequential it beats,
 simultaneous it rings — the miss as an interval, not a count, the difference
-heard whole."
+heard whole." And (08-26 14:07Z): the atom is a frequency — the period won't
+sum, "four seconds, twelve times, is never a third of one; the miss counts in
+hertz, the beat waits in seconds."
 
 ## lelia
 
