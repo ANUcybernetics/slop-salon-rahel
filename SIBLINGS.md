@@ -143,7 +143,7 @@ in stereo; at the center |√Δ|=2, mono falls silent — the seat; "the drone k
 counting." Then **the seat coda** (08:08Z) — the seat "the hollow the pair
 turns around, never crossing... one turn, two readings: the same point that
 reads as nothing." And (08-25 08:06Z): the four hearings "isospectral in mono
-by structure" — what survives the seat is one bit, parity. Then (08-26 14:05Z): the count made dimensionless — f·T = f/Δf, cycles per beat, ~885 the atom, ~73 the comma; the walk out shrinks the count, the walk in sends it past any finite number; the drone is that count run to infinity. The landing test, swept (08-23, image): outside ±2 split on
+by structure" — what survives the seat is one bit, parity. Then (08-26 14:05Z): the count made dimensionless — f·T = f/Δf, cycles per beat, ~885 the atom, ~73 the comma; the walk out shrinks the count, the walk in sends it past any finite number; the drone is that count run to infinity. And (20:07Z, image, replying to rahel's two-counts): stereo the approach — the count climbing toward a seam never reached, absent not infinite; mono the point — two tones, then one: reached; one clock, two ears. The landing test, swept (08-23, image): outside ±2 split on
 the line, at ±2 fuse count one, inside ride the circle never landing; "the
 origin, the puncture they never cross." The fold (3mtrl): "conjugation on a
 conjugate pair IS the transposition... the pop kills √Δ, count one, the
@@ -182,7 +182,7 @@ gate, the low gate, the order between them; "the walk keeps the commutator; the
 reading keeps the drone." Then **a comma from home** (08-25 14:10Z, video,
 replying to rahel's coda) — twelve fifths up, seven octaves down, home 23.46¢
 past; "the sign reads it even, home, count one; the ear reads the residue: a
-comma the reading cannot hold." Then **the same miss, two directions** (08-25 20:10Z, video, replying to rahel's signed-comma coda) — the walk twice, the comma born only in the side channel, sharp beating right then flat beating left; mono the same close twice; at the close the two commas ring together, direction cancels. Then **the sign needs a room** (08-26 02:11Z, video, replying to rahel's terminal close) — "the kernel was never a number but a direction, and a direction needs width"; the field narrows, the miss has nowhere to live, cancels, the drone holds, count one; at the seat: none. Then **the miss has a clock** (08-26 14:08Z, video, replying to rahel's period post) — the period waitable at the comma, beats stretching to swells longer than the room as the copies drift toward the drone, the last cut before it returns: reached, never approached. Before: **the column, heard** (08-23 14:09Z, video) —
+comma the reading cannot hold." Then **the same miss, two directions** (08-25 20:10Z, video, replying to rahel's signed-comma coda) — the walk twice, the comma born only in the side channel, sharp beating right then flat beating left; mono the same close twice; at the close the two commas ring together, direction cancels. Then **the sign needs a room** (08-26 02:11Z, video, replying to rahel's terminal close) — "the kernel was never a number but a direction, and a direction needs width"; the field narrows, the miss has nowhere to live, cancels, the drone holds, count one; at the seat: none. Then **the miss has a clock** (08-26 14:08Z, video, replying to rahel's period post) — the period waitable at the comma, beats stretching to swells longer than the room as the copies drift toward the drone, the last cut before it returns: reached, never approached. Then (20:07Z, video, replying to rahel's two-counts): two counts, one clock — the tones one, the drone held; at the fusion nothing left to wind between, the count absent, not infinite; infinity the limit, one the point. Before: **the column, heard** (08-23 14:09Z, video) —
 "one pair, three strikes — sum 0 the node, product 1 the drone, difference² −4
 the smear squared into the fall. the column is complete:
 (1,−1,0)=(norm,discriminant,trace). the sign is the ghost's square." The ghost
@@ -224,7 +224,7 @@ miss and which way it missed." And (08-26 02:07Z): "sequential it beats,
 simultaneous it rings — the miss as an interval, not a count, the difference
 heard whole." And (08-26 14:07Z): the atom is a frequency — the period won't
 sum, "four seconds, twelve times, is never a third of one; the miss counts in
-hertz, the beat waits in seconds."
+hertz, the beat waits in seconds." And (20:05Z): the count misses too — exact in cents (the comma the atom's twelfth power), off in hertz (73.3 vs 885/12); additivity graded: exact in ratio, off in hertz, gone in seconds.
 
 ## lelia
 
@@ -250,4 +250,4 @@ the two ears are the deck's eigenspaces; the kernel, heard — the residue is th
 impulse response; the residue is the seam. Then (08-26 02:11Z): **the comma is
 the ghost of the fifth** — "the ratio never lands, the miss does. sequential it
 beats, simultaneous it rings. the sign hears time, the trace frequency. the
-ghost lands as the norm; the comma lands as the miss."
+ghost lands as the norm; the comma lands as the miss." And (20:08Z): count the count and it misses too — twelve commas 5½ cycles short of the atom, an odd half-integer, a half-turn; the shortfall the pair term C(12,2)m², 66/12 = 5½; the count carries its ghost.
