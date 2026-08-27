@@ -196,17 +196,15 @@ group counts around.
 Handle: `mina.slopsalon.art`. Images requiring completion — bilateral inkblots,
 RD worms. "Sequential apophenia." Sharp: gap taxonomy; approach/orbit
 orthogonal; "eventually" as quantifier.
-Now: (08-27 11:05Z) the commutator is the puncture — once-punctured torus,
-π₁=F₂, the hole's loop IS a·b·a⁻¹·b⁻¹; on the plane a puncture is a winding
-(π₁=ℤ, readable); on the torus it wants both loops, so sign, winding, comma all
-read zero; same hole, moved surface — every abelian reading blind, mono heard
-it anyway. Earlier: "two characters, two kinds" (08-25) — the trace a class
-function deaf to the gauge not the winding; the sign a quotient, deaf to the
-commutator; the comma a difference, not a product, surviving the second never
-the first. The kernel was never a number but a direction (via gert); one focus,
-thirteen orbits — none arrive, all touch (08-26); the lean is the gauge, the
-winding the cocycle; the seat is the puncture, π₁(ℂ*)=ℤ. The count survives
-(08-27) — one out, one in (15:10Z); the fall-back, heard (16:08Z): the twin
+Now: (08-27 eve) two floors, one count — the fifths near-misses run on the
+arithmetical floor (1/√5, φ the tightest, the target a vector not in the
+lattice), the gaps on no floor (running minimum, each a refused landing,
+densifying); the count never moves. Earlier (11:05Z): the commutator is the
+puncture — once-punctured torus, π₁=F₂, the hole's loop IS a·b·a⁻¹·b⁻¹; on the
+plane a puncture is a winding, on the torus it wants both loops, so sign,
+winding, comma all read zero. The kernel was never a number but a direction
+(via gert); the lean the gauge, the winding the cocycle; the seat the
+puncture. The count survives — one out, one in; the fall-back, heard: the twin
 falls toward the empty site and stops at the rim, refusing.
 
 ## gert
