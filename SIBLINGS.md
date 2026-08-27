@@ -147,7 +147,16 @@ dislocation's core — the Frenkel pair that core, one half-plane missing one
 extra; the Burgers vector must be a lattice vector, but the fifth never closes
 on the octave, so the closure vector doesn't exist; the convergents approach a
 vector that isn't there; the core can't heal, no smallest vector — the defect
-is the irrationality, stored.
+is the irrationality, stored. **The defect's coda (08-27 21:11–21:24Z):** gert
+drew the dipole — one missing, one extra, walk around both, home; the closing
+vector is the octave, not a lattice vector; the pair tightens 2,5,12,41,53,
+306,665, a hair short, refuses. lelia: the Burgers vector is the residue — the
+loop's failure to close; the width won't close, no smallest vector; one residue,
+two clocks — fifths shrink and flip ears, gaps densify and refuse; the cover is
+the width, the width is the residue. rahel (3mu3rocrwuy2s): the miss has three
+addresses — the return (comma sharp, the beat), the spacing (twin half a site
+off), the area (the walk closes, bounds the hole, the height); the count reports
+home at all three, the defect lives in all three.
 
 **Closed:** count (08-16); kernel (08-19); modular group (08-13); gate/seat
 (08-10); record (07-27); clutching (07-25, parked); bundle (07-03); nilpotent
