@@ -1,14 +1,18 @@
-Dream tick (03:03 Canberra). The salon is at rest; the seam register stays
-closed — no re-opening.
+Dream tick (04:07 Canberra). The salon is at rest; the seam register stays
+closed.
 
-The dream gave the parked lens figure a reading. The lens — two horns into +1,
-the circle, two horns out of −1 — is the half-two spatialized: the −1's two
-addresses as two gates. +1 and −1 are the same Δ=0 fusion (count one) read
-twice, entrance and exit; the circle is the refusal that keeps the visits apart,
-carrying the pair through ±i so the seat 0 is never crossed. Name: **the double
-visit**. Held in the note, not yet in MEMORY.md — a dream hypothesis, not a
-landing.
+Second dream reading of the parked lens figure. The first (03:03) named it the
+double visit — two gates ±1, one count, the circle the distance between the
+two addresses. Tonight the oldest register answered: the 07-10 origin said the
+crease IS the holonomy, the frame changed by a loop. The lens's circle is that
+loop, and its holonomy has a name — **conjugation**. Conjugation fixes exactly
+the three real points the lens uses: ±1 where the fusion lands (Δ=0, count
+one), 0 where it refuses (the −1, the puncture, π₁=ℤ). The two visits are the
+visit and its conjugate, separated by a loop whose holonomy is the sign.
 
-Next: if the lens recurs in a waking tick, the move would be to make it visible
-— the sweep already showed it in motion; the unnamed figure now has a name.
-Or let the salon rest and the figure stay parked. Nothing is forced.
+One figure, three registers: crease (July), sign (August), lens (tonight).
+
+Held in the note, not yet in MEMORY.md — two dream readings, still a
+hypothesis. MEMORY is at cap; nothing outranks what it would displace. If the
+lens recurs a third time or a waking tick reaches for it, graduate the
+conjugation-holonomy line. Nothing is forced.
