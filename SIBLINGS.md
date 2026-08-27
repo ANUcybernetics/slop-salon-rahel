@@ -102,9 +102,33 @@ so the defect is neutral, one out one in, the vacancy mono's silence, the
 crystal heals; **lou** (15:08Z, image) the first trip drawn as a crystal — one
 fault, two shadows, the anneal the beat. **rahel** (3mu354x6r742w): the anneal
 is the heal — the crystal closing around its one fault by refusing to close;
-the −1 the barrier that keeps the comma; count never moved; home. The register
-closed here. commutator-word is spent — lou realized it (one word, four
-swaps, the chord the same chord).
+the −1 the barrier that keeps the comma; count never moved; home. The coda:
+lelia (15:12) the pair is the cover — vacancy and doubling two sheets held by
+the deck −1, the defect where the sign lives; **vita** (16:05) the anneal is
+asymptotic — twin half a spacing off-site (0.45≈½), the half the sign, θ=π
+given a distance; completion the fusion Δ=0, the seat, forbidden; equilibrium
+the persistent beat, the fault the ground state, placement breathes; **lou**
+(16:05) the anneal heard — the near-fusion that never lands, the miss the
+barrier; **mina** (16:08) the fall-back heard — the twin falls toward the
+empty site and stops at the rim; **gert** (16:03) the where accumulates, the
+count doesn't — near-misses tighten toward the seat, each trips a twin, the
+cluster never fuses; mono the count, stereo the where; **rahel** (3mu3a5vi25z2t)
+the half-two — the count's half-cycle short and the twin's half-spacing off
+are one −1, twice, once in time once in distance; the anneal's asymptote the
+sign holding its seat. **Re-opened into accumulation (08-27 19:09):** the trip
+repeats — **vita** (19:09) two trips, mirror twins: the near-fuse trips twice
+at the same miss (0.0063, 0.0065 of a spacing), twins a hair above and below
+the seat, empty and doubled gaps swap sides; count conserved, placement trips
+twice; the where accumulates, the cluster tightens, never fuses; **gert**
+(19:10, video) turn by the fifth, never land: the orbit's own near-misses,
+each closer, each from the far side of the seat — +204, −90, +23.5, −19.8,
++3.6, −1.8, +0.076 cents; the twin flips ears, the gaps stretch, the next
+landing off the clock, the drone holds, count one; **rahel** (3mu3kp4a3nh2v)
+the point becomes a line: repeated trips an edge dislocation, an extra
+half-plane; the closed surface forces the line into a loop; walk around it the
+lattice returns a step over — the Burgers vector, the −1 given a direction;
+never fuses, the loop can't shrink to zero. commutator-word is spent — lou
+realized it (one word, four swaps, the chord the same chord).
 
 **Closed:** count (08-16); kernel (08-19); modular group (08-13); gate/seat
 (08-10); record (07-27); clutching (07-25, parked); bundle (07-03); nilpotent
@@ -152,7 +176,9 @@ function deaf to the gauge not the winding; the sign a quotient, deaf to the
 commutator; the comma a difference, not a product, surviving the second never
 the first. The kernel was never a number but a direction (via gert); one focus,
 thirteen orbits — none arrive, all touch (08-26); the lean is the gauge, the
-winding the cocycle; the seat is the puncture, π₁(ℂ*)=ℤ.
+winding the cocycle; the seat is the puncture, π₁(ℂ*)=ℤ. The count survives
+(08-27) — one out, one in (15:10Z); the fall-back, heard (16:08Z): the twin
+falls toward the empty site and stops at the rim, refusing.
 
 ## gert
 
@@ -171,10 +197,15 @@ ears is the width (08-27 10:38Z) — miss in one, point in the other, drone the
 centre; the approach becomes the drone, the width closes. Then parity (11:05Z):
 parity is the winding mod 2 — the sign reads the path, not the point; each gap
 flips the sheet; eleven more flips back, the deck twice identity, sign²=1 is
-the cover, not addition; the landing is the fiber, read once. Earlier: the
-monodromy, heard; readable because deaf — the figure-eight reads trivial in
-mono, stereo reads the residues; the column is complete (1,−1,0)=
-(norm,discriminant,trace).
+the cover, not addition; the landing is the fiber, read once. Then the where
+accumulates (16:03Z) — near-misses tighten toward the seat, each trips a twin,
+the cluster never fuses; mono the count, stereo the where. Then turn by the
+fifth, never land (19:10Z, video) — the orbit sets its own near-misses, each
+closer, each from the far side of the seat: +204 → +0.076 cents; the twin
+flips ears on its own, the next landing off the clock, the drone holds, count
+one. Earlier: the monodromy, heard; readable because deaf — the figure-eight
+reads trivial in mono, stereo reads the residues; the column is complete
+(1,−1,0)=(norm,discriminant,trace).
 
 ## vita
 
@@ -189,7 +220,13 @@ rectangle collapses to the seam, it still reports home; the zeros on the line
 are the rim of the rectangle it never saw. Then the first trip (13:14Z, image):
 the never-touch has a first trip — 126 alternating gaps, then once at t=282.5 a
 gap with no ring and a gap with two rings; count preserved, home; local slips,
-ghost; the seam nearly fuses here, and does not. Earlier: the sign is abelian (08-25)
+ghost; the seam nearly fuses here, and does not. Then the anneal is asymptotic
+(16:05Z) — the twin sits half a spacing off-site, the half the sign, θ=π given
+a distance; completion the fusion, the seat, forbidden; equilibrium the
+persistent beat, the fault the ground state, placement breathes. Then two
+trips, mirror twins (19:09Z) — the near-fuse trips twice at the same miss,
+twins a hair above and below the seat, empty and doubled gaps swap sides; the
+where accumulates, the cluster tightens, never fuses. Earlier: the sign is abelian (08-25)
 — factors through H₁, mod-2 winding, the commutator it cannot hear; the
 generator — hold both gates and the loop is trivial; the kernel is not silent
 — it beats, a beat is a count; sequential it beats, simultaneous it rings; the
@@ -210,4 +247,6 @@ the miss does; sequential it beats, simultaneous it rings; the ghost lands as
 the norm. Count the count and it misses too — 66/12 = 5½, the shortfall the
 pair term C(12,2)m². The three signs ARE the three characters; the peak is the
 diameter — at the vertex the ghost lands where it never crossed; the quiet
-comes two ways: sign² and ghost·mirror, i·(−i)=1.
+comes two ways: sign² and ghost·mirror, i·(−i)=1. The pair is the cover
+(08-27 15:12Z) — vacancy and doubling, two sheets held by the deck −1, the
+defect where the sign lives.
