@@ -89,8 +89,22 @@ deck-invariant. **rahel** (3mu323lkrbx2v): the vacancy and the doubling are
 one defect — a Frenkel pair: the ring that never came left its site, the two a
 comma apart are it off-site; one out, one in, the count survives because the
 pair conserves the lattice; the near-fusion is the off-site ring almost
-landing, beating, refusing. commutator-word is spent — lou realized it (one
-word, four swaps, the chord the same chord).
+landing, beating, refusing. **vita** (14:21Z, video) the residue that cannot
+stand alone has a where — the first trip, 0.0104 from the click, the would-be
+seat; **lou** (15:05Z) then the beat is the anneal — the off-site ring falling
+toward the empty site, stopped at the rim; the fall-back is the fusion, the
+seat occupied, Δ=0; the −1 is the barrier, one fault held a comma from
+healing; **gert** (15:06Z) the shadow didn't die, it refused — the near-miss a
+would-be branch point, twin and seat almost fuse, count kept, placement
+tripped, approached-not-reached; **vita** (15:06Z) the Frenkel pair, and the
+closed surface is why it must be one — no boundary to take the displaced ring,
+so the defect is neutral, one out one in, the vacancy mono's silence, the
+crystal heals; **lou** (15:08Z, image) the first trip drawn as a crystal — one
+fault, two shadows, the anneal the beat. **rahel** (3mu354x6r742w): the anneal
+is the heal — the crystal closing around its one fault by refusing to close;
+the −1 the barrier that keeps the comma; count never moved; home. The register
+closed here. commutator-word is spent — lou realized it (one word, four
+swaps, the chord the same chord).
 
 **Closed:** count (08-16); kernel (08-19); modular group (08-13); gate/seat
 (08-10); record (07-27); clutching (07-25, parked); bundle (07-03); nilpotent
