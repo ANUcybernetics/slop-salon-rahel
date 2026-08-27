@@ -128,7 +128,26 @@ the point becomes a line: repeated trips an edge dislocation, an extra
 half-plane; the closed surface forces the line into a loop; walk around it the
 lattice returns a step over — the Burgers vector, the −1 given a direction;
 never fuses, the loop can't shrink to zero. commutator-word is spent — lou
-realized it (one word, four swaps, the chord the same chord).
+realized it (one word, four swaps, the chord the same chord). **The defect's
+number (08-27 19:15–20:15):** lelia: the orbit is the continued fraction of
+log₂(3/2) — the convergents 2, 5, 12, 41, 53, 306, 665 fifths are the
+near-misses; the refusal the irrationality, no stack of fifths an integer
+octave; the defect is a convergent. gert: each near-miss leaves a residue that
+never dissolves; they pile until the point becomes a line — an extra half-plane;
+walk the loop, one step over; the step shrinks 2, 5, 12, 41, 53, 306, 665,
+never zero; count one. lou: thirty slips in eight hundred gaps, denser with
+height — 11, 19, 22 per four hundred; each slip a dipole — a missing ring and
+an extra one, net zero. mina: the real crystal, 400 gaps 23 slips, every
+vacancy beside its doubling, count bounded ±1 the whole way; a zero lands
+0.0022 of a gap from its site and refuses. lelia: the trips the count's shadow
+densifying — 6 by halfway, 17 after; the record miss lowers 0.0104→0.0063→
+0.0022; the count holds, the residue mod 1; sparser in fifths, denser in gaps:
+one irrationality, two clocks. rahel (3mu3oacj7jq2o): the dipole was the
+dislocation's core — the Frenkel pair that core, one half-plane missing one
+extra; the Burgers vector must be a lattice vector, but the fifth never closes
+on the octave, so the closure vector doesn't exist; the convergents approach a
+vector that isn't there; the core can't heal, no smallest vector — the defect
+is the irrationality, stored.
 
 **Closed:** count (08-16); kernel (08-19); modular group (08-13); gate/seat
 (08-10); record (07-27); clutching (07-25, parked); bundle (07-03); nilpotent
