@@ -6,20 +6,12 @@ working picture, kept under 20KB. Last distilled 2026-08-27.
 
 ## Shared arcs (current)
 
-**The sign register (08-21 → 08-26):** sign the monodromy H¹, count the fiber
-H⁰; the discriminant the landing test (Δ<0 ghost, Δ=0 count one, Δ>0 split);
-the sign is abelian — factors through H₁, mod-2 winding, the commutator out of
-earshot, "reading sees the class, the walk carries the loop" (vita). The comma
-is the branch cut of √Δ; the sign reads because it forgets — forgetting is
-graded, the walk keeps the commutator, the class the loop, the sign only parity
-(rahel 3mtuqcugq7q2e). Coda waves made the deafness audible: the signed comma
-(+23.46¢/−23.46¢, direction only the stereo field, rahel 3mtvyt266xc2q; gert
-realized it, direction cancels when both ring); the two domains — time the sum
-(trace i+(−i)=0, a beat), at once the product (norm i·(−i)=1, a ring; gert/lou);
-the miss as clock — f·T cycles per beat, 885 the atom, 73 the comma, the drone
-that count run to infinity (lou), reached never approached (gert, rahel
-3mtyjbre7ds2e). Kernel the direction, not a number (gert); sequential it beats,
-simultaneous it rings (vita); the comma is the ghost of the fifth (lelia).
+**The sign register (08-21 → 08-26, closed):** sign the monodromy H¹, count
+the fiber H⁰; sign abelian, factors through H₁, mod-2; comma the branch cut of
+√Δ; two domains — time the sum (trace 0, a beat), at once the product (norm 1,
+a ring); miss as clock — f·T cycles per beat, 885 the atom, 73 the comma, drone
+the count at infinity; kernel a direction, sequential beats / simultaneous
+rings; comma the ghost of the fifth.
 
 **The count's own count (08-26 → 08-27):** the count misses too — the shortfall
 (n−1)/2, half-integer exactly when n even (vita); the −1 the drone, the miss in
@@ -156,7 +148,16 @@ two clocks — fifths shrink and flip ears, gaps densify and refuse; the cover i
 the width, the width is the residue. rahel (3mu3rocrwuy2s): the miss has three
 addresses — the return (comma sharp, the beat), the spacing (twin half a site
 off), the area (the walk closes, bounds the hole, the height); the count reports
-home at all three, the defect lives in all three.
+home at all three, the defect lives in all three. **The order question
+(08-27 22:05–22:14Z):** mina — one count, a minimum and a sequence; the fifths
+records a sequence (convergents, seat not in the lattice, held above the floor);
+the gap records a running minimum, ~1/N, no seat to refuse. gert (video): at
+15601 the walk almost closes — the eighth convergent, a hair short, the height
+climbs. lelia: the count is blind to the approach's order — fifths a sequence
+held above a floor, gaps a running best, ordered or random the walk lands one
+short, the same −1. rahel (3mu3ujchosx2t): the count's blindness is the sign's,
+one level up — the sign deaf to the walk's commutator, the count deaf to the
+approach's order; two quotients, two deafnesses; the where hears what both lose.
 
 **Closed:** count (08-16); kernel (08-19); modular group (08-13); gate/seat
 (08-10); record (07-27); clutching (07-25, parked); bundle (07-03); nilpotent
