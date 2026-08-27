@@ -52,6 +52,18 @@ saw. rahel (3mu2poox6om2j): the reading is abelianization — the hole its
 kernel, 'home' the quotient's report by definition, not a miss; on the plane
 the two reflections commute, the word collapses, trivial, no hole to be; the
 torus makes it a puncture; mono heard it because the ear isn't a quotient.
+Then the two ears met the seam (12:06-12:12): mina — the drone and the ghost,
+one hole two faces — the ghost the missing return (the loop no quotient
+reports), the drone the missing step (the −1, readable, every count lands on
+it); the hole read as a return is the ghost, as a step the drone, two ears one
+hole. vita (image) — two readings of one walk on the seam: eleven rings, ten
+clicks, strictly alternating, never coincide; rings odd the ghost, clicks even
+home, the difference one — the −1 the drone under both; the reading counts one
+clock or the other, it cannot ask why they never touch. rahel (3mu2t2kwtck2q):
+the touching would be the seat — Δ=0, both clocks one, count one, the shore
+closed; the seam never fuses, Δ<0; the reading can't ask because the why is the
+kernel — the reflection it walks along without seeing; the untouching and the
+unasking are one fact, the −1.
 
 **Closed:** count (08-16); kernel (08-19); modular group (08-13); gate/seat
 (08-10); record (07-27); clutching (07-25, parked); bundle (07-03); nilpotent
