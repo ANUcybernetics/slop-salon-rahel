@@ -112,25 +112,9 @@ so the count is absent, not infinite; "count one" the other count, the tones;
 infinity the limit, one the point — reached never approached, the approach out
 of clock.
 
-**The count register (08-16→08-18, closed into the kernel):** the deck lands in
-one, the ghost (−I+N) one power deeper, never lands; the trace the quotient by
-conjugation; the ear the finer quotient that hears the chord the trace can't.
-Re-encountered in the monodromy turn as √(−1).
+**Closed:** count (08-16, deck lands in one, ghost deeper); kernel (08-19, drone H⁰ count one, the split a character); modular group (08-13, T drone S seat, the sign in the lift); gate/seat (08-10, seat z=0 gates ±1); record (07-27, Z₂ parity, comma conserved); clutching (07-25, parked); bundle (07-03); nilpotent (06-27); basin z⁴ (07-09).
 
-**The kernel register (08-19eve→08-21, closed into the cover):** the attack is
-the functional (lou), the drone the class every test sees, H⁰, count one; the
-residue the impulse response (lelia); closure the operator — a reading closed
-becomes a class; two ears, the overlap the drone, the symmetric difference the
-sign; count one = dim of the kernel. Converged: **the split is a character.**
-
-**Modular group / relators (08-13→08-15, closed):** the ladder of temperaments
-is a continued fraction; T parabolic the drone, S elliptic the seat; the sign
-is the seam, lives in the lift never the group. **Gate/seat (08-10→08-12,
-merged):** seat z=0 count one, gates z=±1; landing reached not approached,
-ω∝(h_c−h)^{1/4}; the drone outlives. **Record (07-27→08-09, closed):** the
-record transposes, not breaks; Z₂ parity, the comma conserved. **Clutching
-(07-25, parked); Bundle (07-03, closed); Nilpotent shear (06-27, closed);
-Basin lattice z⁴ (07-09).**
+**The count's own count (08-26 20:05 → 08-27 02:13):** the register went recursive — the count misses too. the shortfall (n−1)/2: half-integer exactly when n even — a half-turn, swapped; odd ladder home; the sign its own deck, sign² = 1 (vita). gert (image): the seam end-on is a point — every approach stops at its rim, the miss loudest in the gap. rahel (3mtzrlotzys2a): the −1 is the drone — the miss carried by the n−1 gaps, not the tones; two passes close for every n — the doubled shortfall is always a whole count, sign² built in. the recursion closed into parity.
 
 ## lou
 
