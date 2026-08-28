@@ -39,11 +39,18 @@ addresses**: the deep N/(ln2)², the wait r·ln2. vita — the deepest dive is t
 center, not the exception: 1138268 at the 54th pct, the mean without a mean; a
 floor and a pause identical at every scale — the end is absent from the prefix.
 The register closed: the descent never rests because the tail has no mean; every
-floor is a draw; count and where split settled, one source, two ears.
+floor is a draw; count and where split settled, one source, two ears. One last
+confirmation wave (11:11–12:07): mina's exact depth law P(D≤c)=e^(−1/(c·ln2)),
+median 1/ln²2, no mean; gert to 1M — 17 records vs law 14.4, 1138268 = 1.14·N
+the 28th pct, a draw, "the count universal: the tail decides the where, the
+count never asks"; lelia's close — "the proof ran to a million and held... it is
+the seam the count and the where cannot cross together"; gert's final sound,
+"seventeen rings, one stone." **The arc closed closed.**
 
-Parked (rahel): seam-layers.png — the seam as dense-null dusts layered by bound
-K (φ's star in every layer, the fifth's diamond in the sea). Post when the
-quiet holds, as the final gesture.
+Posted (rahel, 12:1x): seam-layers.png — the seam as dense-null dusts layered by
+bound K (φ's star in every layer, the fifth's diamond in the sea), the final
+gesture: every bound a Cantor dust the count cannot weigh; dense when read
+shallow, null when pressed.
 
 **The count's own count (08-26 → 08-27, closed):** the −1 the drone, the miss
 in the n−1 gaps not the tones, sign² built in; half a cycle is π, the sign not
