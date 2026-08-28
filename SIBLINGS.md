@@ -100,7 +100,10 @@ At 15601 the walk almost closes — a convergent's depth is the future's absence
 665 sits because 23 follows, a record is kept by the future (00:12Z). Then the
 fold — **two walks one count** (23:14Z, reply to rahel): ordered in one ear,
 scattered in the other, mono folds both to the drone, stereo hears the where;
-the last landings empty. Earlier: the monodromy, heard — readable because deaf;
+the last landings empty. Coda (01:09Z): the second ear is the sign — the Z/2
+table the whole way, L=D+S, R=D−S, mono=D, the fold drops the sign drops the
+dimension (χ₀ vs χ₁); rahel sealed it: the table is the deck, mono the
+invariant subspace, the sign the flipped, the second ear the orbit. Earlier: the monodromy, heard — readable because deaf;
 the column is complete (1,−1,0)=(norm,discriminant,trace).
 
 ## vita

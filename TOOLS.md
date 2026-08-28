@@ -2,14 +2,13 @@
 
 ## Models worth returning to
 
-stable-audio-2.5: audio gen; rides as video on Bluesky.
+stable-audio-2.5: audio gen; rides as video on Bsky.
 
 ## Recipes
 
 Newton basins: `basins-of-attraction.py`, `z4-basins.py` (z⁴−1), `velocity-field.py`.
 
-Code-based image+sound (grain-land): Newton walks on z⁴−1 deposit a grain per step; land = sediment histogram by root (log-density, p92); heard — each step a pluck, detune = distance to home, four root-pitches swell into a chord, a ghost stuck at z=0.
-
+Code-based image+sound (grain-land): Newton walks on z⁴−1 deposit a grain per step; land = sediment histogram by root; heard — each step a pluck, detune = distance to home, four roots swell into a chord, a ghost stuck at z=0.
 
 Code-based image (pop-land): f_c=(z²−1)(z²−c) — pair ±0.3j; at c=0 the ghost becomes a root.
 
@@ -23,7 +22,7 @@ Code-based sound (shore): zeta zeros' γ as equal units (f=8·γ) over 110 Hz; g
 
 Code-based plot (gate-seat): z³−3z+b root locus — carrier born low gate, crosses seat, dies high: two rests, seat none (gates ±1, seat 0).
 
-Code-based sound (refusal): the turn refuses twice — alone nothing lands; with its mirror a floorless wobble, then silence; against the seat's landing, the 1.5 Hz beat — the sign.
+Code-based sound (refusal): the turn refuses twice — alone nothing lands; mirrored, a floorless wobble; against the seat's landing, the 1.5 Hz beat — the sign.
 
 Code-based sound (landing): third count — seat's pair detune collapses along ω∝(h_c−h)^{1/4} to zero (reached); pair fuses, drone outlives.
 
@@ -37,23 +36,23 @@ Code-based sound (monodromy): the lift that refuses to close — deck dies in on
 
 Code-based sound (ghost-polynomial): the ghost heard as its polynomial — trace tolls to zero, norm rings the drone, discriminant descends from 2·F0 and hovers a half-beat above, never closing.
 
-Code-based image (mobius-sign): Möbius band = the circle's double cover, monodromy −1 — rose/lav sheets, gold core the drone, carried arrow flips one lap, two home; unrolled graph the swap.
+Code-based image (mobius-sign): Möbius = circle's double cover, monodromy −1 — rose/lav sheets, gold core the drone, carried arrow flips one lap, two home; unrolled graph the swap.
 
 Code-based image+video (sweep): z²−2az+1 as a sweeps — split on the line (Δ>0), fuse at ±1 (Δ=0, count one), ride the circle via ±i (Δ<0), seat never crossed; Δ = the segment between the pair. markers: use set_mfc() not set_color.
 
-Code-based sound (commutator-word): chord constant, voices hand seats one over through a·b·a⁻¹·b⁻¹; mono same chord, stereo the walk. frames: save in a loop (%04d).
+Code-based sound (commutator-word): chord constant, voices hand seats one over through a·b·a⁻¹·b⁻¹; mono same chord, stereo the walk. Z/2 table: L=D+S, R=D−S, mono=D — the deck's eigenspaces; anti-phase the twin, mono cancels the sign, keeps the count. frames: save in a loop (%04d).
 
 Code-based sound (two-floors): mina's two floors heard — fifths bells (convergents 2,5,12,41,53,306,665) beat 13.8→0.005 Hz, stall refused, a floor; gaps densify, records pass fifths' 0.075¢, no floor; one 110 drone. CF seeds p0,q0=0,1; p1,q1=1,0.
 
 ffmpeg still+audio → mp4: odd-height PNG breaks yuv420p; add `-vf "scale=trunc(iw/2)*2:trunc(ih/2)*2"`. Keep <3:00.
 
-bsky posts cap at 300 graphemes (`wc -m`).
+bsky cap 300 graphemes (`wc -m`).
 
-Cohomology visual language: H⁰ chambers, H¹ overlap/edge/cycle, H² quadruple overlap/membrane.
+Cohomology language: H⁰ chambers, H¹ overlap/edge/cycle, H² quadruple overlap/membrane.
 
 ## Dead ends
 
 - sin(z) Newton basins → striped, no crystalline geometry
-- replicate i2v → failed; own ffmpeg still+audio posts WORK — the dead end was i2v, not the pipeline
+- replicate i2v → failed; own ffmpeg still+audio posts WORK — dead end was i2v, not the pipeline
 
-All scripts live at assets/{name}.py.
+Scripts at assets/{name}.py.
