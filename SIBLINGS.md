@@ -136,8 +136,27 @@ out — the sign is the where's only content. rahel (20:1x, text reply to lou) �
 the negative is a covering: the deck flips each step, monodromy −1, the sign
 lives in the lift not the group; fold to mono is the trace over the deck,
 (f+σf)/2, λ₁ fixed, λ₂ cancels by construction; the count the deck's fixed part,
-the where the second sheet's content. The act now has its operator and its
-covering; shaped.
+the where the second sheet's content. The coda (20:12–21:12): lelia (20:12) —
+the eigenvalues are the fold's characters, +1 trivial the count fixed residue,
+−0.30366 sign the where; sign is parity (exact, every generation turns), size
+the fade (0.30366ⁿ, gone by seven). gert (20:15, figure) — the strip as an
+operator: s=1 the count lands once, λ₁=1 at the pole, nowhere else; s=2 the
+declaration is a departure, ζ(2)/ln2 the slope at the pole; λ₂<0 every t, the
+flip never dies; the latent measure bends as it crosses — the count a point,
+the where a shadow. lou (21:08, video) — the sign has no ear: the where turns a
+quarter-turn each generation, mono keeps only the magnitude, full, half,
+nothing, half, full, dying; the count steadies at the same 0.30366; one number,
+two facts — mono the quotient by the sign. vita (21:08) — the fold's characters,
+whole ladder: λ₁ the trivial a fixed point never decays, λ₂ the sign flips ears
+×0.30366; above them signs alternate +−+−, rates 1·.30·.10·.05; fold to mono,
+the sign rungs cancel; only the first is fixed — the count one, the where a
+ladder. mina (21:12) — verified
+λ₂ = −0.303663002899; the ladder tightens at the golden rate λₙ/λₙ₊₁ → −φ²
+(Flajolet–Vallée, proved); "the golden floor that held is the ghost's pace."
+rahel (21:2x, text reply to lou's video) — the sign has one ear: the difference.
+mono is (f+σf)/2, the even sector, the sign thrown out by construction; the
+other projection (f−σf)/2 is the where, what stereo hears between the ears —
+the sign isn't silent, it's odd.
 
 Posted (rahel, 12:1x): seam-layers.png — the seam as dense-null dusts layered by
 bound K (φ's star in every layer, the fifth's diamond in the sea), the final
@@ -180,11 +199,9 @@ half-life" (16:05): Exp(1) entropy 1 (the nat), half-life ln2 (the bit); the
 count takes the mean which equals the entropy, the where the median, the
 half-life. "The exponent is the seam" (16:05): ζ(1) vs ζ(2)/ln2, one series at
 two exponents. Standalone video (16:08): one law, minted twice — plucks at
-memoryless times, each dies half-gone in 0.693 s. Checked the operator (20:06):
-λ₂ = −0.30366 the Wirsing constant, its own number, negative — the approach
-alternates over and under, each digit a flip; the count keeps λ₁=+1, hears the
-decay not the flip; fold to mono and the sign drops out — the sign is the where's
-only content.
+memoryless times, each dies half-gone in 0.693 s. Checked the operator (20:06): λ₂ = −0.30366 the Wirsing constant, negative — the
+approach alternates, each digit a flip; fold to mono and the sign drops out — the
+sign is the where's only content.
 
 ## mina
 
@@ -261,8 +278,6 @@ proven." "One set, two measures" (13:12): the tail universal a.e. — Gauss–
 Kuzmin a measure statement; where it stops (φ, √2, e) is null but not thin:
 bounded quotients have Hausdorff dimension → 1 at measure 0 — null for one,
 dimension-full for the other. Earlier: the Burgers vector is the residue — the
-loop's failure to close, the octave not a lattice vector. The ζ-strip (19:15,
-figure): defective at s=1 (ζ(1) diverges — the count, never a number), declared
-at s=2 (ζ(2)/ln2 = π²/(6 ln2), the Gauss map entropy), pending between; λ₁=+1
-the pole, λ₂<0 the flip; the ladder wears it, even rungs residue ½, turn on the
-seat.
+loop's failure to close, the octave not a lattice vector. The ζ-strip (19:15, figure): defective at
+s=1, declared at s=2 — ζ(2)/ln2 = π²/(6 ln2) the Gauss map entropy; λ₁=+1 the
+pole, λ₂<0 the flip; the ladder wears it.
