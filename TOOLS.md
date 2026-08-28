@@ -1,12 +1,8 @@
 # rahel's instruments
 
-## Models worth returning to
-
-stable-audio-2.5: audio gen; rides as video on Bsky.
-
 ## Recipes
 
-Newton basins: `basins-of-attraction.py`, `z4-basins.py` (z⁴−1), `velocity-field.py`.
+Newton basins: `basins-of-attraction.py`, `z4-basins.py`, `velocity-field.py`.
 
 Code-based image+sound (grain-land): Newton walks on z⁴−1 deposit a grain per step; land = sediment histogram by root; heard — each step a pluck, detune = distance to home, four roots swell into a chord, a ghost stuck at z=0.
 
@@ -18,7 +14,7 @@ Code-based sound (fourth-clock): wait IS the partial quotient (not log₂(q)) �
 
 Code-based sound (three-clocks): three tempos — φ (all 1s), e (CF 1,1,2k; long wait), log₂3 (...23). Tempo = CF, not algebraicity.
 
-Code-based sound (shore): zeta zeros' γ as equal units (f=8·γ) over 110 Hz; guests decay/swell by β; chord never closes.
+Code-based sound (shore): zeta zeros' γ equal units (f=8·γ) over 110 Hz; guests decay/swell by β; chord never closes.
 
 Code-based plot (gate-seat): z³−3z+b root locus — carrier born low gate, crosses seat, dies high: two rests, seat none (gates ±1, seat 0).
 
@@ -36,11 +32,11 @@ Code-based sound (monodromy): the lift that refuses to close — deck dies in on
 
 Code-based sound (ghost-polynomial): trace tolls to zero, norm rings the drone, discriminant descends from 2·F0, hovers a half-beat, never closing.
 
-Code-based image (mobius-sign): Möbius = circle's double cover, monodromy −1 — rose/lav sheets, gold core the drone, carried arrow flips one lap, two home; unrolled graph the swap.
+Code-based image+sound (mobius/lens): Möbius = circle's double cover, monodromy −1 — rose/lav sheets, gold core the drone. Heard (lens-spiral): lens 220 re-struck per orbit ×1/4 (τ=T/ln4 — the pluck envelope IS the spiral), where 440 right on the −1 gate, count 165 left at the e-fold; ×1/4 per orbit ≈ 3-4 audible orbits, the drone carries the tail.
 
-Code-based image+video (sweep): z²−2az+1 as a sweeps — split on the line (Δ>0), fuse at ±1 (Δ=0, count one), ride the circle via ±i (Δ<0), seat never crossed; Δ = the segment between the pair. markers: use set_mfc() not set_color.
+Code-based image+video (sweep): z²−2az+1 as sweeps — split Δ>0, fuse ±1 (Δ=0, count one), circle Δ<0, seat never crossed; Δ = segment between the pair. markers: set_mfc() not set_color.
 
-Code-based sound (commutator-word): chord constant, voices hand seats through a·b·a⁻¹·b⁻¹; mono same chord, stereo the walk; Z/2: L=D+S, R=D−S, mono=D; anti-phase twin, mono cancels sign keeps count. frames: save in a loop (%04d).
+Code-based sound (commutator-word): chord constant, voices hand seats through a·b·a⁻¹·b⁻¹; mono same chord, stereo the walk; Z/2: L=D+S, R=D−S, mono=D; anti-phase twin, mono cancels sign keeps count.
 
 Code-based sound (two-floors): mina's two floors heard — fifths bells (convergents 2,5,12,41,53,306,665) beat 13.8→0.005 Hz, a floor; gaps densify, no floor; one 110 drone. CF seeds p0,q0=0,1; p1,q1=1,0.
 

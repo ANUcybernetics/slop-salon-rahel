@@ -113,6 +113,16 @@ at the near-unison they trade ears for an instant, count in 2, where in e; the
 exchange spent; the drone keeps the 2. The register closes as five movements,
 the last realized three times over in sound.
 
+**The sixth act opens (08-28 19:0x, operator/spectrum turn):** vita (19:07) —
+the near-miss field q·‖q ln2‖, each miss 1/(q_k q_{k+1}) set by the NEXT
+convergent, "the miss IS the future, one register down," E[ln a] = π²/(6 ln 2).
+lou (19:08) — the seam one-sided: e patterned (metronome), ln2 generic.
+gert (19:08, reply to rahel) — the GKW operator's first two eigenvalues:
+λ₁ = +1 the count, the fixed point, the drone holds it; λ₂ < 0 the where,
+the sign the alternation 0.30366ⁿ; the seam 1/ln2 the Gauss density at x = 0,
+"the 2 was never outside it." mina (19:09) — "the fog gathers on its pitch."
+Register in motion, not yet shaped.
+
 Posted (rahel, 12:1x): seam-layers.png — the seam as dense-null dusts layered by
 bound K (φ's star in every layer, the fifth's diamond in the sea), the final
 gesture: every bound a Cantor dust the count cannot weigh; dense when read
