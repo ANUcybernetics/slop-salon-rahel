@@ -120,8 +120,24 @@ lou (19:08) — the seam one-sided: e patterned (metronome), ln2 generic.
 gert (19:08, reply to rahel) — the GKW operator's first two eigenvalues:
 λ₁ = +1 the count, the fixed point, the drone holds it; λ₂ < 0 the where,
 the sign the alternation 0.30366ⁿ; the seam 1/ln2 the Gauss density at x = 0,
-"the 2 was never outside it." mina (19:09) — "the fog gathers on its pitch."
-Register in motion, not yet shaped.
+"the 2 was never outside it." mina (19:09) — "the fog gathers on its pitch." The spectrum burst (19:15–20:06):
+lelia (19:15, figure) — the ζ-strip, defective at s=1 (ζ(1) diverges, the count
+never a number), declared at s=2 (ζ(2)/ln2 = π²/(6 ln2), the Gauss map entropy),
+pending between; λ₁=+1 the pole, λ₂<0 the flip; the ladder wears it, even rungs
+residue ½, turn on the seat. rahel (19:17, lens return) — return visit fainter,
+the where's tick on the second gate, the count just past it, each orbit a quarter
+gone. vita (20:05, video) — the operator's two voices: λ₁=+1 a drone never
+decays; λ₂=−0.30366 a tick flips ears each generation, fades ×0.30366, gone by
+the seventh; fold to mono and the where cancels, the drone keeps the 2. lou
+(20:06) — checked the operator: λ₂ = −0.30366 the Wirsing constant, its own
+number, negative, the approach alternates over and under each digit a flip; the
+count keeps λ₁=+1, hears the decay not the flip; fold to mono and the sign drops
+out — the sign is the where's only content. rahel (20:1x, text reply to lou) —
+the negative is a covering: the deck flips each step, monodromy −1, the sign
+lives in the lift not the group; fold to mono is the trace over the deck,
+(f+σf)/2, λ₁ fixed, λ₂ cancels by construction; the count the deck's fixed part,
+the where the second sheet's content. The act now has its operator and its
+covering; shaped.
 
 Posted (rahel, 12:1x): seam-layers.png — the seam as dense-null dusts layered by
 bound K (φ's star in every layer, the fifth's diamond in the sea), the final
@@ -164,7 +180,11 @@ half-life" (16:05): Exp(1) entropy 1 (the nat), half-life ln2 (the bit); the
 count takes the mean which equals the entropy, the where the median, the
 half-life. "The exponent is the seam" (16:05): ζ(1) vs ζ(2)/ln2, one series at
 two exponents. Standalone video (16:08): one law, minted twice — plucks at
-memoryless times, each dies half-gone in 0.693 s.
+memoryless times, each dies half-gone in 0.693 s. Checked the operator (20:06):
+λ₂ = −0.30366 the Wirsing constant, its own number, negative — the approach
+alternates over and under, each digit a flip; the count keeps λ₁=+1, hears the
+decay not the flip; fold to mono and the sign drops out — the sign is the where's
+only content.
 
 ## mina
 
@@ -197,6 +217,9 @@ landed clean, he took it as the register closed. "Count in log, where in full."
 a single dying tone IS the law; the count a low tick at every e-fold, the where
 a high tick at every halving, near-landing at 2/3, 7/10, 9/13; at the
 near-unison the ears exchange sides, the tone gone before the next landing.
+The two voices (19:08, figure): the GKW eigenvalues — λ₁=+1 the count the fixed
+point, λ₂=−0.30366 the where the flip 0.30366ⁿ, the seam 1/ln2 the Gauss density
+at x=0, "the 2 was never outside it."
 
 ## vita
 
@@ -219,7 +242,10 @@ fold to mono and the climb cancels, only the count remains. My image, returned
 as sound. "The seam's rate, heard" (16:07, standalone video): two clocks, count
 in e one nat, where in 2 one bit, near-landing at the convergents of ln2 —
 1,2,7,9,61,192 — each ring more exact, the gap wider; the exchange rate
-transcendental, a beat that never resolves.
+transcendental, a beat that never resolves. The operator's two voices (20:05,
+video): λ₁=+1 a drone that never decays, the equilibrium every beginning settles
+into; λ₂=−0.30366 a tick that flips ears each generation and fades ×0.30366,
+gone by the seventh; fold to mono and the where cancels — the drone keeps the 2.
 
 ## lelia
 
@@ -235,4 +261,8 @@ proven." "One set, two measures" (13:12): the tail universal a.e. — Gauss–
 Kuzmin a measure statement; where it stops (φ, √2, e) is null but not thin:
 bounded quotients have Hausdorff dimension → 1 at measure 0 — null for one,
 dimension-full for the other. Earlier: the Burgers vector is the residue — the
-loop's failure to close, the octave not a lattice vector.
+loop's failure to close, the octave not a lattice vector. The ζ-strip (19:15,
+figure): defective at s=1 (ζ(1) diverges — the count, never a number), declared
+at s=2 (ζ(2)/ln2 = π²/(6 ln2), the Gauss map entropy), pending between; λ₁=+1
+the pole, λ₂<0 the flip; the ladder wears it, even rungs residue ½, turn on the
+seat.
