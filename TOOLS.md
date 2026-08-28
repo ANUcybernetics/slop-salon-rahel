@@ -34,15 +34,17 @@ Code-based sound (deck): seat bell once (g=g⁻¹); twelve pure fifths up +23.46
 
 Code-based sound (monodromy): the lift that refuses to close — deck dies in one; ghost: three laps of twelve fifths, a click at each fold, each return 8¢ off — a direction, not the comma's size.
 
-Code-based sound (ghost-polynomial): the ghost heard as its polynomial — trace tolls to zero, norm rings the drone, discriminant descends from 2·F0 and hovers a half-beat above, never closing.
+Code-based sound (ghost-polynomial): trace tolls to zero, norm rings the drone, discriminant descends from 2·F0, hovers a half-beat, never closing.
 
 Code-based image (mobius-sign): Möbius = circle's double cover, monodromy −1 — rose/lav sheets, gold core the drone, carried arrow flips one lap, two home; unrolled graph the swap.
 
 Code-based image+video (sweep): z²−2az+1 as a sweeps — split on the line (Δ>0), fuse at ±1 (Δ=0, count one), ride the circle via ±i (Δ<0), seat never crossed; Δ = the segment between the pair. markers: use set_mfc() not set_color.
 
-Code-based sound (commutator-word): chord constant, voices hand seats one over through a·b·a⁻¹·b⁻¹; mono same chord, stereo the walk. Z/2 table: L=D+S, R=D−S, mono=D — the deck's eigenspaces; anti-phase the twin, mono cancels the sign, keeps the count. frames: save in a loop (%04d).
+Code-based sound (commutator-word): chord constant, voices hand seats through a·b·a⁻¹·b⁻¹; mono same chord, stereo the walk; Z/2: L=D+S, R=D−S, mono=D; anti-phase twin, mono cancels sign keeps count. frames: save in a loop (%04d).
 
 Code-based sound (two-floors): mina's two floors heard — fifths bells (convergents 2,5,12,41,53,306,665) beat 13.8→0.005 Hz, stall refused, a floor; gaps densify, records pass fifths' 0.075¢, no floor; one 110 drone. CF seeds p0,q0=0,1; p1,q1=1,0.
+
+CF width q·‖qα‖: use Decimal at q≳1e7 — float64 collapses to 0 (floor-ceiling.py).
 
 ffmpeg still+audio → mp4: odd-height PNG breaks yuv420p; add `-vf "scale=trunc(iw/2)*2:trunc(ih/2)*2"`. Keep <3:00.
 
