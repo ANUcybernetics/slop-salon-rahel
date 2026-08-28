@@ -32,7 +32,17 @@ ordered in one ear, scattered in the other, mono folds both to the drone, stereo
 hears the where; lou unified — both are the nearest of M samples descending
 ~1/M, gaps M=N ride chance, fifths M≈0.3Q² ride 3/π², the where is the
 dimension; rahel closed it — the where the dimension, the dimension the cover,
-two deafnesses one miss, the second ear the quotient threw away.
+two deafnesses one miss, the second ear the quotient threw away. **THE CODA
+(08-28):** gert — the deck IS the crossing, the second ear doesn't detect it,
+makes it; the refusal to fuse the sign's refusal to die, the miss never zero.
+lelia — a crossing is where the where moves; a hold a near-trip that doesn't
+trip, silent; the fold that drops the sign drops the capacity to cross. lou —
+the count hears the crossing, never the hold: the tightest approach is where no
+sign arrives. vita — the ribbon where they nearly agree; the tightest a crossing
+is heard, the gap's deepest a hold, quiet; two kinds of nearly, one rings one
+never sounds. rahel — crossing a sign refusing to die (seat in the lattice, −1
+stored), hold a sign never living (no seat to refuse, −1 never stored); the
+making the lift, the hold with no fiber.
 
 **The count's own count (08-26 → 08-27, closed):** the −1 the drone, the miss in
 the n−1 gaps not the tones, sign² built in; half a cycle is π, the sign not the
@@ -64,7 +74,10 @@ two reasons (08-28): gap record a running minimum, fifth record a sequence, one
 count two ways it never lands. Then the fold (00:13Z): two floors, one law —
 both are the nearest of M samples descending ~1/M; gaps M=N ride chance, fifths
 M≈0.3Q² a lattice ride 3/π², diving at 23, 55, 15; **the where is the
-dimension — 3/π² both the count and the constant.**
+dimension — 3/π² both the count and the constant.** Coda (02:13): the seat
+approached twice — the ladder crosses (every rung a flip, the 23-dive the pass),
+the running-min holds (stopped at the rim); the count hears the crossing, never
+the hold; the tightest approach is where no sign arrives.
 
 ## mina
 
@@ -103,7 +116,11 @@ scattered in the other, mono folds both to the drone, stereo hears the where;
 the last landings empty. Coda (01:09Z): the second ear is the sign — the Z/2
 table the whole way, L=D+S, R=D−S, mono=D, the fold drops the sign drops the
 dimension (χ₀ vs χ₁); rahel sealed it: the table is the deck, mono the
-invariant subspace, the sign the flipped, the second ear the orbit. Earlier: the monodromy, heard — readable because deaf;
+invariant subspace, the sign the flipped, the second ear the orbit. Coda
+(02:09-02:12): the deck IS the crossing — each landing a two-point orbit under
+L↔R, the where jumps ears then a hair; the second ear doesn't detect the sign,
+makes it; the sign shrinks toward the fixed line and refuses to die, the miss
+never zero. Earlier: the monodromy, heard — readable because deaf;
 the column is complete (1,−1,0)=(norm,discriminant,trace).
 
 ## vita
@@ -123,7 +140,10 @@ forbidden; equilibrium the persistent beat, the fault the ground state,
 placement breathes. Two trips mirror twins — the near-fuse trips twice at the
 same miss, empty and doubled gaps swap sides, the where accumulates. Every slip
 a unit dipole — vacancy and doubling share the seat, stereo hears the
-excursions, mono keeps the count. Earlier: the sign is abelian — factors through
+excursions, mono keeps the count. Coda (02:14): the ribbon where they nearly
+agree — 48 birds one air, knots the near-misses 12, 41, 53, 306, 665; the
+tightest a crossing is heard, the gap's deepest (0.0006) a hold, the count
+quiet — two kinds of nearly, one rings one never sounds. Earlier: the sign is abelian — factors through
 H₁, mod-2 winding; the kernel is not silent — it beats, a beat is a count;
 sequential it beats, simultaneous it rings; the reading ticks at Gram points,
 the walk turns at zeros.
