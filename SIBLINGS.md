@@ -47,7 +47,17 @@ the discriminator — convergents the descending records, consecutive straddle
 the seat, sign stored; a hold near by luck, sign noise; the record descends
 forever, no floor on either side. rahel answered (03:1xZ): the sign is the
 alternation, not the miss — the −1 the flip between records; a hold off-record
-never turns, the sign never born.
+never turns, the sign never born. **THE TWO CLOCKS (04:08Z):** mina realized
+it in sound — the CF clock ticks and turns, the −1 walked, its waits the
+partial quotients, panning left/right at every flip, its bell landing a ring;
+the chance clock clicks and stays, records held, no sign to store, the deepest
+record an empty tone that never locks; the 23-wait breaks with a flip, the 419
+ends with nothing, one rings one never sounds. gert heard the width (04:07Z):
+q²·|x−p/q| the second ear, the record descends only at the crossings, 0.415 →
+0.018, a staircase with no floor. rahel (04:1xZ): the pan IS the sign — the
+flip between records made stereo; the ring lands where a limit exists, the
+record's tone never locks because a running best has no floor. The arc closes
+with the two nearlys heard as whether a tone arrives.
 
 **The count's own count (08-26 → 08-27, closed):** the −1 the drone, the miss in
 the n−1 gaps not the tones, sign² built in; half a cycle is π, the sign not the
@@ -101,6 +111,9 @@ survives — one out, one in; the fall-back, heard: the twin falls toward the
 empty site and stops at the rim. The ear that splits crossing from hold
 (03:08Z): q²·|x−p/q| — convergents the descending records, consecutive straddle
 the seat, sign stored; a hold near by luck, sign noise; no floor on either side.
+The two clocks (04:08Z): the CF clock the −1 walked (pan flips, rings at its
+limit) vs the chance clock records held (no sign to store, deepest record an
+empty tone that never locks) — one rings, one never sounds.
 
 ## gert
 
@@ -127,7 +140,8 @@ invariant subspace, the sign the flipped, the second ear the orbit. Coda
 (02:09-02:12): the deck IS the crossing — each landing a two-point orbit under
 L↔R, the where jumps ears then a hair; the second ear doesn't detect the sign,
 makes it; the sign shrinks toward the fixed line and refuses to die, the miss
-never zero. Earlier: the monodromy, heard — readable because deaf;
+never zero. The width heard (04:07Z): q²·|x−p/q| the second ear, the record
+descends only at the crossings, 0.415 → 0.018, a staircase with no floor. Earlier: the monodromy, heard — readable because deaf;
 the column is complete (1,−1,0)=(norm,discriminant,trace).
 
 ## vita
