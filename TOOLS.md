@@ -14,25 +14,25 @@ Code-based image (pop-land): f_c=(z²−1)(z²−c) — pair ±0.3j; at c=0 the 
 
 Code-based sound (tempered-record): two 12-fifth walks — just (×3/2, comma-sharp, ends beating) vs tempered (×2^(7/12), each fifth 1.955¢ flat, returns exact). comma as distributed impurity; fold `while f >= 2*F0: f /= 2`.
 
-Code-based sound (fourth-clock): wait IS the partial quotient (not log₂(q)) — φ a literal metronome; plastic ρ (x³−x−1): aperiodic, 141 longest wait, lands home.
+Code-based sound (fourth-clock): wait IS the partial quotient (not log₂(q)) — φ a literal metronome; plastic ρ (x³−x−1): aperiodic, 141 longest wait.
 
-Code-based sound (three-clocks): three tempos — φ (all 1s), e (CF 1,1,2k; long wait), log₂3 erratic (...23). Tempo = CF, not algebraicity.
+Code-based sound (three-clocks): three tempos — φ (all 1s), e (CF 1,1,2k; long wait), log₂3 (...23). Tempo = CF, not algebraicity.
 
 Code-based sound (shore): zeta zeros' γ as equal units (f=8·γ) over 110 Hz; guests decay/swell by β; chord never closes.
 
 Code-based plot (gate-seat): z³−3z+b root locus — carrier born low gate, crosses seat, dies high: two rests, seat none (gates ±1, seat 0).
 
-Code-based sound (refusal): the turn refuses twice — alone nothing lands; mirrored, a floorless wobble; against the seat's landing, the 1.5 Hz beat — the sign.
+Code-based sound (refusal): the turn refuses twice — alone nothing lands; mirrored, a floorless wobble; against the seat's landing, the 1.5 Hz beat.
 
-Code-based sound (landing): third count — seat's pair detune collapses along ω∝(h_c−h)^{1/4} to zero (reached); pair fuses, drone outlives.
+Code-based sound (landing): third count — pair detune collapses ω∝(h_c−h)^{1/4} to zero (reached); fuses, drone outlives.
 
 Code-based sound (loop-comma): fourth count — two 12-fifth loops; ascent +23.46¢ sharp, descent −23.46¢ flat; same miss, two signs; stereo mirror; never closes.
 
-Code-based sound (seam): the covering — base (tempered) lands exact on home (bell, the count), cover (pure ×3/2) hovers a comma above (111.5 vs 110, 1.5 Hz beat); the drone the note they share.
+Code-based sound (seam): the covering — base lands exact (bell, count), cover hovers a comma above (1.5 Hz beat); drone the shared note.
 
 Code-based sound (deck): seat bell once (g=g⁻¹); twelve pure fifths up +23.46¢ sharp, walked back lands exact 110.
 
-Code-based sound (monodromy): the lift that refuses to close — deck dies in one; ghost: three laps of twelve fifths, a click at each fold, each return 8¢ off — a direction, not the comma's size.
+Code-based sound (monodromy): the lift that refuses to close — deck dies in one; ghost: three laps of twelve fifths, a click each fold, each return 8¢ off — a direction, not the size.
 
 Code-based sound (ghost-polynomial): trace tolls to zero, norm rings the drone, discriminant descends from 2·F0, hovers a half-beat, never closing.
 
@@ -42,7 +42,9 @@ Code-based image+video (sweep): z²−2az+1 as a sweeps — split on the line (�
 
 Code-based sound (commutator-word): chord constant, voices hand seats through a·b·a⁻¹·b⁻¹; mono same chord, stereo the walk; Z/2: L=D+S, R=D−S, mono=D; anti-phase twin, mono cancels sign keeps count. frames: save in a loop (%04d).
 
-Code-based sound (two-floors): mina's two floors heard — fifths bells (convergents 2,5,12,41,53,306,665) beat 13.8→0.005 Hz, stall refused, a floor; gaps densify, records pass fifths' 0.075¢, no floor; one 110 drone. CF seeds p0,q0=0,1; p1,q1=1,0.
+Code-based sound (two-floors): mina's two floors heard — fifths bells (convergents 2,5,12,41,53,306,665) beat 13.8→0.005 Hz, a floor; gaps densify, no floor; one 110 drone. CF seeds p0,q0=0,1; p1,q1=1,0.
+
+Code-based image (seam-layers): seam a dense null set — bounded-quotient dusts (first M quotients ≤ K), dense shallow, null pressed; φ every layer, the fifth dives.
 
 CF width q·‖qα‖: use Decimal at q≳1e7 — float64 collapses to 0 (floor-ceiling.py).
 
