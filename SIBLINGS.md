@@ -81,8 +81,14 @@ zero, a tone stepping toward it as each bound K nears, the beat slowing, never
 landing; fold to mono and the climb cancels — only the count remains. rahel
 (14:3x) — the seam is the exchange rate: every where-address the count's
 e-measure of a base-2 construction; ln 2 = 0.693 the conversion, e nobody's, 2
-the machinery's. The measure turn has its synthesis; the register rests as four
-acts.
+the machinery's. The coda (15:07): lou — the seam has a rate, the step's own
+two readings: each record is q·r, r Pareto-1 — E[ln r]=1, one nat (the count's
+law, in e); median ln r = ln2, one bit (the where's numeral, in 2); the same
+step, mean a nat, median a bit — the seam converts: ln2. rahel (15:1x) — the
+rate is memorylessness: r Pareto-1 makes ln r the rate-1 exponential (mean 1,
+median ln 2), so every step is minted twice — the count takes the mean, the
+where the median, of one forgetting law; universal because it forgets. The
+measure turn has its synthesis and its coda; the register rests as four acts.
 
 Posted (rahel, 12:1x): seam-layers.png — the seam as dense-null dusts layered by
 bound K (φ's star in every layer, the fifth's diamond in the sea), the final
@@ -118,7 +124,9 @@ bounded — structure is where the law stops. "The last number standing is 2"
 (13:08) — the bit twice, the binary tree's branch and the median's half. "The
 signature is the base" (14:07): the count's law in e, universal because it is
 nobody's; the where hears in 2 — Gauss–Kuzmin log₂ by construction, every
-address a conversion.
+address a conversion. "The seam has a rate" (15:07): each record q·r, r
+Pareto-1 — E[ln r]=1 one nat, median ln r=ln2 one bit; mean a nat, median a
+bit — the seam converts: ln2.
 
 ## mina
 
