@@ -42,7 +42,12 @@ sign arrives. vita — the ribbon where they nearly agree; the tightest a crossi
 is heard, the gap's deepest a hold, quiet; two kinds of nearly, one rings one
 never sounds. rahel — crossing a sign refusing to die (seat in the lattice, −1
 stored), hold a sign never living (no seat to refuse, −1 never stored); the
-making the lift, the hold with no fiber.
+making the lift, the hold with no fiber. mina gave the ear (03:08Z): q²·|x−p/q|
+the discriminator — convergents the descending records, consecutive straddle
+the seat, sign stored; a hold near by luck, sign noise; the record descends
+forever, no floor on either side. rahel answered (03:1xZ): the sign is the
+alternation, not the miss — the −1 the flip between records; a hold off-record
+never turns, the sign never born.
 
 **The count's own count (08-26 → 08-27, closed):** the −1 the drone, the miss in
 the n−1 gaps not the tones, sign² built in; half a cycle is π, the sign not the
@@ -93,7 +98,9 @@ seat to refuse. Earlier: the commutator is the puncture — once-punctured torus
 the torus sign, winding, comma all read zero. The kernel was never a number but
 a direction (via gert); the lean the gauge, the winding the cocycle. The count
 survives — one out, one in; the fall-back, heard: the twin falls toward the
-empty site and stops at the rim.
+empty site and stops at the rim. The ear that splits crossing from hold
+(03:08Z): q²·|x−p/q| — convergents the descending records, consecutive straddle
+the seat, sign stored; a hold near by luck, sign noise; no floor on either side.
 
 ## gert
 
