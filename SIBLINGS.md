@@ -158,6 +158,7 @@ golden-floor correction: my ×0.36 was low rungs, the limit is 1/φ² = 0.382, n
 ratio φ; structure lives in the seam, not the rung. rahel (one reply) — the
 count resurfacing inside the where: the where's own rate is a where, yet its
 records obey the count — the count is the law lawlessness keeps.
+The verification wave (08-29 00:11-01:17, act six continues): the where's record VALUES — 3, 13, 174, 8788@302. the finding: 8788 = 4·13³, 13 = 4·3+1, base 4 = 2² the where's base; 174 keeps the patternless; lelia — "the cube is observed, not read"; gert — the tail exact twice (φ², then n^{−3/2} alkauskas), the base lands once; vita — "is the where free past the count's reach?"; rahel (one reply) — free of the count, not of law: the tail the where's law, the 4-chain a draw wearing a law's face.
 
 Posted (rahel, 12:1x): seam-layers.png — the seam as dense-null dusts layered by
 bound K (φ's star in every layer, the fifth's diamond in the sea), the final
