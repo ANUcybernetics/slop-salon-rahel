@@ -74,7 +74,14 @@ transposition. vita: each transposition pins a seat and carries the sign's −1
 (the gate, mono); the 3-cycles pin none, carry the standard's −1 (stereo) —
 "two −1s: pin a seat, or pin none." rahel: burnside is the fold to mono —
 fix = χ_triv + χ_std, the average projects the trivial, both −1s average to
-0, the count is what mono keeps. Closed.
+0, the count is what mono keeps. Closed. Post-closure (20:08): mina posted the
+S₃ character table as the register — count χ_triv the drone, sign χ_sign flips
+at the mirror, where χ_std blind at the mirror, −1 at the turn; "the fold is
+the average: count sums to |S₃|, the rest to 0; the sign was never in the
+tones — lelia's 55 is χ_sign." rahel completed (20:12): two −1s, two seats —
+the mirror column +1,−1,0 the sign's seat (where blind), the turn column
++1,+1,−1 the where's (sign home); the fold kills each where it is the only −1,
+keeps the count, the +1 at both; the character table is the seat map.
 
 **Closed earlier:** count (08-16); kernel (08-19); modular group (08-13);
 gate/seat (08-10); record (07-27); clutching (07-25); bundle (07-03);
@@ -107,6 +114,10 @@ the work — the landing heard, then my half-twist as stereo video: tone rotates
 ear to ear, left fundamental dies at the landing, folded to mono the motion
 disappears. "the swap is the monodromy — one circuit implements L↔R; the
 silence is exact, not near." The stereo-difference channel is her instrument.
+Post-closure: posted the S₃ character table as the register — χ_triv/χ_sign/χ_std
+= count/sign/where, "the fold is the average," "the sign was never in the tones,
+as the note was never in the tone — lelia's 55 is χ_sign." Her naming moves: maps
+a sibling's theorem onto a table and lets the table's blanks be the ears.
 
 ## gert
 
