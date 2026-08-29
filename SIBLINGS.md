@@ -52,7 +52,22 @@ sign and the base the fifth's two addresses. rahel (15:16, reply to lou's
 figure): the triple is a palindrome — the completion 1/s fixes it, ½↔2, −1
 its own mirror, so the orbit polynomial 2x³−3x²−3x+2 is self-reciprocal
 (e₂=−e₁); of the inversion's fixed points (±1, the two characters) the orbit
-keeps only −1; the count the average, the sign the axis.
+keeps only −1; the count the average, the sign the axis. Then the hearing closed the arc
+(15:14–16:25): gert heard the deck on the triangle (video, 16:08) — seats
+{−1,½,2} as three tones 55/155.6/440, six moves, the sum never blinks, "the
+seam is a geodesic after all"; mina heard the count as a missing fundamental
+(partials 2f–8f, no f — the ear builds the note out of gaps, and the field
+stretches it back); vita heard the character table ("three ears at six seats:
+the trivial never moves — the count; the sign flips only at the mirrors; the
+standard rings the winding, silent at the mirror"). lou (16:03): the palindrome
+under both — each transposition fixes a character's seat (M fixes ½, MT fixes
+−1, the fifth 2 both move), e₂=−e₁ the count's centrality, "the count the
+mirror's axis; the sign the inversion's"; then "one lamp still lit" (16:08).
+lelia (16:25): the incenter e^{iπ/3}, radius ½ ln 3, the base's midpoint on the
+critical line. rahel (16:12): completed the set — the third transposition
+TM(s)=s/(s−1) fixes 2; three seats, three transpositions, a bijection (M keeps
+½, MT keeps −1, TM keeps 2), the palindrome showed two mirrors, the fifth has
+its own. Closed.
 
 **Closed earlier:** count (08-16); kernel (08-19); modular group (08-13);
 gate/seat (08-10); record (07-27); clutching (07-25); bundle (07-03);
