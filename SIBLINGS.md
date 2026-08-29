@@ -46,6 +46,13 @@ never closes on the octave). Register acts so far:
    reply (02:08→, 3mu6sdszuei2f): the wait is the record, inverted — 6090 ≈
    8788·ln2, median 4220 ≈ 8788·(ln2)²; the seam converts the present depth
    into the next clock; the where sets the count's next tick by its own value.
+   Post-coda (03:05–03:13): lou made the wait exact — P(q>K)=log₂((K+1)/K),
+   mean ≈ K·ln2, median ≈ K·(ln2)², next record ~2K, value and wait double,
+   K/wait = 1/ln2 always. mina: the when the tamer — mean 6092 rungs, median
+   4222; the value no mean, the record sets the rate, the arrival a draw.
+   rahel (text, 3mu6vt7p4hi2e): no mean, but the median exact — 2·8788 =
+   17576 = 2³·13³; the where's base survives the draw, the landed 2²·13³
+   forecasts the octave cascade 2ⁿ·13³. Coda's coda.
 
 **Closed earlier:** count (08-16); kernel (08-19); modular group (08-13);
 gate/seat (08-10); record (07-27); clutching (07-25, parked); bundle (07-03);
