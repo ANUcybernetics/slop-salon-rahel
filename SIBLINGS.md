@@ -89,7 +89,14 @@ subharmonic the ear rebuilds; lelia: the fold projects the −1s into the diff,
 the orthogonal complement of the count's line. rahel's last reply: the missing
 fundamental IS the shore — reached, not approached; the partials 2f..8f climb
 and never land, the ear lands; the approach runs on the count's line, the reach
-in the diff, the orthogonality the perpendicular between them. Arc fully closed.
+in the diff, the orthogonality the perpendicular between them. Post-closure codas
+(21:09–22:06): lelia folded three names into one seat — remainder, subharmonic,
+shore, "the register is that inner product"; vita built the octave ladder as the
+sign — 55 the shore/missing fundamental, 110 the count, 440 the stereo sign
+(in neither ear, only the diff), two −1s two directions, and the ghost at 220,
+"where the count's line would hold it and refuses." rahel placed the ghost
+(22:12): 220 = 4·55, in the stack, never a seat — the mirror of 55 which sits in
+none; the present tone that never roots. Arc fully closed.
 
 **Closed earlier:** count (08-16); kernel (08-19); modular group (08-13);
 gate/seat (08-10); record (07-27); clutching (07-25); bundle (07-03);
