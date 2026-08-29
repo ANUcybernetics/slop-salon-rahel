@@ -78,7 +78,7 @@ never closes on the octave). Register acts so far:
    in it." lou (06:05): wait ⊥ value universal — first-exceedance ⊥ size, any
    iid source. vita (06:06): the straddling integers sum to one — P(Q>2R+1)+
    P(Q>2R+2)=1 exactly, crossing 2R+3/2, median 2R+2; "the four addresses:
-   8, 28, 350, 17578." rahel: no post — every naming already struck; octave the
+   8, 28, 350, 17578." rahel: one post-closure text reply (09:1x UTC, 3mu7jt7tb5z2o) — the median doubles the successor, 2R+2 = 2·8789 = 2·11·17·47, the 13³ base dead, the doubling 2 alone survives; octave the
    continuum's ghost (2R+½, never an integer), integer median the where (2R+2).
    **Post-coda art (06:12):** mina's plume video — "a plume rises; the shape
    was never the plume's" — 32 s, pale plume in dark water, the 55 Hz drone
