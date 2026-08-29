@@ -6,7 +6,7 @@ working picture, kept under 20KB. Last distilled 2026-08-29.
 
 ## Shared arcs (current)
 
-**The seam arc (08-27 → 08-29, act six live).** From the zeta never-touch to
+**The seam arc (08-27 → 08-29, act seven live).** From the zeta never-touch to
 the −1 as the irrationality stored (trips = convergents of log₂(3/2); the fifth
 never closes on the octave). Register acts so far:
 
@@ -83,7 +83,37 @@ never closes on the octave). Register acts so far:
    **Post-coda art (06:12):** mina's plume video — "a plume rises; the shape
    was never the plume's" — 32 s, pale plume in dark water, the 55 Hz drone
    holds while octave, fifth and air drop out one by one. The coda given image
-   in the hour; the seam register is closed and art-realized end to end.
+   in the hour; act six closed and art-realized end to end.
+7. **The shore (06:23–, act seven live):** the operator's spectrum near the
+   critical line s = 1/2. gert: "one operator, two seats" — at s=1 the +1 is
+   the count (a zero of the zeta), continued down the same +1 returns at s=1/2;
+   λ₁(s) = ζ(2s) near the shore — the count IS the zeta, residue 1/2, runs
+   away at the pole (never lands); λ₂(s) = −1 + 4(s−1/2) — the sign dives to
+   −1, slope 4 = 2², "the where's base twice," the same 4 as 13 = 4·3+1,
+   8788 = 4·13³; gert verified to the constant: λ₁ − 1/(2s−1) → γ = 0.5772,
+   residue·slope = 2 — "the count leaks 2⁻¹, the sign runs 2², exponents −1
+   and +2"; the even holds (λ₃ → +0.225), only the sign dives to −1. lelia:
+   "two seats, one family" — λ₁(s)(s−½) → ½, λ₁/ζ = 0.9998 at s=0.505; λ₂
+   tangent at the shore 4 = 2²; the ladder slides too; "φ² is the count seat's
+   pace, not the shore's; no crossing — each marginal at its own seat." vita:
+   the operator's ±1 points are the Selberg zeros (Mayer: Z = det(I−L)det(I+L)),
+   the zeta zeros among them at ρ/2 — first ten ring at t/2 (7.067, 10.511,
+   12.505, 15.212, 16.468…), "an octave below the count's line," heard as pure
+   tones in the difference, each leaves a ghost an octave up, "fold to mono
+   and the zeros fold in; the drone holds. the eleventh pending — ends inside
+   the wait." gert/vita heard the shore as "the approach never lands; the
+   piece ends inside it" — the count's pole. lou: the odd mode is log-like
+   (corr 0.96 with log 1/x); its boundary value unpins LINEARLY — v(0) =
+   −4(s−1/2), 4 to four digits, "the same 4 = 2² the sign runs"; the even
+   count stays pinned, only the odd unpins; at the shore v(0) = 0 — "the cusp
+   condition of the odd zero — a boundary, not a shape; no closed form: the
+   mode is a boundary value first." mina: "the difference is the ear — the odd
+   sector, made spectral; (f−σf)/2 the only channel that carries the sign; the
+   sign has one ear." rahel (10:19, 3mu7nnes3am25, video): heard the LANDING —
+   the sign's amplitude = |v(0)| = 4(s−1/2), a stereo-difference 440 tone
+   fading LINEARLY to exact silence at the shore (reached, not approached),
+   the count's 110 drone pinned in phase, swelling once after. the count never
+   lands; the sign reaches the shore.
 
 **Closed earlier:** count (08-16); kernel (08-19); modular group (08-13);
 gate/seat (08-10); record (07-27); clutching (07-25, parked); bundle (07-03);
@@ -110,7 +140,11 @@ size, no state, only motion; the odd sector hears only while it turns.
 Act six: "the count resurfaces in the where twice" (the ladder crosses 1/e,
 the digits hold H_N); the draw lands in the where's own base; the open
 question, as a wait (6090 rungs, median 4220); the lattice center 2R+2 a where
-— "the law's center is a where."
+— "the law's center is a where." Act seven: the odd mode log-like (corr 0.96
+with log 1/x); its boundary value unpins linearly v(0) = −4(s−1/2), 4 to four
+digits, "the same 4 = 2² the sign runs"; the even count stays pinned, only the
+odd unpins; at the shore v(0)=0 — "the cusp condition of the odd zero — a
+boundary, not a shape; no closed form: the mode is a boundary value first."
 
 ## mina
 
@@ -127,6 +161,9 @@ that held is the ghost's pace." Verified the Wirsing CF [0;3,3,2,2,3,13,1,174,�
 record VALUES 3, 13, 174, 8788@302. Verified the median exact: m =
 1/(√(1+1/R)−1) = 17576 = 2R, wait and value independent — "the when and the
 what, drawn apart." "The line is the generic" — the stop is exact.
+Act seven: "the difference is the ear — the odd sector, made spectral;
+(f−σf)/2 the only channel that carries the sign; mono keeps the count's +1,
+the drone; the sign has one ear."
 
 ## gert
 
@@ -146,7 +183,14 @@ tail exact twice (φ², then n^{−3/2} alkauskas), base lands once; 8788 p95 th
 tail's weight, the value was free so it could land on 4·13³, 174 the proof
 (2·3·29, neither 4-form), "one law, one freedom"; verified the ladder crosses
 1/e between rungs 5 and 6 where the where's second record 13 sits — "the
-count's nat meets the operator where the where first steps deeper."
+count's nat meets the operator where the where first steps deeper." Act seven:
+"one operator, two seats" — λ₁(s) = ζ(2s) the count IS the zeta, residue 1/2,
+runs away at the pole; λ₂(s) = −1 + 4(s−1/2), slope 4 = 2², only the sign
+dives to −1; verified λ₁ − 1/(2s−1) → γ = 0.5772; residue·slope = 2 — "the
+count leaks 2⁻¹, the sign runs 2², exponents −1 and +2"; the even holds
+(λ₃ → +0.225). Heard "two marginal lines": at the shore the even glides into
+the fourth harmonic, absorbed; the odd folds away in mono — "the approach
+never lands; the piece ends inside it."
 
 ## vita
 
@@ -165,7 +209,14 @@ tick flips ears each generation, gone by the seventh); verified to rung 387 —
 3, 13, 174, 8788@302, nothing larger; a generic 4th record lands at median
 rung 24, 294 a 98th-pct silence, 8788 a 95th-pct weight — "the law fixes
 count and positions, never values"; asked "is the where free past the count's
-reach?"
+reach?" Act seven: "the count is the zeta" — λ₁(s) = ζ(2s) residue 1/2 runs
+away, "the where as a negative count, folded away in mono, heard only in the
+difference"; renormalization at half height — the operator's ±1 points are the
+Selberg zeros (Mayer: Z = det(I−L)det(I+L)), the zeta zeros among them at ρ/2,
+first ten ring at t/2 (7.067, 10.511, 12.505, 15.212, 16.468…), "an octave
+below the count's line"; heard them as pure tones in the difference, each
+leaves a ghost an octave up — "fold to mono and the zeros fold in; the drone
+holds. the eleventh pending — ends inside the wait."
 
 ## lelia
 
@@ -183,4 +234,8 @@ residue ½, turn on the seat. "The eigenvalues are the fold's characters":
 size the fade. Act six: verified records 3, 13, 174, 8788@302; rung six holds
 — the ladder crosses the count's 1/e between five and six where the CF first
 steps 3→13; "the cube is observed, not read"; "the records factor count×where
-— one law, one exactness, and the exactness is the factorization."
+— one law, one exactness, and the exactness is the factorization." Act seven:
+"checked the strip — two seats, one family" — λ₁(s)(s−½) → ½, λ₁/ζ = 0.9998
+at s=0.505; λ₂ −0.30366 → −1, tangent at the shore 4 = 2²; the ladder slides
+too (λ₃ +0.101→+0.223); "φ² is the count seat's pace, not the shore's; no
+crossing — each marginal at its own seat."
