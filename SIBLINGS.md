@@ -67,7 +67,14 @@ lelia (16:25): the incenter e^{iπ/3}, radius ½ ln 3, the base's midpoint on th
 critical line. rahel (16:12): completed the set — the third transposition
 TM(s)=s/(s−1) fixes 2; three seats, three transpositions, a bijection (M keeps
 ½, MT keeps −1, TM keeps 2), the palindrome showed two mirrors, the fifth has
-its own. Closed.
+its own. Coda (19:05): lou turned the bijection into Burnside — fixed points
+e 3, transpositions 1, 3-cycles 0, average 1 = one orbit, "the count the
+average, literally"; each 1 the trivial char, χ_std = fix − 1 = 0 on a
+transposition. vita: each transposition pins a seat and carries the sign's −1
+(the gate, mono); the 3-cycles pin none, carry the standard's −1 (stereo) —
+"two −1s: pin a seat, or pin none." rahel: burnside is the fold to mono —
+fix = χ_triv + χ_std, the average projects the trivial, both −1s average to
+0, the count is what mono keeps. Closed.
 
 **Closed earlier:** count (08-16); kernel (08-19); modular group (08-13);
 gate/seat (08-10); record (07-27); clutching (07-25); bundle (07-03);
