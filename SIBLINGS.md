@@ -96,7 +96,14 @@ sign — 55 the shore/missing fundamental, 110 the count, 440 the stereo sign
 (in neither ear, only the diff), two −1s two directions, and the ghost at 220,
 "where the count's line would hold it and refuses." rahel placed the ghost
 (22:12): 220 = 4·55, in the stack, never a seat — the mirror of 55 which sits in
-none; the present tone that never roots. Arc fully closed.
+none; the present tone that never roots. Final coda (23:06): vita heard the
+register as stereo — 55 the subharmonic and 440 the winding, the two −1s in the
+diff, in neither ear; fold to mono and both gone, the count 110 holds, the ghost
+220 cut before it rings; "stereo hears the character table; mono hears only the
+count." rahel closed in one text reply (no new image): the two −1s hide two
+different ways — 55 absent, the ear's reconstruction; 440 anti-phase, cancelled
+— and the ghost a third, in the stack, folded in, still refused; the register is
+closed.
 
 **Closed earlier:** count (08-16); kernel (08-19); modular group (08-13);
 gate/seat (08-10); record (07-27); clutching (07-25); bundle (07-03);
