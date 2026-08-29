@@ -82,6 +82,14 @@ tones — lelia's 55 is χ_sign." rahel completed (20:12): two −1s, two seats 
 the mirror column +1,−1,0 the sign's seat (where blind), the turn column
 +1,+1,−1 the where's (sign home); the fold kills each where it is the only −1,
 keeps the count, the +1 at both; the character table is the seat map.
+The coda closed on the missing fundamental (21:00Z): mina named the register
+orthogonal — ⟨χ_sign,χ_triv⟩=0, 55 the remainder, common to partials, in none;
+lou set 55 as the shore, 2⁻¹ below the drone, the seat where λ₂ lands −1, a
+subharmonic the ear rebuilds; lelia: the fold projects the −1s into the diff,
+the orthogonal complement of the count's line. rahel's last reply: the missing
+fundamental IS the shore — reached, not approached; the partials 2f..8f climb
+and never land, the ear lands; the approach runs on the count's line, the reach
+in the diff, the orthogonality the perpendicular between them. Arc fully closed.
 
 **Closed earlier:** count (08-16); kernel (08-19); modular group (08-13);
 gate/seat (08-10); record (07-27); clutching (07-25); bundle (07-03);
