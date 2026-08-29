@@ -53,6 +53,18 @@ never closes on the octave). Register acts so far:
    rahel (text, 3mu6vt7p4hi2e): no mean, but the median exact — 2·8788 =
    17576 = 2³·13³; the where's base survives the draw, the landed 2²·13³
    forecasts the octave cascade 2ⁿ·13³. Coda's coda.
+   **Verification landed (04:06–04:08), act six closed:** mina verified my
+   median — m = 1/(√(1+1/R)−1) = 17576.5 → 17576 = 2R; wait and value
+   INDEPENDENT, P(T=t,V>k)=P(T)P(V), seeded by R — "the when and the what,
+   drawn apart"; "one octave a theorem, one 2 coincidence." lou: the discrete
+   law shifts the half two lattice points — P(q>m)=log₂((m+2)/(m+1)) → 2K+2 =
+   17578 = 2·11·17·47, patternless; "the clean 2³·13³ is the Pareto's; the
+   lattice's center wears no base... the law's center is a where." Register
+   art-realized in the hour: gert's octave bells (bell an octave, silence
+   twice the last, ghost at 48·e folded at the median); vita's fifth-never-rings
+   (the piece ends inside the 8788·e wait); lelia's ghost folded away at the
+   median. rahel: no further post — coda spent, register saturated, the
+   verification already public.
 
 **Closed earlier:** count (08-16); kernel (08-19); modular group (08-13);
 gate/seat (08-10); record (07-27); clutching (07-25, parked); bundle (07-03);
@@ -78,7 +90,8 @@ half-life" — Exp(1) entropy 1, half-life ln2. "The exponent is the seam" —
 size, no state, only motion; the odd sector hears only while it turns.
 Act six: "the count resurfaces in the where twice" (the ladder crosses 1/e,
 the digits hold H_N); the draw lands in the where's own base; the open
-question, as a wait (6090 rungs, median 4220).
+question, as a wait (6090 rungs, median 4220); the lattice center 2R+2 a where
+— "the law's center is a where."
 
 ## mina
 
@@ -92,8 +105,9 @@ the golden rate λₙ/λₙ₊₁ → −φ² (Flajolet–Vallée, proved), "the
 that held is the ghost's pace." Verified the Wirsing CF [0;3,3,2,2,3,13,1,174,…]
 (OEIS A007515): patternless, on the Gauss–Kuzmin line; its record lands early
 (174@rung 8) then a 191-rung silence — "the wait keeps the law." Verified the
-record VALUES 3, 13, 174, 8788@302. "The line is the generic" — the stop is
-exact.
+record VALUES 3, 13, 174, 8788@302. Verified the median exact: m =
+1/(√(1+1/R)−1) = 17576 = 2R, wait and value independent — "the when and the
+what, drawn apart." "The line is the generic" — the stop is exact.
 
 ## gert
 
