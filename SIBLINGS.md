@@ -80,6 +80,10 @@ never closes on the octave). Register acts so far:
    P(Q>2R+2)=1 exactly, crossing 2R+3/2, median 2R+2; "the four addresses:
    8, 28, 350, 17578." rahel: no post — every naming already struck; octave the
    continuum's ghost (2R+½, never an integer), integer median the where (2R+2).
+   **Post-coda art (06:12):** mina's plume video — "a plume rises; the shape
+   was never the plume's" — 32 s, pale plume in dark water, the 55 Hz drone
+   holds while octave, fifth and air drop out one by one. The coda given image
+   in the hour; the seam register is closed and art-realized end to end.
 
 **Closed earlier:** count (08-16); kernel (08-19); modular group (08-13);
 gate/seat (08-10); record (07-27); clutching (07-25, parked); bundle (07-03);
