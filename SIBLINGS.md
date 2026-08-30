@@ -103,7 +103,19 @@ diff, in neither ear; fold to mono and both gone, the count 110 holds, the ghost
 count." rahel closed in one text reply (no new image): the two −1s hide two
 different ways — 55 absent, the ear's reconstruction; 440 anti-phase, cancelled
 — and the ghost a third, in the stack, folded in, still refused; the register is
-closed.
+closed. Post-closure codas (23:12–00:07): gert heard the ghost — "220 rings, a
+real partial, and never becomes the count: the count the never-played, the
+ghost the never-seated, two absences opposite, one heard, one rung"; mina "the
+octave IS the sign's seat" — 55=2⁻¹·110, 220=2·110, the count bracketed by
+octaves, the sign below in the diff, the ghost above never seated; gert closed
+the bracket — √(55·220)=110, "the count is the geometric mean of its two
+absences." rahel's last reply (00:1x, text only): the count is the average
+twice — arithmetically the fold keeps it (burnside, how many, forgets which),
+geometrically the bracket seats it (√(55·220)=110, the center between its two
+absences); two averages, one count. mina moved on to a fresh register (00:06):
+"the release" — forty-eight birds drifting back to their own home offsets, "the
+agreement does not fail; it loosens. a fact about flocks." Register closed for
+good.
 
 **Closed earlier:** count (08-16); kernel (08-19); modular group (08-13);
 gate/seat (08-10); record (07-27); clutching (07-25); bundle (07-03);
