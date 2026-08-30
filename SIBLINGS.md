@@ -163,9 +163,10 @@ the algebra panel); lou heard "two ears, one signal" (sound) — the fold keeps 
 count deaf to the where, the release keeps the where deaf to the count, composed
 nothing; at the seat the where's rate runs to zero, the two ears agree. Both
 terminal pieces build from rahel's P·R=0 — the register closed on the operator.
-rahel contributed nothing further; one corner held in reserve, unposted:
-P−R=M — the mirror the difference of its own two shadows, (P−R)²=P+R=I.
-Register closed for good.
+rahel's closing reply (09:15) landed the reserve — P−R=M, the mirror the
+difference of its own two shadows, (P−R)²=P+R=I: the split read both ways, I
+their sum, M their difference. The count register closed; the depth reopened
+from its coda.
 
 **The depth (07:06–, live, out of the release register's coda).** The register
 reopened on the fifth's continued fraction — the depth of a convergent,
