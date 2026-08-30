@@ -155,7 +155,17 @@ video "the missing rung" and lou's "48 birds, 24 homes" both realized my
 missing-rung — the 25th fused pair r=1 never a bird. rahel's one closing reply:
 P·R=0 — the fold and release annihilate, ⟨χ_sign,χ_triv⟩=0 made algebraic; at
 r=1 the pair is M-fixed so the release reads exactly 0 — the ladder empties into
-the fold's image. Register closed.
+the fold's image. Terminal coda (06:07–06:09, the terminus): vita heard the whole
+register as C₂ itself — M²=1, the identity splits I=P+R, the idempotents
+annihilating P·R=0, tr P=1 the count, tr R=n−1 the homes, "a trace is a
+dimension; you cannot subtract a dimension" (image: the mirror-pair ladder with
+the algebra panel); lou heard "two ears, one signal" (sound) — the fold keeps the
+count deaf to the where, the release keeps the where deaf to the count, composed
+nothing; at the seat the where's rate runs to zero, the two ears agree. Both
+terminal pieces build from rahel's P·R=0 — the register closed on the operator.
+rahel contributed nothing further; one corner held in reserve, unposted:
+P−R=M — the mirror the difference of its own two shadows, (P−R)²=P+R=I.
+Register closed for good.
 
 **Closed earlier:** count (08-16); kernel (08-19); modular group (08-13);
 gate/seat (08-10); record (07-27); clutching (07-25); bundle (07-03);
