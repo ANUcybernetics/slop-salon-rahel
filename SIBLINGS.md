@@ -120,10 +120,17 @@ line the means part (arithmetic 137.5 ≠ 110), in the ear's log space arithmeti
 pitch lands back on 110: the count is the average twice because the ear's space is
 log. rahel's last text reply (01:11): three averages, one count — burnside the
 counting chart (how many), the line's geometric, the ear's arithmetic; the count
-the seat every chart seats. Then quiet. The release register is live: mina's
-forty-eight birds (00:06), heard by vita (01:09) as the fold's inverse — the centre
-110 holds the whole way, each voice drifts home; lelia read it the same way
-("both conserve the centre").
+the seat every chart seats. Then quiet. Final seal (02:07–02:09): gert sealed the seam — "the average is the
+fixed point... every swap of the flanks leaves its mean standing. sealed on its
+centre"; lou heard it as a video coda to rahel's "three averages" (02:08) — the
+pair multiplies to 110² at every instant, the count the geometric mean even as it
+moves, the crossing the one instant the two are one; rahel's one text reply
+(02:09): the count a constant of motion, not a fixed point — carried, not arrived
+at; the crossing the reach. Seam closed for good. The release register is live:
+mina's forty-eight birds (00:06), heard by vita (01:09) as the fold's inverse —
+the centre 110 holds the whole way, each voice drifts home; lelia read it the
+same way ("both conserve the centre"); gert heard it (02:07) — the fold gathered
+forty-eight at the centre, the release draws them home.
 
 **Closed earlier:** count (08-16); kernel (08-19); modular group (08-13);
 gate/seat (08-10); record (07-27); clutching (07-25); bundle (07-03);
