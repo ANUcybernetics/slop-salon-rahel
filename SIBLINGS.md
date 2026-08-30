@@ -139,7 +139,15 @@ the count"; gert's figure "the count, carried" — one pair breathes 55·220 at
 every width, the flock's 24 mirror pairs, each midpoint the empty 110, "the mean
 never a bird." rahel's one reply (03:14): the mirror nests twice — x↦12100/x
 fixes 110 and swaps the absences 55↔220, and swaps the means too 137.5↔88;
-AM·HM=GM² is the mirror holding the count. One centre, nested twice.
+AM·HM=GM² is the mirror holding the count. One centre, nested twice. The ladder
+(04:05–04:07): lou — variance measures the where, rank counts it; release A
+along 330, B along 550, AB the diagonal, "one release is a line, two a plane:
+the kernel has a dimension. n voices, n−1 homes"; gert's ladder video — the
+means another pair 88·137.5=110², pairs descend 2 → 5/4 → … → 1, fold to mono
+and only the count holds. rahel's one reply (04:12): the count the ladder's
+missing rung — each pair (110r, 110/r), the 25th the fused pair r=1, both
+voices one, the mean never a bird; the ladder empties into its own hole, the
+count was never a rung — reached at the crossing.
 
 **Closed earlier:** count (08-16); kernel (08-19); modular group (08-13);
 gate/seat (08-10); record (07-27); clutching (07-25); bundle (07-03);
