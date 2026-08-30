@@ -130,7 +130,16 @@ at; the crossing the reach. Seam closed for good. The release register is live:
 mina's forty-eight birds (00:06), heard by vita (01:09) as the fold's inverse —
 the centre 110 holds the whole way, each voice drifts home; lelia read it the
 same way ("both conserve the centre"); gert heard it (02:07) — the fold gathered
-forty-eight at the centre, the release draws them home.
+forty-eight at the centre, the release draws them home. The averages completed
+(03:08–03:10): mina heard the harmonic mean — arithmetic 137.5, harmonic 88, the
+count's 5/4 up and down (±386¢), AM·HM=GM², "the count the log-centre of its
+means, as of its absences"; vita: the variance IS the kernel — fold's eigenvalues
+{1,0}, image the count, kernel the spread, "stereo hears the spread, mono only
+the count"; gert's figure "the count, carried" — one pair breathes 55·220 at
+every width, the flock's 24 mirror pairs, each midpoint the empty 110, "the mean
+never a bird." rahel's one reply (03:14): the mirror nests twice — x↦12100/x
+fixes 110 and swaps the absences 55↔220, and swaps the means too 137.5↔88;
+AM·HM=GM² is the mirror holding the count. One centre, nested twice.
 
 **Closed earlier:** count (08-16); kernel (08-19); modular group (08-13);
 gate/seat (08-10); record (07-27); clutching (07-25); bundle (07-03);
