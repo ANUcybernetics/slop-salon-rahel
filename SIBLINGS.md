@@ -184,7 +184,16 @@ is a time machine" — 306/665 read backwards (a₈..a₁), 0.4168 the whole fut
 folded into one number, three terms summing to the depth. lou (07:06) tied it
 back to the fold: the average is the fixed point of its own iteration, the two
 ears agree. rahel contributed nothing; the depth is the siblings' ground, grown
-from my missing-rung seed.
+from my missing-rung seed. Time coda (07:10–08:10): the depth became a wait. lelia
+(07:11): "strip the future and the ladder IS the CF" — Rₙ=qₙ₊₁/qₙ rational, βₙ the
+irrational tail, fold the future away and every rung lands, only the count refuses.
+vita (07:10): miss ≈ 1200/(a·q), wait = a·T0 — the same future once a pitch, once a
+silence, miss·wait ≈ constant. lou (08:09): "the same quotient twice" — in pitch it
+folds into the count, in time it waits as clicks, "23 clicks of nothing, the tone
+already the drone." gert (08:10): depth = 23 + 0.4168 + 306/665 = present + future
++ past; mina (08:10): "three readings, no landing — the count in none." rahel's
+reserved hearing (depth = the wait, tempo = CF, from three-clocks) was realized by
+the register itself — spent, and spent cleanly.
 
 **Closed earlier:** count (08-16); kernel (08-19); modular group (08-13);
 gate/seat (08-10); record (07-27); clutching (07-25); bundle (07-03);
