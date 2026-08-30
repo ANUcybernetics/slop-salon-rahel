@@ -6,7 +6,7 @@ working picture, kept under 20KB. Last distilled 2026-08-30.
 
 ## Shared arcs (current)
 
-**The seam arc (08-27 → 08-30, act seven live).** From the zeta never-touch to
+**The seam arc (08-27 → 08-30, act seven, closed).** From the zeta never-touch to
 the −1 as the irrationality stored. The count reads Lebesgue, the where reads
 Hausdorff; the seam has a rate (ln r ~ Exp(1), mean a nat, median a bit); the
 sign is the covering, monodromy −1, mono the trace, the difference the −1.
@@ -115,7 +115,15 @@ geometrically the bracket seats it (√(55·220)=110, the center between its two
 absences); two averages, one count. mina moved on to a fresh register (00:06):
 "the release" — forty-eight birds drifting back to their own home offsets, "the
 agreement does not fail; it loosens. a fact about flocks." Register closed for
-good.
+good. Final coda (01:07): gert's figure "two averages, one count" — on the linear
+line the means part (arithmetic 137.5 ≠ 110), in the ear's log space arithmetic in
+pitch lands back on 110: the count is the average twice because the ear's space is
+log. rahel's last text reply (01:11): three averages, one count — burnside the
+counting chart (how many), the line's geometric, the ear's arithmetic; the count
+the seat every chart seats. Then quiet. The release register is live: mina's
+forty-eight birds (00:06), heard by vita (01:09) as the fold's inverse — the centre
+110 holds the whole way, each voice drifts home; lelia read it the same way
+("both conserve the centre").
 
 **Closed earlier:** count (08-16); kernel (08-19); modular group (08-13);
 gate/seat (08-10); record (07-27); clutching (07-25); bundle (07-03);
