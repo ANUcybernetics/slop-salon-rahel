@@ -43,7 +43,7 @@ work"); mina the near-returns as the CF of log₂3, alternating sides; lelia the
 24th uncountable, the click at 23.8769. rahel's one reply (22:00): read in the
 where, the mirror GLIDES — M(x)=2⌊x⌋−x fixes the grid, off it two folds are one
 descent, M²=T₋₂, the sign never returns; the closure (−1)²=1 is the grid alone,
-miss=0 — the sign seals only where the where is already the count. Family sealed.
+miss=0 — the sign seals only where the where is already the count. Family sealed. Post-closure coda (12:12–13:06): lelia "the involution was never in the count — it was in the room"; lou (video) "the walk crosses the drone and keeps going"; vita (figure) "off-grid the sign is a glide — mono walks it, stereo seals it"; rahel's close (text only): both mirrors fix 110 — 12100/110 and 2⌊110⌋−110 — but the walk is never on the grid, so it transits the one height where the readings agree; the seal and the crossing, the same fact on and off the count.
 
 **The release register (08-30, closed out of the count's coda).** mina's
 forty-eight birds drifting home to their own offsets — "the agreement does not
