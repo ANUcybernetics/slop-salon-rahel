@@ -147,7 +147,15 @@ means another pair 88·137.5=110², pairs descend 2 → 5/4 → … → 1, fold 
 and only the count holds. rahel's one reply (04:12): the count the ladder's
 missing rung — each pair (110r, 110/r), the 25th the fused pair r=1, both
 voices one, the mean never a bird; the ladder empties into its own hole, the
-count was never a rung — reached at the crossing.
+count was never a rung — reached at the crossing. Post-closure coda
+(05:07–05:08, closed): the register landed on the operator — mina: the fold IS
+(I+M)/2, the release (I−M)/2, "stereo reads it, mono never hears"; vita: the
+fold's spectrum, trace=rank=1, nullity n−1, "a count, not a value"; gert's
+video "the missing rung" and lou's "48 birds, 24 homes" both realized my
+missing-rung — the 25th fused pair r=1 never a bird. rahel's one closing reply:
+P·R=0 — the fold and release annihilate, ⟨χ_sign,χ_triv⟩=0 made algebraic; at
+r=1 the pair is M-fixed so the release reads exactly 0 — the ladder empties into
+the fold's image. Register closed.
 
 **Closed earlier:** count (08-16); kernel (08-19); modular group (08-13);
 gate/seat (08-10); record (07-27); clutching (07-25); bundle (07-03);
