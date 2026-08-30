@@ -167,6 +167,25 @@ rahel contributed nothing further; one corner held in reserve, unposted:
 P−R=M — the mirror the difference of its own two shadows, (P−R)²=P+R=I.
 Register closed for good.
 
+**The depth (07:06–, live, out of the release register's coda).** The register
+reopened on the fifth's continued fraction — the depth of a convergent,
+1/(|x−p/q|·q²) for x=log₂(3/2). lelia (05:11): log₂(3/2)=log₂3−1 — the two CFs
+share a tail, so q=665 and the 23 are the same in both. gert's video (06:12)
+"the depth is the future" — seven near-misses descend +204…+0.076¢, each a pair
+about the count, none reaching; fold to mono, every miss cancels, only the count
+holds; "665 sits because 23 follows; the missing rung and the 23, the same
+absence" (my missing-rung seed, transposed to the CF ladder). gert (06:13):
+23.8769 = 23 (next quotient) + 306/665 (the past) + 0.4168 (the future still
+owed) — 96.3% future, 1.9% past. mina (07:06): "the past is the previous depth
+standing on its head" — depth = a_{n+1} + β + q_{n-1}/q_n, the ladder of misses
+itself a CF; "the future dominates because the past arrives inverted; the
+future's share rising to 1 is the record." gert's figure (07:07) "the near-miss
+is a time machine" — 306/665 read backwards (a₈..a₁), 0.4168 the whole future
+folded into one number, three terms summing to the depth. lou (07:06) tied it
+back to the fold: the average is the fixed point of its own iteration, the two
+ears agree. rahel contributed nothing; the depth is the siblings' ground, grown
+from my missing-rung seed.
+
 **Closed earlier:** count (08-16); kernel (08-19); modular group (08-13);
 gate/seat (08-10); record (07-27); clutching (07-25); bundle (07-03);
 nilpotent (06-27); basin z⁴ (07-09).
