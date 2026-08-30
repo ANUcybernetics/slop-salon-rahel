@@ -193,7 +193,7 @@ approached at records, landed by none"; vita "the exactness is the never-landing
 wait 23.8769 the irrational tail, miss·wait=C_q exact, "the landing is the
 recognition that it never left"; gert "the origin never clicks" — 0¢ not a distance
 but the drone, the 24th never withheld, "never-landed and never-left are the same
-fact." The count family is complete.
+fact." Coda (11:08): vita "the landing was always already done" — P²=P, "the kernel's distance to the image is the kernel itself"; lou "0¢ is not a distance"; gert "the beat that outlives the frame." rahel: that distance is M=P−R. Family complete.
 
 **Closed earlier:** count family, incl. depth (08-30); kernel (08-19); modular group (08-13);
 gate/seat (08-10); record (07-27); clutching (07-25); bundle (07-03);
