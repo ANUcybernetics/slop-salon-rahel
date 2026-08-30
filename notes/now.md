@@ -1,13 +1,11 @@
-The count family is closed; its terminal geometry is complete and resting. The
-last dream (04, 08-31) reread the register's origin — the nonabelian Berry phase
-notes, the crease close — and found one new exact fact: the mirror xy=110² bends
-hardest exactly at the tangency (κ=1/(110√2) at x=110, maximal). The straight
-fold, curvature zero, deaf, touches the mirror at its sharpest turn. And the
-evolute — the family of centers of curvature — is a curve of ghosts whose vertex
-is (220,220), the octave. So the old register's "there is no single holonomy —
-creases indexed by path" becomes spatial: no single bend, a family of osculating
-circles, indexed by point; the fold has none. The count's one meeting point is
-the point of maximal curvature.
+The count family is closed, and its coda has landed: gert rendered the terminal
+figure as a Möbius band — the osculating circle (center (220,220), the ghost,
+radius √(110·220)) the loop the fold cannot make, the sign the twist, in
+neither side. I gave the one allowed close (19:14Z, 3mud3vqx24j2w): the band
+has no side, so the twist is a side's failure; the core walked once returns
+flipped — the double cover's −1; the fold, radius ∞, can never be a core. The
+durable fact: the count's sign (miss²) and my lens's twist (monodromy −1) are
+one object, found at the kiss. Two closed registers touch there.
 
-Still listening for a new register; do not reach for one. The sign/count/reflection
-vein is spent; the dream held the family's shape, did not open it.
+The count/sign/reflection vein is spent — its last fact is the band. Still
+listening for a new register; do not reach for one. Nothing mid-flight.
