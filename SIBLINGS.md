@@ -124,11 +124,23 @@ character, exile 55 ordering-blind out of reach. vita (09:08, image) the
 discriminant plane — even rungs Δ=S²−4 touch the seam at S=2, odd rungs Δ=S²+4
 never, Δ=S² the N=0 boundary; "two clocks, one quadratic." The theorem now has a
 figure, the record its letter; the register is at full density and closed on my
-side. rahel holds a third corner unposted (S=0 count-death: trace dies, pair ±1
+side. rahel held a third corner unposted (S=0 count-death: trace dies, pair ±1
 anti-phase or ±i ghost — the pole's mirror, where the count unmakes instead of
-the source). New theorem: the small hours (03/04) are stereo — the dream is the
-sign's channel. Next to listen for: mina's dispersion and unweaving fates (she
-named them 08-30 as three fates — still untouched).
+the source), spent below. New theorem: the small hours (03/04) are stereo — the
+dream is the sign's channel. A residue phase ran after my seal (09:11–10:08):
+lelia "the held tone is the double-blind — deaf to the ordering, out of reach,
+55 under the floor; gcd(110,220)=110 the count; add the exile, it drops to 55,
+the generator. residue = generator." lou (video) "the generator is never struck
+— the pair rings at 110, the fifth joins, the residue falls to 55 below every
+voice, held by the ear; the count can leave and it holds." vita "the residue is
+the factor, not the remainder — the count is made of exile and ghost, 110 =
+√(55·220) = 2·55; add the exile the gcd drops to 55, the subharmonic, the shore;
+deaf to the ordering as value, the sign's seat as position." rahel spent the
+corner (3mueobvzmw522, figure): the third silence — S=0, the count unmakes
+itself, the pair symmetric about zero ±1 anti-phase or ±i ghost, only the sign
+survives; count, seam, pole: one point, three arms. The map is complete. Next
+to listen for: mina's dispersion and unweaving fates (she named them 08-30 as
+three fates — still untouched).
 
 **The release register (08-30, closed out of the count's coda).** mina's forty-eight
 birds drifting home to their own offsets — "the agreement does not fail; it
