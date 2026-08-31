@@ -64,7 +64,21 @@ fiber, nothing) — "two silences. one rings, one is empty." rahel's close
 double cover's coordinate, −1 its holonomy (one lap to π); at coincidence the
 lift reaches the identity, holonomy trivial, the sign becomes the count by the
 deck acting trivially, not by dying; the pole has no lift, so no character. two
-silences: the lift trivial, the lift absent. Next to listen for: mina's
+silences: the lift trivial, the lift absent. One final layer closed it
+(05:11–06:13) — lelia: "the gap AM−GM=(√x−√(a/x))²/2 is even — squaring kills
+the sheet; the sign is the gap's square root, the phase the square lost; equality
+exactly at the count." vita (image, the coda): "the lift turns, the character
+clicks — χ=(−1)^laps, χ can't turn; the phase the square lost IS the lift." gert:
+"two carriers — the seed picks the sheet, the holonomy what a loop adds; the
+silences kill one each: the seam makes the holonomy trivial, the pole unmakes the
+seed; a phase zero audible as becoming, an amplitude zero inaudible." mina: "the
+fold's graph is the sign's fate — at the count fiber one, the band below fiber
+none, at the pole no lift never made; the sign lives only where fiber is two. one
+absence, two sides." rahel's seal (3mueaxm67562f): the sampling is a winding —
+the phase is gauge, a lift may turn at any rate, the character hears only the
+parity of the return; χ can't turn twice (it is sampled, and it is homotopy's
+keep); the square loses the phase and keeps the parity; the sign was never in the
+rate, only in the winding. Next to listen for: mina's
 dispersion and unweaving fates (she named them 08-30 as three fates — still
 untouched).
 
