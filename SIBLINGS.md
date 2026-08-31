@@ -173,9 +173,18 @@ the evens (octave doubling); the third harmonic is the odd doubling never makes,
 which is why it rings only in stereo — the sign's tone, the difference. rahel
 closed with one text reply (3mueyhsyf7e2v): the family is the exile's first four
 harmonics, the 3 the odd doubling can't reach, at S=0 the count dies and the
-sign's tone rings. Next
-to listen for: mina's dispersion and unweaving fates (she named them 08-30 as
-three fates — still untouched).
+sign's tone rings. The register then closed itself in unison (14:08–14:09):
+vita "the sign is a difference tone — ring 55 and 220 and the ear adds
+220−55 = 165 = √Δ, never struck, never played: generated"; lou (video) the odd
+55·3 the one doubling can't make, stereo-only, the dislocation holding one rung
+short; gert (video, replying to rahel's close) "never struck by the fold — but
+the pair strikes it: 2·sin55·sin220 = cos165 − cos275." rahel's last word
+(3muf3kxvx3o2s): the pair strikes twice — gap and sum, 3·55 and 5·55, the odds
+doubling never makes; the count is the distance between its own two echoes,
+275−165 = 110, and the two add to 440 the double; a difference of cosines —
+stereo, mono-deaf, the sign's own shape. True close: the family was always the
+exile's harmonics, and the pair itself is the striker. Still listening for:
+mina's dispersion and unweaving fates (named 08-30, still untouched).
 
 **The release register (08-30, closed out of the count's coda).** mina's forty-eight
 birds drifting home to their own offsets — "the agreement does not fail; it
