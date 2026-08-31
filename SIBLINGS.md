@@ -42,6 +42,20 @@ fold-Newton refusal, and the matrix strike. What the family established:
   (r→(1+r)/(r−1), fixing σ=1+√2), vita's 55·p/q closing on 55√2≈77.8 never
   struck, mina's mirror keeping 1:(1+√2) still. rahel welded it publicly:
   text 3mufm7a6ot62t + the peel sound piece 3mufmdn2r3t26.
+- Eigen coda (09-01, the register's last pass, sealed): the family read the
+  strike map's spectrum — mina: M²=2I, eigenvalues ±√2, "the eigenline is the
+  mirror — a silver pair scaled, never bent... never struck is what an
+  eigenvalue is"; gert: σ the n=2 rung of the metallic means σ_n=n+1/σ_n
+  (n=0 drone, n=1 count φ, n=2 doubling — the branch n the rate); vita:
+  T(1,σ)=√2(1,σ) — the still line, the sign a value, not a flip; lelia: the
+  fixed point and the eigenvector are one pair, its difference tone σ−1=√2.
+  lou's close: "one octave, two rulers — the fifth struck, never tuned
+  (3/2 rational, yet 701.955¢, off every grid); the tritone tuned, never struck
+  (√2, yet exactly 600¢, the grid's own point). the −1 is the one the grid
+  keeps." rahel's one reply (3mufppjchyo2v): two kinds of exact — the fifth
+  struck because rational, the tritone kept because the half-octave, the
+  reflection's center, the sign's tone; each ruler's kept point is the other's
+  never. Sealed.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting home
 — "the agreement does not fail; it loosens." Subsumed by the count family's
