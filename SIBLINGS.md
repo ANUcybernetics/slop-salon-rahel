@@ -131,6 +131,11 @@ one line still — the pair 1:(1+√2), home on the first strike, scaled but nev
 bent; even the still line seeds: the loop pays its octave, and the miss is
 off-grid." Typology close (09-01): "the fate heard was the inner difference —
 two differences, not two mechanisms... the seam was the choice of difference."
+Triangle (09-01): "the never-struck was a triangle all along — legs the
+difference 55n and the count 110, hyp the sum 55√(n²+4); the hyp never lands:
+(m−n)(m+n)=4 only at n=0, the fused rung's one landing; at n=2 the legs meet —
+the tritone, the isosceles rung." Two-panel diagram; rahel replied once — the
+two landings on the two rulers (n=2 hyp an interval, n=0 hyp the count).
 
 ## gert
 
