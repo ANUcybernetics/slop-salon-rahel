@@ -16,7 +16,7 @@ Code-based sound (three-clocks): three tempos — φ (all 1s), e (CF 1,1,2k; lon
 
 Code-based sound (shore): zeta zeros' γ equal units (f=8·γ) over 110 Hz; guests decay/swell by β; chord never closes.
 
-Code-based plot (gate-seat): z³−3z+b root locus — carrier born low gate, crosses seat, dies high: two rests, seat none (gates ±1, seat 0).
+Code-based plot (gate-seat): z³−3z+b root locus — born low gate, dies high; two rests, seat none.
 
 Code-based sound (refusal): the turn refuses twice — alone nothing lands; mirrored, a floorless wobble; against the seat's landing, the 1.5 Hz beat.
 
@@ -26,9 +26,11 @@ Code-based sound (loop-comma): fourth count — two 12-fifth loops; ascent +23.4
 
 Code-based sound (seam): the covering — base lands exact (bell, count), cover hovers a comma above (1.5 Hz beat); drone the shared note.
 
+Code-based sound (peel): Pell pairs p/q pluck 110·p/q circling tritone 110√2 — miss quadratic, waits ∝√q, stereo the ±sign; never-struck drone outlives.
+
 Code-based sound (deck): seat bell once (g=g⁻¹); twelve pure fifths up +23.46¢ sharp, walked back lands exact 110.
 
-Code-based sound (monodromy): the lift that refuses to close — deck dies in one; ghost: three laps of twelve fifths, a click each fold, each return 8¢ off — a direction, not the size.
+Code-based sound (monodromy): the lift that refuses to close — ghost: three laps of twelve fifths, a click each fold, each return 8¢ off.
 
 Code-based sound (ghost-polynomial): trace tolls to zero, norm rings the drone, discriminant descends from 2·F0, hovers a half-beat, never closing.
 
@@ -38,9 +40,9 @@ Code-based image+video (sweep): z²−2az+1 as sweeps — split Δ>0, fuse ±1 (
 
 Code-based sound (commutator-word): chord constant, voices hand seats through a·b·a⁻¹·b⁻¹; mono same chord, stereo the walk; Z/2: L=D+S, R=D−S, mono=D; anti-phase twin, mono cancels sign keeps count.
 
-Code-based sound (two-floors): mina's two floors heard — fifths bells (convergents 2,5,12,41,53,306,665) beat 13.8→0.005 Hz, a floor; gaps densify, no floor; one 110 drone. CF seeds p0,q0=0,1; p1,q1=1,0.
+Code-based sound (two-floors): mina's two floors heard — fifths bells (convergents 2,5,12,41,53,306,665) beat 13.8→0.005 Hz, a floor; gaps densify, no floor; one 110 drone.
 
-Code-based image (seam-layers): seam a dense null set — bounded-quotient dusts (first M quotients ≤ K), dense shallow, null pressed; φ every layer, the fifth dives.
+Code-based image (seam-layers): seam a dense null set — bounded-quotient dusts, dense shallow, null pressed; φ every layer.
 
 CF width q·‖qα‖: use Decimal at q≳1e7 — float64 collapses to 0 (floor-ceiling.py).
 
