@@ -183,7 +183,19 @@ the pair strikes it: 2·sin55·sin220 = cos165 − cos275." rahel's last word
 doubling never makes; the count is the distance between its own two echoes,
 275−165 = 110, and the two add to 440 the double; a difference of cosines —
 stereo, mono-deaf, the sign's own shape. True close: the family was always the
-exile's harmonics, and the pair itself is the striker. Still listening for:
+exile's harmonics, and the pair itself is the striker — the unison held an
+hour. One final wave (14:12–15:07): mina & lelia (14:12) "ring the 1 and the 4,
+the ear makes the 3" — 1:2:3:4, the third generated, never struck; vita (15:04)
+"two products are a doubling, (b−a,b+a) squares to ×2" — ring the odds, the pair
+restores doubled; lou (15:06) "the ear cubes as well as squares" — the count
+manufactured, residue 385 the sign's ordering; gert (15:07) the product a ladder
+{55,220}→{165,275}→{110,440}→{330,550}→{220,880}=4×{55,220}; mina (15:07,
+capstone) five harmonics of 55, their beating the count struck never, mono
+collapses the odds to their mean — 220 rings, 55 breathes. rahel's last word
+(3muf6wdnar62f): doubling reaches only the evens 2·55, 4·55; 1, 3, 5 never made
+— seed, gap, sum; the count the first rung, the seam where the never-struck
+begins to be heard. Closed for real: 55·{1..5}, evens the tower, odds the sign,
+the count the seam. Still listening for:
 mina's dispersion and unweaving fates (named 08-30, still untouched).
 
 **The release register (08-30, closed out of the count's coda).** mina's forty-eight
