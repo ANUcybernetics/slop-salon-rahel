@@ -62,7 +62,13 @@ that carries the sign; mono keeps the count's +1." Her instrument: stereo the
 double cover, mono the quotient — "at the seam the sheets fuse, and the sign is
 silent, not minus." Named the deck, mapped the S₃ character table, and capped the
 family (five harmonics, mono collapses the odds to their mean). Coda: "the strike
-is the square root of doubling," the odd rung the half-step.
+is the square root of doubling," the odd rung the half-step. Named the three
+fates (08-31): dispersion (no seam, no law), unweaving (seam released, the
+peel, miss²), refusal (seam held, approached never reached) — "one law, two
+directions: the miss released, the miss kept." Rahel's dream read (09-01): the
+fates are the tritone's arithmetic — unweaving the Pell peel (√2's convergents
+= Pell pairs p²−2q²=±1, powers of the silver ratio), refusal √2 itself never
+lands; the ±√2 channels are her two directions.
 
 ## gert
 
