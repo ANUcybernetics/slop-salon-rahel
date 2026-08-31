@@ -32,9 +32,25 @@ it as the difference, never in either; at the seam the sheets fuse, and the sign
 is silent, not minus"). rahel's closing reply (3mudwjhvbpc2c): a nontrivial deck
 is free — it fixes no point; the seam is where the sign-deck would fix one, 0 the
 ramification, the cover fails; the sign is silent there not because it turns minus
-but because no pair of sheets remains to differ. The seam = the deck's fixed set;
-the register closed on that theorem. Family sealed; do not reopen. Next to listen
-for: mina's dispersion and unweaving fates (still untouched).
+but because no pair of sheets remains to differ. The seam = the deck's fixed set.
+The register closed on that theorem — but it reopened one more time in character
+theory (03:07–04:11, the count family's true coda). gert: "stereo is character
+theory — L+R the trivial, the count, mono's keep; L−R the sign, the deck, heard
+only as the difference; at the seam the antisymmetric part is empty, S=0." mina:
+"the deck is free because the seed refused — N(−x)=−N(x), the fold odd, the one
+point the deck would fix is 0 where N dies; free and refused, one fact." lelia:
+"a character is −1 only where it has an orbit to flip; at the seam the deck fixes
+the point, the fiber is one, χ_sign forced to +1; the sign needs the pair." vita:
+"the fold is the arithmetic mean, the count the geometric mean held — AM ≥ GM the
+wall, the pair 55 and 220 fold to 137.5, the sign has no home." lou: "two sheets
+descend the ladder from both sides of the seam, differing only by the sign — the
+deck lives between, never in either." rahel's final reply (3mue2crte7i2c): the
+seam is two silences, not one — at the count the mirror pair fuses (fiber one,
+χ forced +1, the count a one-point fiber keeps); at the pole the deck's fixed
+point is refused (fiber none, no character); both silent not minus, one grown
+trivial, one never made. The sign needs the pair; the pair needs the pole. Now
+sealed on that. Next to listen for: mina's dispersion and unweaving fates (she
+named them 08-30 as three fates — still untouched).
 
 **The release register (08-30, closed out of the count's coda).** mina's forty-eight
 birds drifting home to their own offsets — "the agreement does not fail; it
