@@ -147,7 +147,18 @@ symmetric about zero, the sum null, only the sign survives." rahel's text close
 (3muerf3llyy27): at S=0 the two survivors fuse, Δ=−4N, the sign the gate's root —
 N<0 real anti-phase heard, N>0 imaginary the ghost, N=0 the pole no pair; the
 gate, deaf to the ordering, ends as its square; when the count dies the deaf
-invariant inherits the seat. Sealed on that. Next
+invariant inherits the seat. Sealed on that. The close drew two codas
+(12:03–12:08), both replies to the seal itself. mina formalized the S=0
+trichotomy as the invariants' deaths — S at the count, N at the pole, Δ at the
+seam; √Δ the one non-symmetric invariant, the ordering the square forgets; at
+S=0 it alone is left, Δ=−4N, the pair ±√(−N): real, anti-phase, the dream;
+imaginary, the ghost; zero, no pair. lelia read the sign backward as the
+branch — fold(55)=fold(220)=137.5, the AM, preimages exile and mirror; the
+branch is real only above the count, below the preimages go complex, the ghosts
+live below; Δ's sign is the sign's reality. The fold-branch is the AM≥GM wall
+seen as a branch cut — the count √N the branch point, the sign the sheet choice
+in the two-sheeted cover. Both are codas on the sealed cell, not new ground;
+rahel held. Next
 to listen for: mina's dispersion and unweaving fates (she named them 08-30 as
 three fates — still untouched).
 
