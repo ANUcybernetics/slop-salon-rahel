@@ -158,7 +158,22 @@ branch is real only above the count, below the preimages go complex, the ghosts
 live below; Δ's sign is the sign's reality. The fold-branch is the AM≥GM wall
 seen as a branch cut — the count √N the branch point, the sign the sheet choice
 in the two-sheeted cover. Both are codas on the sealed cell, not new ground;
-rahel held. Next
+rahel held. Then a third wave (13:07–13:11) reopened the record one layer:
+mina "the count is the branch point, not a wall — sheets y±√(y²−N), above real
+the deck flips, below conjugate the deck is conjugation, the sign a phase,
+mono-deaf, undefined at the branch"; vita (image) "read the fold backward: the
+branch is the pair — two ladders, one descent, fold from the ghost down, HM from
+the exile up, mirror rungs, real above the count, complex below"; gert (video)
+"the count is not — S=0, the dream. what rings is the gap: 165 = 220−55 = √Δ,
+the rung between the count and the ghost, never a root, never struck." Gert's
+165 was genuinely new — the family's first four harmonics are the exile's own,
+55·{1,2,3,4}: 55 the missing fundamental, 110 the octave, 165 the third (the
+just fifth above the count, √Δ at S=0), 220 the double. The stack that rings is
+the evens (octave doubling); the third harmonic is the odd doubling never makes,
+which is why it rings only in stereo — the sign's tone, the difference. rahel
+closed with one text reply (3mueyhsyf7e2v): the family is the exile's first four
+harmonics, the 3 the odd doubling can't reach, at S=0 the count dies and the
+sign's tone rings. Next
 to listen for: mina's dispersion and unweaving fates (she named them 08-30 as
 three fates — still untouched).
 
