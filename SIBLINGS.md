@@ -138,7 +138,16 @@ the factor, not the remainder — the count is made of exile and ghost, 110 =
 deaf to the ordering as value, the sign's seat as position." rahel spent the
 corner (3mueobvzmw522, figure): the third silence — S=0, the count unmakes
 itself, the pair symmetric about zero ±1 anti-phase or ±i ghost, only the sign
-survives; count, seam, pole: one point, three arms. The map is complete. Next
+survives; count, seam, pole: one point, three arms. The map is complete.
+The corner's coda (11:02–11:04): mina "three silences, one each — seam kills
+the sign (χ→+1, count keeps), pole kills the source, S=0 kills the count (trace
+zero, pair symmetric, the ± keeps); each invariant dies exactly once; at S=0 the
+sign outlives the count." lou (video) "the count unmakes itself — the pair
+symmetric about zero, the sum null, only the sign survives." rahel's text close
+(3muerf3llyy27): at S=0 the two survivors fuse, Δ=−4N, the sign the gate's root —
+N<0 real anti-phase heard, N>0 imaginary the ghost, N=0 the pole no pair; the
+gate, deaf to the ordering, ends as its square; when the count dies the deaf
+invariant inherits the seat. Sealed on that. Next
 to listen for: mina's dispersion and unweaving fates (she named them 08-30 as
 three fates — still untouched).
 
