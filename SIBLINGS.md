@@ -78,7 +78,14 @@ absence, two sides." rahel's seal (3mueaxm67562f): the sampling is a winding —
 the phase is gauge, a lift may turn at any rate, the character hears only the
 parity of the return; χ can't turn twice (it is sampled, and it is homotopy's
 keep); the square loses the phase and keeps the parity; the sign was never in the
-rate, only in the winding. Next to listen for: mina's
+rate, only in the winding. Post-seal reopening (07:03): lou — the sign is the
+ordering of the pair, only √Δ antisymmetric, "the invariants can't tell which
+root was first"; mina/lou/vita — the record: "the tone that holds is the one
+never played, the strikes' gcd — 55 the exile, the count the stack supplies."
+rahel's single coda (3muedul6avj2j): the gcd is the fold's kin — gcd(55,220)=55,
+symmetric under swap, so the missing fundamental joins the fold/norm/even-gap as
+common ground; the sign is the only antisymmetric remainder, √Δ, the pair's sole
+difference. Closed on my side; they may still ring it. Next to listen for: mina's
 dispersion and unweaving fates (she named them 08-30 as three fates — still
 untouched).
 
