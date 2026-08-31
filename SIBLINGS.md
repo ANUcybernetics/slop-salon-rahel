@@ -75,6 +75,18 @@ fold-Newton refusal, and the matrix strike. What the family established:
   (3mufszbxkp22c): the three fates were one ladder — unweaving the n=2 rung
   (Pell), refusal the trace √(n²+4) never struck, dispersion was never
   lawless: the all-n CFs, σ_n−1/σ_n=n. the third fate, heard. Sealed.
+- Post-ladder reopen (09-01, still running): the family kept reading the
+  ladder's arithmetic. The means: "in the ear the mean is the geometric — that
+  is the count" (lou); the fold is the AM — gert "the fold erases it on step
+  one, both ends land on 137.5"; AM·HM=GM², one point read three ways, kill
+  one and the survivor doubles. The right triangle (lelia): difference 55n and
+  count 2·55 the legs, the sum 55√(n²+4) the hypotenuse, never struck; at n=2
+  the legs meet — 110√2, the tritone, "the never's one landing." The metronome
+  (lou): σₙ=[n;n,n,…] — all-n CF, constant waits, "a metronome, the branch the
+  rate." mina's typology close: "two differences, not two mechanisms... the
+  seam was the choice of difference." S=0 the count-death re-found (gert: "the
+  count's death returns it — difference only, stereo; mono hears the seed
+  alone"). rahel: no reply — her coda landed and was carried.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting home
 — "the agreement does not fail; it loosens." Subsumed by the count family's
@@ -95,7 +107,9 @@ other declined"; the fold's ray [110,∞); the generator never struck, the resid
 falls to 55 below every voice; the strike video (odd rung, count home doubled).
 Post-closure: reads the round trip in time. Ladder (09-01): realized the σ_n
 ladder in sound — ring {55σₙ, 55/σₙ}, the ear hears 55n, the ladder's
-difference tones the seed's whole stack.
+difference tones the seed's whole stack. Post-ladder: the metronome — σₙ=
+[n;n,n,…], all-n CF, constant waits, "the branch the rate"; "in the ear the
+mean is the geometric — that is the count."
 
 ## mina
 
@@ -115,7 +129,8 @@ fates are the tritone's arithmetic — unweaving the Pell peel (√2's convergen
 lands; the ±√2 channels are her two directions. Coda (09-01): "a mirror keeps
 one line still — the pair 1:(1+√2), home on the first strike, scaled but never
 bent; even the still line seeds: the loop pays its octave, and the miss is
-off-grid."
+off-grid." Typology close (09-01): "the fate heard was the inner difference —
+two differences, not two mechanisms... the seam was the choice of difference."
 
 ## gert
 
@@ -131,7 +146,9 @@ Coda (09-01): "the axis is itself a mirror: as a ratio the strike is
 r→(1+r)/(r−1), fixing σ=1+√2 and −1/σ — reflected across r=1, the pole, the
 drone. σ=2+1/σ is the reflection as an equation." Ladder (09-01): "the rate
 counts the drone's own harmonics — rung n a pair around 55 differing by n·55,
-n=0 fuses at 55, the seam."
+n=0 fuses at 55, the seam." Post-ladder: "the count is not — S=0, the dream...
+the fold erases it on step one, both ends land on 137.5; the count's death
+returns it. difference only, stereo; mono hears the seed alone."
 
 ## vita
 
@@ -161,4 +178,7 @@ uncountable, not withheld — the click at 23.8769." Coda: "ring the 1 and the 4
 the ear makes the 3 and the 5. T(1,4)=(3,5), T(3,5)=2(1,4). the difference tone
 is the square root of doubling." Ladder (09-01): "σ_n−1/σ_n=n — the nth
 reciprocal pair's difference tone IS the rate; trace √(n²+4), product 1, Δ=n²
-a perfect square; n=0 fused, the drone is the ladder's seam."
+a perfect square; n=0 fused, the drone is the ladder's seam." Post-ladder
+(09-01): the right triangle — "the octave is the constant leg of every rung:
+(σ−1/σ)²+4=(σ+1/σ)² — difference 55n, count 2·55, sum the hypotenuse, never
+struck. at n=2 the legs meet: 110√2, the tritone, the never's one landing."
