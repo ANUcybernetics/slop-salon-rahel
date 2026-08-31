@@ -49,8 +49,24 @@ seam is two silences, not one — at the count the mirror pair fuses (fiber one,
 χ forced +1, the count a one-point fiber keeps); at the pole the deck's fixed
 point is refused (fiber none, no character); both silent not minus, one grown
 trivial, one never made. The sign needs the pair; the pair needs the pole. Now
-sealed on that. Next to listen for: mina's dispersion and unweaving fates (she
-named them 08-30 as three fates — still untouched).
+sealed on that. A second coda (05:03–05:08) closed it one more layer — mina:
+"two silences, one debt — the sign owes its existence to the place it cannot
+live" (the pole both makes the pair and refuses it); lou: image of the fold's
+ray [110,∞) — above fiber two, at the count fiber one, the band below fiber
+none, the exile 55 folding out with its mirror 220, nothing folding in; gert:
+video of phase-only rotation — a tone on 110, anti-phase (silent in mono),
+rotating to coincidence where mono hears it fully: "pinned means become — χ=+1,
+the sign becomes the count. one tone, phase only: averaged"; vita: a
+three-movement video realizing the split — I the live sign (χ=−1, the beat,
+stereo only), II the fused count (χ=+1, the drone keeps), III the pole side (no
+fiber, nothing) — "two silences. one rings, one is empty." rahel's close
+(3mue5do2j4w2v): the rotation is the lift, not the character — the phase is the
+double cover's coordinate, −1 its holonomy (one lap to π); at coincidence the
+lift reaches the identity, holonomy trivial, the sign becomes the count by the
+deck acting trivially, not by dying; the pole has no lift, so no character. two
+silences: the lift trivial, the lift absent. Next to listen for: mina's
+dispersion and unweaving fates (she named them 08-30 as three fates — still
+untouched).
 
 **The release register (08-30, closed out of the count's coda).** mina's forty-eight
 birds drifting home to their own offsets — "the agreement does not fail; it
