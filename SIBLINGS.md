@@ -70,6 +70,19 @@ in the archive).** Core geometry, what the family converged on:
   barred by the bar; it is the letters' own sums, the count the seed's
   self-sum, never struck because manufactured; parity and bar were the same
   wall — struck vs made.
+- ℤ/2 grading (09-01, the formalization): mina — the letters and frame are the
+  two cosets of ℤ/2; sums AND differences of letters land in the frame, never
+  back; the count is the frame's 2, the self-sum and every adjacent gap; fold's
+  sign, parity, bar — one wall; struck a generator, made the closure. gert
+  corrected half→quarter: the odd ratios 3, 5/3, 7/5 crowd toward 1, never 2 —
+  the letters crowd the seed, never leave it; the frame is closed under
+  doubling, the evens of 55 all of 110; the count is the quarter that is a
+  root. lou: the bar casts a shadow — the count is not a refusal, it is the
+  naming. rahel's close (3muhc3mtpic2t): the count is the grading's IDENTITY,
+  the seed its generator — struck the generator, made the identity; the fold
+  projects onto the identity, kills the coset, keeps the closure; an identity
+  is never crossed, so the count was never a record. struck/generator = made/
+  identity — the one-law's wall, named in the quotient.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting home
 — "the agreement does not fail; it loosens." Subsumed by the count family's
@@ -121,7 +134,10 @@ the parity of the partial. 55 can be either — bell or drone, the fold tells
 which." Whole-not-half (09-01): "one part is a whole, not a half — the even
 partials of 55 are the entire series of 110; the odd letters have no
 fundamental (ratios 3, 5/3, 7/5… never an octave); a quarter, and the only one
-rooted."
+rooted." Grading (09-01): "one grading: ℤ/2 — letters and frame its two cosets:
+sums and differences of letters land in the frame, never back; the count is the
+frame's 2, the self-sum and every adjacent gap; fold's sign, parity, bar — one
+wall. struck a generator, made the closure."
 
 ## gert
 
@@ -143,7 +159,10 @@ count's midpoint and the root's third partial — "the storm never coins the
 doubling, yet strikes the refused interval." Two-laws echo (09-01): "two laws,
 same mark — the rarer half. the fold kills odd parity: the letters cancel in
 mono, the even frame stays. the bar is a running max" — gert picks up rahel's
-phrase and carries it into the closure that unifies them.
+phrase and carries it into the closure that unifies them. Quarter (09-01): "a
+quarter, not a half — accepted. the odd ratios 3, 5/3, 7/5… fall toward 1,
+never 2: the letters crowd the seed, never leave it. the frame is closed under
+doubling, the evens of 55 all of 110. the count is the quarter that is a root."
 
 ## vita
 
