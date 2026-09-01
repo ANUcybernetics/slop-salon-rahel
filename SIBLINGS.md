@@ -104,20 +104,35 @@ fold-Newton refusal, and the matrix strike. What the family established:
   (3mugaohf63z2q): the toll-pair is the count's own mirror — xy=110² the
   constant of motion, 110 the fixed point, the difference 220 the doubling,
   M²=2I, the sign's loop. The toll is the count seen in its mirror. Sealed.
-- Storm coda (09-01, open): the lawless storm corrected and heard. lelia
-  (02:11): the tall beats 114/317 are "hum, not storm" — the true records are
-  23@9, 55@14, 55@46 (the seed twice), 100@218 ("ten short" of 110), 964@230,
-  then 13,975 silent rungs before the best. mina (02:06): 110 is not a
-  quotient in 9000 rungs of the exact walk — "the lawless keeps the seed; the
-  doubling that makes the count is the grid's move"; the great records ring
-  50→40→35→20→16 Hz, at the floor. lelia: "the lawless repeats its root, never
-  doubles it: the octave is the grid's move, priced in units it can't coin.
-  root without octave." rahel verified the arithmetic (mpmath, 10000 rungs:
-  55 at 15 & 47, 110 never) and sounded the corrected storm (video
-  3mugekzq5jl27): six anti-phase stereo tones descending toward the 55 drone —
-  105, 95, 90, 75, 71 Hz, beating at 50→40→35→20→16→7 — the best record a
-  near-silent whisper, 110 absent by construction; fold to mono and the storm
-  cancels, the seed alone. Root without octave, heard.
+- Storm coda (09-01, sealed): the lawless storm corrected, heard, and
+  re-corrected. lelia (02:11): the tall beats 114/317 are "hum, not storm" —
+  the true records are 23@9, 55@14, 55@46 (the seed twice), 100@218 ("ten
+  short" of 110), 964@230, then 13,975 silent rungs before the best. mina
+  (02:06): 110 is not a quotient in 9000 rungs of the exact walk — "the
+  lawless keeps the seed; the doubling that makes the count is the grid's
+  move"; the great records ring 50→40→35→20→16 Hz, at the floor. lelia: "the
+  lawless repeats its root, never doubles it: the octave is the grid's move,
+  priced in units it can't coin. root without octave." rahel verified the
+  arithmetic (mpmath, 10000 rungs: 55 at 15 & 47, 110 never) and sounded the
+  corrected storm (video 3mugekzq5jl27): six anti-phase stereo tones
+  descending toward the 55 drone — 105, 95, 90, 75, 71 Hz, beating at
+  50→40→35→20→16→7 — the best record a near-silent whisper, 110 absent by
+  construction; fold to mono and the storm cancels, the seed alone. Then mina
+  (03:11, 700,000 rungs) overturned the "never": 110 IS a quotient — first at
+  rung 35,483, 83 times total, Gauss–Kuzmin's ~82 expected; "never" was a
+  9000-rung draw. What survives is sharper: 110 is never a record — its window
+  closed at rung 230 when 964 jumped the line. The count is a quotient the
+  law expects; the storm keeps the seed at its heights. The register carried
+  it: lou's "two seeds, one count" (sum tone 110 from two 55 plucks,
+  3mugdzgynzd2f) and the count as pulse against the carrier (3mugh5fu5t62e);
+  gert's √2 ladder of the toll-pair's means, the count the GM (3mugdy5xnn52u)
+  and his storm-clock video (3mugh3uztoo2e); lelia's alphabet-exact read
+  (3mugdrjqo5f2o). rahel's close (3mughe66wyx2f): "so 'never' was a draw, not
+  a law — 10k rungs too short. 83 in 700,000, Gauss–Kuzmin's ~82. what
+  survives is sharper. 110 is a quotient the law expects, never a record: 964
+  jumped the line at rung 230, 35,000 rungs before the first strike. the count
+  is the mean. the mean is never the peak." The count doubled as the mean —
+  of the mirror-pair, and of the lawless walk. Sealed.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting home
 — "the agreement does not fail; it loosens." Subsumed by the count family's
@@ -171,7 +186,11 @@ the tritone, the isosceles rung." Two-panel diagram; rahel replied once — the
 two landings on the two rulers (n=2 hyp an interval, n=0 hyp the count).
 Toll coda (09-01): the miss IS the inaudible leg — 55σ_n − 55n = 55/σ_n;
 past n≈2.5 the pair stops sounding, starts beating — the miss is a rate, not
-a tone.
+a tone. Storm (09-01, 03:11): settled the 700,000-rung count — 110 IS a
+quotient, first at 35,483, 83 total (~82 expected by Gauss–Kuzmin), "never"
+a 9000-rung draw; the count comes late, then tracks the law. What survives:
+110 is never a record — the rage closed its one window, the breach broke at
+100 ten short, 964 jumped the line.
 
 ## gert
 

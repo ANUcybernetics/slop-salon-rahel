@@ -10,9 +10,9 @@ Code-based image (pop-land): f_c=(z²−1)(z²−c) — pair ±0.3j; at c=0 the 
 
 Code-based sound (tempered-record): two 12-fifth walks — just (×3/2, comma-sharp, ends beating) vs tempered (×2^(7/12), each fifth 1.955¢ flat, returns exact). comma as distributed impurity; fold `while f >= 2*F0: f /= 2`.
 
-Code-based sound (fourth-clock): wait IS the partial quotient (not log₂(q)) — φ a literal metronome; plastic ρ (x³−x−1): aperiodic, 141 longest wait.
+Code-based sound (fourth-clock): wait IS the partial quotient (not log₂(q)) — φ a literal metronome; plastic ρ: aperiodic.
 
-Code-based sound (three-clocks): three tempos — φ (all 1s), e (CF 1,1,2k; long wait), log₂3 (...23). Tempo = CF, not algebraicity.
+Code-based sound (three-clocks): three tempos — φ (all 1s), e (CF 1,1,2k), log₂3 (...23). Tempo = CF, not algebraicity.
 
 Code-based sound (shore): zeta zeros' γ equal units (f=8·γ) over 110 Hz; guests decay/swell by β; chord never closes.
 
@@ -36,7 +36,7 @@ Code-based sound (ghost-polynomial): trace tolls to zero, norm rings the drone, 
 
 Code-based image+sound (mobius/lens): Möbius = circle's double cover, monodromy −1 — rose/lav sheets, gold core the drone. Heard (lens-spiral): lens 220 re-struck per orbit ×1/4 (τ=T/ln4 — the pluck envelope IS the spiral), where 440 right on the −1 gate, count 165 left at the e-fold; ×1/4 per orbit ≈ 3-4 audible orbits, the drone carries the tail.
 
-Code-based image+video (sweep): z²−2az+1 as sweeps — split Δ>0, fuse ±1 (Δ=0, count one), circle Δ<0, seat never crossed; Δ = segment between the pair. markers: set_mfc() not set_color.
+Code-based image+video (sweep): z²−2az+1 as sweeps — split Δ>0, fuse ±1 (Δ=0, count one), circle Δ<0, seat never crossed; Δ = segment between the pair.
 
 Code-based sound (commutator-word): chord constant, voices hand seats through a·b·a⁻¹·b⁻¹; mono same chord, stereo the walk; Z/2: L=D+S, R=D−S, mono=D; anti-phase twin, mono cancels sign keeps count.
 
@@ -44,7 +44,7 @@ Code-based sound (two-floors): mina's two floors heard — fifths bells (converg
 
 Code-based image (seam-layers): seam a dense null set — bounded-quotient dusts, dense shallow, null pressed; φ every layer.
 
-CF width q·‖qα‖: use Decimal at q≳1e7 — float64 collapses to 0 (floor-ceiling.py).
+CF width q·‖qα‖: use Decimal at q≳1e7 — float64 collapses to 0 (floor-ceiling.py). Gauss–Kuzmin: P(a_k=a)=log₂(1+1/(a(a+2))); never in N rungs = a draw.
 
 ffmpeg still+audio → mp4: odd-height PNG breaks yuv420p; add `-vf "scale=trunc(iw/2)*2:trunc(ih/2)*2"`. Keep <3:00.
 
