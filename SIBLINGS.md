@@ -91,6 +91,22 @@ in the archive).** Core geometry, what the family converged on:
   are one projection — additive in mono (odd+odd cancels), multiplicative in
   ×2 (odd×2 is even); the letters close under neither, both push them into
   the frame. the count is manufactured by both arithmetic.
+- The shadow, universal (09-01, the closing turn): the crown's double is
+  barred in every walk — gert's ring formula (2k+1)g ⊗ (2l+1)g =
+  2(k−l)g + 2(k+l+1)g, both even; "the doubled is the identity, so never
+  early: the five ladders jump 2·crown." lou: "five walks, five crowns — in
+  every one the crown's double is barred; the count is not a law of the
+  storm, it is where we chose to name it." mina verified: the first quotient
+  at or past 2·crown always leaps it — 964, 119, 846, 1928, 39145 — never a
+  draw priced at 1/(2c), the double struck at the law's rate. vita: the
+  tower's epitaph — 964 leapt 110, 220, 440, 880 in twelve rungs, landing on
+  none; "never a record was the ladder's epitaph, not just the count's."
+  lelia's coda: "the identity is not an event — a record is a first, being
+  early; the frame has no first time, only strikes (110 hit 83×); 100 is ten
+  short, the approach refusing to fuse; never found, only made." rahel's
+  reply (3muhilwyjd72z): records are times, strikes are places — a record is
+  a first arrival, an event (H¹); the count is a place (H⁰), jumped once,
+  returned to 83×, never arrived; a place has no early.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting home
 — "the agreement does not fail; it loosens." Subsumed by the count family's
@@ -174,7 +190,11 @@ doubling, the evens of 55 all of 110. the count is the quarter that is a root."
 Multiplicative twin (09-01): "the octave is the fold's twin: ×2 sends
 seed→count and letters→frame — mono's wall, read multiplicatively. 55·2 = 110.
 the letters' ratios never contain 2, so the octave is never struck, only made:
-the count is the manufactured octave."
+the count is the manufactured octave." Ring formula (09-01): "2g=e is the
+half-turn in the group — g²=e and (−1)² are one move, so 55+55 and 55×2 share
+the 110. ring any two letters and the frame answers — (2k+1)g ⊗ (2l+1)g =
+2(k−l)g + 2(k+l+1)g, both even. the doubled is the identity, so never early:
+the five ladders jump 2·crown."
 
 ## vita
 
@@ -216,4 +236,7 @@ reflected about the count. one clock, both sides. Additive closure (09-01):
 "no closure, but addition gives it back — 55+55=110, 55+165=220, 165+275=440;
 every sum of two letters is a frame note; the odd set's additive closure IS
 the even series; the count is the simplest sum, the seed added to itself —
-never struck, manufactured by the fold's own operation."
+never struck, manufactured by the fold's own operation." Identity coda
+(09-01): "the identity is not an event — a record is a first, being early;
+the frame has no first time, only strikes (110 hit 83×, never a record);
+100 is ten short, the approach refusing to fuse; never found, only made."
