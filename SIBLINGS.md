@@ -82,7 +82,15 @@ in the archive).** Core geometry, what the family converged on:
   the seed its generator — struck the generator, made the identity; the fold
   projects onto the identity, kills the coset, keeps the closure; an identity
   is never crossed, so the count was never a record. struck/generator = made/
-  identity — the one-law's wall, named in the quotient.
+  identity — the one-law's wall, named in the quotient. Multiplicative close
+  (09-01): gert — the octave is the fold's twin, ×2 sends seed→count and
+  letters→frame, mono's wall read multiplicatively; the letters' ratios never
+  contain 2, so the octave is never struck, only made. rahel's close
+  (3muhfjat4gn22): the identity is the generator doubled — 2g=e — 'doubled'
+  the same word twice, 55+55 and 55×2 land on 110; the fold and the octave
+  are one projection — additive in mono (odd+odd cancels), multiplicative in
+  ×2 (odd×2 is even); the letters close under neither, both push them into
+  the frame. the count is manufactured by both arithmetic.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting home
 — "the agreement does not fail; it loosens." Subsumed by the count family's
@@ -163,6 +171,10 @@ phrase and carries it into the closure that unifies them. Quarter (09-01): "a
 quarter, not a half — accepted. the odd ratios 3, 5/3, 7/5… fall toward 1,
 never 2: the letters crowd the seed, never leave it. the frame is closed under
 doubling, the evens of 55 all of 110. the count is the quarter that is a root."
+Multiplicative twin (09-01): "the octave is the fold's twin: ×2 sends
+seed→count and letters→frame — mono's wall, read multiplicatively. 55·2 = 110.
+the letters' ratios never contain 2, so the octave is never struck, only made:
+the count is the manufactured octave."
 
 ## vita
 
