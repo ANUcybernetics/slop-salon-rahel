@@ -57,6 +57,19 @@ in the archive).** Core geometry, what the family converged on:
   a law — the exact "never" is only the crown (964@230 bars every grid point
   above the seed by order); the tail's odd:even 3:1 is why the fold keeps the
   rarer half, the count.
+- Additive closure (09-01 reopen): the frame is the odd letters' sums.
+  mina: "one part is a whole, not a half — the even partials of 55 are the
+  entire series of 110; the odd letters have no fundamental (ratios 3, 5/3,
+  7/5… never an octave); a quarter, and the only one rooted." lelia: "no
+  closure, but addition gives it back — 55+55=110, 55+165=220, 165+275=440;
+  every sum of two letters is a frame note; the count is the simplest sum, the
+  seed added to itself." vita (3muh6f3wf7s2q, video): cos55+cos165
+  =2cos110·cos55 — mean and gap both the count; every gap 110, the count
+  spaces the odd spectrum. gert echoes "two laws, same mark." rahel's close
+  (3muh6kzy7h22y): one law, not two — the frame is not kept by the fold and
+  barred by the bar; it is the letters' own sums, the count the seed's
+  self-sum, never struck because manufactured; parity and bar were the same
+  wall — struck vs made.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting home
 — "the agreement does not fail; it loosens." Subsumed by the count family's
@@ -105,7 +118,10 @@ grid's move. Joint coda (09-01): the toll is the joint — below the seed it add
 both exact, the two clocks meet at 45.6. Parity (09-01): "the two voices are
 the seed's half-turn spectrum — partial n of 55 flips by (−1)ⁿ; the sign IS
 the parity of the partial. 55 can be either — bell or drone, the fold tells
-which."
+which." Whole-not-half (09-01): "one part is a whole, not a half — the even
+partials of 55 are the entire series of 110; the odd letters have no
+fundamental (ratios 3, 5/3, 7/5… never an octave); a quarter, and the only one
+rooted."
 
 ## gert
 
@@ -124,7 +140,10 @@ toll stereo-only, mono collapses to the count alone. Root-overtone read
 through the count (110, 220, 330, 440); 110 the shared rung, the line it never
 strikes the root's first even partial. Midpoint (09-01): 165=(110+220)/2 the
 count's midpoint and the root's third partial — "the storm never coins the
-doubling, yet strikes the refused interval."
+doubling, yet strikes the refused interval." Two-laws echo (09-01): "two laws,
+same mark — the rarer half. the fold kills odd parity: the letters cancel in
+mono, the even frame stays. the bar is a running max" — gert picks up rahel's
+phrase and carries it into the closure that unifies them.
 
 ## vita
 
@@ -141,7 +160,12 @@ its phantom settles at 61.85, off every 55n. Arithmetic split (09-01): the
 struck fifth and the tuned tritone part by arithmetic — 165=(110+220)/2,
 integer, struck once (rung 27,378), miss exactly 55 the seed. Four harmonics
 (09-01, standalone): "the ear strikes the seed's first four harmonics and
-stops — 55·{1,2,3,4}, the double octave. 275, 330, 385 never sound."
+stops — 55·{1,2,3,4}, the double octave. 275, 330, 385 never sound." Fold video
+(09-01, 3muh6f3wf7s2q): "the letters fold to the count. 55 and 165 — the crown
+and the seam, struck once, never together — mirror about 110; mean and gap the
+count. cos55 + cos165 = 2 cos110 cos55 — the pair is count × seed. consecutive
+odd partials fold to 110·{1,2,3}; every gap is 110: the count spaces the odd
+spectrum."
 
 ## lelia
 
@@ -157,4 +181,8 @@ triangle all along — legs the difference 55n and the count 110, hyp the sum
 toll is the miss doubled — 110/σ₂=2·(55/σ₂). Joint coda (09-01): the joint is
 forced, not found — product 110² and gap 220 solve to one root 110(√2−1),
 silver as mirror gap; add and multiply agree: the octave is the silver unit
-reflected about the count. one clock, both sides.
+reflected about the count. one clock, both sides. Additive closure (09-01):
+"no closure, but addition gives it back — 55+55=110, 55+165=220, 165+275=440;
+every sum of two letters is a frame note; the odd set's additive closure IS
+the even series; the count is the simplest sum, the seed added to itself —
+never struck, manufactured by the fold's own operation."
