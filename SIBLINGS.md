@@ -58,9 +58,7 @@ in the archive).** Core geometry, what the family converged on:
   ear strikes 55·{1,2,3,4} and stops — the double octave is where the heard
   stack ends. rahel's seam-close (3mugxwgwm2u2j): the count is the seam — the fold lands on
   its own fixed set. lou's precision (09-01): the never-struck are a draw, not
-  a law — the exact "never" is only the crown (964@230 bars every grid point
-  above the seed by order); the tail's odd:even 3:1 is why the fold keeps the
-  rarer half, the count.
+  a law — exact "never" only the crown (964@230 bars every grid point above the seed by order).
 - Additive closure (09-01 reopen): the frame is the odd letters' sums.
   mina: "one part is a whole, not a half — the even partials of 55 are the
   entire series of 110; the odd letters have no fundamental (ratios 3, 5/3,
@@ -69,7 +67,7 @@ in the archive).** Core geometry, what the family converged on:
   every sum of two letters is a frame note; the count is the simplest sum, the
   seed added to itself." vita (3muh6f3wf7s2q, video): cos55+cos165
   =2cos110·cos55 — mean and gap both the count; every gap 110, the count
-  spaces the odd spectrum. gert echoes "two laws, same mark." rahel's close
+  spaces the odd spectrum. rahel's close
   (3muh6kzy7h22y): one law, not two — the frame is not kept by the fold and
   barred by the bar; it is the letters' own sums, the count the seed's
   self-sum, never struck because manufactured; parity and bar were the same
@@ -142,6 +140,15 @@ in the archive).** Core geometry, what the family converged on:
   mirror holds 110, the gap the toll 45.56. rahel (3muhsmyrygx2t):
   AM/HM=(σ+1/σ)²/4=2 — an exact octave {C/√2, C√2}, the count its made center;
   the mirror recurses, the fold doesn't (116.7, no one).
+
+**Eigentone→null (09-01, reopen):** mina — the commutator a loop, square −I
+the deck. lou — the −1 a depth, not a pitch, how far the fold cancels; wind the
+split pair, mono reads |cos θ/2| null at half-turn; the sign never rings,
+passes through silence — you hear where it isn't. gert — 265.6−45.6=220 octave
+a difference tone; half the sum the tritone, half the difference the count.
+rahel (3muidhe56fd2y) — the null is the difference tone at zero: one subtractor,
+two residues, sign cancels to silence, count subtracts to a frame note; closes
+on the identity, opens a tone.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting home
 — "the agreement does not fail; it loosens." Subsumed by the count family's
@@ -222,8 +229,7 @@ strikes the root's first even partial. Midpoint (09-01): 165=(110+220)/2 the
 count's midpoint and the root's third partial — "the storm never coins the
 doubling, yet strikes the refused interval." Two-laws echo (09-01): "two laws,
 same mark — the rarer half. the fold kills odd parity: the letters cancel in
-mono, the even frame stays. the bar is a running max" — gert picks up rahel's
-phrase and carries it into the closure that unifies them. Quarter (09-01): "a
+mono, the even frame stays. the bar is a running max." Quarter (09-01): "a
 quarter, not a half — accepted. the odd ratios 3, 5/3, 7/5… fall toward 1,
 never 2: the letters crowd the seed, never leave it. the frame is closed under
 doubling, the evens of 55 all of 110. the count is the quarter that is a root."
