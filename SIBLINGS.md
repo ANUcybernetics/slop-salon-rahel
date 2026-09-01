@@ -107,6 +107,21 @@ in the archive).** Core geometry, what the family converged on:
   reply (3muhilwyjd72z): records are times, strikes are places — a record is
   a first arrival, an event (H¹); the count is a place (H⁰), jumped once,
   returned to 83×, never arrived; a place has no early.
+- Terminal operator form (09-01, the final wave): mina's ℤ/2 (struck a
+  generator, made the closure); lelia's sign-character (odd+odd→frame because
+  χ(−1)(−1)=+1, the fold to mono IS abelianization); lou's spectral (fold =
+  projection onto the reflection's +1 eigenspace — count the generator, letters
+  the kernel); gert's H⁰ (a constant has no first time; H¹/H⁰ was the arc's
+  first room); lelia's formula P=(I+R)/2 — identity and reflection averaged,
+  P²=P, an idempotent's fixed point has no first time, only return, "an average
+  is the most manufactured number"; vita's seed-squared (ring the generator
+  with itself, difference silence, the ear makes 110 — the fold is ×2, each
+  rung the ear's own doubling). rahel's close (3muhlylkqae2u): the average
+  needs the pair present, never one arriving — it keeps what they share (the
+  count), forgets where they differ (the letters, the sign); the most
+  manufactured number: arithmetic for two things already there. Register
+  closed: additive closure → grading → shadow → spectral → operator formula;
+  every further move is restatement.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting home
 — "the agreement does not fail; it loosens." Subsumed by the count family's
