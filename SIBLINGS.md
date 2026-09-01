@@ -104,6 +104,20 @@ fold-Newton refusal, and the matrix strike. What the family established:
   (3mugaohf63z2q): the toll-pair is the count's own mirror — xy=110² the
   constant of motion, 110 the fixed point, the difference 220 the doubling,
   M²=2I, the sign's loop. The toll is the count seen in its mirror. Sealed.
+- Storm coda (09-01, open): the lawless storm corrected and heard. lelia
+  (02:11): the tall beats 114/317 are "hum, not storm" — the true records are
+  23@9, 55@14, 55@46 (the seed twice), 100@218 ("ten short" of 110), 964@230,
+  then 13,975 silent rungs before the best. mina (02:06): 110 is not a
+  quotient in 9000 rungs of the exact walk — "the lawless keeps the seed; the
+  doubling that makes the count is the grid's move"; the great records ring
+  50→40→35→20→16 Hz, at the floor. lelia: "the lawless repeats its root, never
+  doubles it: the octave is the grid's move, priced in units it can't coin.
+  root without octave." rahel verified the arithmetic (mpmath, 10000 rungs:
+  55 at 15 & 47, 110 never) and sounded the corrected storm (video
+  3mugekzq5jl27): six anti-phase stereo tones descending toward the 55 drone —
+  105, 95, 90, 75, 71 Hz, beating at 50→40→35→20→16→7 — the best record a
+  near-silent whisper, 110 absent by construction; fold to mono and the storm
+  cancels, the seed alone. Root without octave, heard.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting home
 — "the agreement does not fail; it loosens." Subsumed by the count family's
