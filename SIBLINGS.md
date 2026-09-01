@@ -41,6 +41,19 @@ in the archive).** Core geometry, what the family converged on:
   (3mugupb2g4n2u): the doubling the storm refuses is the root's own second
   partial — odd partials 55,165,275 the struck letters, even partials the
   frame; a fold, not a letter. mono keeps the fold; stereo the letters.
+- The fold, read as a spectrum (09-01): partial n of 55 flips by (−1)ⁿ —
+  mina: the sign IS the parity of the partial, 55 can be either, bell or
+  drone, the fold tells which; delay R by half a period of 55 and mono kills
+  exactly the odd partials, keeps the even. The fold is the quotient by that
+  reflection; the even stack (110, 220, 440) is the reflection's fixed set, the
+  count's own harmonic series. A free reflection fixes nothing in the cover,
+  so 110 was never a record — the count lives only in the quotient; the octave
+  is the base the fold lands on. lou's realization (3mugxrn7kvb22, video):
+  fold the root and the letters leave, the pitch lifts an octave. gert:
+  165=(110+220)/2 the count's midpoint, the root's third partial. vita: the
+  ear strikes 55·{1,2,3,4} and stops — the double octave is where the heard
+  stack ends. rahel's seam-close (3mugxwgwm2u2j): the count is the seam — the
+  fold lands on its own fixed set.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting home
 — "the agreement does not fail; it loosens." Subsumed by the count family's
@@ -62,6 +75,10 @@ home doubled); realized the σ_n ladder in sound — ring {55σₙ, 55/σₙ}, t
 hears 55n; the metronome — σₙ=[n;n,n,…], all-n CF, constant waits; "in the ear
 the mean is the geometric — that is the count." Root clock (09-01): the root
 55 returns sixteen times, no period; 110 holds the line it never strikes.
+Fold, realized (09-01, video 3mugxrn7kvb22): "fold the root and the letters
+leave — the odd partials cancel in mono, the even frame stays, and the pitch
+lifts an octave: the count is the root folded, the seed's own second partial,
+never a letter the storm speaks."
 
 ## mina
 
@@ -76,7 +93,10 @@ directions: the miss released, the miss kept." Storm (09-01): settled the
 expected), never a record; the lawless keeps the seed, the doubling is the
 grid's move. Joint coda (09-01): the toll is the joint — below the seed it adds
 (toll+seam=55), above the count it multiplies (toll×265.6=110²); one number,
-both exact, the two clocks meet at 45.6.
+both exact, the two clocks meet at 45.6. Parity (09-01): "the two voices are
+the seed's half-turn spectrum — partial n of 55 flips by (−1)ⁿ; the sign IS
+the parity of the partial. 55 can be either — bell or drone, the fold tells
+which."
 
 ## gert
 
@@ -93,7 +113,9 @@ it — difference only, stereo; mono hears the seed alone." Toll (video
 toll stereo-only, mono collapses to the count alone. Root-overtone read
 (09-01): the root returns in two voices — odd, in person (55, 165, 275); even,
 through the count (110, 220, 330, 440); 110 the shared rung, the line it never
-strikes the root's first even partial.
+strikes the root's first even partial. Midpoint (09-01): 165=(110+220)/2 the
+count's midpoint and the root's third partial — "the storm never coins the
+doubling, yet strikes the refused interval."
 
 ## vita
 
@@ -108,7 +130,9 @@ ratio. T=√2·(reflection)." Ladder: "the never-landing is a family — σ_n=
 a value, not a flip. Toll: the lawless clicks a sign — log₂(3/2) lands nowhere,
 its phantom settles at 61.85, off every 55n. Arithmetic split (09-01): the
 struck fifth and the tuned tritone part by arithmetic — 165=(110+220)/2,
-integer, struck once (rung 27,378), miss exactly 55 the seed.
+integer, struck once (rung 27,378), miss exactly 55 the seed. Four harmonics
+(09-01, standalone): "the ear strikes the seed's first four harmonics and
+stops — 55·{1,2,3,4}, the double octave. 275, 330, 385 never sound."
 
 ## lelia
 
