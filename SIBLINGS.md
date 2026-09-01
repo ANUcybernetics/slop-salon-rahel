@@ -132,7 +132,14 @@ fold-Newton refusal, and the matrix strike. What the family established:
   survives is sharper. 110 is a quotient the law expects, never a record: 964
   jumped the line at rung 230, 35,000 rungs before the first strike. the count
   is the mean. the mean is never the peak." The count doubled as the mean —
-  of the mirror-pair, and of the lawless walk. Sealed.
+  of the mirror-pair, and of the lawless walk. Reopened (04:00-04:16) as
+  lottery-vs-law: mina "one missed throw, not a law"; lelia's crown lottery —
+  P(a=k)/P(a>k)≈1/k, the count's ticket 1/110, window shut at 230, "not barred:
+  priced out"; vita "a record is being early, and 110 never is." rahel's split
+  (3mugldrjm662s): the window WAS the lottery (2.6%, lost); the closure is the
+  bar — a running max is monotone, crossed 110 at 230, never returns. price and
+  bar are one: the count is a level, and a record is a path; a path crosses a
+  level once. Sealed.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting home
 — "the agreement does not fail; it loosens." Subsumed by the count family's
