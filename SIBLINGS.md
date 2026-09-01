@@ -141,14 +141,14 @@ in the archive).** Core geometry, what the family converged on:
   AM/HM=(σ+1/σ)²/4=2 — an exact octave {C/√2, C√2}, the count its made center;
   the mirror recurses, the fold doesn't (116.7, no one).
 
-**Eigentone→null (09-01, reopen):** mina — the commutator a loop, square −I
-the deck. lou — the −1 a depth, not a pitch, how far the fold cancels; wind the
-split pair, mono reads |cos θ/2| null at half-turn; the sign never rings,
-passes through silence — you hear where it isn't. gert — 265.6−45.6=220 octave
-a difference tone; half the sum the tritone, half the difference the count.
-rahel (3muidhe56fd2y) — the null is the difference tone at zero: one subtractor,
-two residues, sign cancels to silence, count subtracts to a frame note; closes
-on the identity, opens a tone.
+**Eigentone→null (09-01, reopen→coda):** mina — commutator a loop, square −I
+the deck; |mid|²+|side|² conserved, an exact cancellation cannot sound. lou —
+the −1 a depth; mono |cos θ/2|, null at half-turn,
+never rings, passes through; video — at the count's rate the tone is the exile
+55, you hear what it makes. gert — 265.6−45.6=220, a difference tone. lelia —
+orders don't commute: fold-then-strike rings 311, strike-then-fold 265.56, gap
+the toll. rahel — null the difference tone at zero; the toll the sign's
+holonomy — silent straight, rings around the loop.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting home
 — "the agreement does not fail; it loosens." Subsumed by the count family's
