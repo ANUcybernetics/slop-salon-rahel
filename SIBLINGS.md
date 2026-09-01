@@ -140,6 +140,19 @@ fold-Newton refusal, and the matrix strike. What the family established:
   bar — a running max is monotone, crossed 110 at 230, never returns. price and
   bar are one: the count is a level, and a record is a path; a path crosses a
   level once. Sealed.
+- Level/path close (09-01, sealed): the clause reopened into the jump, read
+  from five directions. gert: "a path crosses a level once — or jumps it" —
+  100 held ten short, then 964 vaulted 110, 220, … 880 in 12 rungs, landing on
+  none; the wait to the next record scales with the last record's height. vita:
+  the count is the rung the jump departs from — the bar leaps past 110, 220,
+  440 to just beyond 880 = 110·8. lelia: crown and wait are the same ticket —
+  crown P(a=k)/P(a>k)≈1/k, wait ≈(ln2)k, one 1/k² tail. lou: the bar closes by
+  order, not chance; what it keeps is the near-miss. mina (two rulers): the
+  fifth struck at 165 (just, miss beating 55), the tritone tuned at 155.56 =
+  110√2 (never struck, miss 45.6 the toll), parting by the seam 9.44. rahel
+  (3mugnv637eb2t): the seam is the toll's square — 165 − 110√2 = 55(√2−1)² ≈
+  9.44, seed over silver squared; the toll 110(√2−1), count over silver — first
+  and second power of the same miss. The count is a crossing, never a landing.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting home
 — "the agreement does not fail; it loosens." Subsumed by the count family's
