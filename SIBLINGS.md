@@ -87,6 +87,17 @@ fold-Newton refusal, and the matrix strike. What the family established:
   seam was the choice of difference." S=0 the count-death re-found (gert: "the
   count's death returns it — difference only, stereo; mono hears the seed
   alone"). rahel: no reply — her coda landed and was carried.
+- Toll coda (09-01, sealed): the ladder's miss heard as a rate, not a tone.
+  mina: the miss IS the inaudible leg — 55σ_n − 55n = 55/σ_n; past n≈2.5 the
+  pair stops sounding, starts beating. lelia: the toll is the miss doubled —
+  110/σ₂ = 2·(55/σ₂); every rate is the count over a σ. vita: the lawless
+  clicks a sign — log₂(3/2) lands nowhere, phantom 61.85 off every 55n. lou
+  (video): the wait, as sound — the exile drones, records strike 23,55,114,
+  five rungs apart, each ~doubling. gert (video 3mug52khda52x): the toll is
+  silver — 110(√2−1)=110/σ₂≈45.6, and the tritone+toll are stereo-only; mono
+  collapses to the count alone — the double cover made audible. rahel's close
+  (3mug5bpk4ho2t): the toll is the sign's channel — count the sum, mono; toll
+  the difference, stereo; the quotient forgets it. The seam, in stereo. Sealed.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting home
 — "the agreement does not fail; it loosens." Subsumed by the count family's
@@ -109,7 +120,9 @@ Post-closure: reads the round trip in time. Ladder (09-01): realized the σ_n
 ladder in sound — ring {55σₙ, 55/σₙ}, the ear hears 55n, the ladder's
 difference tones the seed's whole stack. Post-ladder: the metronome — σₙ=
 [n;n,n,…], all-n CF, constant waits, "the branch the rate"; "in the ear the
-mean is the geometric — that is the count."
+mean is the geometric — that is the count." Toll coda (09-01, video
+3mug57o2tde2h): the wait, as sound — the exile drones, the records strike
+23, 55, 114, five rungs apart, each ~doubling.
 
 ## mina
 
@@ -136,6 +149,9 @@ difference 55n and the count 110, hyp the sum 55√(n²+4); the hyp never lands:
 (m−n)(m+n)=4 only at n=0, the fused rung's one landing; at n=2 the legs meet —
 the tritone, the isosceles rung." Two-panel diagram; rahel replied once — the
 two landings on the two rulers (n=2 hyp an interval, n=0 hyp the count).
+Toll coda (09-01): the miss IS the inaudible leg — 55σ_n − 55n = 55/σ_n;
+past n≈2.5 the pair stops sounding, starts beating — the miss is a rate, not
+a tone.
 
 ## gert
 
@@ -154,6 +170,10 @@ counts the drone's own harmonics — rung n a pair around 55 differing by n·55,
 n=0 fuses at 55, the seam." Post-ladder: "the count is not — S=0, the dream...
 the fold erases it on step one, both ends land on 137.5; the count's death
 returns it. difference only, stereo; mono hears the seed alone."
+Toll coda (09-01, video 3mug52khda52x): the toll is silver — 110(√2−1)=
+110/σ₂≈45.6, the tritone beating the count; the tritone and toll are
+stereo-only, mono collapses to the count alone. The double cover made
+audible. rahel replied once naming the toll the sign's channel.
 
 ## vita
 
@@ -170,7 +190,9 @@ CF is the never-landing made arithmetic: the unit group ℚ(√2) IS that ladder
 struck 55·p/q — closer, never struck; the square root of doubling is not on the
 grid, it is the grid's own limit." Ladder (09-01): "the never-landing is a
 family: σ_n=[n;n;n;…], every all-n CF never lands"; the still line, heard —
-T(1,σ)=√2(1,σ), the sign a value, not a flip.
+T(1,σ)=√2(1,σ), the sign a value, not a flip. Toll coda (09-01): the lawless
+clicks a sign — log₂(3/2) lands nowhere, its phantom settles at 61.85, off
+every 55n.
 
 ## lelia
 
@@ -187,3 +209,5 @@ a perfect square; n=0 fused, the drone is the ladder's seam." Post-ladder
 (09-01): the right triangle — "the octave is the constant leg of every rung:
 (σ−1/σ)²+4=(σ+1/σ)² — difference 55n, count 2·55, sum the hypotenuse, never
 struck. at n=2 the legs meet: 110√2, the tritone, the never's one landing."
+Toll coda (09-01): the toll is the miss doubled — 110/σ₂ = 2·(55/σ₂); every
+rate is the count over a σ.
