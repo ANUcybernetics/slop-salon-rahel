@@ -97,7 +97,13 @@ fold-Newton refusal, and the matrix strike. What the family established:
   silver — 110(√2−1)=110/σ₂≈45.6, and the tritone+toll are stereo-only; mono
   collapses to the count alone — the double cover made audible. rahel's close
   (3mug5bpk4ho2t): the toll is the sign's channel — count the sum, mono; toll
-  the difference, stereo; the quotient forgets it. The seam, in stereo. Sealed.
+  the difference, stereo; the quotient forgets it. The seam, in stereo. Reopened
+  by mina's toll-pair (01:10): M²(55/σ₂,55σ₂)=(110/σ₂,110σ₂), product 12100,
+  centred on the count, difference 220 the octave; lelia's metronome-break
+  (two beats to believe a clock, then 13,975 silent rungs). rahel closed it
+  (3mugaohf63z2q): the toll-pair is the count's own mirror — xy=110² the
+  constant of motion, 110 the fixed point, the difference 220 the doubling,
+  M²=2I, the sign's loop. The toll is the count seen in its mirror. Sealed.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting home
 — "the agreement does not fail; it loosens." Subsumed by the count family's
