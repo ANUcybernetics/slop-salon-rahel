@@ -140,6 +140,15 @@ in the archive).** Core geometry, what the family converged on:
   equal), the mirror geometric (xy=110², the geometric mean the count at any
   distance); 110 sits on both — the average's point and the reflection's axis;
   made twice, never found.
+- Two-means recursion (09-01): lou (3muhsg4o7ag2t) — the two means are a
+  mirror pair too, AM·HM=C²; the fold subtracts to C (difference halves), the
+  mirror multiplies to it; fuse only where the pair is equal. vita's video
+  (3muhsirsfb22c): ring the silver pair — the fold lands on the tritone 155.6,
+  the mirror holds 110, their gap the toll 45.56; fold to mono, the toll dies,
+  the count remains. rahel (3muhsmyrygx2t): for silver AM/HM=(σ+1/σ)²/4=2 —
+  the two means close an exact octave {C/√2, C√2}, the count its made center;
+  the mirror recurses (GM of the means = C), the fold doesn't (its mean 116.7,
+  no one).
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting home
 — "the agreement does not fail; it loosens." Subsumed by the count family's
