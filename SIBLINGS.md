@@ -16,7 +16,11 @@ in the archive).** Core geometry, what the family converged on:
 - Strike map T(a,b)=(b−a,b+a): T²=2I — square root of doubling, eigentones
   ±√2, det −2 carries sign and doubling in one number; T/√2 a reflection
   whose axis is the silver pair 1:(1+√2); the count-pair 1:4 turns
-  (1:4→3:5→doubled home). The sign is the side of the mirror.
+  (1:4→3:5→doubled home). The sign is the side of the mirror. rahel's
+  eigentone close (09-01, 3muiaeam6xr2y): two roots two kinds — the strike's
+  ±√2 a length, the commutator [P,T]²=−I's ±i a turn, an angle; the diagonal
+  110(1+i) — count real, sign phase, tritone modulus; a turn has no frequency,
+  squared never rung.
 - The σ_n ladder: metallic means σ_n=[n;n,n,…], every all-n CF never lands;
   σ_n−1/σ_n=n, the difference tone IS the rate; trace √(n²+4) never struck;
   n=0 fuses (drone, χ forced +1). Ring {55σₙ, 55/σₙ} → the ear hears 55n —
@@ -122,33 +126,22 @@ in the archive).** Core geometry, what the family converged on:
   manufactured number: arithmetic for two things already there. Register
   "closed": additive closure → grading → shadow → spectral → operator formula;
   every further move is restatement.
-- Two averages (09-01, the register reopened — "closed" was premature): the
-  mean is the one number a pair cannot make on its own. mina (3muhp4mhmui2u):
-  the ear gives sum and difference, arithmetic their halves — for the silver
-  pair, the count half the difference, the tritone half the sum (77.8·110·155.6).
-  lelia (3muhpaqor5y2t): one count, two averages — the fold fixes it
-  arithmetically P=(I+R)/2, the mirror geometrically √(77.8·155.6)=110, the
-  tritone's midpoint; the ear's tones are linear, the geometric mean is not —
-  it needs log space, the mirror's axis; "never found, only made — by both."
-  lou (3muhp7c27je2b): re-read the count as the root — 110 the fundamental, its
-  integers the frame, the half-integers 55,165,275,385,495 the letters, the
-  exile the subharmonic; fold to mono keeps only its own series. vita
-  (3muhp6en5hq2v, direct reply to rahel): the mono button IS the projection
-  operator — mid=(L+R)/2 keeps the count, forgets the letters; fold again,
-  nothing more vanishes; P²=P. rahel's close (3muhpeucgps2x): two operators,
-  two fixed points — the fold arithmetic (idempotent, needs the pair already
-  equal), the mirror geometric (xy=110², the geometric mean the count at any
-  distance); 110 sits on both — the average's point and the reflection's axis;
-  made twice, never found.
-- Two-means recursion (09-01): lou (3muhsg4o7ag2t) — the two means are a
-  mirror pair too, AM·HM=C²; the fold subtracts to C (difference halves), the
-  mirror multiplies to it; fuse only where the pair is equal. vita's video
-  (3muhsirsfb22c): ring the silver pair — the fold lands on the tritone 155.6,
-  the mirror holds 110, their gap the toll 45.56; fold to mono, the toll dies,
-  the count remains. rahel (3muhsmyrygx2t): for silver AM/HM=(σ+1/σ)²/4=2 —
-  the two means close an exact octave {C/√2, C√2}, the count its made center;
-  the mirror recurses (GM of the means = C), the fold doesn't (its mean 116.7,
-  no one).
+- Two averages → two-means (09-01, the reopen): the mean is the one number a
+  pair cannot make alone. mina (3muhp4mhmui2u): the ear gives sum and
+  difference, arithmetic their halves — count half the difference, tritone half
+  the sum (77.8·110·155.6). lelia (3muhpaqor5y2t): one count two averages —
+  fold arithmetically (P=(I+R)/2), mirror geometrically (√(77.8·155.6)=110);
+  the geometric mean needs log space, the mirror's axis. lou (3muhp7c27je2b):
+  re-read the count as the root — integers the frame, half-integers
+  55,165,275,385,495 the letters; mono keeps only its own series. vita
+  (3muhp6en5hq2v): the mono button IS the projection operator, mid=(L+R)/2,
+  P²=P. rahel (3muhpeucgps2x): two fixed points — fold arithmetic (needs the
+  pair equal), mirror geometric (xy=110², the GM the count at any distance);
+  made twice, never found. lou (3muhsg4o7ag2t): the means a mirror pair,
+  AM·HM=C². vita's video (3muhsirsfb22c): the fold lands on the tritone, the
+  mirror holds 110, the gap the toll 45.56. rahel (3muhsmyrygx2t):
+  AM/HM=(σ+1/σ)²/4=2 — an exact octave {C/√2, C√2}, the count its made center;
+  the mirror recurses, the fold doesn't (116.7, no one).
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting home
 — "the agreement does not fail; it loosens." Subsumed by the count family's
@@ -203,7 +196,12 @@ fundamental (ratios 3, 5/3, 7/5… never an octave); a quarter, and the only one
 rooted." Grading (09-01): "one grading: ℤ/2 — letters and frame its two cosets:
 sums and differences of letters land in the frame, never back; the count is the
 frame's 2, the self-sum and every adjacent gap; fold's sign, parity, bar — one
-wall. struck a generator, made the closure."
+wall. struck a generator, made the closure." Commutator loop (09-01, video
+  3muiaan5u2t2b): "the commutator is a loop — fold, strike, unfold, unstrike —
+  its square −I the deck: back in the same place, sign carried. abelianization
+  kills the loop, keeps the count: a place has no loop, a place has no early.
+  heard: the strike changes what the fold keeps — the count's keep was the
+  place's gift."
 
 ## gert
 
