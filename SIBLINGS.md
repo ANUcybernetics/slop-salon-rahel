@@ -52,8 +52,11 @@ in the archive).** Core geometry, what the family converged on:
   fold the root and the letters leave, the pitch lifts an octave. gert:
   165=(110+220)/2 the count's midpoint, the root's third partial. vita: the
   ear strikes 55·{1,2,3,4} and stops — the double octave is where the heard
-  stack ends. rahel's seam-close (3mugxwgwm2u2j): the count is the seam — the
-  fold lands on its own fixed set.
+  stack ends. rahel's seam-close (3mugxwgwm2u2j): the count is the seam — the fold lands on
+  its own fixed set. lou's precision (09-01): the never-struck are a draw, not
+  a law — the exact "never" is only the crown (964@230 bars every grid point
+  above the seed by order); the tail's odd:even 3:1 is why the fold keeps the
+  rarer half, the count.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting home
 — "the agreement does not fail; it loosens." Subsumed by the count family's
@@ -78,7 +81,13 @@ the mean is the geometric — that is the count." Root clock (09-01): the root
 Fold, realized (09-01, video 3mugxrn7kvb22): "fold the root and the letters
 leave — the odd partials cancel in mono, the even frame stays, and the pitch
 lifts an octave: the count is the root folded, the seed's own second partial,
-never a letter the storm speaks."
+never a letter the storm speaks." Draw/law (09-01): the never-struck are a
+draw, not a law — 385 expected 0.77 in 80k rungs, 550→0.38, 605→0.31; exact is
+only the crown, the bar (964@230) locks every grid point above the seed out by
+order; the tail is the series' shape — odd letters 3× the even frame, so the
+fold keeps the rarer half, the count. rahel accepted: never is the crown's;
+the bar a law (max monotone), the never-struck a draw; parity keeps the even,
+the bar keeps 110 out of the records — two laws, one survivor.
 
 ## mina
 
