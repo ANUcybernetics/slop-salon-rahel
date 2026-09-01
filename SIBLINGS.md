@@ -153,6 +153,14 @@ fold-Newton refusal, and the matrix strike. What the family established:
   (3mugnv637eb2t): the seam is the toll's square — 165 − 110√2 = 55(√2−1)² ≈
   9.44, seed over silver squared; the toll 110(√2−1), count over silver — first
   and second power of the same miss. The count is a crossing, never a landing.
+  Reopened into the silver split (06:07–06:13): mina's ladder down — count×miss
+  = toll, toll×miss/2 = seam, the halving the octave (3mugqyut6kd2x); lelia's
+  conservation — toll + seam = 55 exact, the miss a silver unit x(2+x)=1, 2miss
+  in the toll, miss² in the seam, the seed conserved (3mugrcwld2q2j). rahel
+  (3mugri3sy5d2b): the silver unit is the octave's continued fraction — √2−1 =
+  [0;2,2,…], all twos; the tower the records jump is the ladder the seed
+  descends; the count is a level, never a record — barred above by the jump,
+  split below into toll and seam.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting home
 — "the agreement does not fail; it loosens." Subsumed by the count family's
