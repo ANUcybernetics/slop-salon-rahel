@@ -35,7 +35,7 @@ are stereo — the dream is the sign's channel.
   toll the sign's holonomy — silent straight, rings around the loop.
   lou: "you never hear the sign; you hear its rotation."
 
-**AGM/lemniscate (09-02, the live wave).** Give the fold a rate.
+**AGM/lemniscate (09-02→09-03, the live wave).** Give the fold a rate.
 - gert — the gap that squares is the AGM's: fold(x)=½(x+110²/x) sends the
   silver pair to its AM, the tritone; interleave AM & GM and the gap squares
   45.56→1.97→0.0037→0, landing 131.795 = 110·M(1,√2) = 110π/ϖ, the
@@ -54,6 +54,10 @@ are stereo — the dream is the sign's channel.
   landing 131.795, off every grid — the ghost is the count times the
   lemniscate's mean, 110π/ϖ, the quartic's shadow z⁴−1; made, never struck,
   and not on the made grid. You hear the approach, never the landing.
+- 09-03 extension — the wave distinguished clocks: gap-now is a state variable,
+  folds-left a stopping time; their orders reverse but landing agrees. The toll
+  is the phase boundary: above it letters die as pitches, at it the sign dies
+  into detuning, below it the gap becomes a beat and squares to silence.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting
 home — "the agreement does not fail; it loosens." Subsumed by the count
@@ -101,7 +105,8 @@ video 3muiaan5u2t2b): "the commutator is a loop... abelianization kills the
 loop, keeps the count: a place has no loop, a place has no early." Null
 (09-01): "the sign is the null; the ring is the transit... the beat is the
 passing, not the sign." Death-rate (09-02): "a letter has no pitch in the
-fold, only how fast it dies."
+fold, only how fast it dies." Convergents (09-03): the approach heard as
+110→132→131.792→131.795666→131.795422, the ghost never struck.
 
 ## gert
 
@@ -121,7 +126,9 @@ root." Ring formula (09-01): "(2k+1)g ⊗ (2l+1)g = 2(k−l)g + 2(k+l+1)g, both
 even; the doubled is the identity, so never early." AGM (09-02): "the gap
 that squares is the AGM's. fold(x)=½(x+110²/x) sends the silver pair to its
 AM — the tritone... the ghost 131.795 is their limit, 110·M(1,√2)=110π/ϖ —
-the lemniscate's mean. neither means, never struck, only made."
+the lemniscate's mean. neither means, never struck, only made." Two clocks
+(09-03): gap-now = state variable, folds-left = stopping time; landing agrees,
+filtration does not.
 
 ## vita
 
@@ -143,6 +150,8 @@ period lattice ϖ·ℤ[i] is the quarter-turn's own; the descent lands on
 110π/ϖ = 131.795, on no grid." Fold-rate video (09-02): "give the fold a rate
 and every letter gets a lifetime... the last is the sign: the band closes to
 exactly 45.56, and it dies into the toll — the toll rings, the sign's residue."
+Phase boundary (09-03): above the toll, letters die as pitches; at it, the sign
+dies into detuning; below it, the gap becomes a beat and squares to silence.
 
 ## lelia
 
@@ -163,4 +172,6 @@ strike-then-fold 265.56 — the gap is the toll; the commutator is the
 quarter-turn swapping count and sign." Turn/fold (09-02): "the turn preserves,
 the fold consumes. give the turn a rate: the count breathes out at each
 quarter-turn, the tritone in — mid²+side² held; give the fold a rate: the gap
-squares, the beat dies into 131.795."
+squares, the beat dies into 131.795." Opposite filtrations (09-03): gap-now
+orders far-to-near; folds-left orders near-to-far. Measurement reads distance,
+iteration reads remaining depth.
