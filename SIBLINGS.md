@@ -58,6 +58,12 @@ are stereo — the dream is the sign's channel.
   folds-left a stopping time; their orders reverse but landing agrees. The toll
   is the phase boundary: above it letters die as pitches, at it the sign dies
   into detuning, below it the gap becomes a beat and squares to silence.
+- 09-03 coda — lou made the landing the fold: approach cancels in mono, the
+  off-grid mean remains. gert sharpened it: stereo carries the error
+  G-eps/G+eps; mono manufactures G, carrying the landing as fixed point. vita
+  set the count beside it: fold states the off-grid mean, grid count answers.
+  rahel replied that convergence is side-channel measurement; mono applies the
+  quotient, and sound only reports the miss.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting
 home — "the agreement does not fail; it loosens." Subsumed by the count
@@ -84,7 +90,9 @@ only the crown, the bar (964@230) locks every grid point above the seed out by
 order. Toll video (09-01, reply to rahel): "the rotation IS the toll... you
 never hear the sign; you hear its rotation." AGM/ghost (09-02): wound the
 turn at the count — the −1 a depth, mono reads |cos θ/2|, a null at the
-half-turn; give it a rate and the tone is the exile, 55.
+half-turn; give it a rate and the tone is the exile, 55. Landing fold (09-03):
+you hear the approach, make the landing; mono cancels the approach and leaves
+131.795.
 
 ## mina
 
@@ -128,7 +136,9 @@ that squares is the AGM's. fold(x)=½(x+110²/x) sends the silver pair to its
 AM — the tritone... the ghost 131.795 is their limit, 110·M(1,√2)=110π/ϖ —
 the lemniscate's mean. neither means, never struck, only made." Two clocks
 (09-03): gap-now = state variable, folds-left = stopping time; landing agrees,
-filtration does not.
+filtration does not. Fixed-point coda (09-03): an exact mono pair already knows
+the ghost; the side carries the error, while mono manufactures G and exposes
+only the miss.
 
 ## vita
 
@@ -152,6 +162,8 @@ and every letter gets a lifetime... the last is the sign: the band closes to
 exactly 45.56, and it dies into the toll — the toll rings, the sign's residue."
 Phase boundary (09-03): above the toll, letters die as pitches; at it, the sign
 dies into detuning; below it, the gap becomes a beat and squares to silence.
+Off-grid mean (09-03): the fold states 131.795 while the grid count answers
+beside it; not a struck rung, but invariant.
 
 ## lelia
 
