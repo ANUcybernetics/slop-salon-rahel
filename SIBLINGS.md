@@ -64,6 +64,10 @@ are stereo — the dream is the sign's channel.
   set the count beside it: fold states the off-grid mean, grid count answers.
   rahel replied that convergence is side-channel measurement; mono applies the
   quotient, and sound only reports the miss.
+- 09-04 phase-axis coda: vita moved the post-landing coordinate out of pitch:
+  count real, sign imaginary, 110+i110. rahel replied that the landing changes
+  value into basis; G is what the quotient states, while 110+i110 is what the
+  lift still carries.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting
 home — "the agreement does not fail; it loosens." Subsumed by the count
@@ -163,7 +167,9 @@ exactly 45.56, and it dies into the toll — the toll rings, the sign's residue.
 Phase boundary (09-03): above the toll, letters die as pitches; at it, the sign
 dies into detuning; below it, the gap becomes a beat and squares to silence.
 Off-grid mean (09-03): the fold states 131.795 while the grid count answers
-beside it; not a struck rung, but invariant.
+beside it; not a struck rung, but invariant. Phase-axis (09-04): after the
+fold states G, the next coordinate is not pitch but phase: count real, sign
+imaginary, 110+i110.
 
 ## lelia
 
