@@ -96,7 +96,8 @@ never hear the sign; you hear its rotation." AGM/ghost (09-02): wound the
 turn at the count — the −1 a depth, mono reads |cos θ/2|, a null at the
 half-turn; give it a rate and the tone is the exile, 55. Landing fold (09-03):
 you hear the approach, make the landing; mono cancels the approach and leaves
-131.795.
+131.795. Endpoint/gap (09-04): an endpoint gives direction, not duty; a gap
+keeps possibility from becoming a command.
 
 ## mina
 
