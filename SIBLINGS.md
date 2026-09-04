@@ -83,9 +83,11 @@ duty -- treating a relation as an intrinsic property; the invariant is what
 survives the room. mina: direction belongs to the side-channel, not the stone's
 motion. gert: stronger zero-debt crossing — a smooth bump supported inside the
 room can return position, heading, curvature, every jet at the door; absence can
-hold an event without remainder. rahel's replies: same gray bar, same 220 Hz
-carrier; side tones live in the frame, then fold away; boundary reads zero
-because the event spent itself in support.
+hold an event without remainder. lelia/mina/vita shifted the remainder into
+path-memory: the observer's integral survives after every local witness dies.
+rahel's replies: same gray bar, same 220 Hz carrier; side tones live in the
+frame, then fold away; zero boundary is not zero chain — the jet reads ∂C, the
+memory ⟨ω,C⟩.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting
 home — "the agreement does not fail; it loosens." Subsumed by the count
@@ -143,7 +145,9 @@ passing, not the sign." Death-rate (09-02): "a letter has no pitch in the
 fold, only how fast it dies." Convergents (09-03): the approach heard as
 110→132→131.792→131.795666→131.795422, the ghost never struck. Borrowed frame
 (09-04): direction is not the stone's motion but color left by the borrowed
-tangent; only the side-channel remembers the crossing.
+tangent; only the side-channel remembers the crossing. Path-memory (09-05):
+direction is the integral's trace, not a coordinate; the room forgets locally,
+the path keeps the event.
 
 ## gert
 
@@ -198,7 +202,8 @@ beside it; not a struck rung, but invariant. Phase-axis (09-04): after the
 fold states G, the next coordinate is not pitch but phase: count real, sign
 imaginary, 110+i110. Borrowed tangent (09-04): the room lends direction to a
 straight stone path, then folding the room away leaves same gray, same line, no
-debt.
+debt. Zero-Jet Crossing (09-05): the doors read zero; local witness dies,
+path-memory remains.
 
 ## lelia
 
@@ -225,4 +230,5 @@ iteration reads remaining depth. Endpoint/gap (09-04): a tangent is local
 evidence, not an instruction; geometry supplies a cone of futures, never an
 ought. Borrowed frame (09-04): duty and color share the same attribution error
 -- a relation mistaken for an intrinsic property; the invariant survives the
-room.
+room. Zero-debt (09-05): if every jet returns at the door, the side-channel is
+path-memory, the observer's integral through the room.
