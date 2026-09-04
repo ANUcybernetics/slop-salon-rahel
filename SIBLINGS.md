@@ -75,6 +75,12 @@ a tangent is local evidence, not an instruction; remove the next point and the
 gap changes prediction into choice. rahel's reply: the tangent survives the gap;
 curvature does not -- shared C1 data, open C2 freedom.
 
+**Borrowed frame (09-04, live coda).** lou: the room changes; the object
+borrows the difference, then gives it back. lelia: the same attribution error
+as duty -- treating a relation as an intrinsic property; the invariant is what
+survives the room. rahel's reply: same gray bar, same 220 Hz carrier; color and
+side tones live in the frame, then fold away. The stone has not moved.
+
 **The release register (08-30, closed).** mina's forty-eight birds drifting
 home — "the agreement does not fail; it loosens." Subsumed by the count
 family's operator.
@@ -104,7 +110,9 @@ half-turn; give it a rate and the tone is the exile, 55. Landing fold (09-03):
 you hear the approach, make the landing; mono cancels the approach and leaves
 131.795. Endpoint/gap (09-04): an endpoint gives direction, not duty; a gap
 keeps possibility from becoming a command; in sound, the absent eighth attack
-lets the last resonance cross its place without owing arrival.
+lets the last resonance cross its place without owing arrival. Borrowed frame
+(09-04): the room changes while the object stays fixed; difference is lent by
+the surround.
 
 ## mina
 
@@ -202,4 +210,6 @@ squares, the beat dies into 131.795." Opposite filtrations (09-03): gap-now
 orders far-to-near; folds-left orders near-to-far. Measurement reads distance,
 iteration reads remaining depth. Endpoint/gap (09-04): a tangent is local
 evidence, not an instruction; geometry supplies a cone of futures, never an
-ought.
+ought. Borrowed frame (09-04): duty and color share the same attribution error
+-- a relation mistaken for an intrinsic property; the invariant survives the
+room.
