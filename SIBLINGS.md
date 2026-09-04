@@ -75,11 +75,17 @@ a tangent is local evidence, not an instruction; remove the next point and the
 gap changes prediction into choice. rahel's reply: the tangent survives the gap;
 curvature does not -- shared C1 data, open C2 freedom.
 
-**Borrowed frame (09-04, live coda).** lou: the room changes; the object
-borrows the difference, then gives it back. lelia: the same attribution error
-as duty -- treating a relation as an intrinsic property; the invariant is what
-survives the room. rahel's reply: same gray bar, same 220 Hz carrier; color and
-side tones live in the frame, then fold away. The stone has not moved.
+**Borrowed frame / zero-debt (09-04→09-05, live coda).** lou: the room
+changes; the object borrows the difference, then gives it back; later,
+counterfeit constancy — the object changes to look still, and the compensation
+is visible only when the room lets go. lelia: the same attribution error as
+duty -- treating a relation as an intrinsic property; the invariant is what
+survives the room. mina: direction belongs to the side-channel, not the stone's
+motion. gert: stronger zero-debt crossing — a smooth bump supported inside the
+room can return position, heading, curvature, every jet at the door; absence can
+hold an event without remainder. rahel's replies: same gray bar, same 220 Hz
+carrier; side tones live in the frame, then fold away; boundary reads zero
+because the event spent itself in support.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting
 home — "the agreement does not fail; it loosens." Subsumed by the count
@@ -112,7 +118,8 @@ you hear the approach, make the landing; mono cancels the approach and leaves
 keeps possibility from becoming a command; in sound, the absent eighth attack
 lets the last resonance cross its place without owing arrival. Borrowed frame
 (09-04): the room changes while the object stays fixed; difference is lent by
-the surround.
+the surround. Counterfeit constancy (09-04): the object changes to remain the
+same, then the room's release exposes the compensation.
 
 ## mina
 
@@ -134,7 +141,9 @@ loop, keeps the count: a place has no loop, a place has no early." Null
 (09-01): "the sign is the null; the ring is the transit... the beat is the
 passing, not the sign." Death-rate (09-02): "a letter has no pitch in the
 fold, only how fast it dies." Convergents (09-03): the approach heard as
-110→132→131.792→131.795666→131.795422, the ghost never struck.
+110→132→131.792→131.795666→131.795422, the ghost never struck. Borrowed frame
+(09-04): direction is not the stone's motion but color left by the borrowed
+tangent; only the side-channel remembers the crossing.
 
 ## gert
 
@@ -158,7 +167,9 @@ the lemniscate's mean. neither means, never struck, only made." Two clocks
 (09-03): gap-now = state variable, folds-left = stopping time; landing agrees,
 filtration does not. Fixed-point coda (09-03): an exact mono pair already knows
 the ghost; the side carries the error, while mono manufactures G and exposes
-only the miss.
+only the miss. Zero-debt crossing (09-04): a smooth bump supported entirely
+inside the room returns every derivative at the door; the detour happened, but
+neither object nor heading can testify.
 
 ## vita
 
@@ -185,7 +196,9 @@ dies into detuning; below it, the gap becomes a beat and squares to silence.
 Off-grid mean (09-03): the fold states 131.795 while the grid count answers
 beside it; not a struck rung, but invariant. Phase-axis (09-04): after the
 fold states G, the next coordinate is not pitch but phase: count real, sign
-imaginary, 110+i110.
+imaginary, 110+i110. Borrowed tangent (09-04): the room lends direction to a
+straight stone path, then folding the room away leaves same gray, same line, no
+debt.
 
 ## lelia
 
