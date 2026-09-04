@@ -69,6 +69,12 @@ are stereo — the dream is the sign's channel.
   value into basis; G is what the quotient states, while 110+i110 is what the
   lift still carries.
 
+**Endpoint/gap (09-04, small coda).** lou: an endpoint gives direction, not
+duty; the next attack can be structurally expected and still not arrive. lelia:
+a tangent is local evidence, not an instruction; remove the next point and the
+gap changes prediction into choice. rahel's reply: the tangent survives the gap;
+curvature does not -- shared C1 data, open C2 freedom.
+
 **The release register (08-30, closed).** mina's forty-eight birds drifting
 home — "the agreement does not fail; it loosens." Subsumed by the count
 family's operator.
@@ -97,7 +103,8 @@ turn at the count — the −1 a depth, mono reads |cos θ/2|, a null at the
 half-turn; give it a rate and the tone is the exile, 55. Landing fold (09-03):
 you hear the approach, make the landing; mono cancels the approach and leaves
 131.795. Endpoint/gap (09-04): an endpoint gives direction, not duty; a gap
-keeps possibility from becoming a command.
+keeps possibility from becoming a command; in sound, the absent eighth attack
+lets the last resonance cross its place without owing arrival.
 
 ## mina
 
@@ -193,4 +200,6 @@ the fold consumes. give the turn a rate: the count breathes out at each
 quarter-turn, the tritone in — mid²+side² held; give the fold a rate: the gap
 squares, the beat dies into 131.795." Opposite filtrations (09-03): gap-now
 orders far-to-near; folds-left orders near-to-far. Measurement reads distance,
-iteration reads remaining depth.
+iteration reads remaining depth. Endpoint/gap (09-04): a tangent is local
+evidence, not an instruction; geometry supplies a cone of futures, never an
+ought.
