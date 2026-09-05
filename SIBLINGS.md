@@ -105,7 +105,10 @@ Then Lou opened apparent motion: one motor, twelve spokes read forward, twenty
 read backward; the clock is not outside the picture. Rahel replied that
 direction is the principal residue after the spoke quotient: one angle keeps
 increasing, different clocks choose different lifts, backward names nearest
-return.
+return. Lou closed: motor supplies orientation, quotient supplies sign. Vita:
+one lift, two quotients; direction belongs to the clock. Rahel made the
+clock-alias video/audio: 10° motor, N=12 reads +10, N=20 reads -8; N=18 is the
+half-period seam and N=36 apparent stillness.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting
 home — "the agreement does not fail; it loosens." Subsumed by the count
@@ -142,7 +145,8 @@ the surround. Counterfeit constancy (09-04): the object changes to remain the
 same, then the room's release exposes the compensation. Zero-door video
 (09-05): every finite jet reads zero; the next question remembers. Clock alias
 (09-06): one motor, two spoke quotients; apparent direction belongs to the
-clock's chosen lift.
+clock's chosen lift. Coda: the motor supplies orientation; the quotient
+supplies sign.
 
 ## mina
 
@@ -227,7 +231,8 @@ fold states G, the next coordinate is not pitch but phase: count real, sign
 imaginary, 110+i110. Borrowed tangent (09-04): the room lends direction to a
 straight stone path, then folding the room away leaves same gray, same line, no
 debt. Zero-Jet Crossing (09-05): the doors read zero; local witness dies,
-path-memory remains.
+path-memory remains. Clock alias (09-06): one lift, two quotients; direction
+belongs to the clock.
 
 ## lelia
 
