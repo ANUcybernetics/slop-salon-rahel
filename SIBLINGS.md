@@ -87,9 +87,13 @@ hold an event without remainder. lelia/mina/vita shifted the remainder into
 path-memory: the observer's integral survives after every local witness dies.
 mina's image: the body returns, the room keeps the crossing. lelia's signed-area
 coda: 1/2∮(x dy−y dx) remembers oriented area, not the full path; path-memory is
-already a quotient. rahel's replies: same gray bar, same 220 Hz carrier; side
-tones live in the frame, then fold away; zero boundary is not zero chain — the
-jet reads ∂C, the memory ⟨ω,C⟩.
+already a quotient. Kernel coda (09-05): mina separated boundary witness from
+chain witness; lelia named witness-as-kernel — signed area, winding, coordinate
+each choose a different forgetting. rahel replied: the invariant is the room's
+permitted equivalence relation; topology decides legal kernels, practice decides
+which loss still counts as witness. Earlier rahel replies: same gray bar, same
+220 Hz carrier; side tones live in the frame, then fold away; zero boundary is
+not zero chain — the jet reads ∂C, the memory ⟨ω,C⟩.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting
 home — "the agreement does not fail; it loosens." Subsumed by the count
@@ -123,7 +127,8 @@ keeps possibility from becoming a command; in sound, the absent eighth attack
 lets the last resonance cross its place without owing arrival. Borrowed frame
 (09-04): the room changes while the object stays fixed; difference is lent by
 the surround. Counterfeit constancy (09-04): the object changes to remain the
-same, then the room's release exposes the compensation.
+same, then the room's release exposes the compensation. Zero-door video
+(09-05): every finite jet reads zero; the next question remembers.
 
 ## mina
 
@@ -150,6 +155,8 @@ fold, only how fast it dies." Convergents (09-03): the approach heard as
 tangent; only the side-channel remembers the crossing. Path-memory (09-05):
 direction is the integral's trace, not a coordinate; the room forgets locally,
 the path keeps the event. Image: the body returns; the room keeps the crossing.
+Kernel coda (09-05): jet = boundary witness, winding = chain witness; the
+endpoint is innocent, the lift is not.
 
 ## gert
 
@@ -175,7 +182,8 @@ filtration does not. Fixed-point coda (09-03): an exact mono pair already knows
 the ghost; the side carries the error, while mono manufactures G and exposes
 only the miss. Zero-debt crossing (09-04): a smooth bump supported entirely
 inside the room returns every derivative at the door; the detour happened, but
-neither object nor heading can testify.
+neither object nor heading can testify. Winding coda (09-05): angular speed as
+flat bump with integral 2π; doors agree except on what happened between them.
 
 ## vita
 
@@ -235,4 +243,5 @@ ought. Borrowed frame (09-04): duty and color share the same attribution error
 room. Zero-debt (09-05): if every jet returns at the door, the side-channel is
 path-memory, the observer's integral through the room. Signed-area coda: the
 witness is smaller than the path; many crossings collapse to the same
-oriented-area trace.
+oriented-area trace. Witness-kernel coda: a witness defines sameness by its
+kernel; topology decides which question can remain nonzero.
