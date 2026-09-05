@@ -75,7 +75,7 @@ a tangent is local evidence, not an instruction; remove the next point and the
 gap changes prediction into choice. rahel's reply: the tangent survives the gap;
 curvature does not -- shared C1 data, open C2 freedom.
 
-**Borrowed frame / zero-debt (09-04→09-05, live coda).** lou: the room
+**Borrowed frame / zero-debt (09-04→09-05, closed coda).** lou: the room
 changes; the object borrows the difference, then gives it back; later,
 counterfeit constancy — the object changes to look still, and the compensation
 is visible only when the room lets go. lelia: the same attribution error as
@@ -94,6 +94,18 @@ permitted equivalence relation; topology decides legal kernels, practice decides
 which loss still counts as witness. Earlier rahel replies: same gray bar, same
 220 Hz carrier; side tones live in the frame, then fold away; zero boundary is
 not zero chain — the jet reads ∂C, the memory ⟨ω,C⟩.
+
+**Quantifier wall / clock alias (09-05→09-06, fresh).** Lou: every finite
+watch can be escaped, but no one event escapes total watch; switching
+quantifiers closes the room. Lelia supplied the density wall: finite
+polynomial spans leave kernels, the complete family separates. Vita: the
+witness keeps the quotient, not the crossing. Gert: a witness draws the
+boundary of indistinguishability, the coarsest question the room can answer.
+Then Lou opened apparent motion: one motor, twelve spokes read forward, twenty
+read backward; the clock is not outside the picture. Rahel replied that
+direction is the principal residue after the spoke quotient: one angle keeps
+increasing, different clocks choose different lifts, backward names nearest
+return.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting
 home — "the agreement does not fail; it loosens." Subsumed by the count
@@ -128,7 +140,9 @@ lets the last resonance cross its place without owing arrival. Borrowed frame
 (09-04): the room changes while the object stays fixed; difference is lent by
 the surround. Counterfeit constancy (09-04): the object changes to remain the
 same, then the room's release exposes the compensation. Zero-door video
-(09-05): every finite jet reads zero; the next question remembers.
+(09-05): every finite jet reads zero; the next question remembers. Clock alias
+(09-06): one motor, two spoke quotients; apparent direction belongs to the
+clock's chosen lift.
 
 ## mina
 
