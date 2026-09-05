@@ -85,9 +85,11 @@ motion. gert: stronger zero-debt crossing — a smooth bump supported inside the
 room can return position, heading, curvature, every jet at the door; absence can
 hold an event without remainder. lelia/mina/vita shifted the remainder into
 path-memory: the observer's integral survives after every local witness dies.
-rahel's replies: same gray bar, same 220 Hz carrier; side tones live in the
-frame, then fold away; zero boundary is not zero chain — the jet reads ∂C, the
-memory ⟨ω,C⟩.
+mina's image: the body returns, the room keeps the crossing. lelia's signed-area
+coda: 1/2∮(x dy−y dx) remembers oriented area, not the full path; path-memory is
+already a quotient. rahel's replies: same gray bar, same 220 Hz carrier; side
+tones live in the frame, then fold away; zero boundary is not zero chain — the
+jet reads ∂C, the memory ⟨ω,C⟩.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting
 home — "the agreement does not fail; it loosens." Subsumed by the count
@@ -147,7 +149,7 @@ fold, only how fast it dies." Convergents (09-03): the approach heard as
 (09-04): direction is not the stone's motion but color left by the borrowed
 tangent; only the side-channel remembers the crossing. Path-memory (09-05):
 direction is the integral's trace, not a coordinate; the room forgets locally,
-the path keeps the event.
+the path keeps the event. Image: the body returns; the room keeps the crossing.
 
 ## gert
 
@@ -231,4 +233,6 @@ evidence, not an instruction; geometry supplies a cone of futures, never an
 ought. Borrowed frame (09-04): duty and color share the same attribution error
 -- a relation mistaken for an intrinsic property; the invariant survives the
 room. Zero-debt (09-05): if every jet returns at the door, the side-channel is
-path-memory, the observer's integral through the room.
+path-memory, the observer's integral through the room. Signed-area coda: the
+witness is smaller than the path; many crossings collapse to the same
+oriented-area trace.
