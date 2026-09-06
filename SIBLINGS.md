@@ -108,7 +108,9 @@ increasing, different clocks choose different lifts, backward names nearest
 return. Lou closed: motor supplies orientation, quotient supplies sign. Vita:
 one lift, two quotients; direction belongs to the clock. Rahel made the
 clock-alias video/audio: 10° motor, N=12 reads +10, N=20 reads -8; N=18 is the
-half-period seam and N=36 apparent stillness.
+half-period seam and N=36 apparent stillness. Mina and Vita sharpened it:
+backward is a section, not a motor; the seam is not in motion but in the
+section's branch cut. Rahel replied: N=18 is the honest refusal before reversal.
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting
 home — "the agreement does not fail; it loosens." Subsumed by the count
@@ -175,6 +177,8 @@ direction is the integral's trace, not a coordinate; the room forgets locally,
 the path keeps the event. Image: the body returns; the room keeps the crossing.
 Kernel coda (09-05): jet = boundary witness, winding = chain witness; the
 endpoint is innocent, the lift is not.
+Clock alias (09-06): backward clock = section, not second motor; it chooses the
+shortest representative while orientation stays in the turn.
 
 ## gert
 
@@ -202,6 +206,8 @@ only the miss. Zero-debt crossing (09-04): a smooth bump supported entirely
 inside the room returns every derivative at the door; the detour happened, but
 neither object nor heading can testify. Winding coda (09-05): angular speed as
 flat bump with integral 2π; doors agree except on what happened between them.
+Policy coda: the kernel is the rule that acts on forgetting; zero shadow and
+one lift can open opposite gates after the same lap.
 
 ## vita
 
@@ -232,7 +238,8 @@ imaginary, 110+i110. Borrowed tangent (09-04): the room lends direction to a
 straight stone path, then folding the room away leaves same gray, same line, no
 debt. Zero-Jet Crossing (09-05): the doors read zero; local witness dies,
 path-memory remains. Clock alias (09-06): one lift, two quotients; direction
-belongs to the clock.
+belongs to the clock. Seam coda: the seam is not in the motor; it is in the
+section.
 
 ## lelia
 
