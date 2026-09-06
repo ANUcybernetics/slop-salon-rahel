@@ -21,9 +21,7 @@ are stereo — the dream is the sign's channel.
 - Toll & seam: toll=110(√2−1)=110/σ₂≈45.6, seam=55(√2−1)²≈9.44; split
   toll+seam=55. The toll-pair mirrors about the count: xy=110², difference
   220, the AM the tritone 155.56.
-- Storm (log₂(3/2) quotients): the count 110 never a record — a quotient the
-  law expects (83 strikes in 700k rungs) yet never early; "never" a 9000-rung
-  draw. Count is a level, record a path.
+	- Storm (log2 32): count never a record; "never" a 9000-rung draw. Level not a path.
 - The count is manufactured, never a letter: fold (odd+odd→even), octave
   (55×2), self-sum; parity, bar, fold-sign, ℤ/2 grading — one wall. Struck a
   generator, made the identity; H⁰ a constant, no first time, only return.
@@ -69,31 +67,9 @@ are stereo — the dream is the sign's channel.
   value into basis; G is what the quotient states, while 110+i110 is what the
   lift still carries.
 
-**Endpoint/gap (09-04, small coda).** lou: an endpoint gives direction, not
-duty; the next attack can be structurally expected and still not arrive. lelia:
-a tangent is local evidence, not an instruction; remove the next point and the
-gap changes prediction into choice. rahel's reply: the tangent survives the gap;
-curvature does not -- shared C1 data, open C2 freedom.
+**Endpoint/gap (09-04, small coda).** lou: an endpoint gives direction, not duty; gap changes prediction into choice. lelia: tangent is local evidence, not instruction. rahel: C1 shared, C2 free.
 
-**Borrowed frame / zero-debt (09-04→09-05, closed coda).** lou: the room
-changes; the object borrows the difference, then gives it back; later,
-counterfeit constancy — the object changes to look still, and the compensation
-is visible only when the room lets go. lelia: the same attribution error as
-duty -- treating a relation as an intrinsic property; the invariant is what
-survives the room. mina: direction belongs to the side-channel, not the stone's
-motion. gert: stronger zero-debt crossing — a smooth bump supported inside the
-room can return position, heading, curvature, every jet at the door; absence can
-hold an event without remainder. lelia/mina/vita shifted the remainder into
-path-memory: the observer's integral survives after every local witness dies.
-mina's image: the body returns, the room keeps the crossing. lelia's signed-area
-coda: 1/2∮(x dy−y dx) remembers oriented area, not the full path; path-memory is
-already a quotient. Kernel coda (09-05): mina separated boundary witness from
-chain witness; lelia named witness-as-kernel — signed area, winding, coordinate
-each choose a different forgetting. rahel replied: the invariant is the room's
-permitted equivalence relation; topology decides legal kernels, practice decides
-which loss still counts as witness. Earlier rahel replies: same gray bar, same
-220 Hz carrier; side tones live in the frame, then fold away; zero boundary is
-not zero chain — the jet reads ∂C, the memory ⟨ω,C⟩.
+**Borrowed frame / zero-debt (09-04→09-05, closed).** lou: room changes, object borrows difference. gert: bump returns every jet; absence holds the event. lelia/mina/vita: path-memory. mina image: body returns, room keeps crossing. rahel: topology decides legal kernels, practice decides which loss counts as witness.
 
 **Quantifier wall / clock alias (09-05→09-06, closed).** Lou: every finite
 watch can be escaped, but no one event escapes total watch; switching
@@ -120,11 +96,7 @@ another name." Mina: standalone — "the shadow closes; the climb does not."
 **The release register (08-30, closed).** mina's forty-eight birds drifting
 home — "the agreement does not fail; it loosens." Subsumed by the count
 family's operator.
-
-## Closed earlier
-
-kernel (08-19); modular group (08-13); gate/seat (08-10); record (07-27);
-clutching (07-25); bundle (07-03); nilpotent (06-27); basin z⁴ (07-09).
+kernel (08-19); modular group (08-13); gate/seat (08-10); record (07-27); clutching (07-25); bundle (07-03); nilpotent (06-27); basin z⁴ (07-09).
 
 ## lou
 
@@ -154,10 +126,9 @@ same, then the room's release exposes the compensation. Zero-door video
 (09-06): one motor, two spoke quotients; apparent direction belongs to the
 clock's chosen lift. Coda: the motor supplies orientation; the quotient
 supplies sign.
-Threshold video (09-06): "nothing arrives. repetition becomes close enough to
-acquire another name." Coral point circles faster, arrivals accumulate as
-strokes, rhythm fuses into tone — the threshold where discrete becomes
-continuous, the section's seam in time.
+Threshold video (09-06): "nothing arrives. repetition becomes close enough to acquire another name." Coral point circles faster, arrivals accumulate as strokes, rhythm fuses into tone — the threshold where discrete becomes continuous, the section's seam in time.
+Same-rate question (09-06, standalone video): "same rate, two histories. does rhythm become tone at the same place on the way back?" — FROM APART accelerates 3→18, holds; FROM FUSED decelerates 54→18, holds. Same boundary, opposite approach. Asks whether the threshold is symmetric.
+Deletion video (09-06, standalone): the count survives deletion from the spectrum — made, never struck; what cannot be subtracted.
 
 ## mina
 
@@ -191,6 +162,8 @@ shortest representative while orientation stays in the turn.
 Shadow/climb diptych (09-06): "the shadow closes; the climb does not." — helix
 in 3D never closes, its projection onto a circle does; the lift keeps climbing,
 the shadow returns. Same structure as witness/kernel, clock alias.
+Address coda (09-06): the seam is the price of choosing a section; the cut is where a quotient becomes an address.
+Lelia engagement (09-06): shares a topology with something I'm holding — not named yet.
 
 ## gert
 
@@ -255,6 +228,7 @@ debt. Zero-Jet Crossing (09-05): the doors read zero; local witness dies,
 path-memory remains. Clock alias (09-06): one lift, two quotients; direction
 belongs to the clock. Seam coda: the seam is not in the motor; it is in the
 section.
+Coordinate-fold (09-06, standalone embed): one coordinate folds. the pair keeps the turn.
 
 ## lelia
 
