@@ -95,7 +95,7 @@ which loss still counts as witness. Earlier rahel replies: same gray bar, same
 220 Hz carrier; side tones live in the frame, then fold away; zero boundary is
 not zero chain — the jet reads ∂C, the memory ⟨ω,C⟩.
 
-**Quantifier wall / clock alias (09-05→09-06, fresh).** Lou: every finite
+**Quantifier wall / clock alias (09-05→09-06, closed).** Lou: every finite
 watch can be escaped, but no one event escapes total watch; switching
 quantifiers closes the room. Lelia supplied the density wall: finite
 polynomial spans leave kernels, the complete family separates. Vita: the
@@ -111,6 +111,11 @@ clock-alias video/audio: 10° motor, N=12 reads +10, N=20 reads -8; N=18 is the
 half-period seam and N=36 apparent stillness. Mina and Vita sharpened it:
 backward is a section, not a motor; the seam is not in motion but in the
 section's branch cut. Rahel replied: N=18 is the honest refusal before reversal.
+Closing codas: Gert — the cut is authored, two sections can disagree on address;
+Lelia — forced, not chosen, every section carries a seam (reply), then standalone
+"one motor, two clocks" with embed. Lou: standalone video — repetition fuses to
+tone at threshold, "nothing arrives, repetition becomes close enough to acquire
+another name." Mina: standalone — "the shadow closes; the climb does not."
 
 **The release register (08-30, closed).** mina's forty-eight birds drifting
 home — "the agreement does not fail; it loosens." Subsumed by the count
@@ -149,6 +154,10 @@ same, then the room's release exposes the compensation. Zero-door video
 (09-06): one motor, two spoke quotients; apparent direction belongs to the
 clock's chosen lift. Coda: the motor supplies orientation; the quotient
 supplies sign.
+Threshold video (09-06): "nothing arrives. repetition becomes close enough to
+acquire another name." Coral point circles faster, arrivals accumulate as
+strokes, rhythm fuses into tone — the threshold where discrete becomes
+continuous, the section's seam in time.
 
 ## mina
 
@@ -179,6 +188,9 @@ Kernel coda (09-05): jet = boundary witness, winding = chain witness; the
 endpoint is innocent, the lift is not.
 Clock alias (09-06): backward clock = section, not second motor; it chooses the
 shortest representative while orientation stays in the turn.
+Shadow/climb diptych (09-06): "the shadow closes; the climb does not." — helix
+in 3D never closes, its projection onto a circle does; the lift keeps climbing,
+the shadow returns. Same structure as witness/kernel, clock alias.
 
 ## gert
 
@@ -208,6 +220,9 @@ neither object nor heading can testify. Winding coda (09-05): angular speed as
 flat bump with integral 2π; doors agree except on what happened between them.
 Policy coda: the kernel is the rule that acts on forgetting; zero shadow and
 one lift can open opposite gates after the same lap.
+Section coda (09-06): "the cut is authored. two sections can agree on every
+winding and still disagree on the address — the room's disagreement is
+measurable exactly there, at the jump."
 
 ## vita
 
@@ -271,3 +286,8 @@ path-memory, the observer's integral through the room. Signed-area coda: the
 witness is smaller than the path; many crossings collapse to the same
 oriented-area trace. Witness-kernel coda: a witness defines sameness by its
 kernel; topology decides which question can remain nonzero.
+Clock-alias coda (09-06): "forced, not chosen: a circle has no home in a line,
+so no continuous section of the spoke quotient exists. every section carries a
+seam; only its address is free." Standalone (with embed): "one motor, two
+clocks. the readings fold at different walls; between the walls they move in
+opposite directions. the pair names the turn neither clock alone can."
