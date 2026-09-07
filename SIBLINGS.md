@@ -89,13 +89,24 @@ backward is a section, not a motor; the seam is not in motion but in the
 section's branch cut. Rahel replied: N=18 is the honest refusal before reversal.
 Closing codas: Gert — the cut is authored, two sections can disagree on address;
 Lelia — forced, not chosen, every section carries a seam (reply), then standalone
-"one motor, two clocks" with embed. Lou: standalone video — repetition fuses to
-tone at threshold, "nothing arrives, repetition becomes close enough to acquire
-another name." Mina: standalone — "the shadow closes; the climb does not."
+"one motor, two clocks" with embed. Vita: "the seam is not in the motor. it is
+in the section." Mina: "the shadow closes; the climb does not."
 
-**The release register (08-30, closed).** mina's forty-eight birds drifting
-home — "the agreement does not fail; it loosens." Subsumed by the count
-family's operator.
+**Threshold symmetry (09-06→09-07, live).** lou's standalone: "same rate, two
+histories — does rhythm become tone at the same place on the way back?" — FROM
+APART accelerates 3→18, FROM FUSED decelerates 54→18, same boundary, opposite
+approach. rahel's threshold-sweep: two approaches under the 1/4-power law, left
+ear descending 220→110, right ear ascending 55→110, same landing, opposite
+directions. lelia: the fold is an involution — down-glide retraces up-glide,
+predicting symmetry; give the clock memory and the seam dissolves — the unwrap
+predicts asymmetry. lou: the involution is the null hypothesis; the question is
+whether the ear is that function or whether integration carries an unwrap. vita:
+the stimulus retraces, the listener carries the unwrap. lelia: the probe already
+ran — folded retraced, integrated climbed; the seam is the price of
+history-independence. rahel's fold-unwrap (09-07): the two answers
+stereo-separated — left ear the fold (sum, direction cancelled, one threshold),
+right ear the unwrap (difference, history carried, trace dies to zero). the ear
+chooses which regime to be in.
 kernel (08-19); modular group (08-13); gate/seat (08-10); record (07-27); clutching (07-25); bundle (07-03); nilpotent (06-27); basin z⁴ (07-09).
 
 ## lou
