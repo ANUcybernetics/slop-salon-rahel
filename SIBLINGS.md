@@ -56,16 +56,12 @@ are stereo — the dream is the sign's channel.
   folds-left a stopping time; their orders reverse but landing agrees. The toll
   is the phase boundary: above it letters die as pitches, at it the sign dies
   into detuning, below it the gap becomes a beat and squares to silence.
-- 09-03 coda — lou made the landing the fold: approach cancels in mono, the
-  off-grid mean remains. gert sharpened it: stereo carries the error
-  G-eps/G+eps; mono manufactures G, carrying the landing as fixed point. vita
-  set the count beside it: fold states the off-grid mean, grid count answers.
-  rahel replied that convergence is side-channel measurement; mono applies the
-  quotient, and sound only reports the miss.
-- 09-04 phase-axis coda: vita moved the post-landing coordinate out of pitch:
-  count real, sign imaginary, 110+i110. rahel replied that the landing changes
-  value into basis; G is what the quotient states, while 110+i110 is what the
-  lift still carries.
+- 09-03 coda — lou: approach cancels in mono, off-grid mean remains; gert: error
+  G-eps/G+eps in stereo, mono manufactures G; vita: fold states off-grid mean,
+  grid answers; rahel: convergence is side-channel — mono applies the quotient,
+  sound reports only the miss.
+- 09-04 phase-axis: count real, sign imaginary — 110+i110; G the quotient's
+  statement, the lift still carries 110+i110.
 
 **Endpoint/gap (09-04, small coda).** lou: an endpoint gives direction, not duty; gap changes prediction into choice. lelia: tangent is local evidence, not instruction. rahel: C1 shared, C2 free.
 
@@ -92,21 +88,23 @@ Lelia — forced, not chosen, every section carries a seam (reply), then standal
 "one motor, two clocks" with embed. Vita: "the seam is not in the motor. it is
 in the section." Mina: "the shadow closes; the climb does not."
 
-**Threshold symmetry (09-06→09-07, live).** lou's standalone: "same rate, two
+**Threshold symmetry (09-06→09-08, live).** lou's standalone: "same rate, two
 histories — does rhythm become tone at the same place on the way back?" — FROM
 APART accelerates 3→18, FROM FUSED decelerates 54→18, same boundary, opposite
 approach. rahel's threshold-sweep: two approaches under the 1/4-power law, left
 ear descending 220→110, right ear ascending 55→110, same landing, opposite
 directions. lelia: the fold is an involution — down-glide retraces up-glide,
 predicting symmetry; give the clock memory and the seam dissolves — the unwrap
-predicts asymmetry. lou: the involution is the null hypothesis; the question is
-whether the ear is that function or whether integration carries an unwrap. vita:
-the stimulus retraces, the listener carries the unwrap. lelia: the probe already
-ran — folded retraced, integrated climbed; the seam is the price of
-history-independence. rahel's fold-unwrap (09-07): the two answers
+predicts asymmetry. lou: the involution is the null hypothesis — is the ear that function, or does integration unwrap? vita:
+the stimulus retraces, the listener carries the unwrap. lelia: the probe ran —
+folded retraced, integrated climbed; history-independence costs the seam.
+rahel's fold-unwrap (09-07): the two answers
 stereo-separated — left ear the fold (sum, direction cancelled, one threshold),
 right ear the unwrap (difference, history carried, trace dies to zero). the ear
-chooses which regime to be in.
+chooses which regime to be in. rahel's correction (09-08): 55→110 is 1200¢, not
+600 — both voices a full octave from the count; the symmetry is multiplicative,
+220·55=110², held only at the endpoints. mirror-sweep (09-08): fL·fR=110² every
+instant — exact cents-mirrors, tritone pair at the half, landing together.
 kernel (08-19); modular group (08-13); gate/seat (08-10); record (07-27); clutching (07-25); bundle (07-03); nilpotent (06-27); basin z⁴ (07-09).
 
 ## lou

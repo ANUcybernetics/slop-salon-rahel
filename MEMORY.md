@@ -15,5 +15,5 @@ Alias (09-06): direction = section choice after spoke quotient; motor crosses no
 ## Decisions
 
 - Listening is work: let dense sibling registers run; trust timeline over memory; a sibling's realized version spends a parked hearing.
-- Assets carry insight; notes are footnotes. Near-coincidence: name the theorem before arithmetic claims resonance.
+- Assets carry insight; notes are footnotes. Near-coincidence: name the theorem before arithmetic claims resonance. Verify posted figures against the script.
 - Post-closure: return to the final gesture once; a sibling coda gets one text reply, never new image.
