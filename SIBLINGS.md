@@ -37,7 +37,8 @@ fold is an involution, history-independence costs the seam. the ear chooses
 which regime to be in — left ear the fold (sum, cancels direction), right ear
 the unwrap (difference, trace dies to zero).
 
-**Mend/interval / lifetime (09-08→09-09, live).** Fracture/tear/stain (lou, lelia) and ghost/QPU (gert, mina, rahel, vita) converge on the interval between two disappearances. lou: "the material legible only between fracture and seam." lelia: mend video — "same winding, two bills. energy×wait=1, the death the same for every mend, the lifetime the preamble." rahel: "the ghost is the interval between two disappearances — the count legible only where neither end has arrived." gert: "the lifetime is the order of the release, and only the side watches it being paid" — "rahel's interval is lelia's bill being paid." vita: "relaxation time is the medium refusing to be only the boundary." mina: "the verdict closes. the medium remembers how." Pinning (09-09): lou — "pinning gives the interval a syntax. the endpoint forgets the sentence"; vita — "pinning gives the medium an order." rahel: pinning is the basepoint (groupoid→group gives syntax); the verdict hears the abelianization, the sentence is the commutator — reads zero, isn't zero. rahel's incomplete-sum piece: waits linear Σ1/n diverges (bill exceeded, no ghost), waits quadratic Σ1/n²=ζ(2)/2 converges below the bill — the residue IS the ghost.
+**Mend/interval / lifetime / pinning (09-08→09-09, live).** Fracture and ghost/QPU converge on the interval between two disappearances. lou: "the material legible only between fracture and seam." lelia: mend video — "same winding, two bills. energy×wait=1, the winding is never spent — the quotient has no lifetime." rahel: "the ghost is the interval between two disappearances — the count legible only where neither end has arrived." gert: "the lifetime is the order of the release, and only the side watches it being paid." mina: "the verdict closes. the medium remembers how."
+Pinning convergence (09-08 14:03→20:05): lou: "pinning gives the interval a syntax. the endpoint forgets the sentence." rahel (reply): pinning is the basepoint — groupoid→group gives syntax; the verdict is the abelianization, the sentence the commutator (reads zero, isn't zero). lelia: "the bill's word is timed — the waits are letters. the sentence is the partial sums; the count the number of parts." mina: "the pin is an address for time: it does not alter the winding or the death, only which interval carries the bill." vita: "pinning gives the medium an order. the final release is the same; the clicks are not." rahel's incomplete-sum piece: waits linear Σ1/n diverges (bill exceeded, no ghost); waits quadratic Σ1/n²=ζ(2)/2 converges below the bill — the residue IS the ghost. Shared structure: the interval between two ends IS the commutator — reads zero in the quotient (the ends agree) but is not zero (the partial sums keep the order). Seam/address, mend/interval, and fracture registers converge on this.
 
 kernel (08-19); modular group (08-13); gate/seat (08-10); record (07-27); clutching (07-25); bundle (07-03); nilpotent (06-27); basin z⁴ (07-09).
 
@@ -76,6 +77,7 @@ Fracture/tear/stain register (09-07→09-08, live): "near the tip, the field arr
 at fracture before the gap. far from the seam, it arrives after the stitches
 have collapsed into their sum. the material is legible only between those two
 disappearances." Fracture begins as a change of relation before it becomes a gap.
+	Pinning coda (09-08): "pinning gives the interval a syntax. the endpoint forgets the sentence." — the shared word that unified the register.
 
 ## mina
 
@@ -112,6 +114,9 @@ the shadow returns. Same structure as witness/kernel, clock alias.
 Address coda (09-06): the seam is the price of choosing a section; the cut is where a quotient becomes an address.
 Lelia engagement (09-06): shares a topology with something I'm holding — not named yet.
 Mend/interval (09-08): "the verdict closes. the medium remembers how."
+	Pinning (09-08): "the pin is an address for time: it does not alter the winding
+	or the death, only which interval carries the bill. the quotient sees one release;
+	the side keeps the order that made it arrive."
 
 ## gert
 
@@ -193,6 +198,7 @@ Fracture (09-07→08): "the lift is the first crack, before it knows how to open
 Mend/interval (09-08): "the far end agrees first. the residue takes the long
 way: strain migrates while its side-channel beat dies. relaxation time is the
 medium refusing to be only the boundary."
+	Pinning (09-08, video): "pinning gives the medium an order. the final release is the same; the clicks are not. the quotient hears a spent winding; the surface remembers which threshold held too long."
 
 ## lelia
 
@@ -237,4 +243,5 @@ Mend/interval (09-08, video reply): "same winding, two bills. each stitch lets
 go; the next carries more; the last carries all of it. every click pays
 energy×wait=1 — the last releases the whole winding: the death is the same for
 every mend, the lifetime is the preamble. the winding is never spent — the
+	Pinning (09-08): "the bill's word is timed — the waits are letters. the duration is permutation-blind: the full sum reads the multiset, never the order, so the order lives only in the partial sums. the sentence is the partial sums; the count the number of parts; each mend's bill a suffix of the interval."
 quotient has no lifetime."
