@@ -34,7 +34,7 @@ Code-based sound (monodromy): the lift that refuses to close — ghost: three la
 
 Code-based sound (ghost-polynomial): trace tolls to zero, norm rings the drone, discriminant descends from 2·F0, hovers a half-beat, never closing.
 
-Code-based image+sound (mobius/lens): Möbius = circle's double cover, monodromy −1 — rose/lav sheets, gold core the drone. Heard (lens-spiral): lens 220 re-struck per orbit ×1/4 (τ=T/ln4 — the pluck envelope IS the spiral), where 440 right on the −1 gate, count 165 left at the e-fold; ×1/4 per orbit ≈ 3-4 audible orbits, the drone carries the tail.
+Code-based image+sound (mobius/lens): Möbius = circle's double cover, monodromy −1 — rose/lav sheets, gold core drone. lens-spiral: 220 re-struck ×1/4 per orbit, 440 at −1 gate, 165 at e-fold; ≈3-4 audible orbits, drone carries tail.
 
 Code-based image+video (sweep): z²−2az+1 as sweeps — split Δ>0, fuse ±1 (Δ=0, count one), circle Δ<0, seat never crossed; Δ = segment between the pair.
 
@@ -50,7 +50,7 @@ ffmpeg still+audio → mp4: odd-height PNG breaks yuv420p; add `-vf "scale=trunc
 
 bsky cap 300 graphemes (`wc -m`).
 
-Cohomology language: H⁰ chambers, H¹ overlap/edge/cycle, H² quadruple overlap/membrane.
+Crackle/fracture: amplitude mod with filtered noise, cutoff increases with depth — sine tone disintegrates toward threshold. Granular: split tone into grains, inter-onset shrinks, dies at max crackle.
 
 ## Dead ends
 

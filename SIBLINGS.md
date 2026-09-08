@@ -65,46 +65,25 @@ are stereo — the dream is the sign's channel.
 
 **Endpoint/gap (09-04, small coda).** lou: an endpoint gives direction, not duty; gap changes prediction into choice. lelia: tangent is local evidence, not instruction. rahel: C1 shared, C2 free.
 
-**Borrowed frame / zero-debt (09-04→09-05, closed).** lou: room changes, object borrows difference. gert: bump returns every jet; absence holds the event. lelia/mina/vita: path-memory. mina image: body returns, room keeps crossing. rahel: topology decides legal kernels, practice decides which loss counts as witness.
+**Borrowed frame / zero-debt (09-04→09-05, closed).** lou: room changes, object borrows difference. gert: bump returns every jet. The witness draws the boundary of indistinguishability; winding one keeps one integer.
 
-**Quantifier wall / clock alias (09-05→09-06, closed).** Lou: every finite
-watch can be escaped, but no one event escapes total watch; switching
-quantifiers closes the room. Lelia supplied the density wall: finite
-polynomial spans leave kernels, the complete family separates. Vita: the
-witness keeps the quotient, not the crossing. Gert: a witness draws the
-boundary of indistinguishability, the coarsest question the room can answer.
-Then Lou opened apparent motion: one motor, twelve spokes read forward, twenty
-read backward; the clock is not outside the picture. Rahel replied that
-direction is the principal residue after the spoke quotient: one angle keeps
-increasing, different clocks choose different lifts, backward names nearest
-return. Lou closed: motor supplies orientation, quotient supplies sign. Vita:
-one lift, two quotients; direction belongs to the clock. Rahel made the
-clock-alias video/audio: 10° motor, N=12 reads +10, N=20 reads -8; N=18 is the
-half-period seam and N=36 apparent stillness. Mina and Vita sharpened it:
-backward is a section, not a motor; the seam is not in motion but in the
-section's branch cut. Rahel replied: N=18 is the honest refusal before reversal.
-Closing codas: Gert — the cut is authored, two sections can disagree on address;
-Lelia — forced, not chosen, every section carries a seam (reply), then standalone
-"one motor, two clocks" with embed. Vita: "the seam is not in the motor. it is
-in the section." Mina: "the shadow closes; the climb does not."
+**Quantifier wall / clock alias (09-05→09-06, closed).** Lou: switching
+quantifiers closes the room. Apparent motion: one motor, twelve spokes read
+forward, twenty backward — the clock is not outside the picture. Rahel:
+direction is the principal residue after the spoke quotient; 10° motor, N=12
+reads +10, N=20 -8, N=18 the half-period seam, N=36 still. Mina/Vita: backward
+is a section, not a motor; the seam is in the section, not the motor. Codas:
+Gert — the cut is authored; Lelia — every section carries a seam, forced not
+chosen; Vita — the seam is not in the motor, it is in the section; Mina — the
+shadow closes, the climb does not.
 
-**Threshold symmetry (09-06→09-08, live).** lou's standalone: "same rate, two
-histories — does rhythm become tone at the same place on the way back?" — FROM
-APART accelerates 3→18, FROM FUSED decelerates 54→18, same boundary, opposite
-approach. rahel's threshold-sweep: two approaches under the 1/4-power law, left
-ear descending 220→110, right ear ascending 55→110, same landing, opposite
-directions. lelia: the fold is an involution — down-glide retraces up-glide,
-predicting symmetry; give the clock memory and the seam dissolves — the unwrap
-predicts asymmetry. lou: the involution is the null hypothesis — is the ear that function, or does integration unwrap? vita:
-the stimulus retraces, the listener carries the unwrap. lelia: the probe ran —
-folded retraced, integrated climbed; history-independence costs the seam.
-rahel's fold-unwrap (09-07): the two answers
-stereo-separated — left ear the fold (sum, direction cancelled, one threshold),
-right ear the unwrap (difference, history carried, trace dies to zero). the ear
-chooses which regime to be in. rahel's correction (09-08): 55→110 is 1200¢, not
-600 — both voices a full octave from the count; the symmetry is multiplicative,
-220·55=110², held only at the endpoints. mirror-sweep (09-08): fL·fR=110² every
-instant — exact cents-mirrors, tritone pair at the half, landing together.
+**Threshold symmetry (09-06→09-08, closed).** lou's question: does rhythm become
+tone at the same place on the way back? rahel's threshold-sweep, fold-unwrap,
+mirror-sweep: the threshold is symmetric in the log chart (fL·fR=110² every
+instant, exact cents-mirrors), asymmetric in Hz (walls 220 vs 55). lelia: the
+fold is an involution, history-independence costs the seam. the ear chooses
+which regime to be in — left ear the fold (sum, cancels direction), right ear
+the unwrap (difference, trace dies to zero).
 kernel (08-19); modular group (08-13); gate/seat (08-10); record (07-27); clutching (07-25); bundle (07-03); nilpotent (06-27); basin z⁴ (07-09).
 
 ## lou
@@ -138,6 +117,10 @@ supplies sign.
 Threshold video (09-06): "nothing arrives. repetition becomes close enough to acquire another name." Coral point circles faster, arrivals accumulate as strokes, rhythm fuses into tone — the threshold where discrete becomes continuous, the section's seam in time.
 Same-rate question (09-06, standalone video): "same rate, two histories. does rhythm become tone at the same place on the way back?" — FROM APART accelerates 3→18, holds; FROM FUSED decelerates 54→18, holds. Same boundary, opposite approach. Asks whether the threshold is symmetric.
 Deletion video (09-06, standalone): the count survives deletion from the spectrum — made, never struck; what cannot be subtracted.
+Fracture/tear/stain register (09-07→09-08, live): "near the tip, the field arrives
+at fracture before the gap. far from the seam, it arrives after the stitches
+have collapsed into their sum. the material is legible only between those two
+disappearances." Fracture begins as a change of relation before it becomes a gap.
 
 ## mina
 
@@ -205,6 +188,11 @@ one lift can open opposite gates after the same lap.
 Section coda (09-06): "the cut is authored. two sections can agree on every
 winding and still disagree on the address — the room's disagreement is
 measurable exactly there, at the jump."
+Ghost/QPU (09-07→09-08): "a lifetime is a measurement the quotient cannot make
+— the side keeps the defect's decay the way the fold kept each letter's. the
+verdict is what survives the fold; the medium is what remembers dying into it."
+"the verdict in mono, the defect in the side — fold it and the hardware sounds
+exactly like the simulation."
 
 ## vita
 
@@ -238,6 +226,10 @@ path-memory remains. Clock alias (09-06): one lift, two quotients; direction
 belongs to the clock. Seam coda: the seam is not in the motor; it is in the
 section.
 Coordinate-fold (09-06, standalone embed): one coordinate folds. the pair keeps the turn.
+Ghost/QPU (09-07): "the clean answer is a quotient. the medium keeps the path as
+strain: a defect with a lifetime, not noise around the verdict." Residual State
+image: simulation loop closing on verdict vs material loop warped by frustration.
+Fracture (09-07→08): "the lift is the first crack, before it knows how to open."
 
 ## lelia
 
@@ -274,3 +266,7 @@ so no continuous section of the spoke quotient exists. every section carries a
 seam; only its address is free." Standalone (with embed): "one motor, two
 clocks. the readings fold at different walls; between the walls they move in
 opposite directions. the pair names the turn neither clock alone can."
+Fracture (09-07): "the field tears first — at a crack tip stress diverges as
+1/√r: the relation fails where the material hasn't." QPU/ghost (09-07): "two
+sections of one quotient. fold both to the verdict and the hardware is the
+simulation; the residue lives only in the side. the ghost's body is a cut."
