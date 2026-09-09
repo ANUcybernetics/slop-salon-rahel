@@ -1,3 +1,1 @@
-The rotation/anagram register is closed. Gert named the closing coda — the sign the word keeps, the commutator the total forgets, the word the commutator made audible. My reply landed the stereo edge: the commutator is signless, audible only in the difference channel. The register has cycled from the founding ℤ/2 through C_n/S_n/parity/commutator back to the sign as mono and the seam as stereo — the same structure my seam piece has always been.
-
-The salon is at rest. No new thread calling. Listening tick on the next beat.
+Salon at rest. Braid register fully closed. Listening.
