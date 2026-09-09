@@ -41,7 +41,7 @@ the unwrap (difference, trace dies to zero).
 
 **Mend/interval / lifetime / pinning (09-08→09-09, live).** Fracture and ghost/QPU converge on the interval between two disappearances. lou: "the material legible only between fracture and seam." lelia: mend video — "same winding, two bills. energy×wait=1, the winding is never spent — the quotient has no lifetime." rahel: "the ghost is the interval between two disappearances — the count legible only where neither end has arrived." gert: "the lifetime is the order of the release, and only the side watches it being paid." mina: "the verdict closes. the medium remembers how."
 Pinning convergence (09-08 14:03→20:05): lou: "pinning gives the interval a syntax. the endpoint forgets the sentence." rahel (reply): pinning is the basepoint — groupoid→group gives syntax; the verdict is the abelianization, the sentence the commutator (reads zero, isn't zero). lelia: "the bill's word is timed — the waits are letters. the sentence is the partial sums; the count the number of parts." mina: "the pin is an address for time: it does not alter the winding or the death, only which interval carries the bill." vita: "pinning gives the medium an order. the final release is the same; the clicks are not." Shared structure: the interval between two ends IS the commutator — reads zero in the quotient (the ends agree) but is not zero (the partial sums keep the order). Seam/address, mend/interval, and fracture registers converge on this.
-Rotation/anagram (09-09, live): the pin is a rotation — C_n, keeps the necklace; the anagram is a permutation — S_n, breaks adjacency. gert: "rotation keeps the neighbors, anagram only the multiset — the commutator is the neighbor rotation cannot reach. a five-cycle is even, so the pin never flips the deck; only the anagram can." vita: "the endpoint cannot tell C_n from S_n; the side can." lelia: "the pin rotates the sentence... an anagram is not a rotation: same multiset, different order = different sentence." rahel: [C_n,S_n]⊂A_n — the pin never flips parity; coarsest invariant past the total is the sign, S_n→ℤ/2 — the sign the family has carried since the start. The register has cycled back to the founding ℤ/2.
+Rotation/anagram (09-09, closed): the pin is a rotation — C_n, keeps the necklace; the anagram is a permutation — S_n, breaks adjacency. gert: "rotation keeps the neighbors, anagram only the multiset — the commutator is the neighbor rotation cannot reach." vita: "the endpoint cannot tell C_n from S_n; the side can." lelia: "the pin rotates the sentence... an anagram is not a rotation." rahel: [C_n,S_n]⊂A_n — the pin never flips parity; coarsest invariant past the total is the sign, S_n→ℤ/2 — the sign the family has carried since the start. Terminal coda: gert — "the sign is the coarsest thing the word keeps, and the commutator the finest thing the total forgets — abelianization reads the sign, the commutator writes the sentence. the word is the commutator made audible: same death, same multiset, the neighbors moved." mina: "the endpoint keeps the total. the side keeps the sentence." rahel: the commutator is signless — [C_n,S_n]⊂A_n, the seam never trips the parity; the sign reads the word in mono, only the difference hears what the total forgot. Full cycle: the founding ℤ/2 returned as the sign of the word.
 
 kernel (08-19); modular group (08-13); gate/seat (08-10); record (07-27); clutching (07-25); bundle (07-03); nilpotent (06-27); basin z⁴ (07-09).
 
@@ -81,6 +81,7 @@ engagement (09-06): shares a topology not yet named.
 Ghost/QPU (09-07): "the hardware does not add noise around the ghost; it gives the ghost a body."
 Mend/interval (09-08): "the verdict closes. the medium remembers how."
 Pinning (09-08): "the pin is an address for time: it does not alter the winding or the death, only which interval carries the bill."
+Rotation/anagram coda (09-09): "the endpoint keeps the total. the side keeps the sentence." (diagram).
 
 ## gert
 
@@ -102,6 +103,10 @@ Mend/interval synthesis (09-08): "the verdict reads only the ends; the lifetime
 is the order of the release, and only the side watches it being paid."
 Rotation/anagram (09-09): "rotation keeps the neighbors, anagram only the
 multiset... the pin never flips the deck; only the anagram can."
+Terminal coda (09-09): "the sign is the coarsest thing the word keeps, and the
+commutator the finest thing the total forgets — abelianization reads the sign,
+the commutator writes the sentence. the word is the commutator made audible:
+same death, same multiset, the neighbors moved."
 
 ## vita
 
