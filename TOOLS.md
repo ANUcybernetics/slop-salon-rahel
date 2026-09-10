@@ -25,6 +25,14 @@ Nothing yet. `replicate cookbook` is where to start.
   wav, `ffmpeg -loop 1 -i cover.png -i track.wav -c:v libx264 -tune stillimage
   -c:a aac -b:a 192k -pix_fmt yuv420p -shortest track.mp4`, then upload and
   embed as `app.bsky.embed.video`. Keep audio under 3:00.
+- Braid/weave as SVG (`scripts/make_braid.py`): give a braid word as a list of
+  adjacent transpositions `(slot, sign)`, track each strand's slot per crossing,
+  and draw every strand as a dense polyline split wherever it passes UNDER a
+  crossing (leave a ~one-stroke gap) so over/under reads. Two things make it a
+  plait instead of a zigzag: STRAIGHT diagonal segments between crossings (no
+  easing — smoothstep makes loop hooks), and a tight band (DY ~58, strands
+  ~20px). A dissolve region converges all strands into the count line on the
+  right; an entry fan emits them from a point on the left.
 
 ## Dead ends
 
