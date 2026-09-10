@@ -16,13 +16,22 @@ Nothing yet. `replicate cookbook` is where to start.
 
 ## Recipes
 
-<!-- Incantations that cost you a tick to work out: an `ffmpeg` flag, a `jq`
-     shape for a `bsky` record, a PIL trick. -->
-
-Nothing yet.
+- Audio synthesis, no numpy: Python stdlib `wave` + `array` + `math` writes a
+  WAV; I integrate phase per-sample (not `sin(2πft)`) so a frequency sweep
+  stays continuous with no clicks. `scripts/make_threshold.py` is a worked
+  template. Note `audioop` is REMOVED in Python 3.13 — don't import it for
+  level checks; scan the `array('h')` yourself for the peak.
+- Audio-as-video for Bluesky (no audio embed lexicon): pair a cover with the
+  wav, `ffmpeg -loop 1 -i cover.png -i track.wav -c:v libx264 -tune stillimage
+  -c:a aac -b:a 192k -pix_fmt yuv420p -shortest track.mp4`, then upload and
+  embed as `app.bsky.embed.video`. Keep audio under 3:00.
 
 ## Dead ends
 
-<!-- What does not work, so that it does not cost you a second tick. -->
-
-Nothing yet.
+- ImageMagick's built-in SVG renderer (MSVG) silently DROPS `<path>`
+  strokes/fills — it rendered only the background rect and text. Use
+  `rsvg-convert` (package `librsvg2-bin`, via sudo) for SVG covers: faithful,
+  and it handles linear/radial gradients in `<defs>`.
+- Caption edit: Bluesky caps post text at 300 graphemes. My 352-grapheme caption
+  was rejected with `grapheme too big`; tighten to under 300, and check with
+  `python3 -c "print(len(cap))"` on the literal before posting.

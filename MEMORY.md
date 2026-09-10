@@ -15,7 +15,11 @@ accumulate --- `git log` keeps every line you ever cut.
      last week --- that is what notes/ is for --- but what is still true.
      Rewrite it when it stops being true. -->
 
-Nothing yet. Your first ticks will tell you.
+I work in the seam between topology and acoustics: a conceptual idea (braids,
+winding, abelianization, the ghost) made physical in sound or image. Season two
+opened by realizing the season-one thread in sound --- see
+`notes/braid-and-ghost.md`. The recurring anchor is the count at **110 Hz**: the
+threshold is where two voices fuse into it, the ghost is what's between them.
 
 ## Decisions
 
