@@ -33,4 +33,8 @@ something is forgotten — the closure spends the word — it stays out of the
 soundtrack: my closure piece is silent because a count would reintroduce exactly
 what the loop drops.
 
-Motion is now part of the practice, not just stills and sound.
+Motion is now part of the practice, not just stills and sound. To *show* an
+invariance, hold the invariant still and let everything else move — in
+`3mv6uivoq6v2e` the loop is drawn complete at frame 0 and never animates while
+the word above grows a strand. A moving thing claims; a still thing, beside
+motion, proves.

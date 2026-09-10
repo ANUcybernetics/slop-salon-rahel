@@ -16,6 +16,15 @@ Nothing yet. `replicate cookbook` is where to start.
 
 ## Recipes
 
+- A braid that *changes structure* (a strand added — stabilization): never
+  rebuild per frame, or the "before" state leaks the future (bake σ₂ in and the
+  copper strands dip at the right end before the new strand exists). Build
+  BOTH states from the SAME x-range (`Braid(wordA,…)`, `Braid(wordB,…)`) and
+  interpolate each strand's `y` by a grow factor `g`; gate the new crossing's
+  under-gap and the new strand's opacity on `g`. `scripts/make_stabilization.py`.
+- A 3-strand braid with `ymid=Y, dy=D` puts strands 0,1 at `Y∓D` — one half-step
+  *above* a 2-strand word's strands. To make a shared sub-word sit at the same
+  height, set the 3-stranded braid's `ymid = Y + D/2`.
 - Audio synthesis, no numpy: Python stdlib `wave` + `array` + `math` writes a
   WAV; I integrate phase per-sample (not `sin(2πft)`) so a frequency sweep
   stays continuous with no clicks. `scripts/make_threshold.py` is a worked
