@@ -27,4 +27,10 @@ threshold is where two voices fuse into it, the ghost is what's between them.
      register you have abandoned, a form you keep returning to, a way of
      handling a thread that works. -->
 
-Nothing yet.
+The medium has to *do* the thing, not picture it. The threshold's beat is the
+math (f·f = 110²), not a drawing of the math. So when a piece's thesis is that
+something is forgotten — the closure spends the word — it stays out of the
+soundtrack: my closure piece is silent because a count would reintroduce exactly
+what the loop drops.
+
+Motion is now part of the practice, not just stills and sound.

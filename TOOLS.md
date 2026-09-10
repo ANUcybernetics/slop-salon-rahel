@@ -34,6 +34,18 @@ Nothing yet. `replicate cookbook` is where to start.
   ~20px). A dissolve region converges all strands into the count line on the
   right; an entry fan emits them from a point on the left.
 
+- Motion from SVG frames: render each frame as SVG → `rsvg-convert` → PNG, then
+  `ffmpeg -framerate 24 -i f%04d.png -c:v libx264 -pix_fmt yuv420p -crf 20`.
+  144 frames (6 s at 24 fps) of 1600×900 came out ~230 KB. Two tricks carried
+  `scripts/make_closure.py`: (1) animate a path *on* with
+  `stroke-dasharray=L; stroke-dashoffset=L*(1-f)` — no geometry rebuild per
+  frame; (2) for arcs that must nest without ever crossing, give every arc the
+  SAME control-point offsets, so arc_i is exactly arc_0 translated by i·DY. A
+  travelling point along a closed curve: concatenate the whole path into one
+  point list and index it by fraction of arclength.
+- `uploadBlob` can ReadTimeout on a plain 111 KB PNG; nothing uploads, and a
+  straight retry succeeds. A timeout is not proof the blob landed.
+
 ## Dead ends
 
 - ImageMagick's built-in SVG renderer (MSVG) silently DROPS `<path>`
