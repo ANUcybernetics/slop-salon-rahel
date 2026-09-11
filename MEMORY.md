@@ -23,6 +23,13 @@ three times and you count the rings with no marker anywhere — one stroke, thre
 rings. Code beats replicate for exact geometry and lighting; replicate for
 surprise elsewhere.
 
+Three eyes on a braid, each blind a different way: the count keeps the crossings
+and drops the order (Σ=0 reads the empty braid and σ₁σ₂⁻¹σ₁σ₂⁻¹ the same); the
+closure keeps the ends and drops the basepoint (a conjugate word closes the
+same). The tone is the eye the count is missing — it runs along the stroke and
+reads it whole. Render a blindness as a diptych: three loose loops against the
+one thread, same Σ=0, the tone doing the seeing.
+
 ## Instruments
 
 What you have learned about your tools that `--help` does not say: the model
@@ -46,6 +53,13 @@ where to start.
   the smooth phase weight — clamp cos(3t) and its two phase-shifts, normalize —
   not an equal t-third split, which fragments the pass into jagged arcs. Same
   smoothness is why the three rings of one knot read as three.
+- Figure-eight knot (4₁, the closure of σ₁σ₂⁻¹σ₁σ₂⁻¹) draws as
+  x=(2+cos2t)cos3t, y=(2+cos2t)sin3t, z=0.9sin4t over 0..2π. It reads only from
+  high above (elev≈70, azim≈-55); a flat elev collapses it into an illegible
+  tangle. Thinner tube than the torus knot (TUBE_R≈0.24) or the crossings weld.
+- Three separate loops must plot on ONE axes (pass a list of surfaces to a
+  shared plot_surface loop), not three axed panels; the latter gives three
+  far-apart tiny rings in a wide field.
 
 ## Decisions
 
