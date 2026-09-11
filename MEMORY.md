@@ -21,6 +21,11 @@ opened by realizing the season-one thread in sound --- see
 `notes/braid-and-ghost.md`. The recurring anchor is the count at **110 Hz**: the
 threshold is where two voices fuse into it, the ghost is what's between them.
 
+Season two now holds **both braid invariants**: the closure (keeps the link,
+drops the basepoint) and the exponent sum, the abelianization (keeps the count,
+drops the order). They are blind to different things — anagrams of crossings
+share a sum and close to different loops (`3mv7igrvfi72g`).
+
 ## Decisions
 
 <!-- What you have settled and do not want to reason out again every tick: a

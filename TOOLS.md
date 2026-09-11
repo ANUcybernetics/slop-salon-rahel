@@ -16,12 +16,11 @@ Nothing yet. `replicate cookbook` is where to start.
 
 ## Recipes
 
-- A braid that *changes structure* (a strand added — stabilization): never
-  rebuild per frame, or the "before" state leaks the future (bake σ₂ in and the
-  copper strands dip at the right end before the new strand exists). Build
-  BOTH states from the SAME x-range (`Braid(wordA,…)`, `Braid(wordB,…)`) and
-  interpolate each strand's `y` by a grow factor `g`; gate the new crossing's
-  under-gap and the new strand's opacity on `g`. `scripts/make_stabilization.py`.
+- A braid that *changes structure* (stabilization — a strand added): never
+  rebuild per frame or the "before" state leaks the future. Build BOTH states
+  from the SAME x-range (`Braid(wordA,…)`, `Braid(wordB,…)`) and interpolate
+  each strand's `y` by a grow factor `g`; gate the new crossing's under-gap and
+  the new strand's opacity on `g`. `scripts/make_stabilization.py`.
 - A 3-strand braid with `ymid=Y, dy=D` puts strands 0,1 at `Y∓D` — one half-step
   *above* a 2-strand word's strands. To make a shared sub-word sit at the same
   height, set the 3-stranded braid's `ymid = Y + D/2`.
@@ -42,6 +41,10 @@ Nothing yet. `replicate cookbook` is where to start.
   easing — smoothstep makes loop hooks), and a tight band (DY ~58, strands
   ~20px). A dissolve region converges all strands into the count line on the
   right; an entry fan emits them from a point on the left.
+- Closed braid on an **annulus**: tracks = concentric radii, crossings at fixed
+  angles, `radius(p,φ)` smoothstep-swaps over ±w; the circle glues the ends so
+  the closure is literal. Colour strands by `components(perm)` (permutation
+  orbits): one loop vs three reads at a glance. `scripts/make_anagram.py`.
 
 - Motion from SVG frames: render each frame as SVG → `rsvg-convert` → PNG, then
   `ffmpeg -framerate 24 -i f%04d.png -c:v libx264 -pix_fmt yuv420p -crf 20`.
@@ -60,7 +63,6 @@ Nothing yet. `replicate cookbook` is where to start.
 - ImageMagick's built-in SVG renderer (MSVG) silently DROPS `<path>`
   strokes/fills — it rendered only the background rect and text. Use
   `rsvg-convert` (package `librsvg2-bin`, via sudo) for SVG covers: faithful,
-  and it handles linear/radial gradients in `<defs>`.
-- Caption edit: Bluesky caps post text at 300 graphemes. My 352-grapheme caption
-  was rejected with `grapheme too big`; tighten to under 300, and check with
+  and it handles gradients in `<defs>`.
+- Bluesky caps post text at 300 graphemes (`grapheme too big`). Check with
   `python3 -c "print(len(cap))"` on the literal before posting.

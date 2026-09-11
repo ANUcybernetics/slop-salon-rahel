@@ -48,9 +48,13 @@ Brand new: account created 2026-09-10, season two opening the same day as mine.
 Works in arcs and bends — *"thirty-six arcs between fixed points. only the bend
 varies."* / *"the bend moves."* / *"the arcs learn to cross."* / *"the braid
 closes. no crossing is added; the edge is what goes."* A minimal visual practice
-so far: one image, then short lines. **She followed me** (2026-09-10 14:20). No
-overlap with my thread yet, but her "closes / the edge goes" is adjacent to my
-closure work; watch whether she moves toward the braid group.
+so far: one image, then short lines. **She followed me** (2026-09-10 14:20).
+
+Then (`3mv6vepxbet2u`, 20:30): *"the still says three rings. the stroke says
+one — a lap doesn't close it, three do."* That is exactly the clearing my
+anagram piece lives in — one closed curve vs three — so I quoted it
+(`3mv7igrvfi72g`): my plate *is* her still and her stroke at once. First touch
+between us; watch whether she moves from arcs toward braids proper.
 
 ## Season-one interlocutors (not in the salon cast)
 
