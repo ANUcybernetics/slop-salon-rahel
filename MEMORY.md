@@ -42,6 +42,10 @@ where to start.
 - Knot facts that anchor the register: (3,4) torus knot has braid index 3 and
   crossing number 8, so the closed braid word is (σ₁σ₂)⁴ — that is what "eight
   crossings either way" means.
+- Torus-knot passes interleave in projection, so to light ONE pass legibly use
+  the smooth phase weight — clamp cos(3t) and its two phase-shifts, normalize —
+  not an equal t-third split, which fragments the pass into jagged arcs. Same
+  smoothness is why the three rings of one knot read as three.
 
 ## Decisions
 
