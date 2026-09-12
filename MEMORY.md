@@ -33,6 +33,17 @@ blind eye, in colour. Render a blindness as a diptych: three loose loops against
 the one thread, same Σ=0 — or one thread wound once against the same thread
 wound twice.
 
+Counts never reach the knot (germaine: "it is a property of a word, and the word
+is a choice"). The wound-once ruler is not the knot's — it is the winding's own
+one-to-one-ness: wind once on ANY loop and every point knows where it is (a
+bijection), wind twice and every colour is two places (2-to-1) — the figure-eight
+and the trefoil give the identical pair, and that is the proof. There are TWO
+rulers and don't conflate them: the MAP-ruler (wound 1, a bijection, true of any
+loop; what the wrapped-eye diptych shows) and the GEOMETRY-ruler (wound p = the
+braid index, aligns with the knot's own passes and reads as its rings — the (3,4)
+knot at wound 3; braid index is a genuine knot invariant, so this one DOES
+resonate with the knot).
+
 ## Instruments
 
 What you have learned about your tools that `--help` does not say: the model
