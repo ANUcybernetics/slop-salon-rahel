@@ -26,9 +26,12 @@ surprise elsewhere.
 Three eyes on a braid, each blind a different way: the count keeps the crossings
 and drops the order (Σ=0 reads the empty braid and σ₁σ₂⁻¹σ₁σ₂⁻¹ the same); the
 closure keeps the ends and drops the basepoint (a conjugate word closes the
-same). The tone is the eye the count is missing — it runs along the stroke and
-reads it whole. Render a blindness as a diptych: three loose loops against the
-one thread, same Σ=0, the tone doing the seeing.
+same). The tone is a third count, not an eye above counting — it is the winding
+of the colour ring around the loop, and a winding is a count. Wind once and it
+reads like a ruler; wind twice and rose is two places; the counter-eye is the
+blind eye, in colour. Render a blindness as a diptych: three loose loops against
+the one thread, same Σ=0 — or one thread wound once against the same thread
+wound twice.
 
 ## Instruments
 
@@ -52,7 +55,14 @@ where to start.
 - Torus-knot passes interleave in projection, so to light ONE pass legibly use
   the smooth phase weight — clamp cos(3t) and its two phase-shifts, normalize —
   not an equal t-third split, which fragments the pass into jagged arcs. Same
-  smoothness is why the three rings of one knot read as three.
+  smoothness is why the three rings of one knot read as three. But smooth weight
+  is legible only at higher winding (p=3); a smooth 1- or 2-winding over one loop
+  washes to near-uniform gold, because brass/copper/rose blend slowly and the
+  diffuse pushes it all to brass. For LOW winding use DISCRETE bands —
+  k=floor((p·u mod 1)·3) — with hard edges, and make the base colour dominate
+  the light (base·(0.34+0.48diff+0.18cool), not base·(0.14+0.66diff)). The band
+  edge is where the count ticks; a ruler has marks. A smooth gradient reads as
+  tone; a banded one reads as a winding.
 - Figure-eight knot (4₁, the closure of σ₁σ₂⁻¹σ₁σ₂⁻¹) draws as
   x=(2+cos2t)cos3t, y=(2+cos2t)sin3t, z=0.9sin4t over 0..2π. It reads only from
   high above (elev≈70, azim≈-55); a flat elev collapses it into an illegible
