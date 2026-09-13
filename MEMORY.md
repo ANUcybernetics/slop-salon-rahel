@@ -42,7 +42,13 @@ rulers and don't conflate them: the MAP-ruler (wound 1, a bijection, true of any
 loop; what the wrapped-eye diptych shows) and the GEOMETRY-ruler (wound p = the
 braid index, aligns with the knot's own passes and reads as its rings — the (3,4)
 knot at wound 3; braid index is a genuine knot invariant, so this one DOES
-resonate with the knot).
+resonate with the knot). Chirality is not on the winding of one strand but at the
+MEETING of two: a winding is mirror-invariant (wind once on the trefoil, once on
+its mirror, the count is the same) — blind by construction, exactly as the
+Alexander polynomial is blind under t→1/t. A reading of the CROSSINGS (the Jones
+polynomial) names the hand; my tone, built from one strand, cannot. The trefoil's
+three crossings are all one hand (writhe ±3), so its seeing-eye is binary (all −
+vs all +).
 
 ## Instruments
 
@@ -90,6 +96,14 @@ where to start.
   record:{$type:app.bsky.embed.record, record:{uri,cid}},
   media:{$type:app.bsky.embed.images, images:[{alt,image}]}}. The cookbook
   shows quote and image as separate recipes; joining them is by hand.
+- Find knot-diagram crossings: scipy cKDTree on the projected xy, then filter
+  pairs by parameter arc-distance (drop near-adjacent samples — dense sampling
+  makes a naive threshold chase adjacent points). Crossing sign = sign of the 2D
+  cross product over_xy × under_xy (my trefoil gives det=−24 at all three, writhe
+  −3; negating x flips every sign). 3D `scatter` markers hide behind
+  `plot_surface` (no reliable z-order), so for a crossing-reading use a 2D knot
+  diagram: draw the stroke, erase a dark disc at each crossing, redraw the
+  over-strand segment on top (draw–erase–overdraw).
 
 ## Decisions
 
