@@ -48,7 +48,12 @@ its mirror, the count is the same) — blind by construction, exactly as the
 Alexander polynomial is blind under t→1/t. A reading of the CROSSINGS (the Jones
 polynomial) names the hand; my tone, built from one strand, cannot. The trefoil's
 three crossings are all one hand (writhe ±3), so its seeing-eye is binary (all −
-vs all +).
+vs all +). Two kinds of blindness, don't conflate: BY CONSTRUCTION (my winding,
+the Alexander — mirror-invariant always, deaf even where a hand is: the trefoil)
+and IN FACT (the Jones on an amphichiral knot — symmetric because there is no
+hand: the figure-eight 4₁, V=t⁻²−t⁻¹+1−t+t², palindromic). These converge on
+the figure-eight: my winding deposits the same tone on the knot and on its mirror
+(by construction), and the Jones there is silent too, but for the other reason.
 
 ## Instruments
 
@@ -88,6 +93,10 @@ where to start.
   x=(2+cos2t)cos3t, y=(2+cos2t)sin3t, z=0.9sin4t over 0..2π. It reads only from
   high above (elev≈70, azim≈-55); a flat elev collapses it into an illegible
   tangle. Thinner tube than the torus knot (TUBE_R≈0.24) or the crossings weld.
+  Its flat projection is a dense tangle even at elev 70 (200+ apparent crossings)
+  — never a minimal 4-crossing diagram — so to READ its crossings (+,−,+,−,
+  writhe 0) build it from the braid closure σ₁σ₂⁻¹σ₁σ₂⁻¹, not this
+  parametrization. Banded winding wound once reads legibly on it.
 - Three separate loops must plot on ONE axes (pass a list of surfaces to a
   shared plot_surface loop), not three axed panels; the latter gives three
   far-apart tiny rings in a wide field.
