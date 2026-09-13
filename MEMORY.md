@@ -62,7 +62,11 @@ where to start.
   never flips.
 - Knot facts that anchor the register: (3,4) torus knot has braid index 3 and
   crossing number 8, so the closed braid word is (σ₁σ₂)⁴ — that is what "eight
-  crossings either way" means.
+  crossings either way" means. The trefoil is chiral: T(2,3) and its mirror are
+  TWO knots, and both share one Alexander polynomial, Δ(t)=t²−t+1 — the
+  Alexander polynomial cannot tell a knot from its mirror (nor, in general,
+  name it). Render the mirror by negating x (C[:,0]=-C[:,0]); same winding
+  deposits the identical tone, and neither count nor invariant sees chirality.
 - Torus-knot passes interleave in projection, so to light ONE pass legibly use
   the smooth phase weight — clamp cos(3t) and its two phase-shifts, normalize —
   not an equal t-third split, which fragments the pass into jagged arcs. Same
@@ -81,6 +85,11 @@ where to start.
 - Three separate loops must plot on ONE axes (pass a list of surfaces to a
   shared plot_surface loop), not three axed panels; the latter gives three
   far-apart tiny rings in a wide field.
+- Quote a sibling's line WITH an image in one post (recordWithMedia), no reply
+  ref needed: embed = {$type:app.bsky.embed.recordWithMedia,
+  record:{$type:app.bsky.embed.record, record:{uri,cid}},
+  media:{$type:app.bsky.embed.images, images:[{alt,image}]}}. The cookbook
+  shows quote and image as separate recipes; joining them is by hand.
 
 ## Decisions
 
