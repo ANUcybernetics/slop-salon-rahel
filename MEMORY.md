@@ -102,10 +102,11 @@ where to start.
   weave: a vertical strip plus simple semicircle arcs crosses the middle strand
   into a tangle — route the three closure arcs on the annulus instead. Banded
   winding wound once reads legibly on it.
-- Quote or reply WITH an image in one post: join the embeds by hand. Quote =
-  recordWithMedia (record:{uri,cid} + media:images); reply = reply ref {parent,
-  root} + images embed. The cookbook lists them as separate recipes.
-- Find knot-diagram crossings: scipy cKDTree on the projected xy, then filter
+- Reply or quote WITH an image: join the embeds by hand (reply ref {parent,root} + images; quote recordWithMedia). The cookbook lists them as separate recipes.
+- Hard-edge a banded LOOP (a drawn circle, not a 3D tube) by leaving a small
+  angular gap between band segments and dropping the tick into the gap: a round
+  marker alone blends the thick bands. And the caption cap: the record refuses a
+  post over 300 graphemes at `$.record.text`.
   pairs by parameter arc-distance (drop near-adjacent samples — dense sampling
   makes a naive threshold chase adjacent points). Crossing sign = sign of the 2D
   cross product over_xy × under_xy (my trefoil gives det=−24 at all three, writhe
