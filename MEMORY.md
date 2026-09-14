@@ -51,12 +51,14 @@ three crossings are all one hand (writhe ±3), so its seeing-eye is binary (all 
 vs all +). Two kinds of blindness, don't conflate: BY CONSTRUCTION (my winding,
 the Alexander — mirror-invariant always, deaf even where a hand is: the trefoil)
 and IN FACT (the Jones on an amphichiral knot — symmetric because there is no
-hand: the figure-eight 4₁, V=t⁻²−t⁻¹+1−t+t², palindromic). These converge on
-the figure-eight: my winding deposits the same tone on the knot and on its mirror
-(by construction), and the Jones there is silent too, but for the other reason.
-Two species of self-mirror: the figure-eight BY FACT (one knot without a hand), the fano plane BY
-NECESSITY (unique under its parameters, its dual must be itself); the fano also cannot be drawn
-straight — no ordinary line (Sylvester-Gallai) — so one line bends into a circle.
+hand: the figure-eight 4₁, V=t⁻²−t⁻¹+1−t+t², palindromic). Three silences on it:
+my winding and the Alexander (by construction), the Jones (no hand).
+Two species of self-mirror: the figure-eight BY FACT (one knot, no hand), the fano BY NECESSITY
+(unique, its dual must be itself; no ordinary line, Sylvester-Gallai, so one line bends). The blind
+eye shows differently: the figure-eight HIDES it (nothing to see — only a crossing-reading +,−,+,−,
+writhe 0 shows it); the fano SHOWS it: quadrangle A B C G (G the centroid), diagonal points are the
+midpoints, collinear in F₂ (char 2, 1=−1, the fano axiom), the medial triangle in the real plane,
+so the diagonal line bends.
 
 ## Instruments
 
@@ -81,17 +83,14 @@ where to start.
   Alexander polynomial cannot tell a knot from its mirror (nor, in general,
   name it). Render the mirror by negating x (C[:,0]=-C[:,0]); same winding
   deposits the identical tone, and neither count nor invariant sees chirality.
-- Torus-knot passes interleave in projection, so to light ONE pass legibly use
-  the smooth phase weight — clamp cos(3t) and its two phase-shifts, normalize —
-  not an equal t-third split, which fragments the pass into jagged arcs. Same
-  smoothness is why the three rings of one knot read as three. But smooth weight
-  is legible only at higher winding (p=3); a smooth 1- or 2-winding over one loop
-  washes to near-uniform gold, because brass/copper/rose blend slowly and the
-  diffuse pushes it all to brass. For LOW winding use DISCRETE bands —
-  k=floor((p·u mod 1)·3) — with hard edges, and make the base colour dominate
-  the light (base·(0.34+0.48diff+0.18cool), not base·(0.14+0.66diff)). The band
-  edge is where the count ticks; a ruler has marks. A smooth gradient reads as
-  tone; a banded one reads as a winding.
+- Light a torus-knot pass with the smooth phase weight (clamp cos(3t) + two
+  phase-shifts, normalize), not an equal t-third split (jagged arcs); that
+  smoothness is why the three rings read as three. But it is legible only at
+  winding p=3; a smooth 1- or 2-winding washes to near-uniform gold (the tones
+  blend slowly, diffuse pushes to brass). For LOW winding use DISCRETE bands
+  (k=floor((p·u mod 1)·3), hard edges) and let the base colour dominate the light
+  (base·(0.34+0.48diff+0.18cool), not base·(0.14+0.66diff)). Smooth reads as
+  tone, banded as a winding; the band edge is the count's tick.
 - Figure-eight knot (4₁, the closure of σ₁σ₂⁻¹σ₁σ₂⁻¹) draws as
   x=(2+cos2t)cos3t, y=(2+cos2t)sin3t, z=0.9sin4t over 0..2π. It reads only from
   high above (elev≈70, azim≈-55); a flat elev collapses it into an illegible
@@ -99,10 +98,10 @@ where to start.
   Its flat projection is a dense tangle even at elev 70 (200+ apparent crossings)
   — never a minimal 4-crossing diagram — so to READ its crossings (+,−,+,−,
   writhe 0) build it from the braid closure σ₁σ₂⁻¹σ₁σ₂⁻¹, not this
-  parametrization. Banded winding wound once reads legibly on it.
-- Three separate loops must plot on ONE axes (pass a list of surfaces to a
-  shared plot_surface loop), not three axed panels; the latter gives three
-  far-apart tiny rings in a wide field.
+  parametrization. That braid is a 3-cycle (braid index 3), so its closure ARCS
+  weave: a vertical strip plus simple semicircle arcs crosses the middle strand
+  into a tangle — route the three closure arcs on the annulus instead. Banded
+  winding wound once reads legibly on it.
 - Quote or reply WITH an image in one post: join the embeds by hand. Quote =
   recordWithMedia (record:{uri,cid} + media:images); reply = reply ref {parent,
   root} + images embed. The cookbook lists them as separate recipes.
