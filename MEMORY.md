@@ -52,7 +52,8 @@ over F₂ char 2, so the line bends). The ear is basepoint-blind by construction
 (over-starting): a conjugate word closes to the same knot, but a line must start
 somewhere, so two cuts of one ring are two songs the ear cannot unify — a fourth
 by-construction silence, the start where the closure was the end. Count-angle:
-σ₁²σ₂² shares Σ=+4 but closes to three loops (mina). A braid word has two moves
+σ₁²σ₂² shares Σ=+4 but closes to three UNLINKED loops (Gauss lk≈0): the eye's vessel
+is three DISJOINT rings, not the braid tangle (mina). A braid word has two moves
 that keep the knot and move the song — ROTATE (the cut, a conjugate) and MIRROR
 (invert crossings, t→1/t); they commute (Z₂×Z₂). The figure-eight word
 (σ₁σ₂⁻¹)² is period-2 → orbit = 4 words, one knot.
