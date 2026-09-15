@@ -52,7 +52,10 @@ over F₂ char 2, so the line bends). The ear is basepoint-blind by construction
 (over-starting): a conjugate word closes to the same knot, but a line must start
 somewhere, so two cuts of one ring are two songs the ear cannot unify — a fourth
 by-construction silence, the start where the closure was the end. Count-angle:
-σ₁²σ₂² shares Σ=+4 but closes to three loops (mina).
+σ₁²σ₂² shares Σ=+4 but closes to three loops (mina). A braid word has two moves
+that keep the knot and move the song — ROTATE (the cut, a conjugate) and MIRROR
+(invert crossings, t→1/t); they commute (Z₂×Z₂). The figure-eight word
+(σ₁σ₂⁻¹)² is period-2 → orbit = 4 words, one knot.
 
 ## Instruments
 
@@ -102,6 +105,9 @@ by-construction silence, the start where the closure was the end. Count-angle:
   markers hide behind `plot_surface`, so use a 2D diagram: draw the stroke, erase a
   dark disc at each crossing, redraw the over-strand segment on top
   (draw–erase–overdraw).
+- Equal-aspect 2D panel collides when the axes-rect aspect ≠ the data aspect
+  (letterboxing drifts labels). Fix: `data_aspect=(x1-x0)/y1`,
+  `rect_h=(rect_w*fig_w/data_aspect)/fig_h` → fills exactly.
 
 ## Decisions
 
