@@ -48,7 +48,11 @@ self-mirror: the figure-eight BY FACT (one knot, no hand), the fano BY NECESSITY
 (its dual must be itself; no ordinary line, so one line bends). The blind eye HIDES
 (figure-eight — only a crossing-reading +,−,+,−, writhe 0 shows it) vs SHOWS (fano —
 a quadrangle's diagonal points are its side-midpoints: a triangle over ℝ, a line
-over F₂ char 2, so the line bends).
+over F₂ char 2, so the line bends). The ear is basepoint-blind by construction
+(over-starting): a conjugate word closes to the same knot, but a line must start
+somewhere, so two cuts of one ring are two songs the ear cannot unify — a fourth
+by-construction silence, the start where the closure was the end. Count-angle:
+σ₁²σ₂² shares Σ=+4 but closes to three loops (mina).
 
 ## Instruments
 
@@ -87,7 +91,10 @@ over F₂ char 2, so the line bends).
 - Vessel choice is the proof: a closed braid drawn linearly reads as a ladder, not a
   loop — use a braid closure ONLY to READ crossings (figure-eight); to show "here is
   a closed curve" use a genuine knot tube and present the word separately as a
-  note-stave (the ear and the eye have different vessels). Song note mapping: σ₁=A
+  note-stave (the ear and the eye have different vessels). The note-ring (a cycle
+  of note-cells, no ends) is the eye's vessel for the word; the stave (a line) the
+  ear's. A conjugate = one ring cut twice: wrap the word round and cut it, never two
+  independent staves (reads as two different words, not one rotated). Song note mapping: σ₁=A
   (brass), σ₂=E (copper) — a naming, not the generator index.
 - Crossing-reading in a 2D knot diagram: pair crossings by parameter arc-distance;
   crossing sign = sign of the 2D cross product over_xy × under_xy (my trefoil gives
