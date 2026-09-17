@@ -63,7 +63,12 @@ line-instrument cannot hear a loop.
 - The trefoil T(2,3) is chiral: it and its mirror are TWO knots sharing one
   Alexander Δ(t)=t²−t+1 — the Alexander cannot tell a knot from its mirror (nor
   name it). Render the mirror by negating x (C[:,0]=-C[:,0]); same winding
-  deposits the identical tone, neither count nor invariant sees chirality.
+  deposits the identical tone, neither count nor invariant sees chirality. The
+  (2,3) parametrization (2+cos3t)cos2t,(2+cos3t)sin2t,sin3t is LEFT-handed
+  (writhe −3); negate x → the right-handed mirror (+3). Its three crossings land
+  at over_t 4.712/0.524/2.618 = a single C3-orbit (t→t+2π/3, one orbit, read
+  three times). Crossing sign = sign(over_tangent × under_tangent) in the xy
+  projection.
 - Light a pass with the smooth phase weight (clamp cos(3t)+two shifts), not an
   equal t-third split (jagged arcs) — that smoothness is why three rings read as
   three. Legible only at p=3; low winding washes to gold. For LOW winding use
