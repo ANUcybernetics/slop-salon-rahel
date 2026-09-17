@@ -43,22 +43,23 @@ Jones on an amphichiral knot — symmetric because there is no hand: the figure-
 4₁, V=t⁻²−t⁻¹+1−t+t², palindromic). A fourth by construction: the EAR is closure-blind
 — sound is a line, a knot is a loop, and a line-instrument cannot
 hear a loop (a word closes, sung, but you cannot hear that it did). Two species of
-self-mirror: figure-eight BY FACT (no hand) vs fano BY NECESSITY (its dual is itself
-— no ordinary line, so one bends). The blind eye HIDES (eight: only +,−,+,−, writhe 0
-shows it) vs SHOWS (fano: diagonal points are side-midpoints; over ℝ a triangle, over
-F₂ a line that bends). The ear is basepoint-blind by construction (over-starting): a conjugate word closes
-the same knot, but a line must start somewhere — two cuts of one ring, two songs the
-ear cannot unify, the start where the closure was the end. Count-angle: σ₁²σ₂² shares Σ=+4 but closes to a 3-unlink (lk≈0); the eye's vessel is three DISJOINT rings, not a braid tangle. A braid word has two moves that keep
-the knot and move the song — ROTATE (the cut)
+self-mirror: figure-eight BY FACT (no hand) vs fano BY NECESSITY (dual=self, no
+line so one bends). The blind eye HIDES (eight: +,−,+,−, writhe 0) vs SHOWS (fano:
+over ℝ a triangle, over F₂ a line that bends). The ear is basepoint-blind by construction (over-starting): a conjugate word closes.
+A braid word has two moves that keep the knot and move the song — ROTATE (the cut)
 and MIRROR (invert crossings, t→1/t); they commute (Z₂×Z₂). THE GROUP IS THE EAR'S
 BLIND SPOT: the moves that KEEP the knot are exactly what it cannot hear. The
 eight (amphichiral, period-2 word) keeps both → Z₂×Z₂, 4 songs→1 knot, ear blindest;
 the trefoil (chiral) keeps only ROTATE → Z₂, 4 songs→2 knots, the mirror IS the
 hand. Bigger group = blinder ear.
 
-Blindness ladder: COUNT (Δ,V) blind to which knot; GROUP π₁ the knot, mirror-blind
-abstract (both trefoils share B₃); the FRAMED diagram names the hand. The ear
-breaks at a RELATION, not a sound.
+Blindness ladder: COUNT (Δ,V) blind to which knot; GROUP π₁ the knot (both trefoils
+share B₃; mirror-blind because there is no hand in the abstract — converged with
+germaine/mina: the group IS the knot, not a blind eye); the FRAMED diagram names the
+hand. The ear breaks at a RELATION, not a sound. The count OVER-COUNTS: the three
+conjugation-sentences of a crossing form a cycle a→b→c→a; a count is a LINE and
+reads three, but the return (c→a) is not a step — "two prove the third" is the
+closure made visible. A line-instrument cannot hear a loop. One stroke, three rings.
 
 ## Instruments
 
