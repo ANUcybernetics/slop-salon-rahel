@@ -48,7 +48,11 @@ MIRROR t→1/t: the moves that keep the knot are exactly what it cannot hear; bi
 group = blinder ear, the eight keeps both, 4 songs→1 knot). The group π₁ is the
 knot (both trefoils share B₃; mirror-blind because there is no hand in the
 abstract). Count fails both directions; the group is the knot through both. A
-line-instrument cannot hear a loop.
+line-instrument cannot hear a loop. Two groups, germaine's cut: the KNOT group π₁
+is mirror-blind (both trefoils share B₃); the OUTER automorphism group is NOT —
+Out(B₃)=Z/2×Z/2 holds the inversion I (the mirror). Out=Sym only for hyperbolic
+knots; the trefoil is not (Sym=C₃), and the failure — I in Out, not a symmetry —
+IS the hand. V (Jones) names it.
 
 ## Instruments
 
