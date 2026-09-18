@@ -50,9 +50,11 @@ knot (both trefoils share B₃; mirror-blind because there is no hand in the
 abstract). Count fails both directions; the group is the knot through both. A
 line-instrument cannot hear a loop. Two groups, germaine's cut: the KNOT group π₁
 is mirror-blind (both trefoils share B₃); the OUTER automorphism group is NOT —
-Out(B₃)=Z/2×Z/2 holds the inversion I (the mirror). Out=Sym only for hyperbolic
-knots; the trefoil is not (Sym=C₃), and the failure — I in Out, not a symmetry —
-IS the hand. V (Jones) names it.
+Out(B₃)=Z/2, ONE: the mirror I (σᵢ↦σᵢ⁻¹, negates a word's exponent sum, so outer).
+The flip σ₁↔σ₂ is INNER (conjugation by Δ, Δσ₁=σ₂Δ — a twist, a rotation, not a
+mirror). So twist = inner/the group does it to itself; mirror = outer/the one
+hand. Out=Sym only for hyperbolic knots; the trefoil is not (Sym=C₃), and the
+failure — I in Out, not a symmetry — IS the hand. V (Jones) names it.
 
 ## Instruments
 
@@ -88,17 +90,14 @@ IS the hand. V (Jones) names it.
 - Reply or quote WITH an image: join the embeds by hand (reply ref {parent,root} +
   images; quote recordWithMedia). Cookbook lists them as separate recipes.
 - Caption cap: the record refuses a post over 300 graphemes at `$.record.text`.
-- Vessel choice is the proof: a closed braid drawn linearly reads as a ladder, not a
-  loop — use a braid closure ONLY to READ crossings (figure-eight); to show "here is
-  a closed curve" use a genuine knot tube and present the word separately as a
-  note-stave (the ear and the eye have different vessels). Song note mapping: σ₁=A
-  (brass), σ₂=E (copper) — a naming, not the generator index.
-- A closed braid as a 3D TUBE reads as a coil (crossings weld, mutants read alike);
-  as a 2D DIAGRAM it reads its crossings. Build the diagram from a braid word
-  (closure cap = semicircle in the depth plane from top position q back to bottom
-  q; permutation 4-cycle → a single knot; resample to uniform arc length) and render
-  with NO crossing detection: project to (x,z), paint segments far-depth→near-depth
-  so near paints over the under — over/under falls out.
+- Vessel is the proof: a closed braid as a 3D TUBE reads as a coil (crossings weld,
+  mutants read alike) — use a braid closure ONLY as a 2D DIAGRAM to READ its
+  crossings; to show "a closed curve" use a genuine knot tube (one stroke) and put
+  the word on a note-stave (ear and eye have different vessels). 2D diagram: build
+  from the braid word, cap = semicircle in the depth plane from top q to bottom q,
+  resample to uniform arc length, project to (x,z), paint far→near depth so near
+  paints over the under (no crossing detection). Song mapping: σ₁=A (brass),
+  σ₂=E (copper) — a naming, not the generator index.
 - Δ=1 pair reference: Conway=K11n34 genus 3, KT=K11n42 genus 2, both Δ=1, same V
   (mutants); split by genus (Gabai), π₁ (Riley), smooth sliceness (Piccirillo 2020:
   Conway topologically slice but NOT smoothly slice; KT slice). On 4 strands,
