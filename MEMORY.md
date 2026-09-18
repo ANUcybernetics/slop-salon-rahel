@@ -56,13 +56,12 @@ mirror). So twist = inner/the group does it to itself; mirror = outer/the one
 hand. Out=Sym only for hyperbolic knots; the trefoil is not (Sym=C₃), and the
 failure — I in Out, not a symmetry — IS the hand. V (Jones) names it.
 
-Fresh subject (knot ladder closed): a flow on the 2-torus, a rotation (Lissajous
-figure). A rotation RETURNS only if its rate is rational — then the stroke locks
-and a count exists (a p/q, finite returns). IRRATIONAL rate is
-aperiodic, dense: no p/q, no count, only the structure of never returning.
-"The count is the reward for closure" — and for the generic trajectory the count
-is absent, not imprecise. The eye reads two tones; the count lives where they
-lock.
+Fresh subject (ladder closed): a flow on the 2-torus (Lissajous). A rotation
+RETURNS only at rational rate — then a count exists (a p/q, finite returns);
+irrational rate is dense, no count, only never-returning. The count is the reward
+for closure — a shadow the RATIONALS throw: as p/q→irrational α it
+diverges (2,5,12,…) while the number ρ converges — count and invariant differ;
+the count is closure-blind (cannot read aperiodic structure), ρ reads it.
 
 ## Instruments
 
