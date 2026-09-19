@@ -56,19 +56,19 @@ mirror). So twist = inner/the group does it to itself; mirror = outer/the one
 hand. Out=Sym only for hyperbolic knots; the trefoil is not (Sym=C₃), and the
 failure — I in Out, not a symmetry — IS the hand. V (Jones) names it.
 
-Fresh subject (ladder closed): a torus flow, Lissajous the vessel (x=sin t,
-y=sin(rate·t)). A rotation returns only at rational rate — a count exists (a p/q);
-irrational is dense, no count. The count is a shadow the
-rationals throw: as p/q→α it diverges (2,5,12,…) while ρ converges — the count is
-closure-blind, ρ reads it.
+Fresh subject (on hold): torus flow (Lissajous x=sin t, y=sin(rate·t)).
+Count only at rational rate (p/q); irrational dense, no count; the rationals'
+shadow; closure-blind, ρ reads it.
 
-FINITE SHADOW (new rung): hom(π₁→G) is a count with an aperture. Floor |G| is
-the abelianization's count, every knot's; a knot rises only where its group has a
-non-abelian quotient in G. Hand (trefoil) out at S₃; the no-hand (8) leaves the
-floor mid-way at S₄; the seam (Conway/KT) is on the floor through S₃·S₄, split
-only by GL(3,2), the Fano plane's group (1512·1176). Blindness here is BY
-SCALE (a threshold), not construction/fact. The closed-braid group is an F_n
-quotient via Artin (x_i=ρ(β)x_i), NOT B_n/⟨⟨β⟩⟩.
+FINITE SHADOW: hom(π₁→G) is a count with an aperture. The floor |G| is the
+abelianization's count, every knot's; a knot rises only where its group has a
+non-abelian quotient in G. The aperture — the smallest G with a non-abelian
+image — IS a genuine knot invariant (mirror-invariant: K,mK share π₁), a blindness
+RANK: trefoil S₃(6), no-hand fig-8 S₄(24), seam Conway/KT GL(3,2)(168).
+But it is COARSE: Conway/KT share 168, so the COUNT AT the aperture, not the
+aperture, splits the seam (floor 168: fig-8 11×, Conway 9×, KT 7×; fig-8 alone
+maps into A₄). Blindness BY SCALE, not construction/fact. The closed-braid group
+is an F_n quotient via Artin, NOT B_n/⟨⟨β⟩⟩.
 
 ## Instruments
 
