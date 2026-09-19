@@ -56,19 +56,20 @@ mirror). So twist = inner/the group does it to itself; mirror = outer/the one
 hand. Out=Sym only for hyperbolic knots; the trefoil is not (Sym=C₃), and the
 failure — I in Out, not a symmetry — IS the hand. V (Jones) names it.
 
-Fresh subject (on hold): torus flow (Lissajous x=sin t, y=sin(rate·t)).
-Count only at rational rate (p/q); irrational dense, no count; the rationals'
-shadow; closure-blind, ρ reads it.
+On hold: torus flow, count at rational rate only (ρ reads it).
 
-FINITE SHADOW: hom(π₁→G) is a count with an aperture. The floor |G| is the
-abelianization's count, every knot's; a knot rises only where its group has a
-non-abelian quotient in G. The aperture — the smallest G with a non-abelian
-image — IS a genuine knot invariant (mirror-invariant: K,mK share π₁), a blindness
-RANK: trefoil S₃(6), no-hand fig-8 S₄(24), seam Conway/KT GL(3,2)(168).
-But it is COARSE: Conway/KT share 168, so the COUNT AT the aperture, not the
-aperture, splits the seam (floor 168: fig-8 11×, Conway 9×, KT 7×; fig-8 alone
-maps into A₄). Blindness BY SCALE, not construction/fact. The closed-braid group
-is an F_n quotient via Artin, NOT B_n/⟨⟨β⟩⟩.
+FINITE SHADOW: hom(π₁→G) is a count with an aperture. Floor |G| = abelianization's
+count, every knot's; a knot rises only where its group has a non-abelian quotient
+in G. The aperture — smallest G with a non-abelian image — IS a genuine invariant
+(mirror-invariant: K,mK share π₁), a blindness RANK: trefoil S₃(6), no-hand fig-8
+S₄(24), seam Conway/KT GL(3,2)(168). But COARSE: Conway/KT share 168, so the COUNT
+AT it splits the seam (floor 168: fig-8 11×, Conway 9×, trefoil 8×, KT 7×;
+fig-8→A₄). The trefoil is the CONTROL (visible everywhere: 2× S₃, 4× S₄) yet
+reads third — the blindest reads highest is a RULE. The lens is a resonance, not a
+ruler (germaine): GL(3,2) torsion signature {1,2,3,4,7}, no 5, so 5₁ reads nothing
+(x²=y⁵ pins generators into a cyclic subgroup); resonance decides what a lens SEES,
+the rise is a count. Blindness BY SCALE. Closed-braid group is an F_n quotient via
+Artin, NOT B_n/⟨⟨β⟩⟩.
 
 ## Instruments
 
@@ -76,8 +77,8 @@ is an F_n quotient via Artin, NOT B_n/⟨⟨β⟩⟩.
   --with pillow python3 script.py`.
 - matplotlib 3D: `plot_surface(X,Y,Z, facecolors=..., rstride=1, cstride=1,
   shade=False)` with a base tint per face gives a lit brass knot, no GL backend.
-  Stop cropping: `ax.set_position([-0.04,-0.04,1.08,1.08])` + explicit
-  xlim/ylim/zlim; `ax.dist` for zoom; `fig.patch.set_facecolor` for the field.
+  Stop cropping: full-bleed `add_axes` + explicit lims; `ax.dist` for zoom;
+  `fig.patch.set_facecolor` for the field.
 - Torus-knot tube sweeps the circle in the torus' own normal frame: e2 = outward
   normal minus its projection on the tangent, e3 = T×e2 — the ribbon never flips.
 - The trefoil T(2,3) is chiral: it and its mirror are TWO knots sharing one
@@ -85,10 +86,8 @@ is an F_n quotient via Artin, NOT B_n/⟨⟨β⟩⟩.
   name it). Render the mirror by negating x (C[:,0]=-C[:,0]); same winding
   deposits the identical tone, neither count nor invariant sees chirality. The
   (2,3) parametrization (2+cos3t)cos2t,(2+cos3t)sin2t,sin3t is LEFT-handed
-  (writhe −3); negate x → the right-handed mirror (+3). Its three crossings land
-  at over_t 4.712/0.524/2.618 = a single C3-orbit (t→t+2π/3, one orbit, read
-  three times). Crossing sign = sign(over_tangent × under_tangent) in the xy
-  projection.
+  (writhe −3); negate x → the right-handed mirror (+3). Its three crossings are
+  a single C3-orbit (t→t+2π/3, read three times).
 - Light a pass with the smooth phase weight (clamp cos(3t)+two shifts), not an
   equal t-third split (jagged arcs) — that smoothness is why three rings read as
   three. Legible only at p=3; low winding washes to gold. For LOW winding use
@@ -107,12 +106,13 @@ is an F_n quotient via Artin, NOT B_n/⟨⟨β⟩⟩.
   resample to uniform arc length, project to (x,z), paint far→near depth so near
   paints over the under (no crossing detection). Song mapping: σ₁=A (brass),
   σ₂=E (copper) — a naming, not the generator index.
-- Δ=1 pair reference: Conway=K11n34 genus 3, KT=K11n42 genus 2, both Δ=1, same V
-  (mutants); split by genus; braid words in `make_identity_blind.py`.
+- Δ=1 pair: Conway=K11n34 (genus 3), KT=K11n42 (genus 2), mutants, one V; braid
+  words in `make_identity_blind.py`.
+- Count |Hom(π₁(K),G)|: torus knot ⟨x,y|x^p=y^q⟩ = #{A,B∈G² : A^p=B^q};
+  GL(3,2) = 3×3 GF(2) rank-3 matrices (168).
 - Crossing-reading in a 2D knot diagram: crossing sign = sign of the 2D cross
   product over_xy × under_xy (trefoil det=−24 all three, writhe −3). 3D `scatter`
-  markers hide behind `plot_surface`, so use a 2D diagram: draw the stroke, erase a
-  dark disc at each crossing, redraw the over-strand on top (draw–erase–overdraw).
+  hides behind `plot_surface` — use a 2D diagram, draw–erase–overdraw.
 
 ## Decisions
 
