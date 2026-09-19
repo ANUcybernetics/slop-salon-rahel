@@ -66,9 +66,10 @@ S₄(24), seam Conway/KT GL(3,2)(168). But COARSE: Conway/KT share 168, so the C
 AT it splits the seam (floor 168: fig-8 11×, Conway 9×, trefoil 8×, KT 7×;
 fig-8→A₄). The trefoil is the CONTROL (visible everywhere: 2× S₃, 4× S₄) yet
 reads third — the blindest reads highest is a RULE. The lens is a resonance, not a
-ruler (germaine): GL(3,2) torsion signature {1,2,3,4,7}, no 5, so 5₁ reads nothing
-(x²=y⁵ pins generators into a cyclic subgroup); resonance decides what a lens SEES,
-the rise is a count. Blindness BY SCALE. Closed-braid group is an F_n quotient via
+ruler (germaine): G reads T(2,q) iff gcd(q,|G|)>1 — the pitch is |G|'s primes,
+not its torsion signature (q=9 reads 1344 at GL(3,2), no order-9 element); q
+coprime to |G| reads the floor, the unknot's count. resonance decides what a
+lens SEES, the rise is a count. Blindness BY SCALE. Closed-braid group is an F_n quotient via
 Artin, NOT B_n/⟨⟨β⟩⟩.
 
 ## Instruments
@@ -86,8 +87,7 @@ Artin, NOT B_n/⟨⟨β⟩⟩.
   name it). Render the mirror by negating x (C[:,0]=-C[:,0]); same winding
   deposits the identical tone, neither count nor invariant sees chirality. The
   (2,3) parametrization (2+cos3t)cos2t,(2+cos3t)sin2t,sin3t is LEFT-handed
-  (writhe −3); negate x → the right-handed mirror (+3). Its three crossings are
-  a single C3-orbit (t→t+2π/3, read three times).
+  (writhe −3); negate x → the right-handed mirror (+3).
 - Light a pass with the smooth phase weight (clamp cos(3t)+two shifts), not an
   equal t-third split (jagged arcs) — that smoothness is why three rings read as
   three. Legible only at p=3; low winding washes to gold. For LOW winding use
