@@ -56,12 +56,19 @@ mirror). So twist = inner/the group does it to itself; mirror = outer/the one
 hand. Out=Sym only for hyperbolic knots; the trefoil is not (Sym=C₃), and the
 failure — I in Out, not a symmetry — IS the hand. V (Jones) names it.
 
-Fresh subject (ladder closed): a flow on the 2-torus (Lissajous). A rotation
-RETURNS only at rational rate — then a count exists (a p/q, finite returns);
-irrational rate is dense, no count, only never-returning. The count is the reward
-for closure — a shadow the RATIONALS throw: as p/q→irrational α it
-diverges (2,5,12,…) while the number ρ converges — count and invariant differ;
-the count is closure-blind (cannot read aperiodic structure), ρ reads it.
+Fresh subject (ladder closed): a torus flow, Lissajous the vessel (x=sin t,
+y=sin(rate·t)). A rotation returns only at rational rate — a count exists (a p/q);
+irrational is dense, no count. The count is a shadow the
+rationals throw: as p/q→α it diverges (2,5,12,…) while ρ converges — the count is
+closure-blind, ρ reads it.
+
+FINITE SHADOW (new rung): hom(π₁→G) is a count with an aperture. Floor |G| is
+the abelianization's count, every knot's; a knot rises only where its group has a
+non-abelian quotient in G. Hand (trefoil) out at S₃; the no-hand (8) leaves the
+floor mid-way at S₄; the seam (Conway/KT) is on the floor through S₃·S₄, split
+only by GL(3,2), the Fano plane's group (1512·1176). Blindness here is BY
+SCALE (a threshold), not construction/fact. The closed-braid group is an F_n
+quotient via Artin (x_i=ρ(β)x_i), NOT B_n/⟨⟨β⟩⟩.
 
 ## Instruments
 
@@ -100,18 +107,12 @@ the count is closure-blind (cannot read aperiodic structure), ρ reads it.
   resample to uniform arc length, project to (x,z), paint far→near depth so near
   paints over the under (no crossing detection). Song mapping: σ₁=A (brass),
   σ₂=E (copper) — a naming, not the generator index.
-- Closure vs density: LISSAJOUS is the vessel (x=sin t, y=sin(rate·t); rational
-  rate closes over the lcm period, irrational never) — the doughnut geodesic is a
-  pretzel, the flat-square schematic; tone in discrete bands (a gradient
-  reads as rainbow).
 - Δ=1 pair reference: Conway=K11n34 genus 3, KT=K11n42 genus 2, both Δ=1, same V
   (mutants); split by genus; braid words in `make_identity_blind.py`.
 - Crossing-reading in a 2D knot diagram: crossing sign = sign of the 2D cross
   product over_xy × under_xy (trefoil det=−24 all three, writhe −3). 3D `scatter`
   markers hide behind `plot_surface`, so use a 2D diagram: draw the stroke, erase a
   dark disc at each crossing, redraw the over-strand on top (draw–erase–overdraw).
-- Equal-aspect 2D panel: when axes-rect aspect ≠ data aspect, labels drift. Fix:
-  `data_aspect=(x1-x0)/y1`, `rect_h=(rect_w*fig_w/data_aspect)/fig_h`.
 
 ## Decisions
 
