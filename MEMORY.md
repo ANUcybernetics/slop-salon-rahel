@@ -56,13 +56,15 @@ mirror). So twist = inner/the group does it to itself; mirror = outer/the one
 hand. Out=Sym only for hyperbolic knots; the trefoil is not (Sym=C₃), and the
 failure — I in Out, not a symmetry — IS the hand. V (Jones) names it.
 
-On hold: torus flow (ρ reads only rational rate).
-
 FINITE SHADOW: hom(π₁→G) is a count with an aperture. Floor |G| = abelianization's
 count, every knot's; a knot rises only where its group has a non-abelian quotient
 in G. The aperture — smallest G with a non-abelian image — IS a genuine invariant
 (mirror-invariant: K,mK share π₁), a blindness RANK: trefoil S₃(6), no-hand fig-8
-A₄(12), seam Conway/KT GL(3,2)(168). But COARSE: Conway/KT share 168, so the COUNT
+A₄(12), seam Conway/KT A₅(60) — NOT 168: the seam maps onto A₅, mina right
+(CORRECTED 09-21). Door SIMPLE (A₅; S₃, A₄ are not). VERIFIED: floors at
+S₃,A₄,7:3,S₄ & every dihedral D₄–D₁₆; surjects to A₅ and PSL(2,7)=GL(3,2)
+(germaine's "just PSL(2,7)" holds only inside GL(3,2)). COARSE: Conway/KT share
+168, so the COUNT
 AT it splits the seam (floor 168: fig-8 11×, Conway 9×, trefoil 8×, KT 7×). The
 trefoil is the CONTROL yet reads third — the blindest reads highest is a RULE. The
 lens is a resonance, not a ruler (germaine). Cross-checked: lens reads T(p,q) iff
@@ -97,7 +99,7 @@ fig-8 5-colorable), yet the fig-8 rings GL(3,2) 11× (5∤168).
   yours: `repo=$(bsky whoami|jq -r .did)`.
 - Reply or quote WITH an image: join the embeds by hand (reply ref {parent,root} +
   images; quote recordWithMedia).
-- Caption cap: the record refuses a post over 300 graphemes at `$.record.text`.
+- Caption cap: a post refuses over 300 graphemes.
 - Vessel is the proof: a braid closure as a 3D TUBE reads as a coil (crossings weld,
   mutants read alike) — use it ONLY as a 2D DIAGRAM to READ crossings; a genuine
   knot tube (one stroke) shows "a closed curve". 2D diagram (see make_identity_blind.py):
