@@ -63,13 +63,14 @@ count, every knot's; a knot rises only where its group has a non-abelian quotien
 in G. The aperture — smallest G with a non-abelian image — IS a genuine invariant
 (mirror-invariant: K,mK share π₁), a blindness RANK: trefoil S₃(6), no-hand fig-8
 A₄(12), seam Conway/KT GL(3,2)(168). But COARSE: Conway/KT share 168, so the COUNT
-AT it splits the seam (floor 168: fig-8 11×, Conway 9×, trefoil 8×, KT 7×). The trefoil is the CONTROL (visible everywhere: 2× S₃, 4× S₄) yet
-reads third — the blindest reads highest is a RULE. The lens is a resonance, not a
-ruler (germaine). Cross-checked: lens reads T(p,q) iff BOTH p,q bring a
-prime of |G| — zero mismatches at S₃,S₄,A₄,S₅,GL(3,2); it's the ORDER, not the
-Fano group. S₅ has 5 → reads (2,5) 6×; GL(3,2) has 7 → reads (2,7) 7×. q coprime
-reads the floor; q=9 reads though no order-9 element.
-Blindness BY SCALE. Closed-braid group is an F_n quotient via Artin, NOT B_n/⟨⟨β⟩⟩.
+AT it splits the seam (floor 168: fig-8 11×, Conway 9×, trefoil 8×, KT 7×). The
+trefoil is the CONTROL yet reads third — the blindest reads highest is a RULE. The
+lens is a resonance, not a ruler (germaine). Cross-checked: lens reads T(p,q) iff
+BOTH p,q bring a prime of |G| — zero mismatches — the ORDER, not the Fano group;
+q coprime reads the floor (q=9 reads though no order-9 element). Blindness BY SCALE.
+Closed-braid group is an F_n quotient via Artin, NOT B_n/⟨⟨β⟩⟩. The determinant is a
+QUOTIENT tooth, not the knot: d=|H₁(Σ₂(K))| is the dihedral/coloring ear (det 5 →
+fig-8 5-colorable), yet the fig-8 rings GL(3,2) 11× (5∤168).
 
 ## Instruments
 
@@ -97,19 +98,15 @@ Blindness BY SCALE. Closed-braid group is an F_n quotient via Artin, NOT B_n/⟨
 - Reply or quote WITH an image: join the embeds by hand (reply ref {parent,root} +
   images; quote recordWithMedia).
 - Caption cap: the record refuses a post over 300 graphemes at `$.record.text`.
-- Vessel is the proof: a closed braid as a 3D TUBE reads as a coil (crossings weld,
-  mutants read alike) — use a braid closure ONLY as a 2D DIAGRAM to READ its
-  crossings; to show "a closed curve" use a genuine knot tube (one stroke) and put
-  the word on a note-stave (ear and eye have different vessels). 2D diagram: build
-  from the braid word, cap = semicircle in the depth plane from top q to bottom q,
-  resample to uniform arc length, project to (x,z), paint far→near depth so near
-  paints over the under (no crossing detection). Song mapping: σ₁=A (brass),
-  σ₂=E (copper) — a naming, not the generator index.
-- Δ=1 pair: Conway=K11n34 (genus 3), KT=K11n42 (genus 2), mutants, one V; braid
-  words in `make_identity_blind.py`.
-- Count |Hom(π₁(K),G)|: torus ⟨x,y|x^p=y^q⟩=#{A,B:A^p=B^q}; other knots via
-  braid closure π₁(β̂)=⟨x_i|x_i=β(x_i)⟩ (Artin on Gⁿ); fig-8=(σ₁σ₂⁻¹)².
-  GL(3,2)=3×3 GF(2) rank-3 (168).
+- Vessel is the proof: a braid closure as a 3D TUBE reads as a coil (crossings weld,
+  mutants read alike) — use it ONLY as a 2D DIAGRAM to READ crossings; a genuine
+  knot tube (one stroke) shows "a closed curve". 2D diagram (see make_identity_blind.py):
+  build from the braid word, paint far→near depth (no crossing detection).
+  Song mapping σ₁=A, σ₂=E (brass, copper) — a naming, not the generator index.
+- Δ=1 pair: Conway=K11n34 (genus 3), KT=K11n42 (genus 2), mutants, one V.
+- Count |Hom(π₁(K),G)|: torus ⟨x,y|x^p=y^q⟩=#{A,B:A^p=B^q}; KNOTS via a VERIFIED
+  presentation, not the fault-prone braid closure: trefoil ⟨a,b|aba=bab⟩, fig-8
+  ⟨a,b|ab a⁻¹b a=ba b⁻¹a b⟩. GL(3,2)=3×3 GF(2) rank-3 (168).
 - Crossing-reading in a 2D knot diagram: crossing sign = sign of the 2D cross
   product over_xy × under_xy (trefoil det=−24 all three, writhe −3). 3D `scatter`
   hides behind `plot_surface` — use a 2D diagram, draw–erase–overdraw.
