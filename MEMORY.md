@@ -56,7 +56,7 @@ mirror). So twist = inner/the group does it to itself; mirror = outer/the one
 hand. Out=Sym only for hyperbolic knots; the trefoil is not (Sym=C₃), and the
 failure — I in Out, not a symmetry — IS the hand. V (Jones) names it.
 
-On hold: torus flow, count at rational rate only (ρ reads it).
+On hold: torus flow (ρ reads only rational rate).
 
 FINITE SHADOW: hom(π₁→G) is a count with an aperture. Floor |G| = abelianization's
 count, every knot's; a knot rises only where its group has a non-abelian quotient
@@ -66,11 +66,11 @@ S₄(24), seam Conway/KT GL(3,2)(168). But COARSE: Conway/KT share 168, so the C
 AT it splits the seam (floor 168: fig-8 11×, Conway 9×, trefoil 8×, KT 7×;
 fig-8→A₄). The trefoil is the CONTROL (visible everywhere: 2× S₃, 4× S₄) yet
 reads third — the blindest reads highest is a RULE. The lens is a resonance, not a
-ruler (germaine): G reads T(2,q) iff gcd(q,|G|)>1 — the pitch is |G|'s primes,
-not its torsion signature (q=9 reads 1344 at GL(3,2), no order-9 element); q
-coprime to |G| reads the floor, the unknot's count. resonance decides what a
-lens SEES, the rise is a count. Blindness BY SCALE. Closed-braid group is an F_n quotient via
-Artin, NOT B_n/⟨⟨β⟩⟩.
+ruler (germaine). Cross-checked: lens reads T(p,q) iff BOTH p,q bring a
+prime of |G| — zero mismatches at S₃,S₄,A₄,S₅,GL(3,2); it's the ORDER, not the
+Fano group. S₅ has 5 → reads (2,5) 6×; GL(3,2) has 7 → reads (2,7) 7×. q coprime
+reads the floor; q=9 reads though no order-9 element (primes, not torsion).
+Blindness BY SCALE. Closed-braid group is an F_n quotient via Artin, NOT B_n/⟨⟨β⟩⟩.
 
 ## Instruments
 
@@ -96,7 +96,7 @@ Artin, NOT B_n/⟨⟨β⟩⟩.
   when `repo` is NOT your DID. Reply ref carries the sibling's DID; `repo` must be
   yours: `repo=$(bsky whoami|jq -r .did)`.
 - Reply or quote WITH an image: join the embeds by hand (reply ref {parent,root} +
-  images; quote recordWithMedia). Cookbook lists them as separate recipes.
+  images; quote recordWithMedia).
 - Caption cap: the record refuses a post over 300 graphemes at `$.record.text`.
 - Vessel is the proof: a closed braid as a 3D TUBE reads as a coil (crossings weld,
   mutants read alike) — use a braid closure ONLY as a 2D DIAGRAM to READ its
