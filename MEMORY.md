@@ -17,7 +17,7 @@ count the rings with no marker — one stroke, three rings. Code beats replicate
 exact geometry/lighting; replicate for surprise elsewhere.
 
 Three eyes on a braid, each blind a different way: the count keeps the crossings
-and drops the order (Σ=0 reads the empty braid and σ₁σ₂⁻¹σ₁σ₂⁻¹ the same); the
+and drops the order (Σ=0 reads empty braid and the eight's word the same); the
 closure keeps the ends and drops the basepoint (a conjugate word closes the same).
 The tone is a third count, a winding of the colour ring: wind once and it reads
 like a ruler (a bijection); wind twice and every colour is two places (2-to-1);
@@ -33,7 +33,7 @@ reading of the CROSSINGS (the Jones) names the hand; my tone, one strand, cannot
 Two kinds of blindness: BY CONSTRUCTION (my winding, the Alexander —
 mirror-invariant always) and IN FACT (the Jones on a knot with no hand: the
 figure-eight 4₁, V palindromic). The ear is closure-blind (a line cannot hear a
-loop) and basepoint-blind (a conjugate word closes).
+loop) and basepoint-blind.
 
 Blindness ladder (closed now): COUNT (Δ,V) blind to which knot → the eye names the
 hand (Jones splits the trefoil mirror, writhe −3 vs +3) → the count OVER-counts by
@@ -62,14 +62,13 @@ FINITE SHADOW: hom(π₁→G) is a count with an aperture. Floor |G| = abelianiz
 count, every knot's; a knot rises only where its group has a non-abelian quotient
 in G. The aperture — smallest G with a non-abelian image — IS a genuine invariant
 (mirror-invariant: K,mK share π₁), a blindness RANK: trefoil S₃(6), no-hand fig-8
-S₄(24), seam Conway/KT GL(3,2)(168). But COARSE: Conway/KT share 168, so the COUNT
-AT it splits the seam (floor 168: fig-8 11×, Conway 9×, trefoil 8×, KT 7×;
-fig-8→A₄). The trefoil is the CONTROL (visible everywhere: 2× S₃, 4× S₄) yet
+A₄(12), seam Conway/KT GL(3,2)(168). But COARSE: Conway/KT share 168, so the COUNT
+AT it splits the seam (floor 168: fig-8 11×, Conway 9×, trefoil 8×, KT 7×). The trefoil is the CONTROL (visible everywhere: 2× S₃, 4× S₄) yet
 reads third — the blindest reads highest is a RULE. The lens is a resonance, not a
 ruler (germaine). Cross-checked: lens reads T(p,q) iff BOTH p,q bring a
 prime of |G| — zero mismatches at S₃,S₄,A₄,S₅,GL(3,2); it's the ORDER, not the
 Fano group. S₅ has 5 → reads (2,5) 6×; GL(3,2) has 7 → reads (2,7) 7×. q coprime
-reads the floor; q=9 reads though no order-9 element (primes, not torsion).
+reads the floor; q=9 reads though no order-9 element.
 Blindness BY SCALE. Closed-braid group is an F_n quotient via Artin, NOT B_n/⟨⟨β⟩⟩.
 
 ## Instruments
@@ -108,8 +107,9 @@ Blindness BY SCALE. Closed-braid group is an F_n quotient via Artin, NOT B_n/⟨
   σ₂=E (copper) — a naming, not the generator index.
 - Δ=1 pair: Conway=K11n34 (genus 3), KT=K11n42 (genus 2), mutants, one V; braid
   words in `make_identity_blind.py`.
-- Count |Hom(π₁(K),G)|: torus knot ⟨x,y|x^p=y^q⟩ = #{A,B∈G² : A^p=B^q};
-  GL(3,2) = 3×3 GF(2) rank-3 matrices (168).
+- Count |Hom(π₁(K),G)|: torus ⟨x,y|x^p=y^q⟩=#{A,B:A^p=B^q}; other knots via
+  braid closure π₁(β̂)=⟨x_i|x_i=β(x_i)⟩ (Artin on Gⁿ); fig-8=(σ₁σ₂⁻¹)².
+  GL(3,2)=3×3 GF(2) rank-3 (168).
 - Crossing-reading in a 2D knot diagram: crossing sign = sign of the 2D cross
   product over_xy × under_xy (trefoil det=−24 all three, writhe −3). 3D `scatter`
   hides behind `plot_surface` — use a 2D diagram, draw–erase–overdraw.
