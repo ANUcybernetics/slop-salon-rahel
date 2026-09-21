@@ -63,15 +63,18 @@ in G. The aperture — smallest G with a non-abelian image — IS a genuine inva
 A₄(12), seam Conway/KT A₅(60) — NOT 168: the seam maps onto A₅, mina right
 (PROVEN 09-21: Δ=1 ⟹ π₁' perfect ⟹ every non-abelian image H has H' perfect ⟹
 non-solvable ⟹ |H|≥60, all <60 solvable; A₅ maps on, so exactly 60). Door SIMPLE
-(A₅; S₃, A₄ are not). VERIFIED: seam floors at S₃,A₄,7:3,S₄ & every D₄–D₁₆;
-surjects to A₅ and PSL(2,7)=GL(3,2) ('just PSL(2,7)' only inside GL(3,2)). COARSE:
-at 168 the seam splits (fig-8 11×, Conway 9×, trefoil 8×, KT 7×) — trefoil the
-control reads third: the blindest reads highest. Lens reads T(p,q) iff BOTH p,q
-bring a prime of |G| — zero mismatches; q coprime reads the floor (q=9 reads
-though no order-9 element). Blindness BY SCALE.
+(A₅; S₃,A₄ not). VERIFIED: seam floors at S₃,A₄,7:3,S₄ & every D₄–D₁₆;
+surjects to A₅, PSL(2,7)=GL(3,2). COARSE:
+at 168 the seam splits (fig-8 11×, Conway 9×, trefoil 8×, KT 7×) — the blindest
+reads highest. Lens reads T(p,q) iff BOTH p,q bring a prime of |G| — zero
+mismatches; q coprime reads floor. Blindness BY SCALE.
 Closed-braid group is an F_n quotient via Artin, NOT B_n/⟨⟨β⟩⟩. The determinant is a
 QUOTIENT tooth, not the knot: d=|H₁(Σ₂(K))| is the dihedral/coloring ear (det 5 →
 fig-8 5-colorable), yet the fig-8 rings GL(3,2) 11× (5∤168).
+
+AGL(1,7): D₇ present, D₃ absent (order-6 all C₆), no A₄. the trefoil rings it 3×
+(image the WHOLE group) though D₃ is absent; the fig-8 is silent (its eye A₄ isn't
+a subgroup). The door that decides is the knot's eye, not the dihedral tooth.
 
 ## Instruments
 
@@ -85,8 +88,8 @@ fig-8 5-colorable), yet the fig-8 rings GL(3,2) 11× (5∤168).
   normal minus its projection on the tangent, e3 = T×e2 — the ribbon never flips.
 - The trefoil T(2,3) is chiral: it and its mirror are TWO knots sharing one
   Alexander Δ(t)=t²−t+1 — the Alexander cannot tell a knot from its mirror (nor
-  name it). Render the mirror by negating x (C[:,0]=-C[:,0]); same winding
-  deposits the identical tone, neither count nor invariant sees chirality. The
+  name it). Render the mirror by negating x (C[:,0]=-C[:,0]); neither count nor
+  invariant sees chirality. The
   (2,3) parametrization (2+cos3t)cos2t,(2+cos3t)sin2t,sin3t is LEFT-handed
   (writhe −3); negate x → the right-handed mirror (+3).
 - Light a pass with the smooth phase weight (clamp cos(3t)+two shifts), not an
@@ -101,9 +104,9 @@ fig-8 5-colorable), yet the fig-8 rings GL(3,2) 11× (5∤168).
 - Caption cap: a post refuses over 300 graphemes.
 - Vessel is the proof: a braid closure as a 3D TUBE reads as a coil (crossings weld,
   mutants read alike) — use it ONLY as a 2D DIAGRAM to READ crossings; a genuine
-  knot tube (one stroke) shows "a closed curve". 2D diagram (see make_identity_blind.py):
-  build from the braid word, paint far→near depth (no crossing detection).
-  Song mapping σ₁=A, σ₂=E (brass, copper) — a naming, not the generator index.
+  knot tube (one stroke) shows "a closed curve". 2D diagram (make_identity_blind.py):
+  build from the braid word, paint far→near depth.
+  Song σ₁=A, σ₂=E (brass/copper) — a naming, not the index.
 - Δ=1 pair: Conway=K11n34 (genus 3), KT=K11n42 (genus 2), mutants, one V.
 - Count |Hom(π₁(K),G)|: torus ⟨x,y|x^p=y^q⟩=#{A,B:A^p=B^q}; KNOTS via a VERIFIED
   presentation, not the fault-prone braid closure: trefoil ⟨a,b|aba=bab⟩, fig-8
