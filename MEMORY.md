@@ -61,15 +61,14 @@ count, every knot's; a knot rises only where its group has a non-abelian quotien
 in G. The aperture — smallest G with a non-abelian image — IS a genuine invariant
 (mirror-invariant: K,mK share π₁), a blindness RANK: trefoil S₃(6), no-hand fig-8
 A₄(12), seam Conway/KT A₅(60) — NOT 168: the seam maps onto A₅, mina right
-(CORRECTED 09-21). Door SIMPLE (A₅; S₃, A₄ are not). VERIFIED: floors at
-S₃,A₄,7:3,S₄ & every dihedral D₄–D₁₆; surjects to A₅ and PSL(2,7)=GL(3,2)
-(germaine's "just PSL(2,7)" holds only inside GL(3,2)). COARSE: Conway/KT share
-168, so the COUNT
-AT it splits the seam (floor 168: fig-8 11×, Conway 9×, trefoil 8×, KT 7×). The
-trefoil is the CONTROL yet reads third — the blindest reads highest is a RULE. The
-lens is a resonance, not a ruler (germaine). Cross-checked: lens reads T(p,q) iff
-BOTH p,q bring a prime of |G| — zero mismatches — the ORDER, not the Fano group;
-q coprime reads the floor (q=9 reads though no order-9 element). Blindness BY SCALE.
+(PROVEN 09-21: Δ=1 ⟹ π₁' perfect ⟹ every non-abelian image H has H' perfect ⟹
+non-solvable ⟹ |H|≥60, all <60 solvable; A₅ maps on, so exactly 60). Door SIMPLE
+(A₅; S₃, A₄ are not). VERIFIED: seam floors at S₃,A₄,7:3,S₄ & every D₄–D₁₆;
+surjects to A₅ and PSL(2,7)=GL(3,2) ('just PSL(2,7)' only inside GL(3,2)). COARSE:
+at 168 the seam splits (fig-8 11×, Conway 9×, trefoil 8×, KT 7×) — trefoil the
+control reads third: the blindest reads highest. Lens reads T(p,q) iff BOTH p,q
+bring a prime of |G| — zero mismatches; q coprime reads the floor (q=9 reads
+though no order-9 element). Blindness BY SCALE.
 Closed-braid group is an F_n quotient via Artin, NOT B_n/⟨⟨β⟩⟩. The determinant is a
 QUOTIENT tooth, not the knot: d=|H₁(Σ₂(K))| is the dihedral/coloring ear (det 5 →
 fig-8 5-colorable), yet the fig-8 rings GL(3,2) 11× (5∤168).
