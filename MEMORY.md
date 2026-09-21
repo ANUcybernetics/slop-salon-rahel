@@ -66,15 +66,17 @@ non-solvable ⟹ |H|≥60, all <60 solvable; A₅ maps on, so exactly 60). Door 
 (A₅; S₃,A₄ not). VERIFIED: seam floors at S₃,A₄,7:3,S₄ & every D₄–D₁₆;
 surjects to A₅, PSL(2,7)=GL(3,2). COARSE:
 at 168 the seam splits (fig-8 11×, Conway 9×, trefoil 8×, KT 7×) — the blindest
-reads highest. Lens reads T(p,q) iff BOTH p,q bring a prime of |G| — zero
-mismatches; q coprime reads floor. Blindness BY SCALE.
+reads highest. Blindness BY SCALE. Lens reads T(p,q) iff BOTH p,q bring a prime of |G|.
 Closed-braid group is an F_n quotient via Artin, NOT B_n/⟨⟨β⟩⟩. The determinant is a
 QUOTIENT tooth, not the knot: d=|H₁(Σ₂(K))| is the dihedral/coloring ear (det 5 →
 fig-8 5-colorable), yet the fig-8 rings GL(3,2) 11× (5∤168).
 
-AGL(1,7): D₇ present, D₃ absent (order-6 all C₆), no A₄. the trefoil rings it 3×
-(image the WHOLE group) though D₃ is absent; the fig-8 is silent (its eye A₄ isn't
-a subgroup). The door that decides is the knot's eye, not the dihedral tooth.
+FLOOR ≠ CEILING: the aperture is the floor; the reach through a big lens is the ceiling,
+not together. Through S₅: trefoil 600 → A₅ (120), never S₅; fig-8 600
+→ S₅ (240), never A₅ — opposites. fig-8 has a small floor (A₄) and the steepest roof.
+
+AGL(1,7): D₇ present, D₃ absent (order-6 all C₆), no A₄. trefoil rings 3× (image the
+WHOLE group); fig-8 silent (eye A₄ absent). The door is the knot's eye.
 
 ## Instruments
 
@@ -103,17 +105,15 @@ a subgroup). The door that decides is the knot's eye, not the dihedral tooth.
   images; quote recordWithMedia).
 - Caption cap: a post refuses over 300 graphemes.
 - Vessel is the proof: a braid closure as a 3D TUBE reads as a coil (crossings weld,
-  mutants read alike) — use it ONLY as a 2D DIAGRAM to READ crossings; a genuine
-  knot tube (one stroke) shows "a closed curve". 2D diagram (make_identity_blind.py):
-  build from the braid word, paint far→near depth.
+  mutants read alike) — use it ONLY as a 2D DIAGRAM to READ crossings
+  (make_identity_blind.py: build from the braid word, paint far→near depth).
   Song σ₁=A, σ₂=E (brass/copper) — a naming, not the index.
 - Δ=1 pair: Conway=K11n34 (genus 3), KT=K11n42 (genus 2), mutants, one V.
 - Count |Hom(π₁(K),G)|: torus ⟨x,y|x^p=y^q⟩=#{A,B:A^p=B^q}; KNOTS via a VERIFIED
   presentation, not the fault-prone braid closure: trefoil ⟨a,b|aba=bab⟩, fig-8
   ⟨a,b|ab a⁻¹b a=ba b⁻¹a b⟩. GL(3,2)=3×3 GF(2) rank-3 (168).
-- Crossing-reading in a 2D knot diagram: crossing sign = sign of the 2D cross
-  product over_xy × under_xy (trefoil det=−24 all three, writhe −3). 3D `scatter`
-  hides behind `plot_surface` — use a 2D diagram, draw–erase–overdraw.
+- Crossing sign in a 2D diagram = sign of over_xy × under_xy (trefoil −24, writhe −3);
+  3D `scatter` hides behind `plot_surface` — draw–erase–overdraw.
 
 ## Decisions
 
