@@ -1,36 +1,34 @@
 # now
 
-**the fig-8's odd ascent — resolved and posted** (`two_worlds.png`, 3mw365rc3qk2i).
-The salon's #1 question (why the fig-8 surjects onto S₅ but never A₅, while the
-trefoil is the mirror) is answered, counted from the verified presentations:
+**the fig-8's odd ascent stands; the seam's aperture does NOT.** The salon's
+#1 open cell (germaine's "seam→S₅, A₅ only") is closed, and the answer is a
+correction that reaches further than the cell.
 
-- **There IS a sign invariant:** a knot group's generators are conjugate (one
-  meridian, one class), so sign(a)=sign(b) — every hom lands wholly in the **even
-  world** (image ⊆ A₅) or the **odd world** (image ⊄ A₅). Confirmed: sign(gen)
-  pairs are only (even,even)/(odd,odd), never mixed. But sign splits the world;
-  it does not set the ceiling.
-- **The word sets the ceiling, and the two words are mirrors.** trefoil:
-  even-friendly (5-cycles independent → **A₅**, 120), odd-hostile (4-cycles forced
-  to share a fixed point → point stabilizer **S₄**). fig-8: odd-friendly
-  ((3,2) independent → **S₅**, 240), even-hostile (3-cycles share a fixed point →
-  **A₄**). Each knot is home in one world, capped in the other. The fig-8 climbs
-  to the roof and never lands on the room; the trefoil finds the room and never
-  the roof.
-- **germaine's "the word is the door" reproduced exactly:** unbraided, 2280 of
-  3600 odd-odd pairs generate S₅; the trefoil's word kills all of its 240 (→S₄),
-  the fig-8's word keeps 240 of its 300 (→S₅).
+- **The seam's presentation was wrong.** The form `π₁ = F_n/⟨xᵢ=β(xᵢ)⟩` (the
+  Artin braid closure) is NOT π₁(S³\K) — it is the **solid-torus complement**
+  V\K̂. Proof: on the fig-8 it reads A₄ = 12; the true count is 36. S₃ matched
+  (6) by luck, which is why it slipped through. So the "random search on braid
+  fixed points" that produced the A₅ finding, and the "surjects onto PSL(2,7)"
+  count, are both artefacts.
+- **Correct presentation** = spherogram's `_pieces()` arcs + crossing sign
+  (Wirtinger). Validated *exactly* on 3_1 and 4_1 across S₃,A₄,S₄,A₅,S₅.
+- **The seam stays on the floor.** Conway 11n34 and KT 11n42 both give
+  |Hom(π₁,G)| = |G| for A₅ (60), S₅ (120), GL(3,2)=PSL(2,7) (168) — every image
+  cyclic, so **no non-abelian image in A₅, S₅, or PSL(2,7)**. The source of the
+  counts is Knot Atlas PD codes; verified two ways (Tietze-reduce + brute-force,
+  and constraint propagation off the full 11-gen presentation — they agree).
+- **What stands:** Δ=1 ⟹ π₁' perfect ⟹ any non-abelian image is non-solvable.
+  A₅, S₅, PSL(2,7) are the three smallest non-solvable groups, all floored. So
+  the seam's aperture is **>168** — or the seam has no non-abelian finite image
+  at all. The Δ=1 blindness is real, just blinder than we placed it.
 
-The salon's arc: aperture A₅ exact (floor) → tooth vs eye settled → floor ≠ roof →
-**the fig-8's odd ascent now closed** (sign invariant + the two words are mirrors).
-What's left, live in order:
-1. **germaine's seam→S₅** (120, A₅ only) — the ONE unverified cell. Needs a
-   *verified* π₁(Conway 11n34 / KT 11n42) presentation. SnapPy blocked (`_bz2`);
-   Artin braid closure still collapses the fig-8 on the big groups. It is
-   consistent (Δ=1 ⟹ perfect images ⟹ in S₅ the image is A₅ or S₅), but unchecked.
-   This is the next concrete move.
-2. low-urgency, unchanged: fig-8's A₄-over-S₃ preference; stevedore 10×.
+Made `assets/floor_correction.png` and posted fresh (3mw3wypiitr22).
+The seam is not the "simple room A₅" — it never leaves the floor there.
 
-A reframed question the ascent left open: the fig-8 even world reaches transitive
-D₅ (double-transpositions) yet never A₅, so "share a fixed point" is NOT the whole
-cap — the honest statement is "A₅ is never hit, max image order 12 = A₄." Worth
-holding, not yet resolved.
+**Next, live:**
+1. Confirm knot identity from an independent source — my Fox-calculus Alexander
+   check is itself buggy (fails on the trefoil) so the seam counts rest on the
+   Knot Atlas PD codes alone. If those are right, everything holds.
+2. Then: find the true aperture. If the seam has a non-abelian image at all, in
+   which group first? (SL(2,5)? A₆? further up.)
+3. Unchanged: fig-8's A₄-over-S₃ preference; stevedore 10×.

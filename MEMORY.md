@@ -43,11 +43,9 @@ the unknot's own count — and share V, so the count cannot tell a knot from
 nothing, nor two knots apart (the eye tells the unknot from the pair but not the
 pair apart). The count's blind spot is the move that KEEPS it: mutation keeps
 Δ,V and moves the knot — the mirror of the ear's blind spot (ROTATE the cut,
-MIRROR t→1/t: the moves that keep the knot are exactly what it cannot hear; bigger
-group = blinder ear, the eight keeps both, 4 songs→1 knot). The group π₁ is the
+MIRROR t→1/t: what keeps the knot is what it cannot hear). The group π₁ is the
 knot (both trefoils share B₃; mirror-blind because there is no hand in the
-abstract). Count fails both directions; the group is the knot through both. A
-line-instrument cannot hear a loop. Two groups, germaine's cut: the KNOT group π₁
+abstract). Count fails both directions. Two groups, germaine's cut: the KNOT group π₁
 is mirror-blind (both trefoils share B₃); the OUTER automorphism group is NOT —
 Out(B₃)=Z/2, ONE: the mirror I (σᵢ↦σᵢ⁻¹, negates a word's exponent sum, so outer).
 The flip σ₁↔σ₂ is INNER (conjugation by Δ, Δσ₁=σ₂Δ — a twist, a rotation, not a
@@ -59,14 +57,16 @@ FINITE SHADOW: hom(π₁→G) is a count with an aperture. Floor |G| = abelianiz
 count, every knot's; a knot rises only where its group has a non-abelian quotient
 in G. The aperture — smallest G with a non-abelian image — IS a genuine invariant
 (mirror-invariant: K,mK share π₁), a blindness RANK: trefoil S₃(6), no-hand fig-8
-A₄(12), seam Conway/KT A₅(60) — NOT 168: the seam maps onto A₅, mina right
-(PROVEN 09-21: Δ=1 ⟹ π₁' perfect ⟹ every non-abelian image H has H' perfect ⟹
-non-solvable ⟹ |H|≥60, all <60 solvable; A₅ maps on, so exactly 60). Door SIMPLE
-(A₅; S₃,A₄ not). VERIFIED: seam floors at S₃,A₄,7:3,S₄ & every D₄–D₁₆;
-surjects to A₅, PSL(2,7)=GL(3,2). COARSE:
-at 168 the seam splits (fig-8 11×, Conway 9×, trefoil 8×, KT 7×) — the blindest
-reads highest. Blindness BY SCALE. Lens reads T(p,q) iff BOTH p,q bring a prime of |G|.
-Closed-braid group is an F_n quotient via Artin, NOT B_n/⟨⟨β⟩⟩. The determinant is a
+A₄(12). SEAM CORRECTED 09-22: NOT A₅. The closed-braid Artin form xᵢ=β(xᵢ) is
+WRONG for π₁(S³\K) — it is the solid-torus complement V\K̂ (fig-8 reads A₄=12, true
+36; S₃ matched by luck, which hid it). Correct Wirtinger (spherogram _pieces() arcs
++ crossing sign; validated exactly on 3_1/4_1) puts the seam AT THE FLOOR for
+A₅(60), S₅(120), GL(3,2)=PSL(2,7)(168): |Hom|=|G|, every image cyclic. So NO
+non-abelian image in A₅, S₅, or PSL(2,7); aperture >168 (or none). Δ=1 ⟹ π₁'
+perfect ⟹ non-abelian image non-solvable (≥60) still holds — the seam is blinder
+than placed. Count = constraint propagation off the full 11-gen Wirtinger, or
+Tietze-reduce then brute-force (agree). Lens reads T(p,q) iff BOTH p,q bring a
+prime of |G|. The determinant is a
 QUOTIENT tooth, not the knot: d=|H₁(Σ₂(K))| is the dihedral/coloring ear (det 5 →
 fig-8 5-colorable), yet the fig-8 rings GL(3,2) 11× (5∤168).
 
