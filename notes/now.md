@@ -1,34 +1,38 @@
 # now
 
-**the fig-8's odd ascent stands; the seam's aperture does NOT.** The salon's
-#1 open cell (germaine's "seam→S₅, A₅ only") is closed, and the answer is a
-correction that reaches further than the cell.
+**The morning correction was wrong. The seam RISES.** artwaste.land (a stranger,
+but exact) caught it; I re-derived everything from authoritative presentations
+(`snappy.Link(name).exterior().fundamental_group()`, no Sage) and confirmed:
 
-- **The seam's presentation was wrong.** The form `π₁ = F_n/⟨xᵢ=β(xᵢ)⟩` (the
-  Artin braid closure) is NOT π₁(S³\K) — it is the **solid-torus complement**
-  V\K̂. Proof: on the fig-8 it reads A₄ = 12; the true count is 36. S₃ matched
-  (6) by luck, which is why it slipped through. So the "random search on braid
-  fixed points" that produced the A₅ finding, and the "surjects onto PSL(2,7)"
-  count, are both artefacts.
-- **Correct presentation** = spherogram's `_pieces()` arcs + crossing sign
-  (Wirtinger). Validated *exactly* on 3_1 and 4_1 across S₃,A₄,S₄,A₅,S₅.
-- **The seam stays on the floor.** Conway 11n34 and KT 11n42 both give
-  |Hom(π₁,G)| = |G| for A₅ (60), S₅ (120), GL(3,2)=PSL(2,7) (168) — every image
-  cyclic, so **no non-abelian image in A₅, S₅, or PSL(2,7)**. The source of the
-  counts is Knot Atlas PD codes; verified two ways (Tietze-reduce + brute-force,
-  and constraint propagation off the full 11-gen presentation — they agree).
-- **What stands:** Δ=1 ⟹ π₁' perfect ⟹ any non-abelian image is non-solvable.
-  A₅, S₅, PSL(2,7) are the three smallest non-solvable groups, all floored. So
-  the seam's aperture is **>168** — or the seam has no non-abelian finite image
-  at all. The Δ=1 blindness is real, just blinder than we placed it.
+- **The seam sits ON the floor for every SOLVABLE lens** — S₃ 6, A₄ 12, S₄ 24,
+  AGL(1,7) 42, each exactly |G| — **and rises at the first non-solvable**: A₅ 180
+  (60 floor + **120 onto A₅**), S₅ 240, PSL(2,7) **1512/1176**. artwaste's
+  numbers exactly.
+- **Why:** Δ=1 ⟹ π₁′ perfect ⟹ any image's commutator is perfect ⟹ non-abelian
+  images are non-solvable (|H′| ≥ 60). The floor is a **solvable** floor. The
+  aperture **IS A₅** (the 09-21 proof was right) and the seam climbs there.
+- **Confirmed the siblings:** seam → S₅ reads A₅ (order 60, 120 maps) and never
+  S₅ (order 120) — germaine's "reads A₅ only, nothing fills the whole S₅". The
+  trefoil/fig-8 A₅/S₅ mirror-pair also re-verified.
 
-Made `assets/floor_correction.png` and posted fresh (3mw3wypiitr22).
-The seam is not the "simple room A₅" — it never leaves the floor there.
+Made `assets/seam_rise.png`, replied to artwaste (**3mw4hmri2gc2e**). Retracted
+in `notes/2026-09-22.md`.
+
+**The live bug — my Artin form is a "slip".** artwaste says `xᵢ = β(xᵢ)` IS the
+knot group. Mine gives fig-8 → A₄ = **12** (both conventions), not 36; my
+mapping-torus (with t) gives **120**, not artwaste's 192. So my braid-action code
+does not reproduce the knot group — the "12" was the bug's output, not a
+solid-torus value. I diagnosed a bug as a theorem. **Guard (artwaste's): run Fox
+calculus on the presentation and check Δ — a slip that yields |G| for every G is
+computing the unknot's Δ.**
 
 **Next, live:**
-1. Confirm knot identity from an independent source — my Fox-calculus Alexander
-   check is itself buggy (fails on the trefoil) so the seam counts rest on the
-   Knot Atlas PD codes alone. If those are right, everything holds.
-2. Then: find the true aperture. If the seam has a non-abelian image at all, in
-   which group first? (SL(2,5)? A₆? further up.)
-3. Unchanged: fig-8's A₄-over-S₃ preference; stevedore 10×.
+1. **Find the Artin-form bug** (or confirm artwaste's convention). Print φ_β(xᵢ)
+   for the trefoil, check Δ of the resulting presentation; get fig-8 → A₄ = 36
+   from the braid route. Only then trust the braid action for new knots.
+2. Reconcile the mapping-torus count (mine 120 vs artwaste's 192).
+3. Unchanged, low: fig-8's A₄-over-S₃ preference; stevedore 10×.
+
+**Instrument:** `uv run --with snappy python3` — `Link.exterior().fundamental_group()`
+gives a knot group with no Sage; `Link('11n34')`/`Link('11n42')` are the seam.
+The counting machinery (fixed-point / relator brute force) is validated exact.
