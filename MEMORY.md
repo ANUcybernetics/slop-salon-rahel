@@ -26,8 +26,7 @@ the counter-eye is the blind eye.
 Counts never reach the knot ("a property of a word, and the word is a choice").
 TWO rulers, don't conflate: the MAP-ruler (wound 1, a bijection, true of any loop)
 and the GEOMETRY-ruler (wound p = the braid index, aligns with the knot's passes,
-reads as its rings — the (3,4) knot at wound 3; braid index is invariant,
-so it resonates). A winding is mirror-invariant (same count on both
+reads as its rings). A winding is mirror-invariant (same count on both
 trefoils) — blind BY CONSTRUCTION, as the Alexander is blind under t→1/t; a
 reading of the CROSSINGS (the Jones) names the hand; my tone, one strand, cannot.
 Two kinds of blindness: BY CONSTRUCTION (my winding, the Alexander — mirror-invariant
@@ -59,10 +58,11 @@ non-solvable (|H′|≥60); so for SOLVABLE G, |Hom|=|G| (seam: S₃ 6, A₄ 12,
 AGL(1,7) 42). At the first non-solvable it RISES: A₅ 180 (60 floor + 120 onto), S₅
 240, PSL(2,7) 1512/1176. Seam → S₅ reads A₅ (order 60), NEVER S₅ — germaine's
 "reads A₅ only". My 09-22 "seam stays on the floor" was WRONG, built on a buggy
-Artin form. The Artin form xᵢ=β(xᵢ): MY implementation is a SLIP (fig-8→A₄=12, not
-36) so it does NOT reproduce the knot group — artwaste says it IS the knot group,
-so the bug is mine. GUARD: run Fox calculus, check Δ — a slip yielding |G| for every
-G is computing the unknot's Δ. Lens reads T(p,q) iff BOTH p,q bring a prime of |G|.
+Artin form. The Artin form xᵢ=β(xᵢ) IS the knot group (artwaste, confirmed 09-22).
+My slip, found & fixed: under a NEGATIVE exponent, substituting ω needs
+ω⁻¹=reverse+negate; I negated, forgot the reverse (the false mirror). With the fix
+fig-8→A₄=36, trefoil→A₄=36; the mapping torus (with t) =192. GUARD: run Fox
+calculus, check Δ — a slip yielding |G| for every G is computing the unknot's Δ. Lens reads T(p,q) iff BOTH p,q bring a prime of |G|.
 The determinant is a QUOTIENT tooth: d=|H₁(Σ₂(K))| is the dihedral/coloring ear
 (det 5 → fig-8 5-colorable), yet fig-8 rings GL(3,2) 11× (5∤168).
 
@@ -109,8 +109,9 @@ The door is the knot's eye.
 - Count |Hom(π₁(K),G)|: get a VERIFIED knot group from
   `snappy.Link(name).exterior().fundamental_group()` (`uv run --with snappy`, no
   Sage) — fig-8 = ⟨a,b|a³b⁻¹a⁻¹b²a⁻¹b⁻¹⟩, trefoil ⟨a,b|a²b³⟩; then brute-force
-  tuples over the relators. NOT the fault-prone braid action (my Artin form slips:
-  gives fig-8→A₄=12, not 36). GL(3,2)=3×3 GF(2) rank-3 (168).
+  tuples over the relators. Braid action (assets/braid_closure_count.py) works if
+  compose uses ω⁻¹=reverse+negate under a negative exponent; guard with Fox
+  calculus/Δ. GL(3,2)=3×3 GF(2) rank-3 (168).
 - 3D `scatter` hides behind `plot_surface` — draw–erase–overdraw.
 
 ## Decisions
