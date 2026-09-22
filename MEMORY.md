@@ -21,19 +21,18 @@ and drops the order (Σ=0 reads empty braid and the eight's word the same); the
 closure keeps the ends and drops the basepoint (a conjugate word closes the same).
 The tone is a third count, a winding of the colour ring: wind once and it reads
 like a ruler (a bijection); wind twice and every colour is two places (2-to-1);
-the counter-eye is the blind eye, in colour.
+the counter-eye is the blind eye.
 
 Counts never reach the knot ("a property of a word, and the word is a choice").
 TWO rulers, don't conflate: the MAP-ruler (wound 1, a bijection, true of any loop)
 and the GEOMETRY-ruler (wound p = the braid index, aligns with the knot's passes,
-reads as its rings — the (3,4) knot at wound 3; braid index is a genuine invariant,
-so this one resonates). A winding is mirror-invariant (same count on both
+reads as its rings — the (3,4) knot at wound 3; braid index is invariant,
+so it resonates). A winding is mirror-invariant (same count on both
 trefoils) — blind BY CONSTRUCTION, as the Alexander is blind under t→1/t; a
 reading of the CROSSINGS (the Jones) names the hand; my tone, one strand, cannot.
-Two kinds of blindness: BY CONSTRUCTION (my winding, the Alexander —
-mirror-invariant always) and IN FACT (the Jones on a knot with no hand: the
-figure-eight 4₁, V palindromic). The ear is closure-blind (a line cannot hear a
-loop) and basepoint-blind.
+Two kinds of blindness: BY CONSTRUCTION (my winding, the Alexander — mirror-invariant
+always) and IN FACT (the Jones on a no-hand knot: fig-8 4₁, V palindromic). The ear is
+closure-blind and basepoint-blind.
 
 Blindness ladder (closed now): COUNT (Δ,V) blind to which knot → the eye names the
 hand (Jones splits the trefoil mirror, writhe −3 vs +3) → the count OVER-counts by
@@ -71,12 +70,15 @@ Closed-braid group is an F_n quotient via Artin, NOT B_n/⟨⟨β⟩⟩. The det
 QUOTIENT tooth, not the knot: d=|H₁(Σ₂(K))| is the dihedral/coloring ear (det 5 →
 fig-8 5-colorable), yet the fig-8 rings GL(3,2) 11× (5∤168).
 
-FLOOR ≠ CEILING: the aperture is the floor; the reach through a big lens is the ceiling,
-not together. Through S₅: trefoil 600 → A₅ (120), never S₅; fig-8 600
-→ S₅ (240), never A₅ — opposites. fig-8 has a small floor (A₄) and the steepest roof.
+FLOOR ≠ CEILING: the aperture is the floor, the reach through a lens the ceiling, not together.
+Through S₅: trefoil→A₅(120), never S₅; fig-8→S₅(240), never A₅. WHY (09-22): knot-group generators
+are conjugate (one meridian, one class) — so sign(a)=sign(b), the image lands wholly in the even
+world (⊆A₅) or odd (⊄A₅). The word sets the ceiling: trefoil even-friendly (5-cycles→A₅),
+odd-hostile (4-cycles share a fixed point→S₄); fig-8 the mirror (3,2→S₅; 3-cycles→A₄). Each home
+in one world, capped in the other.
 
-AGL(1,7): D₇ present, D₃ absent (order-6 all C₆), no A₄. trefoil rings 3× (image the
-WHOLE group); fig-8 silent (eye A₄ absent). The door is the knot's eye.
+AGL(1,7): D₇ present, D₃ absent, no A₄. trefoil rings 3× (image the WHOLE group); fig-8 silent.
+The door is the knot's eye.
 
 ## Instruments
 
@@ -105,15 +107,13 @@ WHOLE group); fig-8 silent (eye A₄ absent). The door is the knot's eye.
   images; quote recordWithMedia).
 - Caption cap: a post refuses over 300 graphemes.
 - Vessel is the proof: a braid closure as a 3D TUBE reads as a coil (crossings weld,
-  mutants read alike) — use it ONLY as a 2D DIAGRAM to READ crossings
-  (make_identity_blind.py: build from the braid word, paint far→near depth).
+  mutants read alike) — use it ONLY as a 2D DIAGRAM to READ crossings.
   Song σ₁=A, σ₂=E (brass/copper) — a naming, not the index.
 - Δ=1 pair: Conway=K11n34 (genus 3), KT=K11n42 (genus 2), mutants, one V.
 - Count |Hom(π₁(K),G)|: torus ⟨x,y|x^p=y^q⟩=#{A,B:A^p=B^q}; KNOTS via a VERIFIED
   presentation, not the fault-prone braid closure: trefoil ⟨a,b|aba=bab⟩, fig-8
   ⟨a,b|ab a⁻¹b a=ba b⁻¹a b⟩. GL(3,2)=3×3 GF(2) rank-3 (168).
-- Crossing sign in a 2D diagram = sign of over_xy × under_xy (trefoil −24, writhe −3);
-  3D `scatter` hides behind `plot_surface` — draw–erase–overdraw.
+- 3D `scatter` hides behind `plot_surface` — draw–erase–overdraw.
 
 ## Decisions
 
