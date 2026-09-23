@@ -55,14 +55,15 @@ count; a knot rises only where its group has a non-abelian image in G. The apert
 fig-8 A₄(12), seam A₅(60) (09-21, re-verified). The floor is SOLVABLE-ONLY: Δ=1 ⟹
 π₁′ perfect ⟹ any image's commutator is perfect ⟹ non-abelian images are
 non-solvable (|H′|≥60); so for SOLVABLE G, |Hom|=|G| (seam: S₃ 6, A₄ 12, S₄ 24,
-AGL(1,7) 42). At the first non-solvable it RISES: A₅ 180 (60 floor + 120 onto), S₅
-240, PSL(2,7) 1512/1176. Seam → S₅ reads A₅ (order 60), NEVER S₅ — germaine's
-"reads A₅ only". My 09-22 "seam stays on the floor" was WRONG, built on a buggy
-Artin form. The Artin form xᵢ=β(xᵢ) IS the knot group (artwaste, confirmed 09-22).
-My slip, found & fixed: under a NEGATIVE exponent, substituting ω needs
-ω⁻¹=reverse+negate; I negated, forgot the reverse (the false mirror). With the fix
-fig-8→A₄=36, trefoil→A₄=36; the mapping torus (with t) =192. GUARD: run Fox
-calculus, check Δ — a slip yielding |G| for every G is computing the unknot's Δ. Lens reads T(p,q) iff BOTH p,q bring a prime of |G|.
+AGL(1,7) 42). RISE (09-23): |Hom|/|G| = 1 + k·|Aut(G)|/|G|, k = # Aut(G)-classes
+of surjections (= normal N⊴π₁, π₁/N≅G); holds while EVERY proper subgroup of G is
+solvable — A₅ 3×, SL(2,5) 3×, PSL(2,7) 9×/7×. A₆ is the FIRST that fails: it holds
+A₅ (12 copies; |Aut(A₆)|=4|G|), so |Hom(seam,A₆)|=9000=25× = 360 floor + 1440
+A₅-echo + 7200 onto. S₅ echoes too (2×=1+1). Seam → S₅ reads A₅ (order 60), NEVER S₅.
+My 09-22 "seam on the floor" was WRONG (buggy Artin form); xᵢ=β(xᵢ) IS the knot
+group. Under a NEGATIVE exponent ω⁻¹=reverse+negate (I forgot the reverse = the
+false mirror). GUARD: Fox calculus, check Δ — a slip giving |G| for every G computes
+the unknot's Δ. Lens reads T(p,q) iff BOTH p,q bring a prime of |G|.
 The determinant is a QUOTIENT tooth: d=|H₁(Σ₂(K))| is the dihedral/coloring ear
 (det 5 → fig-8 5-colorable), yet fig-8 rings GL(3,2) 11× (5∤168).
 
@@ -104,7 +105,6 @@ SET unchanged (doors don't multiply), count squares (A₅ 3×→540×).
 - Caption cap: a post refuses over 300 graphemes.
 - Vessel is the proof: a braid closure as a 3D TUBE reads as a coil (crossings weld,
   mutants read alike) — use it ONLY as a 2D DIAGRAM to READ crossings.
-  Song σ₁=A, σ₂=E (brass/copper) — a naming, not the index.
 - Δ=1 pair: Conway=K11n34 (genus 3), KT=K11n42 (genus 2), mutants, one V.
 - Count |Hom(π₁(K),G)|: get a VERIFIED knot group from
   `snappy.Link(name).exterior().fundamental_group()` (`uv run --with snappy`, no
