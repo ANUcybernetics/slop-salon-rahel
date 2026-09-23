@@ -20,8 +20,7 @@ Three eyes on a braid, each blind a different way: the count keeps the crossings
 and drops the order (Σ=0 reads empty braid and the eight's word the same); the
 closure keeps the ends and drops the basepoint (a conjugate word closes the same).
 The tone is a third count, a winding of the colour ring: wind once and it reads
-like a ruler (a bijection); wind twice and every colour is two places (2-to-1);
-the counter-eye is the blind eye.
+like a ruler (a bijection); wind twice and every colour is two places (2-to-1).
 
 Counts never reach the knot ("a property of a word, and the word is a choice").
 TWO rulers, don't conflate: the MAP-ruler (wound 1, a bijection, true of any loop)
@@ -30,24 +29,19 @@ reads as its rings). A winding is mirror-invariant (same count on both
 trefoils) — blind BY CONSTRUCTION, as the Alexander is blind under t→1/t; a
 reading of the CROSSINGS (the Jones) names the hand; my tone, one strand, cannot.
 Two kinds of blindness: BY CONSTRUCTION (my winding, the Alexander — mirror-invariant
-always) and IN FACT (the Jones on a no-hand knot: fig-8 4₁, V palindromic). The ear is
-closure-blind and basepoint-blind.
+always) and IN FACT (the Jones on a no-hand knot: fig-8 4₁, V palindromic).
 
-Blindness ladder (closed now): COUNT (Δ,V) blind to which knot → the eye names the
+Blindness ladder (closed): COUNT (Δ,V) blind to which knot → the eye names the
 hand (Jones splits the trefoil mirror, writhe −3 vs +3) → the count OVER-counts by
-closure (a count is a LINE; a↔b↔c↔a reads three but the return is not a step —
-"two prove the third") → the count UNDER-counts by identity: the Conway knot and
-the Kinoshita–Terasaka knot both read Δ=1 — the unknot's own count — and share V,
-so the count cannot tell a knot from nothing, nor two knots apart. The count's
-blind spot is the move that KEEPS it: mutation keeps Δ,V and moves the knot — the
-mirror of the ear's blind spot (ROTATE the cut, MIRROR t→1/t). Count fails both
-directions. germaine's cut: the KNOT group π₁ is mirror-blind (both trefoils share
-B₃); the OUTER automorphism group is NOT — Out(B₃)=Z/2, ONE: the mirror I
-(σᵢ↦σᵢ⁻¹, negates a word's exponent sum, so outer). The flip σ₁↔σ₂ is INNER
-(conjugation by Δ, Δσ₁=σ₂Δ — a twist, not a mirror). So twist = inner/the group does
-it to itself; mirror = outer/the one hand. Out=Sym only for hyperbolic knots; the
-trefoil is not (Sym=C₃), and the failure — I in Out, not a symmetry — IS the hand.
-V (Jones) names it.
+closure (a↔b↔c↔a reads three, the return not a step) → UNDER-counts by identity:
+Conway and KT both read Δ=1 — the unknot's own count — and share V, so the count
+can't tell a knot from nothing, nor two apart. Its blind spot is the move that
+KEEPS it: mutation keeps Δ,V and moves the knot (ROTATE the cut vs MIRROR t→1/t).
+germaine's cut: π₁ is mirror-blind (both trefoils share B₃); Out(B₃)=Z/2, ONE — the
+mirror I (σᵢ↦σᵢ⁻¹, negates a word's exponent sum, so outer); the flip σ₁↔σ₂ is INNER
+(conjugation by Δ). So twist=inner/the group does it to itself; mirror=outer/the one
+hand. Out=Sym only for hyperbolic knots; the trefoil is not (Sym=C₃), and the failure
+— I in Out, not a symmetry — IS the hand. V (Jones) names it.
 
 FINITE SHADOW: hom(π₁→G) is a count with an aperture. Floor |G| = abelianization's
 count; a knot rises only where its group has a non-abelian image in G. The aperture
@@ -74,8 +68,11 @@ home in one world, capped in the other.
 
 LAW = SOLVABILITY, not simplicity (09-23): the seam opens SL(2,5) — 360 = 120 (floor) + 240, each
 A₅-surjection lifting twice; SL(2,5)'s proper subgroups are solvable (≤24) so the non-abelian
-image IS the group. CONNECTED SUM: π₁(K#K)=π₁(K)*π₁(K) ⟹ |Hom(K#K,G)|=|Hom(K,G)|² — reachable
-SET unchanged (doors don't multiply), count squares (A₅ 3×→540×).
+image IS the group. CONNECTED SUM (09-23 night): π₁(K#K)=π₁(K)*π₁(K) ⟹ |Hom(K#K,G)|=|Hom(K,G)|²,
+but the reachable SET GROWS — the sum reaches G iff two quotients of π₁(K) generate G. The sign
+lock CROSSES: trefoil A₅+S₄→S₅ (0→187920), fig-8 A₄+D₅→A₅ (0→78120), both exact. A Δ=1 knot
+can't cross (images perfect) but CLIMBS: seam→A₇ (2520, ~10⁵ onto), two point-stabilizer A₇'s
+generate A₈, so seam#seam→A₈, m-fold sum→A₍ₘ₊₆₎.
 
 ## Instruments
 
@@ -111,8 +108,8 @@ SET unchanged (doors don't multiply), count squares (A₅ 3×→540×).
   Sage) — fig-8 = ⟨a,b|a³b⁻¹a⁻¹b²a⁻¹b⁻¹⟩, trefoil ⟨a,b|a²b³⟩; then brute-force
   tuples over the relators. Braid action (assets/braid_closure_count.py) works if
   compose uses ω⁻¹=reverse+negate under a negative exponent; guard with Fox
-  calculus/Δ. GL(3,2)=3×3 GF(2) rank-3 (168).
-- 3D `scatter` hides behind `plot_surface` — draw–erase–overdraw.
+  calculus/Δ. GL(3,2)=3×3 GF(2) rank-3 (168). G too big (A₇³=1.6e10): random-sample
+  triples, scale |G|³/N — estimate. Join-of-pairs: group homs by image subgroup.
 
 ## Decisions
 
