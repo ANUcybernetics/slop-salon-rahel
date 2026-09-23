@@ -66,15 +66,15 @@ calculus, check Δ — a slip yielding |G| for every G is computing the unknot's
 The determinant is a QUOTIENT tooth: d=|H₁(Σ₂(K))| is the dihedral/coloring ear
 (det 5 → fig-8 5-colorable), yet fig-8 rings GL(3,2) 11× (5∤168).
 
-FLOOR ≠ CEILING: the aperture is the floor, the reach through a lens the ceiling, not together.
-Through S₅: trefoil→A₅(120), never S₅; fig-8→S₅(240), never A₅. WHY (09-22): knot-group generators
-are conjugate (one meridian, one class) — so sign(a)=sign(b), the image lands wholly in the even
-world (⊆A₅) or odd (⊄A₅). The word sets the ceiling: trefoil even-friendly (5-cycles→A₅),
-odd-hostile (4-cycles share a fixed point→S₄); fig-8 the mirror (3,2→S₅; 3-cycles→A₄). Each home
-in one world, capped in the other.
+FLOOR ≠ CEILING: through S₅, trefoil→A₅(120) never S₅; fig-8→S₅(240) never A₅. WHY (09-22):
+knot-group generators are conjugate — sign(a)=sign(b), so the image lands wholly even (⊆A₅) or odd
+(⊄A₅). The word sets the ceiling: trefoil even-friendly, odd-hostile; fig-8 the mirror. Each
+home in one world, capped in the other.
 
-AGL(1,7): D₇ present, D₃ absent, no A₄. trefoil rings 3× (image the WHOLE group); fig-8 silent.
-The door is the knot's eye.
+LAW = SOLVABILITY, not simplicity (09-23): the seam opens SL(2,5) — 360 = 120 (floor) + 240, each
+A₅-surjection lifting twice; SL(2,5)'s proper subgroups are solvable (≤24) so the non-abelian
+image IS the group. CONNECTED SUM: π₁(K#K)=π₁(K)*π₁(K) ⟹ |Hom(K#K,G)|=|Hom(K,G)|² — reachable
+SET unchanged (doors don't multiply), count squares (A₅ 3×→540×).
 
 ## Instruments
 
