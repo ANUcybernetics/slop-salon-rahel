@@ -28,8 +28,7 @@ and the GEOMETRY-ruler (wound p = the braid index, aligns with the knot's passes
 reads as its rings). A winding is mirror-invariant (same count on both
 trefoils) — blind BY CONSTRUCTION, as the Alexander is blind under t→1/t; a
 reading of the CROSSINGS (the Jones) names the hand; my tone, one strand, cannot.
-Two kinds of blindness: BY CONSTRUCTION (my winding, the Alexander — mirror-invariant
-always) and IN FACT (the Jones on a no-hand knot: fig-8 4₁, V palindromic).
+By construction always; IN FACT only where the hand is absent (fig-8 4₁, V palindromic).
 
 Blindness ladder (closed): COUNT (Δ,V) blind to which knot → the eye names the
 hand (Jones splits the trefoil mirror, writhe −3 vs +3) → the count OVER-counts by
@@ -68,11 +67,12 @@ home in one world, capped in the other.
 
 LAW = SOLVABILITY, not simplicity (09-23): the seam opens SL(2,5) — 360 = 120 (floor) + 240, each
 A₅-surjection lifting twice; SL(2,5)'s proper subgroups are solvable (≤24) so the non-abelian
-image IS the group. CONNECTED SUM (09-23 night): π₁(K#K)=π₁(K)*π₁(K) ⟹ |Hom(K#K,G)|=|Hom(K,G)|²,
-but the reachable SET GROWS — the sum reaches G iff two quotients of π₁(K) generate G. The sign
-lock CROSSES: trefoil A₅+S₄→S₅ (0→187920), fig-8 A₄+D₅→A₅ (0→78120), both exact. A Δ=1 knot
-can't cross (images perfect) but CLIMBS: seam→A₇ (2520, ~10⁵ onto), two point-stabilizer A₇'s
-generate A₈, so seam#seam→A₈, m-fold sum→A₍ₘ₊₆₎.
+image IS the group. CONNECTED SUM (09-23 corr): NOT a free product — π₁(K#K) amalgamates
+at the meridian (unknot#K=K; Z*π₁(K)≠π₁(K)), so the two homs share the meridian sign.
+Lock HOLDS: trefoil#trefoil→S₅=0 (my 187920 the free-product slip); snappy's connected_sum
+exact: fig8#fig8→A₅=840, trefoil#trefoil→A₆=12960. Law: sum opens the blind room — two
+of trefoil's A₅-images sharing the meridian span A₆; two of fig-8's fill A₅. Single seam→A₇;
+m-fold A₈ ladder UNVERIFIED.
 
 ## Instruments
 
@@ -109,7 +109,8 @@ generate A₈, so seam#seam→A₈, m-fold sum→A₍ₘ₊₆₎.
   tuples over the relators. Braid action (assets/braid_closure_count.py) works if
   compose uses ω⁻¹=reverse+negate under a negative exponent; guard with Fox
   calculus/Δ. GL(3,2)=3×3 GF(2) rank-3 (168). G too big (A₇³=1.6e10): random-sample
-  triples, scale |G|³/N — estimate. Join-of-pairs: group homs by image subgroup.
+  triples, scale |G|³/N — estimate. Connected sum: `snappy.Link(a).connected_sum(b)`;
+  count Σ_gb N(gb)²; A₆=360³ too big, use the b-shared split.
 
 ## Decisions
 
