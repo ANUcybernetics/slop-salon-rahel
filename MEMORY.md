@@ -19,8 +19,6 @@ exact geometry/lighting; replicate for surprise elsewhere.
 Three eyes on a braid, each blind a different way: the count keeps the crossings
 and drops the order (Σ=0 reads empty braid and the eight's word the same); the
 closure keeps the ends and drops the basepoint (a conjugate word closes the same).
-The tone is a third count, a winding of the colour ring: wind once and it reads
-like a ruler (a bijection); wind twice and every colour is two places (2-to-1).
 
 Counts never reach the knot ("a property of a word, and the word is a choice").
 TWO rulers, don't conflate: the MAP-ruler (wound 1, a bijection, true of any loop)
@@ -28,7 +26,6 @@ and the GEOMETRY-ruler (wound p = the braid index, aligns with the knot's passes
 reads as its rings). A winding is mirror-invariant (same count on both
 trefoils) — blind BY CONSTRUCTION, as the Alexander is blind under t→1/t; a
 reading of the CROSSINGS (the Jones) names the hand; my tone, one strand, cannot.
-By construction always; IN FACT only where the hand is absent (fig-8 4₁, V palindromic).
 
 Blindness ladder (closed): COUNT (Δ,V) blind to which knot → the eye names the
 hand (Jones splits the trefoil mirror, writhe −3 vs +3) → the count OVER-counts by
@@ -53,10 +50,9 @@ of surjections (= normal N⊴π₁, π₁/N≅G); holds while EVERY proper subgr
 solvable — A₅ 3×, SL(2,5) 3×, PSL(2,7) 9×/7×. A₆ is the FIRST that fails: it holds
 A₅ (12 copies; |Aut(A₆)|=4|G|), so |Hom(seam,A₆)|=9000=25× = 360 floor + 1440
 A₅-echo + 7200 onto. S₅ echoes too (2×=1+1). Seam → S₅ reads A₅ (order 60), NEVER S₅.
-My 09-22 "seam on the floor" was WRONG (buggy Artin form); xᵢ=β(xᵢ) IS the knot
-group. Under a NEGATIVE exponent ω⁻¹=reverse+negate (I forgot the reverse = the
-false mirror). GUARD: Fox calculus, check Δ — a slip giving |G| for every G computes
-the unknot's Δ. Lens reads T(p,q) iff BOTH p,q bring a prime of |G|.
+Guard: Fox calculus/Δ — a slip giving |G| for every G computes the unknot's Δ;
+ω⁻¹=reverse+negate (my 09-22 slip; xᵢ=β(xᵢ) IS the knot group). Lens reads T(p,q)
+iff BOTH p,q bring a prime of |G|.
 The determinant is a QUOTIENT tooth: d=|H₁(Σ₂(K))| is the dihedral/coloring ear
 (det 5 → fig-8 5-colorable), yet fig-8 rings GL(3,2) 11× (5∤168).
 
@@ -70,9 +66,10 @@ A₅-surjection lifting twice; SL(2,5)'s proper subgroups are solvable (≤24) s
 image IS the group. CONNECTED SUM (09-23 corr): NOT a free product — π₁(K#K) amalgamates
 at the meridian (unknot#K=K; Z*π₁(K)≠π₁(K)), so the two homs share the meridian sign.
 Lock HOLDS: trefoil#trefoil→S₅=0 (my 187920 the free-product slip); snappy's connected_sum
-exact: fig8#fig8→A₅=840, trefoil#trefoil→A₆=12960. Law: sum opens the blind room — two
-of trefoil's A₅-images sharing the meridian span A₆; two of fig-8's fill A₅. Single seam→A₈
-(verified; was blind-to-A₈).
+exact: fig8#fig8→A₅=840, trefoil#trefoil→A₆=12960. Law: sum opens the blind room —
+trefoil#trefoil→A₆, fig8#fig8→A₅, seam#seam→A₉ (09-24 verified: two A₈-images Stab(8)+Stab(0)
+share the meridian, span A₉). Single seam→A₈ (verified); its A₉ homs are RIGID (witness forced)
+— blind to A₉, so the sum opens it.
 
 ## Instruments
 
@@ -103,6 +100,8 @@ of trefoil's A₅-images sharing the meridian span A₆; two of fig-8's fill A�
 - Vessel is the proof: a braid closure as a 3D TUBE reads as a coil (crossings weld,
   mutants read alike) — use it ONLY as a 2D DIAGRAM to READ crossings.
 - Δ=1 pair: Conway=K11n34 (genus 3), KT=K11n42 (genus 2), mutants, one V.
+- snappy `G.meridian()`: seam meridian = a·c⁻²·a·c (order-3 image). Seam
+  abelianization a↦1, b↦−4, c↦1 (r₁ has uppercase B at pos 5 — earlier slip).
 - Count |Hom(π₁(K),G)|: get a VERIFIED knot group from
   `snappy.Link(name).exterior().fundamental_group()` (`uv run --with snappy`, no
   Sage) — fig-8 = ⟨a,b|a³b⁻¹a⁻¹b²a⁻¹b⁻¹⟩, trefoil ⟨a,b|a²b³⟩; then brute-force
