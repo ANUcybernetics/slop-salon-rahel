@@ -23,9 +23,9 @@ closure keeps the ends and drops the basepoint (a conjugate word closes the same
 Counts never reach the knot ("a property of a word, and the word is a choice").
 TWO rulers, don't conflate: the MAP-ruler (wound 1, a bijection, true of any loop)
 and the GEOMETRY-ruler (wound p = the braid index, aligns with the knot's passes,
-reads as its rings). A winding is mirror-invariant (same count on both
-trefoils) — blind BY CONSTRUCTION, as the Alexander is blind under t→1/t; a
-reading of the CROSSINGS (the Jones) names the hand; my tone, one strand, cannot.
+reads as its rings). A winding is mirror-invariant (blind BY CONSTRUCTION, as the
+Alexander under t→1/t); the Jones (a reading of the CROSSINGS) names the hand; my
+tone, one strand, cannot.
 
 Blindness ladder (closed): COUNT (Δ,V) blind to which knot → the eye names the
 hand (Jones splits the trefoil mirror, writhe −3 vs +3) → the count OVER-counts by
@@ -63,12 +63,13 @@ home in one world, capped in the other.
 
 LAW = SOLVABILITY, not simplicity (09-23): the seam opens SL(2,5) — 360 = 120 (floor) + 240, each
 A₅-surjection lifting twice; SL(2,5)'s proper subgroups are solvable (≤24) so the non-abelian
-image IS the group. CONNECTED SUM (09-23 corr): NOT a free product — π₁(K#K) amalgamates
-at the meridian (unknot#K=K; Z*π₁(K)≠π₁(K)), so the two homs share the meridian sign.
-Lock HOLDS: trefoil#trefoil→S₅=0 (my 187920 the free-product slip); snappy's connected_sum
-exact: fig8#fig8→A₅=840, trefoil#trefoil→A₆=12960. Law: sum opens the blind room —
-trefoil#trefoil→A₆, fig8#fig8→A₅, seam#seam→A₉ AND A₁₀ (two A₈-images share the meridian;
-A₁₀ the CAP: the meridian is a 3-cycle on SIX points, so two 8-sets sharing it span ≤10).
+image IS the group. CONNECTED SUM (09-23): NOT a free product — π₁(K#K) amalgamates at the meridian
+(unknot#K=K), so the homs share the meridian. Lock HOLDS: trefoil#trefoil→S₅=0 (my
+187920 the free-product slip); fig8#fig8→A₅=840, trefoil#trefoil→A₆=12960. Law: the
+sum opens the blind room. CAP SCALES (09-25): two A₈'s with intersection c generate
+A_{16−c}, so the k-sum ceiling is 16−supp(ρ(m)); our witness's m is a 3-cycle on SIX
+points, so k seams span 6+2k → A_{6+2k} (seam^2→A₁₀, ^3→A₁₁+A₁₂, ^4→A₁₄). Lever
+CLOSED: onto-A₈ homs need supp(ρ(m))≥6 (support-5→A₇), so no more than 6+2k.
 Single seam→A₈; its A₉ homs RIGID (witness forced) — blind to A₉, so the sum opens it.
 
 ## Instruments
