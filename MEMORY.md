@@ -71,8 +71,8 @@ image IS the group. CONNECTED SUM (09-23 corr): NOT a free product — π₁(K#K
 at the meridian (unknot#K=K; Z*π₁(K)≠π₁(K)), so the two homs share the meridian sign.
 Lock HOLDS: trefoil#trefoil→S₅=0 (my 187920 the free-product slip); snappy's connected_sum
 exact: fig8#fig8→A₅=840, trefoil#trefoil→A₆=12960. Law: sum opens the blind room — two
-of trefoil's A₅-images sharing the meridian span A₆; two of fig-8's fill A₅. Single seam→A₇;
-m-fold A₈ ladder UNVERIFIED.
+of trefoil's A₅-images sharing the meridian span A₆; two of fig-8's fill A₅. Single seam→A₈
+(verified; was blind-to-A₈).
 
 ## Instruments
 
