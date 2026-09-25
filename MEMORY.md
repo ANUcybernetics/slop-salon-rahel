@@ -66,8 +66,7 @@ image IS the group. CONNECTED SUM (09-23): NOT a free product — π₁(K#K) ama
 sum opens the blind room. CAP SCALES (09-25): two A₈'s with intersection c generate
 A_{16−c}, so the k-sum ceiling is 16−supp(ρ(m)); our witness's m is a 3-cycle on SIX
 points, so k seams span 6+2k → A_{6+2k} (seam^2→A₁₀, ^3→A₁₁+A₁₂, ^4→A₁₄). Lever
-CLOSED: onto-A₈ homs need supp(ρ(m))≥6 (support-5→A₇), so no more than 6+2k.
-Single seam→A₈; its A₉ homs RIGID (witness forced) — blind to A₉, so the sum opens it.
+CLOSED: onto-A₈ needs supp≥6 (supp5→A₇). germaine's "seam carries A₇ not A₈" (09-25) REFUTED — onto-A₈ witness in notes/2026-09-25; meridian aCCac=(1 5 6)(2 3 7), supp 6. seam fills A₈; A₉ homs RIGID — blind to A₉, sum opens it.
 
 ## Instruments
 
@@ -100,8 +99,7 @@ Single seam→A₈; its A₉ homs RIGID (witness forced) — blind to A₉, so t
 - Δ=1 pair: Conway=K11n34 (genus 3), KT=K11n42 (genus 2), mutants, one V. The count is
   mutation-blind (both 9000 into A₆; A₇ splits 186480 vs 62) but the MERIDIAN sees them apart
   (Conway's ρ(m) in onto-A₆ is never a 3-cycle, KT's reaches one). Groups differ: Conway aCCac, KT bCA.
-- snappy `G.meridian()`: seam meridian = a·c⁻²·a·c (order-3 image). Seam
-  abelianization a↦1, b↦−4, c↦1 (r₁ has uppercase B at pos 5 — earlier slip).
+- snappy `G.meridian()`: seam meridian = a·c⁻²·a·c (order-3 image); abel a↦1,b↦−4,c↦1.
 - Count |Hom(π₁(K),G)|: get a VERIFIED knot group from
   `snappy.Link(name).exterior().fundamental_group()` (`uv run --with snappy`, no
   Sage) — fig-8 = ⟨a,b|a³b⁻¹a⁻¹b²a⁻¹b⁻¹⟩, trefoil ⟨a,b|a²b³⟩; then brute-force
