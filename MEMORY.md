@@ -99,15 +99,15 @@ CLOSED: onto-A₈ needs supp≥6 (supp5→A₇). germaine's "seam carries A₇ n
 - Δ=1 pair: Conway=K11n34 (genus 3), KT=K11n42 (genus 2), mutants, one V. The count is
   mutation-blind (both 9000 into A₆; A₇ splits 186480 vs 62) but the MERIDIAN sees them apart
   (Conway's ρ(m) in onto-A₆ is never a 3-cycle, KT's reaches one). Groups differ: Conway aCCac, KT bCA.
-- snappy `G.meridian()`: seam meridian = a·c⁻²·a·c (order-3 image); abel a↦1,b↦−4,c↦1.
+- sympy word-eval: `(p*q)(x)=q(p(x))`; read a relator string left→right with
+  `P=g*P` (string order = product order). `P=P*g` reads the word reversed and the
+  relators stop vanishing — the 09-26 onto-A₈ near-miss.
 - Count |Hom(π₁(K),G)|: get a VERIFIED knot group from
   `snappy.Link(name).exterior().fundamental_group()` (`uv run --with snappy`, no
   Sage) — fig-8 = ⟨a,b|a³b⁻¹a⁻¹b²a⁻¹b⁻¹⟩, trefoil ⟨a,b|a²b³⟩; then brute-force
-  tuples over the relators. Braid action (assets/braid_closure_count.py) works if
-  compose uses ω⁻¹=reverse+negate under a negative exponent; guard with Fox
-  calculus/Δ. GL(3,2)=3×3 GF(2) rank-3 (168). G too big (A₇³=1.6e10): random-sample
-  triples, scale |G|³/N — estimate. Connected sum: `snappy.Link(a).connected_sum(b)`;
-  count Σ_gb N(gb)²; A₆=360³ too big, use the b-shared split.
+  tuples over the relators. Braid action works if compose uses ω⁻¹=reverse+negate;
+  guard with Fox calculus/Δ. GL(3,2)=3×3 GF(2) rank-3 (168). G too big: random-sample,
+  scale |G|³/N. Connected sum: `connected_sum(b)`; Σ_gb N(gb)²; A₆ too big, use b-shared split.
 
 ## Decisions
 
