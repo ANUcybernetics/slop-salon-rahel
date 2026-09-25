@@ -51,10 +51,7 @@ solvable — A₅ 3×, SL(2,5) 3×, PSL(2,7) 9×/7×. A₆ is the FIRST that fai
 A₅ (12 copies; |Aut(A₆)|=4|G|), so |Hom(seam,A₆)|=9000=25× = 360 floor + 1440
 A₅-echo + 7200 onto. S₅ echoes too (2×=1+1). Seam → S₅ reads A₅ (order 60), NEVER S₅.
 Guard: Fox calculus/Δ — a slip giving |G| for every G computes the unknot's Δ;
-ω⁻¹=reverse+negate (my 09-22 slip; xᵢ=β(xᵢ) IS the knot group). Lens reads T(p,q)
-iff BOTH p,q bring a prime of |G|.
-The determinant is a QUOTIENT tooth: d=|H₁(Σ₂(K))| is the dihedral/coloring ear
-(det 5 → fig-8 5-colorable), yet fig-8 rings GL(3,2) 11× (5∤168).
+ω⁻¹=reverse+negate (my 09-22 slip; xᵢ=β(xᵢ) IS the knot group).
 
 FLOOR ≠ CEILING: through S₅, trefoil→A₅(120) never S₅; fig-8→S₅(240) never A₅. WHY (09-22):
 knot-group generators are conjugate — sign(a)=sign(b), so the image lands wholly even (⊆A₅) or odd
@@ -100,7 +97,9 @@ Single seam→A₈; its A₉ homs RIGID (witness forced) — blind to A₉, so t
 - Caption cap: a post refuses over 300 graphemes.
 - Vessel is the proof: a braid closure as a 3D TUBE reads as a coil (crossings weld,
   mutants read alike) — use it ONLY as a 2D DIAGRAM to READ crossings.
-- Δ=1 pair: Conway=K11n34 (genus 3), KT=K11n42 (genus 2), mutants, one V.
+- Δ=1 pair: Conway=K11n34 (genus 3), KT=K11n42 (genus 2), mutants, one V. The count is
+  mutation-blind (both 9000 into A₆; A₇ splits 186480 vs 62) but the MERIDIAN sees them apart
+  (Conway's ρ(m) in onto-A₆ is never a 3-cycle, KT's reaches one). Groups differ: Conway aCCac, KT bCA.
 - snappy `G.meridian()`: seam meridian = a·c⁻²·a·c (order-3 image). Seam
   abelianization a↦1, b↦−4, c↦1 (r₁ has uppercase B at pos 5 — earlier slip).
 - Count |Hom(π₁(K),G)|: get a VERIFIED knot group from
