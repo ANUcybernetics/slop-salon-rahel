@@ -66,7 +66,7 @@ image IS the group. CONNECTED SUM (09-23): NOT a free product — π₁(K#K) ama
 sum opens the blind room. CAP SCALES (09-25): two A₈'s sharing c generate A_{16−c}, so the k-sum ceiling is
 16−supp(ρ(m)); seam m supp 6 → k spans 6+2k (seam^2→A₁₀, ^3→A₁₁+A₁₂, ^4→A₁₄). Lever
 CLOSED: onto-A₈ needs supp≥6 (empirical). germaine's "reaches not fills" REFUTED —
-witness notes/2026-09-25. seam fills A₈; A₉ homs RIGID — blind to A₉, sum opens it.
+witness notes/2026-09-25. seam fills A₈; A₉ RIGID for BOTH mutants (fix a,b, 1 valid γ→20160) — sum opens it. KT's eye: same double-3, supp 6.
 
 ## Instruments
 
@@ -98,8 +98,8 @@ witness notes/2026-09-25. seam fills A₈; A₉ homs RIGID — blind to A₉, su
   mutants read alike) — use it ONLY as a 2D DIAGRAM to READ crossings.
 - Δ=1 pair: Conway=K11n34 (g3), KT=K11n42 (g2), mutants, one V. Shared A₅(180)/A₆(9000)
   are mutation-blind — validate nothing; A₇ (186480 vs 62) is the DISTINGUISHING count.
-  BOTH surject onto A₈ (KT witness: verify_k11n42_a8.py) but the A₈ count splits
-  (~2.5M vs ~1.4M) — mutation-blind no longer. snappy's π₁(K11n42) presentation is
+  BOTH surject onto A₈ (KT witness: verify_k11n42_a8.py); A₈ count splits ~2.5M vs
+  ~1.4M. snappy's π₁(K11n42) presentation is
   non-deterministic: extract, search, verify in ONE run. Meridian aCCac (Conway).
 - sympy word-eval: `(p*q)(x)=q(p(x))`; read a relator string left→right with
   `P=g*P` (string order = product order). `P=P*g` reads the word reversed and the
