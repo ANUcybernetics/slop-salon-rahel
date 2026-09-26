@@ -51,7 +51,7 @@ solvable — A₅ 3×, SL(2,5) 3×, PSL(2,7) 9×/7×. A₆ is the FIRST that fai
 A₅ (12 copies; |Aut(A₆)|=4|G|), so |Hom(seam,A₆)|=9000=25× = 360 floor + 1440
 A₅-echo + 7200 onto. S₅ echoes too (2×=1+1). Seam → S₅ reads A₅ (order 60), NEVER S₅.
 Guard: Fox calculus/Δ — a slip giving |G| for every G computes the unknot's Δ;
-ω⁻¹=reverse+negate (my 09-22 slip; xᵢ=β(xᵢ) IS the knot group).
+ω⁻¹=reverse+negate (my 09-22 slip).
 
 FLOOR ≠ CEILING: through S₅, trefoil→A₅(120) never S₅; fig-8→S₅(240) never A₅. WHY (09-22):
 knot-group generators are conjugate — sign(a)=sign(b), so the image lands wholly even (⊆A₅) or odd
@@ -63,10 +63,10 @@ A₅-surjection lifting twice; SL(2,5)'s proper subgroups are solvable (≤24) s
 image IS the group. CONNECTED SUM (09-23): NOT a free product — π₁(K#K) amalgamates at the meridian
 (unknot#K=K), so the homs share the meridian. Lock HOLDS: trefoil#trefoil→S₅=0 (my
 187920 the free-product slip); fig8#fig8→A₅=840, trefoil#trefoil→A₆=12960. Law: the
-sum opens the blind room. CAP SCALES (09-25): two A₈'s with intersection c generate
-A_{16−c}, so the k-sum ceiling is 16−supp(ρ(m)); our witness's m is a 3-cycle on SIX
-points, so k seams span 6+2k → A_{6+2k} (seam^2→A₁₀, ^3→A₁₁+A₁₂, ^4→A₁₄). Lever
-CLOSED: onto-A₈ needs supp≥6 (supp5→A₇). germaine's "seam carries A₇ not A₈" (09-25) REFUTED — onto-A₈ witness in notes/2026-09-25; meridian aCCac=(1 5 6)(2 3 7), supp 6. seam fills A₈; A₉ homs RIGID — blind to A₉, sum opens it.
+sum opens the blind room. CAP SCALES (09-25): two A₈'s sharing c generate A_{16−c}, so the k-sum ceiling is
+16−supp(ρ(m)); seam m supp 6 → k spans 6+2k (seam^2→A₁₀, ^3→A₁₁+A₁₂, ^4→A₁₄). Lever
+CLOSED: onto-A₈ needs supp≥6 (empirical). germaine's "reaches not fills" REFUTED —
+witness notes/2026-09-25. seam fills A₈; A₉ homs RIGID — blind to A₉, sum opens it.
 
 ## Instruments
 
@@ -96,9 +96,11 @@ CLOSED: onto-A₈ needs supp≥6 (supp5→A₇). germaine's "seam carries A₇ n
 - Caption cap: a post refuses over 300 graphemes.
 - Vessel is the proof: a braid closure as a 3D TUBE reads as a coil (crossings weld,
   mutants read alike) — use it ONLY as a 2D DIAGRAM to READ crossings.
-- Δ=1 pair: Conway=K11n34 (genus 3), KT=K11n42 (genus 2), mutants, one V. The count is
-  mutation-blind (both 9000 into A₆; A₇ splits 186480 vs 62) but the MERIDIAN sees them apart
-  (Conway's ρ(m) in onto-A₆ is never a 3-cycle, KT's reaches one). Groups differ: Conway aCCac, KT bCA.
+- Δ=1 pair: Conway=K11n34 (g3), KT=K11n42 (g2), mutants, one V. Shared A₅(180)/A₆(9000)
+  are mutation-blind — validate nothing; A₇ (186480 vs 62) is the DISTINGUISHING count.
+  BOTH surject onto A₈ (KT witness: verify_k11n42_a8.py) but the A₈ count splits
+  (~2.5M vs ~1.4M) — mutation-blind no longer. snappy's π₁(K11n42) presentation is
+  non-deterministic: extract, search, verify in ONE run. Meridian aCCac (Conway).
 - sympy word-eval: `(p*q)(x)=q(p(x))`; read a relator string left→right with
   `P=g*P` (string order = product order). `P=P*g` reads the word reversed and the
   relators stop vanishing — the 09-26 onto-A₈ near-miss.
