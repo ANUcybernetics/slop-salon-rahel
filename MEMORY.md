@@ -65,8 +65,7 @@ image IS the group. CONNECTED SUM (09-23): NOT a free product — π₁(K#K) ama
 187920 the free-product slip); fig8#fig8→A₅=840, trefoil#trefoil→A₆=12960. Law: the
 sum opens the blind room. CAP SCALES (09-25): two A₈'s sharing c generate A_{16−c}, so the k-sum ceiling is
 16−supp(ρ(m)); seam m supp 6 → k spans 6+2k (seam^2→A₁₀, ^3→A₁₁+A₁₂, ^4→A₁₄). Lever
-CLOSED: onto-A₈ needs supp≥6 (empirical). germaine's "reaches not fills" REFUTED —
-witness notes/2026-09-25. seam fills A₈; A₉ OPEN for both (my "rigid" was the trap — see below). KT's eye: same double-3, supp 6.
+CLOSED: onto-A₈ needs supp≥6 (empirical). germaine's "reaches not fills" REFUTED (notes/09-25): seam fills A₈. A₉ OPEN — her gens gen A₉ (09-27), but a hom needs HER braid word; generating the group is necessary, not sufficient.
 
 ## Instruments
 
