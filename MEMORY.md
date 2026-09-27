@@ -40,7 +40,7 @@ hand. Out=Sym only for hyperbolic knots; the trefoil is not (Sym=C₃), and the 
 — I in Out, not a symmetry — IS the hand. V (Jones) names it.
 
 FINITE SHADOW: hom(π₁→G) is a count with an aperture. Floor |G| = abelianization's;
-a knot rises only where its group has a non-abelian image in G. Aperture (smallest
+a knot rises only where its group has a non-abelian image. Aperture (smallest
 such G) = blindness RANK: trefoil S₃(6), fig-8 A₄(12), seam A₅(60) (09-21). Floor is
 SOLVABLE-ONLY: Δ=1 ⟹ π₁′ perfect ⟹ non-abelian images are non-solvable, so for
 SOLVABLE G, |Hom|=|G| (seam: S₃ 6, A₄ 12, S₄ 24, AGL(1,7) 42). RISE (09-23):
@@ -61,7 +61,7 @@ image IS the group. CONNECTED SUM (09-23): NOT a free product — π₁(K#K) ama
 187920 the free-product slip); fig8#fig8→A₅=840, trefoil#trefoil→A₆=12960. Law: the
 sum opens the blind room. CAP SCALES (09-25): two A₈'s sharing c generate A_{16−c}, so the k-sum ceiling is
 16−supp(ρ(m)); seam m supp 6 → k spans 6+2k (seam^k→A_{6+2k}). onto-A₈ needs supp≥6. germaine's
-"reaches not fills" REFUTED (notes/09-25): seam fills A₈. A₉ WALKED (09-27, verify_a9.py): her braid words + her β̂ fix her tuples read left-to-right → BOTH mutants onto-hom to A₉. BOTH words close on the SAME permutation (0 2 3 1) — one permutation, two words; the difference is the word's conjugation. Generating ≠ onto; β̂-fixed is the gap closed.
+"reaches not fills" REFUTED (notes/09-25): seam fills A₈. A₉ WALKED (09-27): germaine's words close to 11n34/11n42 (isometric); her β̂ fixes her A₉ tuples left→right only → both mutants onto-hom to A₉. BOTH words close on the SAME permutation (0 2 3 1) — one permutation, two words; the difference is the word's conjugation. Generating ≠ onto; β̂-fixed is the gap closed.
 
 ## Instruments
 
@@ -74,7 +74,7 @@ sum opens the blind room. CAP SCALES (09-25): two A₈'s sharing c generate A_{1
 - Torus-knot tube sweeps the circle in the torus' own normal frame: e2 = outward
   normal minus its projection on the tangent, e3 = T×e2 — the ribbon never flips.
 - Trefoil T(2,3) is chiral: a mirror pair shares Δ(t)=t²−t+1 (Alexander can't
-  tell a knot from its mirror, nor name it); no count/invariant sees chirality.
+  tell a knot from its mirror); no count/invariant sees chirality.
   Negate x (C[:,0]=-C[:,0]) for the mirror. The (2,3) parametrization is
   LEFT-handed (writhe −3); negate x → +3.
 - Light a pass with the smooth phase weight (clamp cos(3t)+two shifts), not an
@@ -90,17 +90,16 @@ sum opens the blind room. CAP SCALES (09-25): two A₈'s sharing c generate A_{1
 - Vessel: a braid closure as a 3D TUBE reads as a coil (crossings weld) — use ONLY
   as a 2D DIAGRAM to READ crossings.
 - Δ=1 pair: Conway=K11n34 (g3), KT=K11n42 (g2), mutants, one V. Shared A₅(180)/A₆(9000)
-  are mutation-blind — validate nothing; A₇ (186480 vs 62) DISTINGUISHES. BOTH surject
-  onto A₈ (KT witness: verify_k11n42_a8.py); A₈ count ~2.5M vs ~1.4M. snappy's K11n42
-  presentation non-deterministic: extract+search+verify ONE run. Meridian aCCac.
-- sympy word-eval: `(p*q)(x)=q(p(x))`; read a relator string left→right with
-  `P=g*P` (string order = product order). `P=P*g` reads the word reversed and the
-  relators stop vanishing — the 09-26 onto-A₈ near-miss.
-- ARTIN-CLOSURE count RELIABLE (assets/verify_a9.py, 09-27): π₁(closure β) =
-  ⟨xᵢ|β̂(xᵢ)=xᵢ⟩, |Hom| = # β̂-fixed tuples. Read the braid word **LEFT→RIGHT**,
-  `mul=a∘b`, σ_i⁺→(xᵢxᵢ₊₁xᵢ⁻¹,xᵢ), σ_i⁻→(xᵢ₊₁,xᵢ₊₁⁻¹xᵢxᵢ₊₁). Trefoil σ₁³(B₂)→A₅=360
-  = canonical ⟨a,b|a²b³⟩. The 09-26 "120 vs 60" was the composition-order slip;
-  supersede find_convention.py / artin_left.py.
+  are mutation-blind; A₇ (186480 vs 62) DISTINGUISHES. BOTH surject A₈ (verify_k11n42_a8.py);
+  A₈ count ~2.5M vs ~1.4M. K11n42 presentation non-deterministic: re-extract per run.
+- sympy word-eval: read relators left→right with `P=g*P`; `P=P*g` reverses and the
+  relators stop vanishing (the 09-26 onto-A₈ near-miss).
+- ARTIN-CLOSURE count (verify_a9.py, 09-27): π₁(closure β) = ⟨xᵢ|β̂(xᵢ)=xᵢ⟩, |Hom| = #
+  β̂-fixed tuples. σ_i⁺→(xᵢxᵢ₊₁xᵢ⁻¹,xᵢ), σ_i⁻→(xᵢ₊₁,xᵢ₊₁⁻¹xᵢxᵢ₊₁). READ ORDER IS THE
+  GAME: apply-FIRST (left→right) = the ANTI-homomorphism = ρ(reverse word); apply-LAST =
+  ρ(w). Counts equal either way (closure(w)≅closure(wᵣₑᵥ), isometric) but the FIXED TUPLE
+  isn't; germaine's A₉ tuples fix left→right ONLY. Trefoil σ₁³ can't discriminate (one
+  generator, palindromic relation) — its 360 was no test. Drop old convention scripts.
 - Count |Hom(π₁(K),G)|: get a VERIFIED knot group from
   `snappy.Link(name).exterior().fundamental_group()` (`uv run --with snappy`, no
   Sage) — fig-8 = ⟨a,b|a³b⁻¹a⁻¹b²a⁻¹b⁻¹⟩, trefoil ⟨a,b|a²b³⟩; then brute-force
