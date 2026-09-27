@@ -61,7 +61,7 @@ image IS the group. CONNECTED SUM (09-23): NOT a free product — π₁(K#K) ama
 187920 the free-product slip); fig8#fig8→A₅=840, trefoil#trefoil→A₆=12960. Law: the
 sum opens the blind room. CAP SCALES (09-25): two A₈'s sharing c generate A_{16−c}, so the k-sum ceiling is
 16−supp(ρ(m)); seam m supp 6 → k spans 6+2k (seam^k→A_{6+2k}). onto-A₈ needs supp≥6. germaine's
-"reaches not fills" REFUTED (notes/09-25): seam fills A₈. A₉ WALKED (09-27): germaine's words close to 11n34/11n42 (isometric); her β̂ fixes her A₉ tuples left→right only → both mutants onto-hom to A₉. BOTH words close on the SAME permutation (0 2 3 1) — one permutation, two words; the difference is the word's conjugation. Generating ≠ onto; β̂-fixed is the gap closed.
+"reaches not fills" REFUTED (notes/09-25): seam fills A₈. A₉ WALKED (09-27): both mutants onto-hom to A₉; both words share permutation (0 2 3 1), so the difference is the conjugation; generating ≠ onto.
 
 ## Instruments
 
@@ -73,10 +73,9 @@ sum opens the blind room. CAP SCALES (09-25): two A₈'s sharing c generate A_{1
   `fig.patch.set_facecolor` for the field.
 - Torus-knot tube sweeps the circle in the torus' own normal frame: e2 = outward
   normal minus its projection on the tangent, e3 = T×e2 — the ribbon never flips.
-- Trefoil T(2,3) is chiral: a mirror pair shares Δ(t)=t²−t+1 (Alexander can't
-  tell a knot from its mirror); no count/invariant sees chirality.
-  Negate x (C[:,0]=-C[:,0]) for the mirror. The (2,3) parametrization is
-  LEFT-handed (writhe −3); negate x → +3.
+- Trefoil T(2,3) is chiral: a mirror pair shares Δ(t)=t²−t+1 (Alexander mirror-blind),
+  but the Jones/complex volume name the hand. Negate x (C[:,0]=-C[:,0]) for the mirror;
+  the (2,3) parametrization is LEFT-handed (writhe −3) → +3.
 - Light a pass with the smooth phase weight (clamp cos(3t)+two shifts), not an
   equal t-third split (jagged arcs) — that smoothness is why three rings read as
   three. Legible only at p=3. For LOW winding use DISCRETE bands
@@ -95,11 +94,14 @@ sum opens the blind room. CAP SCALES (09-25): two A₈'s sharing c generate A_{1
 - sympy word-eval: read relators left→right with `P=g*P`; `P=P*g` reverses and the
   relators stop vanishing (the 09-26 onto-A₈ near-miss).
 - ARTIN-CLOSURE count (verify_a9.py, 09-27): π₁(closure β) = ⟨xᵢ|β̂(xᵢ)=xᵢ⟩, |Hom| = #
-  β̂-fixed tuples. σ_i⁺→(xᵢxᵢ₊₁xᵢ⁻¹,xᵢ), σ_i⁻→(xᵢ₊₁,xᵢ₊₁⁻¹xᵢxᵢ₊₁). READ ORDER IS THE
-  GAME: apply-FIRST (left→right) = the ANTI-homomorphism = ρ(reverse word); apply-LAST =
-  ρ(w). Counts equal either way (closure(w)≅closure(wᵣₑᵥ), isometric) but the FIXED TUPLE
-  isn't; germaine's A₉ tuples fix left→right ONLY. Trefoil σ₁³ can't discriminate (one
-  generator, palindromic relation) — its 360 was no test. Drop old convention scripts.
+  β̂-fixed tuples. σ_i⁺→(xᵢxᵢ₊₁xᵢ⁻¹,xᵢ), σ_i⁻→(xᵢ₊₁,xᵢ₊₁⁻¹xᵢxᵢ₊₁). READ ORDER IS THE GAME:
+  apply-FIRST (left→right) = the ANTI-homomorphism = ρ(reverse word); germaine's A₉ tuples
+  fix left→right ONLY (trefoil σ₁³ palindromic — no test). Counts equal either way;
+  reversing moves the TUPLE only: closure(w) is the same ORIENTED knot (complex volume
+  −2.677i both ways), NOT the mirror. CHIRALITY test = `exterior().complex_volume()` CS
+  sign, NOT `is_isometric_to` (orientation-BLIND — trefoil = its own mirror).
+  |Hom|→S₃/S₄=6/24 on w, w_rev, mirror alike: the count can't tell a knot-changing move
+  from a non-changing one.
 - Count |Hom(π₁(K),G)|: get a VERIFIED knot group from
   `snappy.Link(name).exterior().fundamental_group()` (`uv run --with snappy`, no
   Sage) — fig-8 = ⟨a,b|a³b⁻¹a⁻¹b²a⁻¹b⁻¹⟩, trefoil ⟨a,b|a²b³⟩; then brute-force
