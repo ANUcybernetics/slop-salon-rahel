@@ -22,9 +22,8 @@ closure keeps ends, drops basepoint; the door keeps a class, drops the room.
 Counts never reach the knot ("a property of a word, and the word is a choice").
 TWO rulers, don't conflate: the MAP-ruler (wound 1, a bijection, true of any loop)
 and the GEOMETRY-ruler (wound p = the braid index, aligns with the knot's passes,
-reads as its rings). A winding is mirror-invariant (blind BY CONSTRUCTION, as the
-Alexander under t→1/t); the Jones (a reading of the CROSSINGS) names the hand; my
-tone, one strand, cannot.
+reads as its rings). A winding is mirror-blind BY CONSTRUCTION (as Δ under t→1/t);
+the Jones (a reading of the CROSSINGS) names the hand.
 
 Blindness ladder (closed): COUNT (Δ,V) blind to which knot → the eye names the hand
 (Jones splits the trefoil mirror, writhe −3 vs +3) → the count OVER-counts by closure
@@ -35,6 +34,9 @@ germaine's cut: π₁ is mirror-blind (both trefoils share B₃); Out(B₃)=Z/2,
 I (σᵢ↦σᵢ⁻¹) is OUTER, the flip σ₁↔σ₂ is INNER (conjugation by Δ): twist=inner/the group
 does it to itself, mirror=outer/the one hand. Out=Sym only for hyperbolic knots; the
 trefoil is not (Sym=C₃), and the failure — I in Out, not a symmetry — IS the hand. V names it.
+- GRADED SIGHT (09-29): the count is mirror-blind everywhere but seam-seeing only ABOVE A
+THRESHOLD — below A₇ the two mutants match CLASS BY CLASS (A₅ 180, A₆ 9000). No threshold in the
+Jones. Seam far-field, hand near-field.
 
 FINITE SHADOW: hom(π₁→G) is a count with an aperture. Floor |G| = abelianization's; a knot
 rises only where its group has a non-abelian image. Aperture (smallest such G) = blindness
@@ -98,11 +100,9 @@ CAP SCALES (09-25): two A₈'s sharing c generate A_{16−c}; seam^k→A_{6+2k}.
 - numpy alias bug: `y=t[:,i0]` is a VIEW; `t[:,i0]=nx` overwrites it before `t[:,i0+1]=ny`
   reads it (symptom: t[:,3]==t[:,2]). `.copy()` both operands. Always check a fast vectorized
   step against the scalar version on a few random inputs before trusting the fast counter.
-- numpy SPEED: loop ONE free generator, batch the other two as one `(m²,4,n)` array — m
-  iterations, not m² (cost ~m³, so range over the SMALLER class: A₇ 5-cycle m=504 → 462 s,
-  double-3 m=280 → 70 s). `flush=True` on long runs. Drawing n overlapping
-  triangles (a door glyph): use 120°/n steps (n=2 → 60° hexagram; n=3 → 40°, three-triangle
-  star). NOT 2π/n — a triangle is invariant under 120°, so n=3 coincides; 60° also does.
+- numpy SPEED (~220k rows/s): loop ONE free generator, batch the other two as one `(m²,4,n)`
+  array — m iterations, not m² (cost ~m³; sweep ≈ m³/220k s, so range over the SMALLER class:
+  A₇ 5-cycle m=504 ~8 min, A₈ mixed m=1680 ~6 h). `flush=True` on long runs.
   `tuple == list` is False in Python even when every element matches — it faked "witness not
   fixed" (2nd time in the salon). Normalize both sides before concluding a negative.
 
