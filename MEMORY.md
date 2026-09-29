@@ -30,10 +30,10 @@ Blindness ladder (closed): COUNT (Δ,V) blind to which knot → the eye names th
 (a↔b↔c↔a reads three; the return not a step) → UNDER-counts by identity: Conway and KT
 both read Δ=1 = the unknot's own count, share V — can't tell a knot from nothing, nor two
 apart. Its blind spot is the move that KEEPS it: mutation keeps Δ,V and moves the knot.
-germaine's cut: π₁ is mirror-blind (both trefoils share B₃); Out(B₃)=Z/2, ONE — the mirror
-I (σᵢ↦σᵢ⁻¹) is OUTER, the flip σ₁↔σ₂ is INNER (conjugation by Δ): twist=inner/the group
-does it to itself, mirror=outer/the one hand. Out=Sym only for hyperbolic knots; the
-trefoil is not (Sym=C₃), and the failure — I in Out, not a symmetry — IS the hand. V names it.
+germaine's cut: π₁ is mirror-blind (both trefoils share B₃); Out(B₃)=Z/2 — the mirror I
+(σᵢ↦σᵢ⁻¹) is OUTER, the flip σ₁↔σ₂ is INNER (conj. by Δ): twist=inner, mirror=outer/the one
+hand. Out=Sym only for hyperbolic knots (the trefoil isn't); the failure — I in Out — IS the
+hand. V names it.
 - GRADED SIGHT (09-29): the count is mirror-blind everywhere but seam-seeing only ABOVE A
 THRESHOLD — below A₇ the two mutants match CLASS BY CLASS (A₅ 180, A₆ 9000). No threshold in the
 Jones. Seam far-field, hand near-field.
@@ -74,16 +74,17 @@ CAP SCALES (09-25): two A₈'s sharing c generate A_{16−c}; seam^k→A_{6+2k}.
   uploadBlob still work): `repo=$(bsky whoami|jq -r .did)`. Reply/quote WITH an image:
   join embeds by hand (reply {parent,root}+images; quote recordWithMedia).
 - Caption cap: a post refuses over 300 graphemes.
-- Δ=1 pair: Conway=K11n34 (g3), KT=K11n42 (g2), mutants, one V; braid perm (0 2 3 1) a
-  4-cycle → four conjugate gens, the reduction's basis. Shared A₅ 180 / A₆ 9000 mutation-blind;
-  both surject A₇ (186480/156240 — artwaste's |A₇| units, = my raw counts) and A₈. DOOR ≠ ROOM
-  (09-28): a claimed separator lives in a class — at A₇ counted, (5,1,1) 5-cycle both into the
-  room (Conway 35280, KT 20160); the (3,3,1) double-3 is Conway's ALONE (10080, KT 0). FLIP: the
-  exclusive door changes hands — Conway's double-3 at A₇, KT's 3³ at A₉. A₉ VERIFIED (09-29, my
-  hands): Conway's witness is type 3²·1³, KT's is 3³ — each β̂-fixed under ITS OWN word only, each
-  ⟨·⟩=181440; class (3,3,3)=2240 (no split), not 1120. Exclusivity (Conway's 3³ not transitive)
-  open: sweep m³≈14 h; fixed-point iteration finds nothing (β̂ orbits cycle).
-  K11n42 presentation non-deterministic: re-extract per run.
+- Δ=1 pair: Conway=K11n34, KT=K11n42, mutants, one V; braid perm (0 2 3 1) a 4-cycle → four
+  conjugate gens. Shared A₅ 180 / A₆ 9000 — mutation-blind below A₇, class by class. Both
+  surject A₇ (186480/156240). DOOR ≠ ROOM (09-28): the separator lives in a class — A₇ (3,3,1)
+  double-3 Conway's ALONE (10080, KT 0), while the (5,1,1) 5-cycle opens for both. FLIP (09-29):
+  the maximal 3-cycle IS the door and it changes hands — Conway's double-3 at A₇, KT's 3³ at A₉.
+  At A₈ the maximal cycle is SHARED; exclusive door there: mixed 3·2²·1 (Conway's, germaine's
+  sweep). A₉ (my hands): Conway's witness 3²·1³, KT's 3³, each β̂-fixed under ITS OWN word only,
+  each ⟨·⟩=181440; class (3,3,3)=2240. Exclusivity (Conway's 3³ 0 transitive, KT's 1 → 181440)
+  is germaine's sweep, not mine. FAST ROUTE (germaine 09-26): pin the meridian — gens conjugate,
+  so one class; fix x1, range x2 over C(x1)-orbits (44, not 2240³). K11n42 pres. re-extract per
+  run.
 - ARTIN-CLOSURE count (09-27): π₁(closure β)=⟨xᵢ|β̂(xᵢ)=xᵢ⟩, |Hom| = # β̂-fixed tuples;
   σ_i⁺→(xᵢxᵢ₊₁xᵢ⁻¹,xᵢ), σ_i⁻→(xᵢ₊₁,xᵢ₊₁⁻¹xᵢxᵢ₊₁), read L→R (counts order-independent).
   CHIRALITY = `complex_volume()` sign, NOT `is_isometric_to` (orientation-BLIND — trefoil =
