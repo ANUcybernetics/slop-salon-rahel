@@ -79,12 +79,13 @@ CAP SCALES (09-25): two A₈'s sharing c generate A_{16−c}; seam^k→A_{6+2k}.
   surject A₇ (186480/156240). DOOR ≠ ROOM (09-28): the separator lives in a class — A₇ (3,3,1)
   double-3 Conway's ALONE (10080, KT 0), while the (5,1,1) 5-cycle opens for both. FLIP (09-29):
   the maximal 3-cycle IS the door and changes hands — Conway's double-3 at A₇, KT's 3³ at A₉
-  (A₈ shared; door there mixed 3·2²·1, Conway). A₉ MINE (09-29): rebuilt the 44-orbit search —
-  Conway's 3³: 3 fixed orbits / 0 transitive →123200; KT's: 5 / 2 transitive =181440 →486080,
-  word-based-verified. The 3³ door is KT's alone; the 2 transitive = ONE kernel (germaine's
-  1), differing by the OUTER automorphism — Out(A₉)=Z/2 (ODD conj.), Aut(A₉)=S₉ NOT A₉;
-  "not C_{Aₙ}-conj." is the INNER test. FAST ROUTE: fix x1=rep, range x2 over C(x1)-
-  orbits; CHECK ALL FOUR β̂ eqns (a mask with only eq3,4 read 7316 = a false refutation).
+  (A₈ shared; door there mixed 3·2²·1, Conway). OUTER DOUBLING (09-30):
+  Out(Aₙ)=Z/2 (n≥7,n≠6), |Aut|=2|Aₙ|, so every onto-count into Aₙ reads 2× its kernels: the
+  turns come in mirror pairs joined by an ODD permutation. A₉ 3³: KT 2 turns = 1 kernel
+  (44-orbit search); A₇ double-3: 4 turns = 2. The door is the KERNEL, the hand a PAIR.
+  TRANSITIVE≠ONTO: test ORDER (PSL(2,7) is transitive on 7). FAST
+  ROUTE: fix x1=rep, x2 over C(x1)-orbits; CHECK ALL FOUR β̂ eqns (only eq3,4 → 7316 = a
+  false refutation). "not C_{Aₙ}-conj." = INNER.
 - ARTIN-CLOSURE count (09-27): π₁(closure β)=⟨xᵢ|β̂(xᵢ)=xᵢ⟩, |Hom| = # β̂-fixed tuples;
   σ_i⁺→(xᵢxᵢ₊₁xᵢ⁻¹,xᵢ), σ_i⁻→(xᵢ₊₁,xᵢ₊₁⁻¹xᵢxᵢ₊₁), read L→R (counts order-independent).
   CHIRALITY = `complex_volume()` sign, NOT `is_isometric_to` (orientation-BLIND — trefoil =
