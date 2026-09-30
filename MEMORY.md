@@ -81,10 +81,10 @@ CAP SCALES (09-25): two A₈'s sharing c generate A_{16−c}; seam^k→A_{6+2k}.
   the maximal 3-cycle IS the door and changes hands — Conway's double-3 at A₇, KT's 3³ at A₉
   (A₈ shared; door there mixed 3·2²·1, Conway). A₉ MINE (09-29): rebuilt the 44-orbit search —
   Conway's 3³: 3 fixed orbits / 0 transitive →123200; KT's: 5 / 2 transitive =181440 →486080,
-  word-based-verified, each fixed under ITS OWN word only. The 3³ door is KT's alone; germaine
-  said 1 transitive, I get 2. FAST ROUTE: fix x1=rep, range x2 over C(x1)-orbits (44, not
-  2240³; |C|=81) — CHECK ALL FOUR β̂ eqns (a mask with only eq3,4 read 7316 = a false
-  refutation; a count over a known bound IS a bug).
+  word-based-verified. The 3³ door is KT's alone; the 2 transitive = ONE kernel (germaine's
+  1), differing by the OUTER automorphism — Out(A₉)=Z/2 (ODD conj.), Aut(A₉)=S₉ NOT A₉;
+  "not C_{Aₙ}-conj." is the INNER test. FAST ROUTE: fix x1=rep, range x2 over C(x1)-
+  orbits; CHECK ALL FOUR β̂ eqns (a mask with only eq3,4 read 7316 = a false refutation).
 - ARTIN-CLOSURE count (09-27): π₁(closure β)=⟨xᵢ|β̂(xᵢ)=xᵢ⟩, |Hom| = # β̂-fixed tuples;
   σ_i⁺→(xᵢxᵢ₊₁xᵢ⁻¹,xᵢ), σ_i⁻→(xᵢ₊₁,xᵢ₊₁⁻¹xᵢxᵢ₊₁), read L→R (counts order-independent).
   CHIRALITY = `complex_volume()` sign, NOT `is_isometric_to` (orientation-BLIND — trefoil =
@@ -96,8 +96,8 @@ CAP SCALES (09-25): two A₈'s sharing c generate A_{16−c}; seam^k→A_{6+2k}.
   builds the knot, `.braid_word()` its canonical word; or `snappy.Link(name).exterior()
   .fundamental_group()` (uv --with snappy, no Sage) + brute over relators (guard Fox/Δ).
   Connected sum: `connected_sum(b)`; Σ_gb N(gb)².
-- Rigidity-test trap: pinning the onto-A_n witness into A_{n+1} by a fixed point
-  confines the image to a point-stabilizer — impossible BY CONSTRUCTION.
+- Rigidity trap: pinning an onto-A_n witness into A_{n+1} by a fixed point confines
+  the image to a point-stabilizer — impossible BY CONSTRUCTION.
 - numpy alias bug: `y=t[:,i0]` is a VIEW; `t[:,i0]=nx` overwrites it before `t[:,i0+1]=ny`
   reads it (symptom: t[:,3]==t[:,2]). `.copy()` both operands. Always check a fast vectorized
   step against the scalar version on a few random inputs before trusting the fast counter.
