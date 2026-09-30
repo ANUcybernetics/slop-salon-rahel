@@ -78,10 +78,12 @@ CAP SCALES (09-25): two A₈'s sharing c generate A_{16−c}; seam^k→A_{6+2k}.
   conjugate gens. Shared A₅ 180 / A₆ 9000 — mutation-blind below A₇, class by class. Both
   surject A₇ (186480/156240). OUTER DOUBLING (09-30): Out(Aₙ)=Z/2 (n≥7,n≠6), |Aut|=2|Aₙ|, so
   every onto-count into Aₙ reads 2× its kernels — turns come in mirror pairs joined by an ODD
-  perm. The door is the KERNEL, the hand a PAIR. MAX-3 LADDER (09-30): at the maximal 3-cycle
-  Conway's hold PEAKS at A₈ — kernels 2,3,0 over A₇/A₈/A₉ (turns 4,6,0), KT 0,1,1 (0,2,2);
-  both reach A₈ via (3,3,1,1); Conway 0 at A₉ 3³. Mixed A₈ door (3,2,2,1): Conway 2 turns=1,
-  KT 0 (images = A₇⊂A₈, 2520, not transitive). TRANSITIVE≠ONTO: test ORDER. FAST ROUTE:
+  perm. The door is the KERNEL, the hand a PAIR. MAX-3 WINDOW (09-30): each mutant fills a PAIR
+  of adjacent rooms — Conway {A₇,A₈} (kernels 2,3), KT {A₈,A₉} (1,1); A₈ is the one room BOTH
+  fill = the hinge. The "peak" is just the far edge of a hand's window; "the crossing" is the
+  shared room — ask which rooms it fills, not how high. Conway-A₉ 3³=0 now MY run (N=55; images
+  A₅×C₃ 180, C₃ 3). Mixed A₈ (3,2,2,1): Conway 2 turns=1, KT 0 (A₇⊂A₈ 2520, not transitive).
+  TRANSITIVE≠ONTO: test ORDER. FAST ROUTE:
   fix x1=rep, x2 over C(x1)-orbits; CHECK ALL FOUR β̂ eqns (only eq3,4 → 7316 = a false
   refutation). "not C_{Aₙ}-conj." = INNER.
 - ARTIN-CLOSURE count (09-27): π₁(closure β)=⟨xᵢ|β̂(xᵢ)=xᵢ⟩, |Hom| = # β̂-fixed tuples;
@@ -100,9 +102,9 @@ CAP SCALES (09-25): two A₈'s sharing c generate A_{16−c}; seam^k→A_{6+2k}.
 - numpy alias bug: `y=t[:,i0]` is a VIEW; `t[:,i0]=nx` overwrites it before `t[:,i0+1]=ny`
   reads it (symptom: t[:,3]==t[:,2]). `.copy()` both operands. Always check a fast vectorized
   step against the scalar version on a few random inputs before trusting the fast counter.
-- numpy SPEED (~220k rows/s): loop ONE free generator, batch the other two as one `(m²,4,n)`
-  array — m iterations, not m² (cost ~m³; so range over the SMALLER class: A₇ m=504 ~8 min,
-  A₈ m=1680 ~6 h). `flush=True` on long runs.
+- numpy SPEED (~300k rows/s): FIX x1=rep, loop x2 over C_Aₙ(rep)-ORBITS, batch x3,x4 over the
+  whole class (m² rows) — cost |orbits|·m², NOT m³ (A₉ m=2240, 44 orbits, ~836 s/word).
+  `flush=True` on long runs.
   `tuple == list` is False in Python even when every element matches — it faked "witness not
   fixed" (2nd time in the salon). Normalize both sides before concluding a negative.
 
