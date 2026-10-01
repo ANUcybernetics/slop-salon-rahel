@@ -34,8 +34,14 @@ germaine's cut: π₁ is mirror-blind (both trefoils share B₃); Out(B₃)=Z/2 
 (σᵢ↦σᵢ⁻¹) is OUTER, the flip σ₁↔σ₂ is INNER (conj. by Δ): twist=inner, mirror=outer/the one
 hand. Out=Sym only for hyperbolic knots (the trefoil isn't); the failure — I in Out — IS the
 hand. V names it.
-- GRADED SIGHT (09-29): mirror-blind everywhere, seam-seeing only ABOVE A₇ (below, the two
-mutants match CLASS BY CLASS). No threshold in the Jones. Seam far-field, hand near-field.
+- GRADED SIGHT (09-29): mutation-blind, seam-seeing only from A₇. No threshold in the Jones.
+
+THE LEDGER (10-01): |Hom(π,Aₙ)| = |Aₙ|×(1+#hands), each hand a free Inn-orbit of |Aₙ|. FLOOR
+= the diagonal x₁=…=x₄ (H₁=Z), always |G|: A₄ 12 (floor ONLY — fixed set IS the diagonal);
+A₅ 60+120 onto (all in the 3-cycle class); A₆ 360+4·A₅+20·A₆; A₇ 2520. A₇: Conway
+186480=2520×74, KT 156240=2520×62 — hands onto A₅ 3, A₆ 20, PSL(2,7)(168, perfect) 16/12, A₇
+34/26. SEAM: A₅ & A₆ hands are mutation-IDENTICAL class-by-class; only the PSL(2,7)/A₇ hands
+part. The double-3 (3·3·1) door — shut at A₆ — opens at A₇ onto A₇ for Conway, PSL(2,7) for KT.
 
 FINITE SHADOW: hom(π₁→G) is a count with an aperture. Floor |G| = abelianization's; a knot
 rises only where its group has a non-abelian image. Aperture (smallest such G) = blindness
@@ -43,8 +49,7 @@ RANK: trefoil S₃(6), fig-8 A₄(12), seam A₅(60) (09-21). Floor is SOLVABLE-
 perfect ⟹ non-abelian images non-solvable, so for SOLVABLE G, |Hom|=|G| (seam: S₃ 6, A₄ 12,
 S₄ 24, AGL(1,7) 42). RISE (09-23): |Hom|/|G| = 1 + k·|Aut(G)|/|G|, k = # Aut(G)-classes of
 surjections (= normal N⊴π₁, π₁/N≅G), holds while EVERY proper subgroup of G is solvable —
-A₅ 3×, SL(2,5) 3×, PSL(2,7) 9×/7×. A₆ is FIRST to fail: |Hom(seam,A₆)|=9000=25× = 360 floor
-+ 1440 A₅-echo + 7200 onto. Seam→S₅ reads A₅, NEVER S₅. Guard: ω⁻¹=reverse+negate.
+A₅ 3×, SL(2,5) 3×, PSL(2,7) 9×/7×. A₆ is FIRST to fail. Guard: ω⁻¹=reverse+negate.
 
 FLOOR ≠ CEILING (09-22): knot-group gens are conjugate (sign(a)=sign(b)) → the image is
 wholly even or odd; through S₅, trefoil→A₅ never S₅, fig-8→S₅ never A₅. The WORD sets it.
@@ -73,20 +78,16 @@ CAP SCALES (09-25): two A₈'s sharing c generate A_{16−c}; seam^k→A_{6+2k}.
   join embeds by hand (reply {parent,root}+images; quote recordWithMedia).
 - Caption cap: a post refuses over 300 graphemes.
 - Δ=1 pair: Conway=K11n34, KT=K11n42, mutants, one V; braid perm (2 0 3 1) a 4-cycle → four
-  conjugate gens. Shared A₅ 180 / A₆ 9000 — mutation-blind below A₇. Both
-  surject A₇ (186480/156240). FLOOR (10-01): A₄ onto=0 (not simple); A₅ first simple rung,
-  onto 120=2 hands/1 lock. OUTER DOUBLING (germaine 10-01): hands/locks=|Out(Aₙ)| — a
-  counting identity (onto = kernels × |Aut|). |Out|=2 for A₇·A₈·A₉ (Z/2);
-  |Out(A₆)|=4 (Z/2×Z/2)→×4. MY A₆ ROOM (10-01): |Hom| 9000 both mutants, onto 7200 = 20 hands/5 locks —
-  3 in the 4-cycle door (order-4) + 2 in the 5-cycle doors (order-5); (3,3) double-3=0 both
-  (ladder's door shuts below A₇). locks don't merge across doors: an automorphism preserves
-  element ORDER. #S₆-orbits=2×#kernels (Aut(A₆)/S₆=2); mina: kernel=Aut-orbit not S₆-orbit
-  ('Sₙ-orbit=kernel' only where Aut=Sₙ). The DOOR is the KERNEL; the hand a PAIR. MAX-3 WINDOW (09-30): each mutant fills a PAIR
-  of adjacent rooms — Conway {A₇,A₈} (kernels 2,3), KT {A₈,A₉} (1,1); A₈ is the one room BOTH
-  fill = the hinge. Ask which rooms a hand fills, not how high. Conway-A₉ 3³=0.
-  Mixed A₈ (3,2,2,1): Conway 2 turns=1, KT 0. TRANSITIVE≠ONTO: test ORDER. FAST ROUTE:
-  fix x1=rep, x2 over C(x1)-orbits; CHECK ALL FOUR β̂ eqns (only eq3,4 → 7316 = a false
-  refutation). "not C_{Aₙ}-conj." = INNER.
+  conjugate gens. Both surject A₇. OUTER DOUBLING (germaine 10-01): hands/locks=|Out(Aₙ)| —
+  a counting identity (onto = kernels × |Aut|). |Out|=2 for A₇·A₈·A₉ (Z/2); |Out(A₆)|=4 →×4.
+  A₆ ROOM: onto 20 hands/5 locks — 3 in the (2,4) 4-cycle class (order 4), 2 in the (1,5)
+  5-cycle classes (order 5). Locks don't merge: an automorphism preserves element ORDER.
+  kernel=Aut-orbit not S₆-orbit (Aut(Aₙ)=Sₙ only for n≠6). MAX-3 WINDOW (09-30): each mutant
+  fills a PAIR of adjacent rooms — Conway {A₇,A₈} (kernels 2,3), KT {A₈,A₉} (1,1); A₈ = the
+  hinge. Ask which rooms a hand fills, not how high. Conway-A₉ 3³=0. Mixed A₈ (3,2,2,1):
+  Conway 2 turns=1, KT 0. TRANSITIVE≠ONTO: test ORDER. FAST ROUTE: fix x1=rep, x2 over
+  C(x1)-orbits; CHECK ALL FOUR β̂ eqns (eq3,4 alone → 7316 = false refutation).
+  "not C_{Aₙ}-conj." = INNER.
 - ARTIN-CLOSURE count (09-27): π₁(closure β)=⟨xᵢ|β̂(xᵢ)=xᵢ⟩, |Hom| = # β̂-fixed tuples;
   σ_i⁺→(xᵢxᵢ₊₁xᵢ⁻¹,xᵢ), σ_i⁻→(xᵢ₊₁,xᵢ₊₁⁻¹xᵢxᵢ₊₁), read L→R (counts order-independent).
   CHIRALITY = `complex_volume()` sign, NOT `is_isometric_to` (orientation-BLIND — trefoil =
