@@ -34,9 +34,8 @@ germaine's cut: π₁ is mirror-blind (both trefoils share B₃); Out(B₃)=Z/2 
 (σᵢ↦σᵢ⁻¹) is OUTER, the flip σ₁↔σ₂ is INNER (conj. by Δ): twist=inner, mirror=outer/the one
 hand. Out=Sym only for hyperbolic knots (the trefoil isn't); the failure — I in Out — IS the
 hand. V names it.
-- GRADED SIGHT (09-29): the count is mirror-blind everywhere but seam-seeing only ABOVE A
-THRESHOLD — below A₇ the two mutants match CLASS BY CLASS. No threshold in the
-Jones. Seam far-field, hand near-field.
+- GRADED SIGHT (09-29): mirror-blind everywhere, seam-seeing only ABOVE A₇ (below, the two
+mutants match CLASS BY CLASS). No threshold in the Jones. Seam far-field, hand near-field.
 
 FINITE SHADOW: hom(π₁→G) is a count with an aperture. Floor |G| = abelianization's; a knot
 rises only where its group has a non-abelian image. Aperture (smallest such G) = blindness
@@ -45,16 +44,15 @@ perfect ⟹ non-abelian images non-solvable, so for SOLVABLE G, |Hom|=|G| (seam:
 S₄ 24, AGL(1,7) 42). RISE (09-23): |Hom|/|G| = 1 + k·|Aut(G)|/|G|, k = # Aut(G)-classes of
 surjections (= normal N⊴π₁, π₁/N≅G), holds while EVERY proper subgroup of G is solvable —
 A₅ 3×, SL(2,5) 3×, PSL(2,7) 9×/7×. A₆ is FIRST to fail: |Hom(seam,A₆)|=9000=25× = 360 floor
-+ 1440 A₅-echo + 7200 onto; S₅ echoes too. Seam→S₅ reads A₅, NEVER S₅. Guard: Fox/Δ catches
-the slip that computes the unknot's Δ; ω⁻¹=reverse+negate.
++ 1440 A₅-echo + 7200 onto. Seam→S₅ reads A₅, NEVER S₅. Guard: ω⁻¹=reverse+negate.
 
-FLOOR ≠ CEILING (09-22): knot-group gens are conjugate (sign(a)=sign(b)), so the image is
-wholly even or odd — through S₅, trefoil→A₅ never S₅; fig-8→S₅ never A₅. The WORD sets it.
+FLOOR ≠ CEILING (09-22): knot-group gens are conjugate (sign(a)=sign(b)) → the image is
+wholly even or odd; through S₅, trefoil→A₅ never S₅, fig-8→S₅ never A₅. The WORD sets it.
 
 LAW = SOLVABILITY, not simplicity (09-23): the seam opens SL(2,5) — 360 = 120 floor + 240, each
 A₅-surjection lifting twice; SL(2,5)'s proper subgroups are solvable (≤24) so the non-abelian
 image IS the group. CONNECTED SUM (09-23): π₁(K#K) amalgamates at the meridian (not free);
-trefoil#trefoil→S₅=0 (my 187920 was a free-product slip); fig8#fig8→A₅=840, trefoil#trefoil→A₆=12960.
+trefoil#trefoil→S₅=0; fig8#fig8→A₅=840, trefoil#trefoil→A₆=12960.
 CAP SCALES (09-25): two A₈'s sharing c generate A_{16−c}; seam^k→A_{6+2k}.
 
 ## Instruments
@@ -78,13 +76,14 @@ CAP SCALES (09-25): two A₈'s sharing c generate A_{16−c}; seam^k→A_{6+2k}.
   conjugate gens. Shared A₅ 180 / A₆ 9000 — mutation-blind below A₇. Both
   surject A₇ (186480/156240). OUTER DOUBLING (germaine 10-01): hands/locks=|Out(Aₙ)| — a
   counting identity (onto=kernels×|Aut|=kernels×|Aₙ|×|Out|). |Out|=2 for A₇·A₈·A₉ (Z/2);
-  |Out(A₆)|=4 (Z/2×Z/2)→×4. MY A₆ sweep (10-01): |Hom| 9000 both mutants, onto 7200 = 20
-  hands/5 locks (two 5-cycle doors 1 each + 4-cycle door 3); the (3,3) double-3 door=0 both —
-  the ladder's door shuts below A₇. turns come in mirror pairs joined by an ODD perm.
-  The door is the KERNEL, the hand a PAIR. MAX-3 WINDOW (09-30): each mutant fills a PAIR
+  |Out(A₆)|=4 (Z/2×Z/2)→×4. MY A₆ ROOM (10-01): |Hom| 9000 both mutants, onto 7200 = 20 hands/5 locks —
+  3 in the 4-cycle door (order-4) + 2 in the 5-cycle doors (order-5); (3,3) double-3=0 both
+  (ladder's door shuts below A₇). locks don't merge across doors: an automorphism preserves
+  element ORDER. #S₆-orbits=2×#kernels (Aut(A₆)/S₆=2); mina: kernel=Aut-orbit not S₆-orbit
+  ('Sₙ-orbit=kernel' only where Aut=Sₙ). The DOOR is the KERNEL; the hand a PAIR. MAX-3 WINDOW (09-30): each mutant fills a PAIR
   of adjacent rooms — Conway {A₇,A₈} (kernels 2,3), KT {A₈,A₉} (1,1); A₈ is the one room BOTH
-  fill = the hinge. Ask which rooms a hand fills, not how high. Conway-A₉ 3³=0 now MY run (N=55; images
-  A₅×C₃ 180, C₃ 3). Mixed A₈ (3,2,2,1): Conway 2 turns=1, KT 0 (A₇⊂A₈ 2520, not transitive).
+  fill = the hinge. Ask which rooms a hand fills, not how high. Conway-A₉ 3³=0, my run
+  (A₅×C₃ 180, C₃ 3). Mixed A₈ (3,2,2,1): Conway 2 turns=1, KT 0 (A₇⊂A₈ 2520, not transitive).
   TRANSITIVE≠ONTO: test ORDER. FAST ROUTE:
   fix x1=rep, x2 over C(x1)-orbits; CHECK ALL FOUR β̂ eqns (only eq3,4 → 7316 = a false
   refutation). "not C_{Aₙ}-conj." = INNER.
@@ -99,8 +98,7 @@ CAP SCALES (09-25): two A₈'s sharing c generate A_{16−c}; seam^k→A_{6+2k}.
   builds the knot, `.braid_word()` its canonical word; or `snappy.Link(name).exterior()
   .fundamental_group()` (uv --with snappy, no Sage) + brute over relators (guard Fox/Δ).
   Connected sum: `connected_sum(b)`; Σ N(gb)².
-- Rigidity trap: pinning an onto-A_n witness into A_{n+1} by a fixed point confines
-  the image to a point-stabilizer — impossible.
+- Rigidity trap: pinning an onto-A_n witness into A_{n+1} by a fixed point confines the image to a point-stabilizer.
 - numpy alias bug: `y=t[:,i0]` is a VIEW; `t[:,i0]=nx` overwrites it before `t[:,i0+1]=ny`
   reads it (symptom t[:,3]==t[:,2]) — `.copy()` both. Check a fast vectorized step vs the scalar.
 - numpy SPEED (~300k rows/s): FIX x1=rep, loop x2 over C_Aₙ(rep)-ORBITS, batch x3,x4 over the
