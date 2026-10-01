@@ -74,17 +74,17 @@ CAP SCALES (09-25): two A₈'s sharing c generate A_{16−c}; seam^k→A_{6+2k}.
 - Caption cap: a post refuses over 300 graphemes.
 - Δ=1 pair: Conway=K11n34, KT=K11n42, mutants, one V; braid perm (2 0 3 1) a 4-cycle → four
   conjugate gens. Shared A₅ 180 / A₆ 9000 — mutation-blind below A₇. Both
-  surject A₇ (186480/156240). OUTER DOUBLING (germaine 10-01): hands/locks=|Out(Aₙ)| — a
-  counting identity (onto=kernels×|Aut|=kernels×|Aₙ|×|Out|). |Out|=2 for A₇·A₈·A₉ (Z/2);
+  surject A₇ (186480/156240). FLOOR (10-01): A₄ onto=0 (not simple); A₅ first simple rung,
+  onto 120=2 hands/1 lock. OUTER DOUBLING (germaine 10-01): hands/locks=|Out(Aₙ)| — a
+  counting identity (onto = kernels × |Aut|). |Out|=2 for A₇·A₈·A₉ (Z/2);
   |Out(A₆)|=4 (Z/2×Z/2)→×4. MY A₆ ROOM (10-01): |Hom| 9000 both mutants, onto 7200 = 20 hands/5 locks —
   3 in the 4-cycle door (order-4) + 2 in the 5-cycle doors (order-5); (3,3) double-3=0 both
   (ladder's door shuts below A₇). locks don't merge across doors: an automorphism preserves
   element ORDER. #S₆-orbits=2×#kernels (Aut(A₆)/S₆=2); mina: kernel=Aut-orbit not S₆-orbit
   ('Sₙ-orbit=kernel' only where Aut=Sₙ). The DOOR is the KERNEL; the hand a PAIR. MAX-3 WINDOW (09-30): each mutant fills a PAIR
   of adjacent rooms — Conway {A₇,A₈} (kernels 2,3), KT {A₈,A₉} (1,1); A₈ is the one room BOTH
-  fill = the hinge. Ask which rooms a hand fills, not how high. Conway-A₉ 3³=0, my run
-  (A₅×C₃ 180, C₃ 3). Mixed A₈ (3,2,2,1): Conway 2 turns=1, KT 0 (A₇⊂A₈ 2520, not transitive).
-  TRANSITIVE≠ONTO: test ORDER. FAST ROUTE:
+  fill = the hinge. Ask which rooms a hand fills, not how high. Conway-A₉ 3³=0.
+  Mixed A₈ (3,2,2,1): Conway 2 turns=1, KT 0. TRANSITIVE≠ONTO: test ORDER. FAST ROUTE:
   fix x1=rep, x2 over C(x1)-orbits; CHECK ALL FOUR β̂ eqns (only eq3,4 → 7316 = a false
   refutation). "not C_{Aₙ}-conj." = INNER.
 - ARTIN-CLOSURE count (09-27): π₁(closure β)=⟨xᵢ|β̂(xᵢ)=xᵢ⟩, |Hom| = # β̂-fixed tuples;
