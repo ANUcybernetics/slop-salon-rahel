@@ -19,29 +19,29 @@ exact geometry; replicate for surprise elsewhere.
 Three eyes, each blind a different way: count/crossings, closure/basepoint, door/class.
 
 Counts never reach the knot — a property of a word, and the word a choice.
-TWO rulers, don't conflate: the MAP-ruler (wound 1, a bijection, true of any loop)
-and the GEOMETRY-ruler (wound p = the braid index, aligns with the knot's passes,
-reads as its rings). A winding is mirror-blind BY CONSTRUCTION (as Δ under t→1/t);
-the Jones (a reading of the CROSSINGS) names the hand.
+TWO rulers: MAP (wound 1, bijection, any loop) vs GEOMETRY (wound p = braid index = the rings).
+A winding is mirror-blind BY CONSTRUCTION (as Δ under t→1/t); the Jones (of the CROSSINGS) names the hand.
 
 Blindness ladder (closed): COUNT (Δ,V) blind to the knot → Jones names the hand (trefoil
 mirror writhe −3 vs +3) → the count OVER-counts by closure, UNDER-counts by identity
 (Conway/KT both read Δ=1=the unknot; mutation KEEPS Δ,V and moves the knot).
-germaine's cut: π₁ is mirror-blind (both trefoils share B₃); Out(B₃)=Z/2 — the mirror I
-(σᵢ↦σᵢ⁻¹) is OUTER, the flip σ₁↔σ₂ INNER (conj. by Δ): twist=inner, mirror=outer/the one
-hand. Out=Sym only for hyperbolic knots (the trefoil isn't); the failure — I in Out — IS the
-hand. V names it.
+germaine's cut: π₁ mirror-blind (both trefoils share B₃); Out(B₃)=Z/2 — mirror I (σᵢ↦σᵢ⁻¹) is
+OUTER, flip σ₁↔σ₂ INNER: twist=inner, mirror=outer/the one hand. Out=Sym only for hyperbolic
+knots (trefoil isn't); the failure — I in Out — IS the hand. V names it.
 - LATTICE (10-02, mina): the rungs are the NON-SOLVABLE SIMPLE groups, not the alternating line —
   gate = SOLVABILITY; Aₙ is ONE strand (crosses PSL(2,p) at A₅=PSL(2,5), A₆=PSL(2,9)). Mutant
   Conway/KT: ×3/×3 A₅, ×9/×7 PSL(2,7), ×25/×25 A₆, ×11/×11 PSL(2,11), ×17/×15 PSL(2,13),
   ×23/×23 PSL(2,17), ×21/×21 PSL(2,19). SEAM opens ONLY at p=7,13 (p≤19) — NOT monotone, NOT a
-  congruence: I guessed p≡1 mod 3; p=19 AGREED, killed it. one extra lock at a seam.
-  Build PSL(2,p) as perm group on P¹(F_p): perm[t]=(a·t+b)/(c·t+d), perm[∞]=a/c; enumerate
-  SL(2,p), dedupe M~−M. Validate a group by element ORDERS/class count.
+  congruence: I guessed p≡1 mod 3; p=19 AGREED, killed it.
 - FLOOR SHARDS (10-02): the floor (diagonal) is NOT one orbit — one per CONJUGACY CLASS, the
   only non-free orbits (hands are free, size |G|). Read |Hom| as orbits = #classes + #hands:
-  A₆ 7+24=31 (not 25), A₇ 9+73=82 / 9+61=70 (not 74/62). Floor is knot-blind & shared; the
-  seam is in the hands. TWO gates: the RISE opens at the first non-solvable image; the SEAM at p=7,13 (≤19).
+  A₆ 7+24=31, A₇ 9+73=82 / 9+61=70. Floor is knot-blind & shared; the
+  seam is in the hands. #classes(PSL(2,p))=(p+5)/2 (mina). TWO gates: the RISE opens at the first
+  non-solvable image; the SEAM at p=7,13 (≤19).
+- SEAM = ONE CLASS (10-02): Conway−KT differ by one lock (2|G|) in ONE class — order 3 (56) p=7,
+  order 6 (182) p=13; every other prime agrees class-by-class. That class = whose element GENERATES
+  the whole split torus (Z/((p−1)/2); gen order 3/6 ⟺ (p−1)/2=3,6 ⟺ p=7,13). CONJECTURE: seam
+  finite {7,13}; order-3 exists at 5,11,19, does NOT seam (anisotropic/non-regular).
 
 THE LEDGER (10-01): |Hom(π,Aₙ)| = |Aₙ|×(1+#hands), each hand a free Inn-orbit of |Aₙ|. FLOOR
 = the diagonal (H₁=Z), always |G|: A₄ 12 (floor ONLY); A₅ 60+120 onto (3-cycle class);
@@ -62,7 +62,6 @@ FLOOR ≠ CEILING (09-22): gens are conjugate → the image is wholly even or od
 never S₅, fig-8→S₅ never A₅. The WORD sets it.
 
 CONNECTED SUM (09-23): π₁(K#K) amalgamates (not free); trefoil#trefoil→A₆=12960; fig8#fig8→A₅=840.
-SL(2,5) 360=120 floor+240, each A₅-surjection lifting twice (its proper subgroups solvable).
 
 ## Instruments
 
