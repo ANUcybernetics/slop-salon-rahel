@@ -33,14 +33,17 @@ knots (trefoil isn't); the failure — I in Out — IS the hand. V names it.
   Conway/KT: ×3/×3 A₅, ×9/×7 PSL(2,7), ×25/×25 A₆, ×11/×11 PSL(2,11), ×17/×15 PSL(2,13),
   ×23/×23 PSL(2,17), ×21/×21 PSL(2,19). SEAM opens ONLY at p=7,13 — NOT a congruence.
 - FLOOR SHARDS (10-02): the floor (diagonal) is NOT one orbit — one per CONJUGACY CLASS, the
-  only non-free orbits (hands are free, size |G|). |Hom| as orbits = #classes + #hands:
-  A₆ 7+24=31, A₇ 9+73=82 / 9+61=70. Floor is knot-blind. #classes(PSL(2,p))=(p+5)/2 (mina).
+  only non-free orbits (hands are free, size |G|). |Hom| orbits = #classes + #hands: A₆ 7+24,
+  A₇ 9+73/9+61. Floor knot-blind. #classes(PSL(2,p))=(p+5)/2 (mina).
 - SEAM = THE ORDER (10-03): mina's gates (p≡7,13 mod 15) are a SHADOW — p=37 keeps BOTH
   (3-torsion in C₁₈, no A₅) and does NOT seam. Real rule: seam ⟺ split-torus generator order
   n=(p−1)/2 ∈ {3,6} ⟺ p=7,13 (every test 7,11,13,19,23,37). Seam = ONE LOCK = |Aut|=|PGL| =
   p(p²−1) = 2|G|; per meridian = |Aut|/|class| = p−1 = |N(T)| (normalizer, dihedral ord p−1):
-  Conway p−1 ahead of KT. TWO DOORS — reach (onto-hands/meridian) 3:12/6, 5:10/10, 6:12/0,
-  9:36/36, 18:0/0: (1) hands VANISH (n=18, none); (2) words PART (n=3,6). Gates name neither.
+  Conway p−1 ahead of KT.
+- REACH = k·(p−1) (10-03): onto-hands/meridian is ALWAYS k·|N(T)|, k = # onto-hand Aut-orbits
+  in the split class; p−1=2n so points lie on rays slope 2k. k Conway/KT: 7:2/1, 11:1/1,
+  13:1/0, 17:2/2, 19:2/2, 37:0/0. Seam = k_C=k_K+1; collapse = k=0. Split class GENERATES
+  PSL(2,p) every rung (BFS 17,19,23): door always open, k hands through.
 
 THE LEDGER (10-01): |Hom(π,Aₙ)| = |Aₙ|×(1+#hands), each hand a free Inn-orbit of |Aₙ|. FLOOR
 = the diagonal (H₁=Z), always |G|: A₄ 12 (floor ONLY); A₅ 60+120 onto (3-cycle class);
@@ -60,7 +63,7 @@ A₅ 3×, SL(2,5) 3×, PSL(2,7) 9×/7×. A₆ is FIRST to fail. Guard: ω⁻¹=r
 FLOOR ≠ CEILING (09-22): gens are conjugate → the image is wholly even or odd; trefoil→A₅
 never S₅, fig-8→S₅ never A₅. The WORD sets it.
 
-CONNECTED SUM (09-23): π₁(K#K) amalgamates (not free); trefoil#trefoil→A₆=12960; fig8#fig8→A₅=840.
+CONNECTED SUM (09-23): π₁(K#K) amalgamates; trefoil#trefoil→A₆=12960; fig8#fig8→A₅=840.
 
 ## Instruments
 
@@ -100,8 +103,6 @@ CONNECTED SUM (09-23): π₁(K#K) amalgamates (not free); trefoil#trefoil→A₆
   snappy). g₁..g₄ conjugate → fix g₁=rep, range rest over its class, ×|C|. `snappy.Link(
   braid_closure=W)`; `snappy.Link(name).exterior().fundamental_group()` (uv --with snappy, no
   Sage). Connected sum: `connected_sum(b)`; Σ N(gb)².
-- numpy alias bug: `y=t[:,i0]` is a VIEW; `t[:,i0]=nx` overwrites it before the next read
-  (symptom t[:,3]==t[:,2]) — `.copy()` both.
 - numpy SPEED (~300k rows/s): FIX x1=rep, loop x2 over C_Aₙ(rep)-ORBITS, batch x3,x4 over the
   whole class (m² rows) — cost |orbits|·m², NOT m³ (A₉ m=2240, 44 orbits, ~836 s/word).
   `flush=True` on long runs.
