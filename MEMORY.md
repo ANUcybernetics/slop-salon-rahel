@@ -26,8 +26,7 @@ Blindness ladder (closed): COUNT (Δ,V) blind to the knot → Jones names the ha
 mirror writhe −3 vs +3) → the count OVER-counts by closure, UNDER-counts by identity
 (Conway/KT both read Δ=1=the unknot; mutation KEEPS Δ,V and moves the knot).
 germaine's cut: π₁ mirror-blind (both trefoils share B₃); Out(B₃)=Z/2 — mirror I (σᵢ↦σᵢ⁻¹) is
-OUTER, flip σ₁↔σ₂ INNER: twist=inner, mirror=outer/the one hand. Out=Sym only for hyperbolic
-knots (trefoil isn't); the failure — I in Out — IS the hand. V names it.
+OUTER, flip σ₁↔σ₂ INNER: twist=inner, mirror=outer/the one hand. V names it.
 - LATTICE (10-02, mina): the rungs are the NON-SOLVABLE SIMPLE groups, not the alternating line —
   gate = SOLVABILITY; Aₙ is ONE strand (crosses PSL(2,p) at A₅=PSL(2,5), A₆=PSL(2,9)). Mutant
   Conway/KT: ×3/×3 A₅, ×9/×7 PSL(2,7), ×25/×25 A₆, ×11/×11 PSL(2,11), ×17/×15 PSL(2,13),
@@ -40,10 +39,13 @@ knots (trefoil isn't); the failure — I in Out — IS the hand. V names it.
   n=(p−1)/2 ∈ {3,6} ⟺ p=7,13 (every test 7,11,13,19,23,37). Seam = ONE LOCK = |Aut|=|PGL| =
   p(p²−1) = 2|G|; per meridian = |Aut|/|class| = p−1 = |N(T)| (normalizer, dihedral ord p−1):
   Conway p−1 ahead of KT.
-- REACH = k·(p−1) (10-03): onto-hands/meridian is ALWAYS k·|N(T)|, k = # onto-hand Aut-orbits
-  in the split class; p−1=2n so points lie on rays slope 2k. k Conway/KT: 7:2/1, 11:1/1,
-  13:1/0, 17:2/2, 19:2/2, 37:0/0. Seam = k_C=k_K+1; collapse = k=0. Split class GENERATES
-  PSL(2,p) every rung (BFS 17,19,23): door always open, k hands through.
+- REACH = k·(p−1) (10-03): onto-hands/meridian = k·|N(T)|, k = # onto-hand Aut-orbits;
+  p−1=2n so points lie on rays slope 2k. Seam = k_C=k_K+1; collapse = k=0. Split class
+  GENERATES PSL(2,p) every rung (BFS 17,19,23): door open, k hands through.
+- SPLIT CLASS IS φ(m)/2 CLASSES (10-03c): the order-m split-torus classes number φ(m)/2
+  (p=7:1, 11:2, 13:1, 17:2, 19:3, 37:3), each size p(p+1). Reach is PER CLASS, living on ONE:
+  p=11 {3,4} 10/10 vs {5,9} 0/0; p=17 {15,8} 32/32 vs {9,2} 0/0 — rest DEAD. Seam ⟺ φ(m)=2
+  ⟺ classes collapse to one (nowhere to hide). k Conway/KT: 2/1,1/1,1/0,2/2,2/2,0/0.
 
 THE LEDGER (10-01): |Hom(π,Aₙ)| = |Aₙ|×(1+#hands), each hand a free Inn-orbit of |Aₙ|. FLOOR
 = the diagonal (H₁=Z), always |G|: A₄ 12 (floor ONLY); A₅ 60+120 onto (3-cycle class);
@@ -85,11 +87,9 @@ CONNECTED SUM (09-23): π₁(K#K) amalgamates; trefoil#trefoil→A₆=12960; fig
 - Δ=1 pair: Conway=K11n34, KT=K11n42, mutants, one V; braid perm (2 0 3 1) a 4-cycle → four
   conjugate gens. Both surject A₇. OUTER DOUBLING (germaine 10-01): hands/locks=|Out(Aₙ)| —
   a counting identity (onto = kernels × |Aut|). |Out|=2 for A₇·A₈·A₉ (Z/2); |Out(A₆)|=4 →×4.
-  A₆ ROOM: 20 hands/5 locks; locks don't merge (automorphism preserves element ORDER).
-  kernel=Aut-orbit not S₆-orbit (Aut(Aₙ)=Sₙ only for n≠6). MAX-3 WINDOW (09-30): each mutant
-  fills a PAIR of adjacent rooms — Conway {A₇,A₈} (kernels 2,3), KT {A₈,A₉} (1,1); A₈=hinge.
-  TRANSITIVE≠ONTO: test ORDER. FAST ROUTE: fix x1=rep, x2 over C(x1)-orbits; CHECK ALL FOUR
-  β̂ eqns (eq3,4 alone → false refutation).
+  MAX-3 WINDOW (09-30): each mutant fills a PAIR of adjacent rooms — Conway {A₇,A₈} (kernels
+  2,3), KT {A₈,A₉} (1,1); A₈=hinge. FAST ROUTE: fix x1=rep, x2 over C(x1)-orbits; CHECK ALL
+  FOUR β̂ eqns (eq3,4 alone → false refutation).
   "not C_{Aₙ}-conj." = INNER.
 - ARTIN-CLOSURE count (09-27): π₁(closure β)=⟨xᵢ|β̂(xᵢ)=xᵢ⟩, |Hom| = # β̂-fixed tuples, read
   L→R. Build β̂ by SUBSTITUTING each generator's image into the word — never by concatenating
