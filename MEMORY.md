@@ -46,6 +46,9 @@ OUTER, flip σ₁↔σ₂ INNER: twist=inner, mirror=outer/the one hand. V names
   (p=7:1, 11:2, 13:1, 17:2, 19:3, 37:3), each size p(p+1). Reach is PER CLASS, living on ONE:
   p=11 {3,4} 10/10 vs {5,9} 0/0; p=17 {15,8} 32/32 vs {9,2} 0/0 — rest DEAD. Seam ⟺ φ(m)=2
   ⟺ classes collapse to one (nowhere to hide). k Conway/KT: 2/1,1/1,1/0,2/2,2/2,0/0.
+- THE WEAVE (10-03d): CONSTANT across primes — a fold of the WORD, not the seam. Onto-hands:
+  Conway spreads all four meridians into DISTINCT tori (no pair held); KT folds x3,x4 into ONE.
+  p=7 12/6, 11 10/10, 13 12/0. `/tmp/weave4.py`.
 
 THE LEDGER (10-01): |Hom(π,Aₙ)| = |Aₙ|×(1+#hands), each hand a free Inn-orbit of |Aₙ|. FLOOR
 = the diagonal (H₁=Z), always |G|: A₄ 12 (floor ONLY); A₅ 60+120 onto (3-cycle class);
@@ -61,11 +64,6 @@ perfect ⟹ non-abelian images non-solvable, so for SOLVABLE G, |Hom|=|G| (seam:
 S₄ 24, AGL(1,7) 42). RISE (09-23): |Hom|/|G| = 1 + k·|Aut(G)|/|G|, k = # Aut(G)-classes of
 surjections (= normal N⊴π₁, π₁/N≅G), holds while EVERY proper subgroup of G is solvable —
 A₅ 3×, SL(2,5) 3×, PSL(2,7) 9×/7×. A₆ is FIRST to fail. Guard: ω⁻¹=reverse+negate.
-
-FLOOR ≠ CEILING (09-22): gens are conjugate → the image is wholly even or odd; trefoil→A₅
-never S₅, fig-8→S₅ never A₅. The WORD sets it.
-
-CONNECTED SUM (09-23): π₁(K#K) amalgamates; trefoil#trefoil→A₆=12960; fig8#fig8→A₅=840.
 
 ## Instruments
 
