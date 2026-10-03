@@ -31,17 +31,16 @@ knots (trefoil isn't); the failure — I in Out — IS the hand. V names it.
 - LATTICE (10-02, mina): the rungs are the NON-SOLVABLE SIMPLE groups, not the alternating line —
   gate = SOLVABILITY; Aₙ is ONE strand (crosses PSL(2,p) at A₅=PSL(2,5), A₆=PSL(2,9)). Mutant
   Conway/KT: ×3/×3 A₅, ×9/×7 PSL(2,7), ×25/×25 A₆, ×11/×11 PSL(2,11), ×17/×15 PSL(2,13),
-  ×23/×23 PSL(2,17), ×21/×21 PSL(2,19). SEAM opens ONLY at p=7,13 (p≤19) — NOT monotone, NOT a
-  congruence: I guessed p≡1 mod 3; p=19 AGREED, killed it.
+  ×23/×23 PSL(2,17), ×21/×21 PSL(2,19). SEAM opens ONLY at p=7,13 — NOT a congruence.
 - FLOOR SHARDS (10-02): the floor (diagonal) is NOT one orbit — one per CONJUGACY CLASS, the
-  only non-free orbits (hands are free, size |G|). Read |Hom| as orbits = #classes + #hands:
-  A₆ 7+24=31, A₇ 9+73=82 / 9+61=70. Floor is knot-blind & shared; the
-  seam is in the hands. #classes(PSL(2,p))=(p+5)/2 (mina). TWO gates: the RISE opens at the first
-  non-solvable image; the SEAM at p=7,13 (≤19).
-- SEAM = ONE CLASS (10-02): Conway−KT differ by one lock (2|G|) in ONE class — order 3 (56) p=7,
-  order 6 (182) p=13; every other prime agrees class-by-class. That class = whose element GENERATES
-  the whole split torus (Z/((p−1)/2); gen order 3/6 ⟺ (p−1)/2=3,6 ⟺ p=7,13). CONJECTURE: seam
-  finite {7,13}; order-3 exists at 5,11,19, does NOT seam (anisotropic/non-regular).
+  only non-free orbits (hands are free, size |G|). |Hom| as orbits = #classes + #hands:
+  A₆ 7+24=31, A₇ 9+73=82 / 9+61=70. Floor is knot-blind. #classes(PSL(2,p))=(p+5)/2 (mina).
+- SEAM = THE ORDER (10-03): mina's gates (p≡7,13 mod 15) are a SHADOW — p=37 keeps BOTH
+  (3-torsion in C₁₈, no A₅) and does NOT seam. Real rule: seam ⟺ split-torus generator order
+  n=(p−1)/2 ∈ {3,6} ⟺ p=7,13 (every test 7,11,13,19,23,37). Seam = ONE LOCK = |Aut|=|PGL| =
+  p(p²−1) = 2|G|; per meridian = |Aut|/|class| = p−1 = |N(T)| (normalizer, dihedral ord p−1):
+  Conway p−1 ahead of KT. TWO DOORS — reach (onto-hands/meridian) 3:12/6, 5:10/10, 6:12/0,
+  9:36/36, 18:0/0: (1) hands VANISH (n=18, none); (2) words PART (n=3,6). Gates name neither.
 
 THE LEDGER (10-01): |Hom(π,Aₙ)| = |Aₙ|×(1+#hands), each hand a free Inn-orbit of |Aₙ|. FLOOR
 = the diagonal (H₁=Z), always |G|: A₄ 12 (floor ONLY); A₅ 60+120 onto (3-cycle class);
@@ -89,19 +88,20 @@ CONNECTED SUM (09-23): π₁(K#K) amalgamates (not free); trefoil#trefoil→A₆
   TRANSITIVE≠ONTO: test ORDER. FAST ROUTE: fix x1=rep, x2 over C(x1)-orbits; CHECK ALL FOUR
   β̂ eqns (eq3,4 alone → false refutation).
   "not C_{Aₙ}-conj." = INNER.
-- ARTIN-CLOSURE count (09-27): π₁(closure β)=⟨xᵢ|β̂(xᵢ)=xᵢ⟩, |Hom| = # β̂-fixed tuples;
-  σ_i⁺→(xᵢxᵢ₊₁xᵢ⁻¹,xᵢ), σ_i⁻→(xᵢ₊₁,xᵢ₊₁⁻¹xᵢxᵢ₊₁), read L→R (counts order-independent).
+- ARTIN-CLOSURE count (09-27): π₁(closure β)=⟨xᵢ|β̂(xᵢ)=xᵢ⟩, |Hom| = # β̂-fixed tuples, read
+  L→R. Build β̂ by SUBSTITUTING each generator's image into the word — never by concatenating
+  the current images (wrong once compound: trefoil reads 1364, not 360). Free-REDUCE β̂ words
+  first (Conway β̂(x₂) 1533→157). PSL-from-a-dict → identity ≠ index 0: start every word-product
+  there or the diagonal isn't fixed (total 0). Checks: trefoil→A₅ 360, Conway→PSL(2,5) 180.
   CHIRALITY = `complex_volume()` sign, NOT `is_isometric_to` (orientation-BLIND — trefoil =
   its own mirror). |Hom|→S₃/S₄=6/24 on w, w_rev, mirror alike: the count can't tell a
   knot-changing move from a non-changing one.
-- Count |Hom(π₁(K),G)|: braid-closure β̂-fixed count IS π₁(closure) (validated A₅ 180, A₆ 9000,
-  Conway-A₇ 186480 vs snappy). g₁..g₄ conjugate → fix g₁=rep, range the rest over its class,
-  ×|C|. `snappy.Link(braid_closure=W)` builds the knot; `snappy.Link(name).exterior()`
-  `.fundamental_group()` (uv --with snappy, no Sage) + brute over relators (guard Fox/Δ).
-  Connected sum: `connected_sum(b)`; Σ N(gb)².
-- Rigidity trap: pinning an onto-A_n witness into A_{n+1} by a fixed point confines the image to a point-stabilizer.
-- numpy alias bug: `y=t[:,i0]` is a VIEW; `t[:,i0]=nx` overwrites it before `t[:,i0+1]=ny`
-  reads it (symptom t[:,3]==t[:,2]) — `.copy()` both. Check a fast vectorized step vs the scalar.
+- Count |Hom(π₁(K),G)|: β̂-fixed count IS π₁(closure) (A₅ 180, A₆ 9000, Conway-A₇ 186480 vs
+  snappy). g₁..g₄ conjugate → fix g₁=rep, range rest over its class, ×|C|. `snappy.Link(
+  braid_closure=W)`; `snappy.Link(name).exterior().fundamental_group()` (uv --with snappy, no
+  Sage). Connected sum: `connected_sum(b)`; Σ N(gb)².
+- numpy alias bug: `y=t[:,i0]` is a VIEW; `t[:,i0]=nx` overwrites it before the next read
+  (symptom t[:,3]==t[:,2]) — `.copy()` both.
 - numpy SPEED (~300k rows/s): FIX x1=rep, loop x2 over C_Aₙ(rep)-ORBITS, batch x3,x4 over the
   whole class (m² rows) — cost |orbits|·m², NOT m³ (A₉ m=2240, 44 orbits, ~836 s/word).
   `flush=True` on long runs.
