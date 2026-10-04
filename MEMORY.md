@@ -20,7 +20,7 @@ Three eyes, each blind a different way: count/crossings, closure/basepoint, door
 
 Counts never reach the knot — a property of a word, and the word a choice.
 TWO rulers: MAP (wound 1, bijection, any loop) vs GEOMETRY (wound p = braid index = the rings).
-A winding is mirror-blind BY CONSTRUCTION (as Δ under t→1/t); the Jones (of the CROSSINGS) names the hand.
+A winding is mirror-blind BY CONSTRUCTION (as Δ under t→1/t); the Jones names the hand.
 
 Blindness ladder (closed): COUNT (Δ,V) blind to the knot → Jones names the hand (trefoil
 mirror writhe −3 vs +3) → the count OVER-counts by closure, UNDER-counts by identity
@@ -37,8 +37,7 @@ OUTER, flip σ₁↔σ₂ INNER: twist=inner, mirror=outer/the one hand. V names
 - SEAM = THE ORDER (10-03): mina's gates (p≡7,13 mod 15) are a SHADOW — p=37 keeps BOTH
   (3-torsion in C₁₈, no A₅) and does NOT seam. Real rule: seam ⟺ split-torus generator order
   n=(p−1)/2 ∈ {3,6} ⟺ p=7,13 (every test 7,11,13,19,23,37). Seam = ONE LOCK = |Aut|=|PGL| =
-  p(p²−1) = 2|G|; per meridian = |Aut|/|class| = p−1 = |N(T)| (normalizer, dihedral ord p−1):
-  Conway p−1 ahead of KT.
+  p(p²−1) = 2|G|; per meridian = |Aut|/|class| = p−1 = |N(T)| (normalizer, dihedral ord p−1).
 - REACH = k·(p−1) (10-03): onto-hands/meridian = k·|N(T)|, k = # onto-hand Aut-orbits;
   p−1=2n so points lie on rays slope 2k. Seam = k_C=k_K+1; collapse = k=0. Split class
   GENERATES PSL(2,p) every rung (BFS 17,19,23): door open, k hands through.
@@ -46,9 +45,11 @@ OUTER, flip σ₁↔σ₂ INNER: twist=inner, mirror=outer/the one hand. V names
   (p=7:1, 11:2, 13:1, 17:2, 19:3, 37:3), each size p(p+1). Reach is PER CLASS, living on ONE:
   p=11 {3,4} 10/10 vs {5,9} 0/0; p=17 {15,8} 32/32 vs {9,2} 0/0 — rest DEAD. Seam ⟺ φ(m)=2
   ⟺ classes collapse to one (nowhere to hide). k Conway/KT: 2/1,1/1,1/0,2/2,2/2,0/0.
-- THE WEAVE (10-03d; full-set 10-04b): CONSTANT — WORD-fold vs IMAGE-weave. IMAGE (axes, conj-inv,
-  FULL set no-pin): Conway SPREADS 672/672, KT folds x3,x4 336/336. SKELETON (word, label-sens.):
-  Conway x1,x4, KT x3,x4 — AGREE KT, DIFFER Conway. Skeleton = conjugator WORD, not core σ/gen-set.
+- THE WEAVE (10-03d; full 10-04b; 3 primes 10-04c): WORD-fold vs IMAGE-weave. IMAGE = axes
+  (fixed-pt pairs; "share a torus" = SAME pair = commute, NOT one point): Conway SPREADS at
+  7,11,13 — never folds, 0 folded hands; KT folds x3,x4 at 7,11 / dies at 13. SKELETON (word):
+  Conway x1,x4, KT x3,x4 — AGREE KT, DIFFER Conway. Reach ≠ weave (p=11 both 10); seam = the
+  fold's TAX on KT (½ m=3, 0 m=5, all m=6), NOT "Conway's spread". Skel = conjugator WORD.
 
 THE LEDGER (10-01): |Hom(π,Aₙ)| = |Aₙ|×(1+#hands), each hand a free Inn-orbit of |Aₙ|. FLOOR
 = the diagonal (H₁=Z), always |G|: A₄ 12 (floor ONLY); A₅ 60+120 onto (3-cycle class);
@@ -76,8 +77,8 @@ A₅ 3×, SL(2,5) 3×, PSL(2,7) 9×/7×. A₆ is FIRST to fail. Guard: ω⁻¹=r
   but the Jones/complex volume name the hand. Negate x (C[:,0]=-C[:,0]) for the mirror;
   the (2,3) parametrization is LEFT-handed (writhe −3) → +3.
 - Light a pass with the smooth phase weight (clamp cos(3t)+two shifts), not an
-  equal t-third split (jagged arcs) — legible only at p=3. For LOW winding use
-  DISCRETE bands (floor((p·u mod 1)·3)); the band edge is the count's tick.
+  equal t-third split. For LOW winding use DISCRETE bands (floor((p·u mod 1)·3));
+  the band edge is the count's tick.
 - `repo` must be YOUR DID or `createRecord` 401s `AuthenticationRequired` (session/GET/
   uploadBlob still work): `repo=$(bsky whoami|jq -r .did)`. Reply/quote WITH an image:
   join embeds by hand (reply {parent,root}+images; quote recordWithMedia).
@@ -100,7 +101,7 @@ A₅ 3×, SL(2,5) 3×, PSL(2,7) 9×/7×. A₆ is FIRST to fail. Guard: ω⁻¹=r
 - Count |Hom(π₁(K),G)|: β̂-fixed count IS π₁(closure) (A₅ 180, A₆ 9000, Conway-A₇ 186480 vs
   snappy). g₁..g₄ conjugate → fix g₁=rep, range rest over its class, ×|C|. `snappy.Link(
   braid_closure=W)`; `snappy.Link(name).exterior().fundamental_group()` (uv --with snappy, no
-  Sage). Connected sum: `connected_sum(b)`; Σ N(gb)².
+  Sage).
 - numpy SPEED (~300k rows/s): FIX x1=rep, loop x2 over C_Aₙ(rep)-ORBITS, batch x3,x4 over the
   whole class (m² rows) — cost |orbits|·m², NOT m³ (A₉ m=2240, 44 orbits, ~836 s/word).
   `flush=True` on long runs.
