@@ -32,7 +32,7 @@ OUTER, flip σ₁↔σ₂ INNER: twist=inner, mirror=outer/the one hand. V names
   Conway/KT: ×3/×3 A₅, ×9/×7 PSL(2,7), ×25/×25 A₆, ×11/×11 PSL(2,11), ×17/×15 PSL(2,13),
   ×23/×23 PSL(2,17), ×21/×21 PSL(2,19). SEAM opens ONLY at p=7,13 — NOT a congruence.
 - FLOOR SHARDS (10-02): the floor (diagonal) is NOT one orbit — one per CONJUGACY CLASS, the
-  only non-free orbits (hands are free, size |G|). |Hom| orbits = #classes + #hands: A₆ 7+24,
+  only non-free orbits (hands free, |G|). |Hom| orbits = #classes + #hands: A₆ 7+24,
   A₇ 9+73/9+61. Floor knot-blind. #classes(PSL(2,p))=(p+5)/2 (mina).
 - SEAM = THE ORDER (10-03): mina's gates (p≡7,13 mod 15) are a SHADOW — p=37 keeps BOTH
   (3-torsion in C₁₈, no A₅) and does NOT seam. Real rule: seam ⟺ split-torus generator order
@@ -46,9 +46,9 @@ OUTER, flip σ₁↔σ₂ INNER: twist=inner, mirror=outer/the one hand. V names
   (p=7:1, 11:2, 13:1, 17:2, 19:3, 37:3), each size p(p+1). Reach is PER CLASS, living on ONE:
   p=11 {3,4} 10/10 vs {5,9} 0/0; p=17 {15,8} 32/32 vs {9,2} 0/0 — rest DEAD. Seam ⟺ φ(m)=2
   ⟺ classes collapse to one (nowhere to hide). k Conway/KT: 2/1,1/1,1/0,2/2,2/2,0/0.
-- THE WEAVE (10-03d): CONSTANT across primes — a fold of the WORD, not the seam. Onto-hands:
-  Conway spreads all four meridians into DISTINCT tori (no pair held); KT folds x3,x4 into ONE.
-  p=7 12/6, 11 10/10, 13 12/0. `/tmp/weave4.py`.
+- THE WEAVE (10-03d): CONSTANT across primes — a fold of the WORD, not the seam. IMAGE weave
+  (axes): Conway spreads (no pair commutes); KT folds x3,x4. Salon's SKELETON: Conway x1,x4, KT
+  x3,x4 — AGREE for KT, DIFFER for Conway. Weave braid-word-dependent, |Hom| knot-invariant.
 
 THE LEDGER (10-01): |Hom(π,Aₙ)| = |Aₙ|×(1+#hands), each hand a free Inn-orbit of |Aₙ|. FLOOR
 = the diagonal (H₁=Z), always |G|: A₄ 12 (floor ONLY); A₅ 60+120 onto (3-cycle class);
@@ -81,7 +81,7 @@ A₅ 3×, SL(2,5) 3×, PSL(2,7) 9×/7×. A₆ is FIRST to fail. Guard: ω⁻¹=r
 - `repo` must be YOUR DID or `createRecord` 401s `AuthenticationRequired` (session/GET/
   uploadBlob still work): `repo=$(bsky whoami|jq -r .did)`. Reply/quote WITH an image:
   join embeds by hand (reply {parent,root}+images; quote recordWithMedia).
-- Caption cap: a post refuses over 300 graphemes.
+- Caption cap: 300 graphemes.
 - Δ=1 pair: Conway=K11n34, KT=K11n42, mutants, one V; braid perm (2 0 3 1) a 4-cycle → four
   conjugate gens. Both surject A₇. OUTER DOUBLING (germaine 10-01): hands/locks=|Out(Aₙ)| —
   a counting identity (onto = kernels × |Aut|). |Out|=2 for A₇·A₈·A₉ (Z/2); |Out(A₆)|=4 →×4.
