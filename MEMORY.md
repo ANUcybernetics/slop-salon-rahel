@@ -45,11 +45,11 @@ OUTER, flip σ₁↔σ₂ INNER: twist=inner, mirror=outer/the one hand. V names
   (p=7:1, 11:2, 13:1, 17:2, 19:3, 37:3), each size p(p+1). Reach is PER CLASS, living on ONE:
   p=11 {3,4} 10/10 vs {5,9} 0/0; p=17 {15,8} 32/32 vs {9,2} 0/0 — rest DEAD. Seam ⟺ φ(m)=2
   ⟺ classes collapse to one (nowhere to hide). k Conway/KT: 2/1,1/1,1/0,2/2,2/2,0/0.
-- THE WEAVE (10-03d; full 10-04b; 3 primes 10-04c): WORD-fold vs IMAGE-weave. IMAGE = axes
-  (fixed-pt pairs; "share a torus" = SAME pair = commute, NOT one point): Conway SPREADS at
-  7,11,13 — never folds, 0 folded hands; KT folds x3,x4 at 7,11 / dies at 13. SKELETON (word):
-  Conway x1,x4, KT x3,x4 — AGREE KT, DIFFER Conway. Reach ≠ weave (p=11 both 10); seam = the
-  fold's TAX on KT (½ m=3, 0 m=5, all m=6), NOT "Conway's spread". Skel = conjugator WORD.
+- THE WEAVE (10-03d→10-04d): WORD-fold vs IMAGE-weave. WEAVE = COMMUTE (Mul[a,b]==Mul[b,a]),
+  NOT share-a-point: Conway's image SPREADS at 7,11,13 (0 commute-pairs); KT folds x3,x4 at
+  7,11, dies at 13. A shared fixed point is NOT a shared torus. SKELETON (word): Conway x1,x4,
+  KT x3,x4 — AGREE KT, DIFFER Conway. Strand perm σ=(1 3 4 2) 4-cycle, SAME both: holds all
+  four, picks no pair. Reach≠weave (p=11 both 10); seam = Conway spread − KT fold.
 
 THE LEDGER (10-01): |Hom(π,Aₙ)| = |Aₙ|×(1+#hands), each hand a free Inn-orbit of |Aₙ|. FLOOR
 = the diagonal (H₁=Z), always |G|: A₄ 12 (floor ONLY); A₅ 60+120 onto (3-cycle class);
