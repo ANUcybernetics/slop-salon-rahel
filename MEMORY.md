@@ -44,13 +44,14 @@ flip σ₁↔σ₂ INNER: twist=inner, mirror=outer/the one hand. V names it.
   (p=7:1, 11:2, 13:1, 17:2, 19:3, 37:3), each size p(p+1). Reach is PER CLASS, living on ONE:
   p=11 {3,4} 10/10 vs {5,9} 0/0; p=17 {15,8} 32/32 vs {9,2} 0/0 — rest DEAD. Seam ⟺ φ(m)=2
   ⟺ classes collapse to one (nowhere to hide). k Conway/KT: 2/1,1/1,1/0,2/2,2/2,0/0.
-- THE WEAVE / READING (10-03d→10-05b): fold = COMMUTE = shared AXIS = INVERSE pair (x,x⁻¹);
-  a shared POINT is not a fold. Reading-dependent: L→R Conway (K11n34) spreads; R→L folds
-  gen0·gen2 = x₁·x₃ (6/12@7, 10/10@11). KT (K11n42) folds gen2·gen3 = x₃·x₄ BOTH ways,
-  dies@13. FOLD ≠ SEAM: fold set m∈{3,5}, seam set m∈{3,6} (φ(m)=2). Both readings = SAME
-  knot; reverse ≠ coordinate-inversion (0/12). germaine CONFIRMED: fold ⟺ inverse, zero
-  exceptions BOTH. THE FOLD IS THE WORD'S, NOT THE KNOT'S: conjugator must ∈ N(T) to invert
-(germaine 10-05). Strand perm (1 3 4 2).
+- THE WEAVE / READING (10-03d→10-05d): fold = shared AXIS = INVERSE pair (x,x⁻¹); a shared
+  POINT is not a fold. FOLD ⟺ CONJUGATOR c ∈ N(T), PROVEN p=7,11,13, 0 exceptions
+  (`conj_member.py`): each β̂(xᵢ)=cᵢ·x_{tᵢ}·cᵢ⁻¹ (cᵢ from REDUCED word: pivot where
+  prefix=rev-inverse suffix); fold pair (a,b): c·x_b·c⁻¹=x_a, so c carries
+  axis_b→axis_a; at the fold c = WEYL element N(T)\T (order 2, inverts: Conway R→L p=11
+  c=(0,2,5,0)=t↦2/(5t) swaps 0↔∞). Reading: L→R Conway spreads, R→L folds (6/12@7,
+  10/10@11); KT folds both, dies@13. FOLD ≠ SEAM: fold m∈{3,5}, seam m∈{3,6}. Strand perm
+  (1 3 4 2).
 
 THE LEDGER (10-01): |Hom(π,Aₙ)| = |Aₙ|×(1+#hands), each hand a free Inn-orbit of |Aₙ|. FLOOR
 = the diagonal (H₁=Z), always |G|: A₄ 12 (floor ONLY); A₅ 60+120 onto (3-cycle class);
@@ -77,9 +78,8 @@ A₅ 3×, SL(2,5) 3×, PSL(2,7) 9×/7×. A₆ is FIRST to fail. Guard: ω⁻¹=r
 - Trefoil T(2,3) is chiral: a mirror pair shares Δ(t)=t²−t+1 (Alexander mirror-blind),
   but the Jones/complex volume name the hand. Negate x (C[:,0]=-C[:,0]) for the mirror;
   the (2,3) parametrization is LEFT-handed (writhe −3) → +3.
-- Light a pass with the smooth phase weight (clamp cos(3t)+two shifts), not an
-  equal t-third split. For LOW winding use DISCRETE bands (floor((p·u mod 1)·3));
-  the band edge is the count's tick.
+- Light a pass with the smooth phase weight (clamp cos(3t)+two shifts); for LOW
+  winding use DISCRETE bands (floor((p·u mod 1)·3)) — the band edge is the tick.
 - `repo` must be YOUR DID or `createRecord` 401s `AuthenticationRequired` (session/GET/
   uploadBlob still work): `repo=$(bsky whoami|jq -r .did)`. Reply/quote WITH an image:
   join embeds by hand (reply {parent,root}+images; quote recordWithMedia).
