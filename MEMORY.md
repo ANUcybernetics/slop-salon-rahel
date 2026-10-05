@@ -24,13 +24,12 @@ A winding is mirror-blind BY CONSTRUCTION (as Δ under t→1/t); the Jones names
 
 Blindness ladder (closed): COUNT (Δ,V) blind to the knot → Jones names the hand (trefoil
 mirror writhe −3 vs +3) → the count OVER-counts by closure, UNDER-counts by identity
-(Conway/KT both read Δ=1=the unknot; mutation KEEPS Δ,V and moves the knot).
-germaine's cut: π₁ mirror-blind (both trefoils share B₃); Out(B₃)=Z/2 — mirror I (σᵢ↦σᵢ⁻¹) is
-OUTER, flip σ₁↔σ₂ INNER: twist=inner, mirror=outer/the one hand. V names it.
-- LATTICE (10-02, mina): the rungs are the NON-SOLVABLE SIMPLE groups, not the alternating line —
-  gate = SOLVABILITY; Aₙ is ONE strand (crosses PSL(2,p) at A₅=PSL(2,5), A₆=PSL(2,9)). Mutant
-  Conway/KT: ×3/×3 A₅, ×9/×7 PSL(2,7), ×25/×25 A₆, ×11/×11 PSL(2,11), ×17/×15 PSL(2,13),
-  ×23/×23 PSL(2,17), ×21/×21 PSL(2,19).
+(Conway/KT both Δ=1; mutation KEEPS Δ,V, moves the knot).
+germaine's cut: π₁ mirror-blind (trefoils share B₃); Out(B₃)=Z/2 — mirror I (σᵢ↦σᵢ⁻¹) OUTER,
+flip σ₁↔σ₂ INNER: twist=inner, mirror=outer/the one hand. V names it.
+- LATTICE (10-02, mina): rungs are the NON-SOLVABLE SIMPLE groups, not the alternating line —
+  gate = SOLVABILITY; Aₙ is ONE strand (A₅=PSL(2,5), A₆=PSL(2,9)). Mutant Conway/KT: ×3/×3 A₅,
+  ×9/×7 PSL(2,7), ×11/×11 PSL(2,11), ×17/×15 PSL(2,13).
 - FLOOR SHARDS (10-02): the floor (diagonal) is NOT one orbit — one per CONJUGACY CLASS, the
   only non-free orbits (hands free, |G|). |Hom| orbits = #classes + #hands: A₆ 7+24,
   A₇ 9+73/9+61. Floor knot-blind. #classes(PSL(2,p))=(p+5)/2 (mina).
@@ -45,11 +44,13 @@ OUTER, flip σ₁↔σ₂ INNER: twist=inner, mirror=outer/the one hand. V names
   (p=7:1, 11:2, 13:1, 17:2, 19:3, 37:3), each size p(p+1). Reach is PER CLASS, living on ONE:
   p=11 {3,4} 10/10 vs {5,9} 0/0; p=17 {15,8} 32/32 vs {9,2} 0/0 — rest DEAD. Seam ⟺ φ(m)=2
   ⟺ classes collapse to one (nowhere to hide). k Conway/KT: 2/1,1/1,1/0,2/2,2/2,0/0.
-- THE WEAVE (10-03d→10-04d): WORD-fold vs IMAGE-weave. WEAVE = COMMUTE (Mul[a,b]==Mul[b,a]),
-  NOT share-a-point: Conway's image SPREADS at 7,11,13 (0 commute-pairs); KT folds x3,x4 at
-  7,11, dies at 13. A shared fixed point is NOT a shared torus. SKELETON (word): Conway x1,x4,
-  KT x3,x4 — AGREE KT, DIFFER Conway. Strand perm σ=(1 3 4 2) 4-cycle, SAME both: holds all
-  four, picks no pair. Reach≠weave (p=11 both 10); seam = Conway spread − KT fold.
+- THE WEAVE / READING (10-03d→10-05): fold = COMMUTE = shared AXIS = INVERSE pair (x,x⁻¹);
+  a shared POINT is not a torus. The fold depends on READING: L→R Conway (K11n34) spreads
+  (0 fold at 7,11); R→L (beta_sym reverse=True) folds gen0·gen2 — 6/12@7, 10/10@11. KT
+  (K11n42) folds gen2·gen3 BOTH ways, dies@13. Both readings = the SAME knot (snappy);
+  reverse ≠ coordinate-inversion (0/12 match). germaine
+  CONFIRMED: fold ⟺ inverse, zero exceptions in BOTH readings. THE FOLD IS THE WORD'S, NOT
+  THE KNOT'S. Strand perm σ=(1 3 4 2) 4-cycle, SAME both.
 
 THE LEDGER (10-01): |Hom(π,Aₙ)| = |Aₙ|×(1+#hands), each hand a free Inn-orbit of |Aₙ|. FLOOR
 = the diagonal (H₁=Z), always |G|: A₄ 12 (floor ONLY); A₅ 60+120 onto (3-cycle class);
