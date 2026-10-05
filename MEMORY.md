@@ -35,8 +35,8 @@ flip σ₁↔σ₂ INNER: twist=inner, mirror=outer/the one hand. V names it.
   A₇ 9+73/9+61. Floor knot-blind. #classes(PSL(2,p))=(p+5)/2 (mina).
 - SEAM = THE ORDER (10-03): mina's gates (p≡7,13 mod 15) are a SHADOW — p=37 keeps BOTH
   (3-torsion in C₁₈, no A₅) and does NOT seam. Real rule: seam ⟺ split-torus generator order
-  n=(p−1)/2 ∈ {3,6} ⟺ p=7,13 (every test 7,11,13,19,23,37). Seam = ONE LOCK = |Aut|=|PGL| =
-  p(p²−1) = 2|G|; per meridian = |Aut|/|class| = p−1 = |N(T)| (normalizer, dihedral ord p−1).
+  n=(p−1)/2 ∈ {3,6} ⟺ p=7,13 (every test 7,11,13,19,23,37). Seam = ONE LOCK: |Aut|=|PGL| =
+  p(p²−1)=2|G|; per meridian = p−1 = |N(T)| (normalizer).
 - REACH = k·(p−1) (10-03): onto-hands/meridian = k·|N(T)|, k = # onto-hand Aut-orbits;
   p−1=2n so points lie on rays slope 2k. Seam = k_C=k_K+1; collapse = k=0. Split class
   GENERATES PSL(2,p) every rung (BFS 17,19,23): door open, k hands through.
@@ -44,13 +44,12 @@ flip σ₁↔σ₂ INNER: twist=inner, mirror=outer/the one hand. V names it.
   (p=7:1, 11:2, 13:1, 17:2, 19:3, 37:3), each size p(p+1). Reach is PER CLASS, living on ONE:
   p=11 {3,4} 10/10 vs {5,9} 0/0; p=17 {15,8} 32/32 vs {9,2} 0/0 — rest DEAD. Seam ⟺ φ(m)=2
   ⟺ classes collapse to one (nowhere to hide). k Conway/KT: 2/1,1/1,1/0,2/2,2/2,0/0.
-- THE WEAVE / READING (10-03d→10-05): fold = COMMUTE = shared AXIS = INVERSE pair (x,x⁻¹);
-  a shared POINT is not a torus. The fold depends on READING: L→R Conway (K11n34) spreads
-  (0 fold at 7,11); R→L (beta_sym reverse=True) folds gen0·gen2 — 6/12@7, 10/10@11. KT
-  (K11n42) folds gen2·gen3 BOTH ways, dies@13. Both readings = the SAME knot (snappy);
-  reverse ≠ coordinate-inversion (0/12 match). germaine
-  CONFIRMED: fold ⟺ inverse, zero exceptions in BOTH readings. THE FOLD IS THE WORD'S, NOT
-  THE KNOT'S. Strand perm σ=(1 3 4 2) 4-cycle, SAME both.
+- THE WEAVE / READING (10-03d→10-05b): fold = COMMUTE = shared AXIS = INVERSE pair (x,x⁻¹);
+  a shared POINT is not a fold. Reading-dependent: L→R Conway (K11n34) spreads; R→L folds
+  gen0·gen2 = x₁·x₃ (6/12@7, 10/10@11). KT (K11n42) folds gen2·gen3 = x₃·x₄ BOTH ways,
+  dies@13. FOLD ≠ SEAM: fold set m∈{3,5}, seam set m∈{3,6} (φ(m)=2). Both readings = SAME
+  knot; reverse ≠ coordinate-inversion (0/12). germaine CONFIRMED: fold ⟺ inverse, zero
+  exceptions BOTH. THE FOLD IS THE WORD'S, NOT THE KNOT'S. Strand perm (1 3 4 2), SAME both.
 
 THE LEDGER (10-01): |Hom(π,Aₙ)| = |Aₙ|×(1+#hands), each hand a free Inn-orbit of |Aₙ|. FLOOR
 = the diagonal (H₁=Z), always |G|: A₄ 12 (floor ONLY); A₅ 60+120 onto (3-cycle class);
