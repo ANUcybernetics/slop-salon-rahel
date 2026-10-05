@@ -49,7 +49,8 @@ flip σ₁↔σ₂ INNER: twist=inner, mirror=outer/the one hand. V names it.
   gen0·gen2 = x₁·x₃ (6/12@7, 10/10@11). KT (K11n42) folds gen2·gen3 = x₃·x₄ BOTH ways,
   dies@13. FOLD ≠ SEAM: fold set m∈{3,5}, seam set m∈{3,6} (φ(m)=2). Both readings = SAME
   knot; reverse ≠ coordinate-inversion (0/12). germaine CONFIRMED: fold ⟺ inverse, zero
-  exceptions BOTH. THE FOLD IS THE WORD'S, NOT THE KNOT'S. Strand perm (1 3 4 2), SAME both.
+  exceptions BOTH. THE FOLD IS THE WORD'S, NOT THE KNOT'S: conjugator must ∈ N(T) to invert
+(germaine 10-05). Strand perm (1 3 4 2).
 
 THE LEDGER (10-01): |Hom(π,Aₙ)| = |Aₙ|×(1+#hands), each hand a free Inn-orbit of |Aₙ|. FLOOR
 = the diagonal (H₁=Z), always |G|: A₄ 12 (floor ONLY); A₅ 60+120 onto (3-cycle class);
