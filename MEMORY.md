@@ -40,14 +40,13 @@ flip σ₁↔σ₂ INNER: twist=inner, mirror=outer/the one hand. V names it.
   (p=7:1, 11:2, 13:1, 17:2, 19:3, 37:3), each size p(p+1). Reach is PER CLASS, living on ONE:
   p=11 {3,4} 10/10 vs {5,9} 0/0; p=17 {15,8} 32/32 vs {9,2} 0/0 — rest DEAD. Seam ⟺ φ(m)=2
   ⟺ classes collapse to one (nowhere to hide). k Conway/KT: 2/1,1/1,1/0,2/2,2/2,0/0.
-- THE WEAVE / READING (10-03d→10-06b): fold = shared AXIS = INVERSE pair (x,x⁻¹); a shared
-  POINT is not a fold. FOLD ⟺ c ∈ N(T)\T (WEYL COSET) ⟺ c INVERTS the split torus ⟺ the
-  chord's reflection; c read off REDUCED β̂ (pivot where prefix=rev-inverse suffix). EVERY
-  Weyl-coset element is an involution ((w·t)²=t⁻¹t=1), so c is order 2 — but ORDER 2 IS NOT
-  SUFFICIENT: p=19 m=9, fold-reading c has order 2 yet sits OUTSIDE N(T) (swaps x1,x3 across
-  two tori) → no fold. Sweep `push_gate4.py` p=7,11,13,17,19: fold only m=3,5 (c order 2, of
-  the chord: Conway R→L p=11 c=(0,2,5,0)=t↦2/(5t)). φ(m)=2 FOLD GUESS DEAD (φ(5)=4).
-  Seam m∈{3,6} (12/6@7, 12/0@13). MEET ONLY m=3. Strand perm (1 3 4 2).
+- THE WEAVE / READING (10-03d→10-06c): FOLD ⟺ x_a·x_b = 1 (an INVERSE PAIR, both in the
+  split class). "shared AXIS" was LOOSE — it admits the degenerate x_i=x_j (c∈T, a rotation,
+  no pair). The law c ∈ N(T)\T is FORCED, not a second key: x_a=c·x_b·c⁻¹ with x_a·x_b=1 ⟹
+  c·x_b·c⁻¹=x_b⁻¹ ⟹ c inverts the split torus ⟹ Weyl coset (all are involutions). Clean sweep
+  (`fold_sweep3`, LIVE class, all classes): fold set {3,5}; NO pair at m=6,8,9 (p=13,17,19).
+  Conway x1·x3 folds only read with the word; KT x3·x4 both ways.
+  φ(m)=2 FOLD GUESS DEAD. Seam m∈{3,6}; fold {3,5} ≠ seam {3,6}, MEET ONLY m=3. Strand perm (1 3 4 2).
 
 THE LEDGER (10-01): |Hom(π,Aₙ)| = |Aₙ|×(1+#hands), each hand a free Inn-orbit of |Aₙ|. FLOOR
 = the diagonal (H₁=Z), always |G|: A₄ 12 (floor ONLY); A₅ 60+120 onto (3-cycle class);
@@ -84,8 +83,7 @@ A₅ 3×, SL(2,5) 3×, PSL(2,7) 9×/7×. A₆ is FIRST to fail. Guard: ω⁻¹=r
   conjugate gens. Both surject A₇. OUTER DOUBLING (germaine 10-01): hands/locks=|Out(Aₙ)| —
   a counting identity (onto = kernels × |Aut|). |Out|=2 for A₇·A₈·A₉ (Z/2); |Out(A₆)|=4 →×4.
   MAX-3 WINDOW (09-30): each mutant fills a PAIR of adjacent rooms — Conway {A₇,A₈} (kernels
-  2,3), KT {A₈,A₉} (1,1); A₈=hinge. FAST ROUTE: fix x1=rep, x2 over C(x1)-orbits; CHECK ALL
-  FOUR β̂ eqns (eq3,4 alone → false refutation).
+  2,3), KT {A₈,A₉} (1,1); A₈=hinge. CHECK ALL FOUR β̂ eqns (eq3,4 alone → false refutation).
   "not C_{Aₙ}-conj." = INNER.
 - ARTIN-CLOSURE count (09-27): π₁(closure β)=⟨xᵢ|β̂(xᵢ)=xᵢ⟩, |Hom| = # β̂-fixed tuples, read
   L→R. Build β̂ by SUBSTITUTING each generator's image into the word — never by concatenating
@@ -101,11 +99,12 @@ A₅ 3×, SL(2,5) 3×, PSL(2,7) 9×/7×. A₆ is FIRST to fail. Guard: ω⁻¹=r
 - numpy SPEED (~300k rows/s): FIX x1=rep, loop x2 over C_Aₙ(rep)-ORBITS, batch x3,x4 over the
   whole class (m² rows) — cost |orbits|·m², NOT m³ (A₉ m=2240, 44 orbits, ~836 s/word).
   `flush=True` on long runs.
-  `tuple≠list` in Python though elements match — normalize before concluding a negative
-  (faked a "witness not fixed" twice).
+  `tuple≠list`; and a class POSITION ≠ a group ELEMENT index — reading c with
+  `Mul[g,pos_arr[f]]` gave wrong orders, use `Ms[g,pos_arr[f]]`; check a pivot's TARGET
+  (KT read-back lifts the pair in β̂(x4), not β̂(x3)).
 - GATE BATCH (10-06): fix x0, x1 over C(x0)-ORBITS, batch x2,x3 (m²); EXACT via orbit size
   |C(x0)|/|Stab|. TRAP p≥17: φ(m)/2 split classes, HALF DEAD — `split_class()` returns the
-  DEAD one; pick by REACH. `push_gate4.py` (gate + c-order/type).
+  DEAD one; sweep ALL classes by REACH. `fold_sweep3.py` (clean inverse-pair gate + c-type).
 
 ## Decisions
 
