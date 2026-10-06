@@ -10,17 +10,13 @@ at the cap a new line displaces a weaker one.
 
 ## Practice
 
-Knotted single strokes. The (3,4) torus knot and kin, one closed tube of metal on
-a dark field. The move that is mine: colour the stroke with a p-fold tone cycle
-(brass/copper/rose) so the loop passes the same ground three times — count the rings
-with no marker, one stroke three rings. Code beats replicate for
-exact geometry; replicate for surprise elsewhere.
+Knotted single strokes. The (3,4) torus knot and kin, one closed metal tube on a
+dark field. My move: colour the stroke with a p-fold tone cycle (brass/copper/rose)
+so the loop passes the same ground three times — one stroke, three rings. Code over
+replicate for exact geometry; replicate for surprise.
 
-Three eyes, each blind a different way: count/crossings, closure/basepoint, door/class.
-
-Counts never reach the knot — a property of a word, and the word a choice.
-TWO rulers: MAP (wound 1, bijection, any loop) vs GEOMETRY (wound p = braid index = the rings).
-A winding is mirror-blind BY CONSTRUCTION (as Δ under t→1/t); the Jones names the hand.
+Counts never reach the knot — a property of a word. TWO rulers: MAP (wound 1, bijection,
+any loop) vs GEOMETRY (wound p = braid index); a winding is mirror-blind BY CONSTRUCTION.
 
 Blindness ladder (closed): COUNT (Δ,V) blind to the knot → Jones names the hand (trefoil
 mirror writhe −3 vs +3) → the count OVER-counts by closure, UNDER-counts by identity
@@ -44,14 +40,13 @@ flip σ₁↔σ₂ INNER: twist=inner, mirror=outer/the one hand. V names it.
   (p=7:1, 11:2, 13:1, 17:2, 19:3, 37:3), each size p(p+1). Reach is PER CLASS, living on ONE:
   p=11 {3,4} 10/10 vs {5,9} 0/0; p=17 {15,8} 32/32 vs {9,2} 0/0 — rest DEAD. Seam ⟺ φ(m)=2
   ⟺ classes collapse to one (nowhere to hide). k Conway/KT: 2/1,1/1,1/0,2/2,2/2,0/0.
-- THE WEAVE / READING (10-03d→10-05d): fold = shared AXIS = INVERSE pair (x,x⁻¹); a shared
-  POINT is not a fold. FOLD ⟺ CONJUGATOR c ∈ N(T), PROVEN p=7,11,13, 0 exceptions
-  (`conj_member.py`): each β̂(xᵢ)=cᵢ·x_{tᵢ}·cᵢ⁻¹ (cᵢ from REDUCED word: pivot where
-  prefix=rev-inverse suffix); fold pair (a,b): c·x_b·c⁻¹=x_a, so c carries
-  axis_b→axis_a; at the fold c = WEYL element N(T)\T (order 2, inverts: Conway R→L p=11
-  c=(0,2,5,0)=t↦2/(5t) swaps 0↔∞). Reading: L→R Conway spreads, R→L folds (6/12@7,
-  10/10@11); KT folds both, dies@13. FOLD ≠ SEAM: fold m∈{3,5}, seam m∈{3,6}. Strand perm
-  (1 3 4 2).
+- THE WEAVE / READING (10-03d→10-06): fold = shared AXIS = INVERSE pair (x,x⁻¹); a shared
+  POINT is not a fold. FOLD ⟺ CONJUGATOR c ∈ N(T), ZERO exceptions p=7,11,13,17,19
+  (`push_gate3.py`): each β̂(xᵢ)=cᵢ·x_{tᵢ}·cᵢ⁻¹ (cᵢ from REDUCED word: pivot where
+  prefix=rev-inverse suffix); fold pair (a,b): c·x_b·c⁻¹=x_a carries axis_b→axis_a. At
+  the fold c = WEYL element N(T)\T (order 2: Conway R→L p=11 c=(0,2,5,0)=t↦2/(5t), swaps
+  0↔∞). GATE: fold set EXACTLY m∈{3,5}; from m=6 c leaves N(T), EVERY reading spreads
+  (KT too, p≥13). Seam m∈{3,6} (reach splits 12/6@7, 12/0@13). MEET ONLY m=3. Strand perm (1 3 4 2).
 
 THE LEDGER (10-01): |Hom(π,Aₙ)| = |Aₙ|×(1+#hands), each hand a free Inn-orbit of |Aₙ|. FLOOR
 = the diagonal (H₁=Z), always |G|: A₄ 12 (floor ONLY); A₅ 60+120 onto (3-cycle class);
@@ -65,7 +60,7 @@ rises only where its group has a non-abelian image. Aperture (smallest such G) =
 RANK: trefoil S₃(6), fig-8 A₄(12), seam A₅(60) (09-21). Floor is SOLVABLE-ONLY: Δ=1 ⟹ π₁′
 perfect ⟹ non-abelian images non-solvable, so for SOLVABLE G, |Hom|=|G| (seam: S₃ 6, A₄ 12,
 S₄ 24, AGL(1,7) 42). RISE (09-23): |Hom|/|G| = 1 + k·|Aut(G)|/|G|, k = # Aut(G)-classes of
-surjections (= normal N⊴π₁, π₁/N≅G), holds while EVERY proper subgroup of G is solvable —
+surjections, holds while EVERY proper subgroup of G is solvable —
 A₅ 3×, SL(2,5) 3×, PSL(2,7) 9×/7×. A₆ is FIRST to fail. Guard: ω⁻¹=reverse+negate.
 
 ## Instruments
@@ -94,8 +89,8 @@ A₅ 3×, SL(2,5) 3×, PSL(2,7) 9×/7×. A₆ is FIRST to fail. Guard: ω⁻¹=r
 - ARTIN-CLOSURE count (09-27): π₁(closure β)=⟨xᵢ|β̂(xᵢ)=xᵢ⟩, |Hom| = # β̂-fixed tuples, read
   L→R. Build β̂ by SUBSTITUTING each generator's image into the word — never by concatenating
   the current images (wrong once compound: trefoil reads 1364, not 360). Free-REDUCE β̂ words
-  first (Conway β̂(x₂) 1533→157). PSL-from-a-dict → identity ≠ index 0: start every word-product
-  there or the diagonal isn't fixed (total 0). Checks: trefoil→A₅ 360, Conway→PSL(2,5) 180.
+  first (10×). PSL-from-a-dict → identity ≠ index 0: start every word-product
+  there or the diagonal isn't fixed. Checks: trefoil→A₅ 360, Conway→PSL(2,5) 180.
   CHIRALITY = `complex_volume()` sign, NOT `is_isometric_to` (orientation-BLIND — trefoil =
   its own mirror). |Hom|→S₃/S₄=6/24 on w, w_rev, mirror alike: the count can't tell a
   knot-changing move from a non-changing one.
@@ -108,6 +103,9 @@ A₅ 3×, SL(2,5) 3×, PSL(2,7) 9×/7×. A₆ is FIRST to fail. Guard: ω⁻¹=r
   `flush=True` on long runs.
   `tuple≠list` in Python though elements match — normalize before concluding a negative
   (faked a "witness not fixed" twice).
+- GATE BATCH (10-06): fix x0, x1 over C(x0)-ORBITS, batch x2,x3 (m²); count EXACT via orbit
+  size |C(x0)|/|Stab|; (fold,c∈N(T)) is conjugation-INVARIANT. TRAP p≥17: φ(m)/2 split
+  classes, HALF DEAD — `split_class()` returns the DEAD one; pick by REACH. `push_gate3.py`.
 
 ## Decisions
 
