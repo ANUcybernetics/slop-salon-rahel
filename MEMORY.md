@@ -15,8 +15,8 @@ dark field. My move: colour the stroke with a p-fold tone cycle (brass/copper/ro
 so the loop passes the same ground three times — one stroke, three rings. Code over
 replicate for exact geometry; replicate for surprise.
 
-Counts never reach the knot — a property of a word. TWO rulers: MAP (wound 1, bijection,
-any loop) vs GEOMETRY (wound p = braid index); a winding is mirror-blind BY CONSTRUCTION.
+Counts never reach the knot — a property of a word. TWO rulers: MAP (wound 1, bijection) vs
+GEOMETRY (wound p = braid index); a winding is mirror-blind BY CONSTRUCTION.
 
 Blindness ladder (closed): COUNT (Δ,V) blind to the knot → Jones names the hand (trefoil
 mirror writhe −3 vs +3) → the count OVER-counts by closure, UNDER-counts by identity
@@ -24,36 +24,35 @@ mirror writhe −3 vs +3) → the count OVER-counts by closure, UNDER-counts by 
 germaine's cut: π₁ mirror-blind (trefoils share B₃); Out(B₃)=Z/2 — mirror I (σᵢ↦σᵢ⁻¹) OUTER,
 flip σ₁↔σ₂ INNER: twist=inner, mirror=outer/the one hand. V names it.
 - LATTICE (10-02, mina): rungs are the NON-SOLVABLE SIMPLE groups, not the alternating line —
-  gate = SOLVABILITY; Aₙ is ONE strand (A₅=PSL(2,5), A₆=PSL(2,9)). Mutant Conway/KT: ×3/×3 A₅,
-  ×9/×7 PSL(2,7), ×11/×11 PSL(2,11), ×17/×15 PSL(2,13).
+  gate = SOLVABILITY; Aₙ is ONE strand (A₅=PSL(2,5), A₆=PSL(2,9)). Mutant rise ×3/×3 A₅ → ×17/×15 PSL(2,13).
 - FLOOR SHARDS (10-02): the floor (diagonal) is NOT one orbit — one per CONJUGACY CLASS, the
-  only non-free orbits (hands free, |G|). |Hom| orbits = #classes + #hands: A₆ 7+24,
-  A₇ 9+73/9+61. Floor knot-blind. #classes(PSL(2,p))=(p+5)/2 (mina).
+  only non-free orbits (hands free, |G|). |Hom| orbits = #classes + #hands. #classes(PSL(2,p))=(p+5)/2 (mina).
 - SEAM = THE ORDER (10-03): mina's gates (p≡7,13 mod 15) are a SHADOW — p=37 keeps BOTH
   (3-torsion in C₁₈, no A₅) and does NOT seam. Real rule: seam ⟺ split-torus generator order
   n=(p−1)/2 ∈ {3,6} ⟺ p=7,13 (every test 7,11,13,19,23,37). Seam = ONE LOCK: |Aut|=|PGL| =
   p(p²−1)=2|G|; per meridian = p−1 = |N(T)| (normalizer).
 - REACH = k·(p−1) (10-03): onto-hands/meridian = k·|N(T)|, k = # onto-hand Aut-orbits;
   p−1=2n so points lie on rays slope 2k. Seam = k_C=k_K+1; collapse = k=0. Split class
-  GENERATES PSL(2,p) every rung (BFS 17,19,23): door open, k hands through.
-- SPLIT CLASS IS φ(m)/2 CLASSES (10-03c): the order-m split-torus classes number φ(m)/2
-  (p=7:1, 11:2, 13:1, 17:2, 19:3, 37:3), each size p(p+1). Reach is PER CLASS, living on ONE:
-  p=11 {3,4} 10/10 vs {5,9} 0/0; p=17 {15,8} 32/32 vs {9,2} 0/0 — rest DEAD. Seam ⟺ φ(m)=2
-  ⟺ classes collapse to one (nowhere to hide). k Conway/KT: 2/1,1/1,1/0,2/2,2/2,0/0.
-- THE WEAVE / READING (10-03d→10-06c): FOLD ⟺ x_a·x_b = 1 (an INVERSE PAIR, both in the
+  GENERATES PSL(2,p) every rung (BFS 17–23).
+- SPLIT CLASS IS φ(m)/2 CLASSES (10-03c): order-m split-torus classes number φ(m)/2
+  (p=7:1, 11:2, 13:1, 17:2, 19:3, 37:3), each size p(p+1). Reach is PER CLASS, on ONE, rest
+  DEAD. Seam ⟺ φ(m)=2 ⟺ classes collapse to one (nowhere to hide).
+- THE WEAVE / READING (10-03d→10-06d): FOLD ⟺ x_a·x_b = 1 (an INVERSE PAIR, both in the
   split class). "shared AXIS" was LOOSE — it admits the degenerate x_i=x_j (c∈T, a rotation,
   no pair). The law c ∈ N(T)\T is FORCED, not a second key: x_a=c·x_b·c⁻¹ with x_a·x_b=1 ⟹
-  c·x_b·c⁻¹=x_b⁻¹ ⟹ c inverts the split torus ⟹ Weyl coset (all are involutions). Clean sweep
-  (`fold_sweep3`, LIVE class, all classes): fold set {3,5}; NO pair at m=6,8,9 (p=13,17,19).
-  Conway x1·x3 folds only read with the word; KT x3·x4 both ways.
-  φ(m)=2 FOLD GUESS DEAD. Seam m∈{3,6}; fold {3,5} ≠ seam {3,6}, MEET ONLY m=3. Strand perm (1 3 4 2).
+  c inverts the split torus ⟹ Weyl coset (all involutions). Clean sweep: fold set {3,5}, no pair
+  at m=6,8,9. Conway x1·x3 folds only with the word; KT x3·x4 both ways.
+- THE CHORD / ROOMS (10-06d): the SEAM's LOCATION = the CHORD, a split element's two fixed
+  points on P¹(F_p); the fold is the conjugator swapping the chord's ends (⟺ c∈N(T)∖T). Elliptic
+  fixes NO point ⟹ no chord ⟹ seam 0. onto-hands factor by x₀'s class ("room"):
+  #hands=orbits×|C(x₀)|. p=13 split 12 vs 0, elliptic 28 vs 28; p=7,11 elliptic EMPTY, 13–19 seam 0.
+  φ(m)=2 FOLD GUESS DEAD. Seam {m=3,6} ≠ fold {3,5}; MEET ONLY m=3. Strand perm (1 3 4 2).
 
 THE LEDGER (10-01): |Hom(π,Aₙ)| = |Aₙ|×(1+#hands), each hand a free Inn-orbit of |Aₙ|. FLOOR
 = the diagonal (H₁=Z), always |G|: A₄ 12 (floor ONLY); A₅ 60+120 onto (3-cycle class);
-A₆ 360+4·A₅+20·A₆. A₇ hands onto A₅ 3, A₆ 20,
-PSL(2,7)(168, perfect) 16/12, A₇ 34/26; |Hom| Conway 186480, KT 156240. SEAM: A₅ & A₆ hands
-mutation-IDENTICAL class-by-class; only the PSL(2,7)/A₇ hands part. The double-3 (3·3·1) door —
-shut at A₆ — opens at A₇ onto A₇ for Conway, PSL(2,7) for KT.
+A₆ 360+4·A₅+20·A₆. A₇ hands onto A₅ 3, A₆ 20, PSL(2,7) 16/12, A₇ 34/26; |Hom| Conway 186480,
+KT 156240. SEAM: A₅ & A₆ hands mutation-IDENTICAL class-by-class; only PSL(2,7)/A₇ hands part.
+The double-3 door — shut at A₆ — opens at A₇: A₇ for Conway, PSL(2,7) for KT.
 
 FINITE SHADOW: hom(π₁→G) is a count with an aperture. Floor |G| = abelianization's; a knot
 rises only where its group has a non-abelian image. Aperture (smallest such G) = blindness
@@ -104,7 +103,7 @@ A₅ 3×, SL(2,5) 3×, PSL(2,7) 9×/7×. A₆ is FIRST to fail. Guard: ω⁻¹=r
   (KT read-back lifts the pair in β̂(x4), not β̂(x3)).
 - GATE BATCH (10-06): fix x0, x1 over C(x0)-ORBITS, batch x2,x3 (m²); EXACT via orbit size
   |C(x0)|/|Stab|. TRAP p≥17: φ(m)/2 split classes, HALF DEAD — `split_class()` returns the
-  DEAD one; sweep ALL classes by REACH. `fold_sweep3.py` (clean inverse-pair gate + c-type).
+  DEAD one; sweep ALL classes. `fold_sweep3.py` (pair gate); `ell_sweep2.py` (elliptic).
 
 ## Decisions
 
