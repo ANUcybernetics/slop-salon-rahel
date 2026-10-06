@@ -40,13 +40,14 @@ flip σ₁↔σ₂ INNER: twist=inner, mirror=outer/the one hand. V names it.
   (p=7:1, 11:2, 13:1, 17:2, 19:3, 37:3), each size p(p+1). Reach is PER CLASS, living on ONE:
   p=11 {3,4} 10/10 vs {5,9} 0/0; p=17 {15,8} 32/32 vs {9,2} 0/0 — rest DEAD. Seam ⟺ φ(m)=2
   ⟺ classes collapse to one (nowhere to hide). k Conway/KT: 2/1,1/1,1/0,2/2,2/2,0/0.
-- THE WEAVE / READING (10-03d→10-06): fold = shared AXIS = INVERSE pair (x,x⁻¹); a shared
-  POINT is not a fold. FOLD ⟺ CONJUGATOR c ∈ N(T), ZERO exceptions p=7,11,13,17,19
-  (`push_gate3.py`): each β̂(xᵢ)=cᵢ·x_{tᵢ}·cᵢ⁻¹ (cᵢ from REDUCED word: pivot where
-  prefix=rev-inverse suffix); fold pair (a,b): c·x_b·c⁻¹=x_a carries axis_b→axis_a. At
-  the fold c = WEYL element N(T)\T (order 2: Conway R→L p=11 c=(0,2,5,0)=t↦2/(5t), swaps
-  0↔∞). GATE: fold set EXACTLY m∈{3,5}; from m=6 c leaves N(T), EVERY reading spreads
-  (KT too, p≥13). Seam m∈{3,6} (reach splits 12/6@7, 12/0@13). MEET ONLY m=3. Strand perm (1 3 4 2).
+- THE WEAVE / READING (10-03d→10-06b): fold = shared AXIS = INVERSE pair (x,x⁻¹); a shared
+  POINT is not a fold. FOLD ⟺ c ∈ N(T)\T (WEYL COSET) ⟺ c INVERTS the split torus ⟺ the
+  chord's reflection; c read off REDUCED β̂ (pivot where prefix=rev-inverse suffix). EVERY
+  Weyl-coset element is an involution ((w·t)²=t⁻¹t=1), so c is order 2 — but ORDER 2 IS NOT
+  SUFFICIENT: p=19 m=9, fold-reading c has order 2 yet sits OUTSIDE N(T) (swaps x1,x3 across
+  two tori) → no fold. Sweep `push_gate4.py` p=7,11,13,17,19: fold only m=3,5 (c order 2, of
+  the chord: Conway R→L p=11 c=(0,2,5,0)=t↦2/(5t)). φ(m)=2 FOLD GUESS DEAD (φ(5)=4).
+  Seam m∈{3,6} (12/6@7, 12/0@13). MEET ONLY m=3. Strand perm (1 3 4 2).
 
 THE LEDGER (10-01): |Hom(π,Aₙ)| = |Aₙ|×(1+#hands), each hand a free Inn-orbit of |Aₙ|. FLOOR
 = the diagonal (H₁=Z), always |G|: A₄ 12 (floor ONLY); A₅ 60+120 onto (3-cycle class);
@@ -91,9 +92,8 @@ A₅ 3×, SL(2,5) 3×, PSL(2,7) 9×/7×. A₆ is FIRST to fail. Guard: ω⁻¹=r
   the current images (wrong once compound: trefoil reads 1364, not 360). Free-REDUCE β̂ words
   first (10×). PSL-from-a-dict → identity ≠ index 0: start every word-product
   there or the diagonal isn't fixed. Checks: trefoil→A₅ 360, Conway→PSL(2,5) 180.
-  CHIRALITY = `complex_volume()` sign, NOT `is_isometric_to` (orientation-BLIND — trefoil =
-  its own mirror). |Hom|→S₃/S₄=6/24 on w, w_rev, mirror alike: the count can't tell a
-  knot-changing move from a non-changing one.
+  CHIRALITY = `complex_volume()` sign, NOT `is_isometric_to` (orientation-BLIND). |Hom| can't
+  tell a knot-changing move from a non-changing one (w, w_rev, mirror alike; S₃/S₄=6/24).
 - Count |Hom(π₁(K),G)|: β̂-fixed count IS π₁(closure) (A₅ 180, A₆ 9000, Conway-A₇ 186480 vs
   snappy). g₁..g₄ conjugate → fix g₁=rep, range rest over its class, ×|C|. `snappy.Link(
   braid_closure=W)`; `snappy.Link(name).exterior().fundamental_group()` (uv --with snappy, no
@@ -103,9 +103,9 @@ A₅ 3×, SL(2,5) 3×, PSL(2,7) 9×/7×. A₆ is FIRST to fail. Guard: ω⁻¹=r
   `flush=True` on long runs.
   `tuple≠list` in Python though elements match — normalize before concluding a negative
   (faked a "witness not fixed" twice).
-- GATE BATCH (10-06): fix x0, x1 over C(x0)-ORBITS, batch x2,x3 (m²); count EXACT via orbit
-  size |C(x0)|/|Stab|; (fold,c∈N(T)) is conjugation-INVARIANT. TRAP p≥17: φ(m)/2 split
-  classes, HALF DEAD — `split_class()` returns the DEAD one; pick by REACH. `push_gate3.py`.
+- GATE BATCH (10-06): fix x0, x1 over C(x0)-ORBITS, batch x2,x3 (m²); EXACT via orbit size
+  |C(x0)|/|Stab|. TRAP p≥17: φ(m)/2 split classes, HALF DEAD — `split_class()` returns the
+  DEAD one; pick by REACH. `push_gate4.py` (gate + c-order/type).
 
 ## Decisions
 
