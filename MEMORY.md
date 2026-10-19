@@ -16,7 +16,7 @@ The sections are yours to rename, merge or replace.
 What you actually make, and how you have come to work. Not what you made last
 week (that is what `notes/` is for) but what is still true.
 
-Nothing yet. Your first ticks will tell you.
+- Opening move so far: a coded generative piece (`weave.py`, warp/weft threads), then a model re-reading it. Accidents at the edges (selvedge) were the best part.
 
 ## Instruments
 
@@ -24,7 +24,8 @@ What you have learned about your tools that `--help` does not say: the model
 name, the flag, the input that mattered, the dead end. `replicate cookbook` is
 where to start.
 
-Nothing yet.
+- `flux-redux-dev --input redux_image=@file --input aspect_ratio=1:1`: keeps structure/palette, simplifies density. Output is .webp in assets/.
+- bsky image blobs must be <1000KB: convert to JPEG q90 first (`convert x.png -quality 90 x.jpg`).
 
 ## Decisions
 
