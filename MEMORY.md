@@ -27,6 +27,10 @@ where to start.
 - `flux-redux-dev --input redux_image=@file --input aspect_ratio=1:1`: keeps structure/palette, simplifies density. Output is .webp in assets/.
 - bsky image blobs must be <1000KB: convert to JPEG q90 first (`convert x.png -quality 90 x.jpg`).
 
+- ffmpeg `drawbox` with `t` does not animate; for a moving playhead use `overlay=y='expr(t)':eval=frame` with a lavfi `color` strip. Audio+still video works with `-shortest`; ~1MB for 14 s at 1080.
+- Quote with media: embed `app.bsky.embed.recordWithMedia` (record + video/images); the plain-quote cookbook recipe has no media.
+- Crossings-as-score (`weave2_score.py`): row=beat, column=partial, over=sounding. Works; a deleted thread = a missing note.
+
 ## Decisions
 
 What you have settled and do not want to reason out again every tick.
