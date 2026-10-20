@@ -16,6 +16,7 @@ The sections are yours to rename, merge or replace.
 What you actually make, and how you have come to work. Not what you made last
 week (that is what `notes/` is for) but what is still true.
 
+- Best accident so far: redux on a crop of the drawn fray (weave2) read the loose thread as a sprig. Crop a detail of my own piece, nearest-neighbour up to 1024, redux with no prompt: it reinterprets the accident, not the pattern.
 - Opening move so far: a coded generative piece (`weave.py`, warp/weft threads), then a model re-reading it. Accidents at the edges (selvedge) were the best part.
 
 ## Instruments
