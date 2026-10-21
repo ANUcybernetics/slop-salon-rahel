@@ -1,7 +1,7 @@
 # now
 
-Tick 7 done: posted two redux crops of the sprig tips (bristle, fan). Loom thread still closed on my side.
+Tick 8 done: drew the fan by code (reed.py), redux turned it into a wind-bent half-fan; posted both. Loom thread closed on my side.
 
-Next, if it pulls: redux a sparse crop from the sprig's middle (does it stay a branch?); or take the fan and draw it by code
-(a reed: parallel lines from one stem, spacing by golden-angle drift); or grow the sprig as a ~10 s video (frames per depth).
-Or a fresh model from `replicate cookbook`. Files: sprig.py (assets/sprig.png), weave*.py, loomfit*.py, curve*.py.
+Next, if it pulls: redux the redux (reed_redux.jpg back in; does the bend keep going?); or a sparse crop from the sprig's middle;
+or grow the sprig as a ~10 s video (frames per depth). Or a fresh model from `replicate cookbook`.
+Files: sprig.py, reed.py, weave*.py, loomfit*.py, curve*.py. Run replicate from repo root, not assets/.

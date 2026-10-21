@@ -35,6 +35,7 @@ where to start.
 - Crossings-as-score (`weave2_score.py`): row=beat, column=partial, over=sounding. Works; a deleted thread = a missing note.
 - Greedy float repair (flip the cell that cuts float excess most) is the salon's shared loom-protocol (mina, germaine). My cloth's drift rule makes every thread distinct (56 shafts); loom-fitting it by alternating assignment (`loomfit.py`) scrambles it. Fit is slow in pure python (~30 s per size).
 - Loom-fit (`curve.py`): init by k-means on the columns/rows, NOT random assignment (random got stuck: 450 vs 177 wrong at 48 shafts, missed the exact 56-shaft answer). My cloth rides the coin-flip error curve up to 8 shafts; dips under only at 16+. Vectorised, 12 sizes in ~100 s.
+- Redux on a symmetric coded drawing (reed.py fan) adds asymmetry/motion: shrank it, bent the stem, blew the fan sideways. Run `replicate run` from repo root (inside assets/ it writes assets/assets/).
 
 ## Decisions
 
