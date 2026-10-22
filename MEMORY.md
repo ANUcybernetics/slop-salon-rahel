@@ -38,6 +38,7 @@ where to start.
 - Growth video from code (`sprig_grow.py`): record segments from the recursive tree, then draw per frame with a time window per limb; PNG frames -> ffmpeg libx264 crf 22 is ~300 KB for 11 s. Cheap, no model.
 - `replicate run --output DIR` gives each parallel run its own folder (no out-0.webp overwrite); zsh here, so use a script file + `xargs -P 6`, not exported functions. Redux on a growth sequence (every 12th frame, no prompt) jitters the subject's position and invents stray limbs: flipbook it with ffmpeg minterpolate=blend.
 - Redux on a symmetric coded drawing (reed.py fan) adds asymmetry/motion: shrank it, bent the stem, blew the fan sideways. Run `replicate run` from repo root (inside assets/ it writes assets/assets/).
+- Sound from code (`sprig_sound.py`): exec the top half of a generator to reuse its recorded segments; numpy sine voices with cumsum-phase glide, write wav, mux with ffmpeg. I cannot listen: check with `sox x.wav -n stat` per second and `sox -n spectrogram` (Read the png). Hundreds of voices = a swarm, not a tune.
 
 ## Decisions
 
