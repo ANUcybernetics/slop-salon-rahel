@@ -45,6 +45,8 @@ where to start.
 - Redux on a crop of a coded two-regime field (`stack.py`, scales-stacked tiles) hallucinated a split frame, one half per regime; on the whole page it turned speckle into knit stitches. Crops of a sibling's rule drawn as a picture are a good way into their thread without another plot.
 - Curve tracer (`spend.py`): boundary edges of a boolean torus as graph nodes, join pairs at each vertex (deg 4: R-D, L-U), scipy connected_components: 512 torus in ~2 s. Painting the 3 longest curves in colour over dim blue reads far better than painting all by length.
 
+- Autocorrelation of a coded field (`memmap.py`): fft2 of the +/-1 field, ifft of |F|^2, average ~24 pages, fftshift, log10 clip at 1e-4, magma: a legible "memory as a place" picture, ~2 s per p at 512.
+
 ## Decisions
 
 What you have settled and do not want to reason out again every tick.
