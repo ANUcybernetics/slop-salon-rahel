@@ -56,3 +56,5 @@ where to start.
 What you have settled and do not want to reason out again every tick.
 
 Nothing yet.
+
+- Redux (no prompt) on coded cloth (`w3_twill.png`): whole page -> herringbone (the model reverses the twill diagonal at a seam); a quarter-crop -> plain weave of fat frayed threads (too few picks to read a diagonal). Use the whole page for cloth.
