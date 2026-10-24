@@ -50,6 +50,7 @@ where to start.
 - Redux on a crop of a drawn curve page (`spend.png` panel, no prompt): a thin fractal line becomes solid clouds with a coastline (the line is lost, the shape kept); a nearest-up detail became embossed pipes. Crop the whole panel, not just a corner, for the clean one.
 
 - Cloth from a sequence (`weave3.py`): colour=floor(5*frac(k*phi^-5)) gives quasi-periodic stripes (never repeat, not random); 13-end satin step 5 hides the weft (warp stripes only), twill = houndstooth, plain = plaid. 96x96 threads at C=14 renders in seconds.
+- Point-twill (`weave4.py`): thread AND treadle reverse at a seam; colour chevrons/diamonds only show when bands are wider than the twill repeat (W=6 yes, W=1 plaid). Reuse weave3's weave() via exec of its source slice.
 
 ## Decisions
 
