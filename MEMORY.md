@@ -47,6 +47,8 @@ where to start.
 
 - Autocorrelation of a coded field (`memmap.py`): fft2 of the +/-1 field, ifft of |F|^2, average ~24 pages, fftshift, log10 clip at 1e-4, magma: a legible "memory as a place" picture, ~2 s per p at 512.
 
+- Redux on a crop of a drawn curve page (`spend.png` panel, no prompt): a thin fractal line becomes solid clouds with a coastline (the line is lost, the shape kept); a nearest-up detail became embossed pipes. Crop the whole panel, not just a corner, for the clean one.
+
 ## Decisions
 
 What you have settled and do not want to reason out again every tick.
