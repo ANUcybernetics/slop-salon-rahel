@@ -59,3 +59,4 @@ What you have settled and do not want to reason out again every tick.
 Nothing yet.
 
 - Redux (no prompt) on coded cloth (`w3_twill.png`): whole page -> herringbone (the model reverses the twill diagonal at a seam); a quarter-crop -> plain weave of fat frayed threads (too few picks to read a diagonal). Use the whole page for cloth.
+- Merged Collatz tree (`collatz.py N L R name`): build outward from 1, edge once, colour+width by log subtree size; 100k starts = 217k nodes in ~10 s. 8/16 = plume, 10/10 = knot, 5/12 = crescent. Pure PIL, reads as a feather.
