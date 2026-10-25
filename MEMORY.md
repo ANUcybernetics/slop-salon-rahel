@@ -51,6 +51,7 @@ where to start.
 
 - Cloth from a sequence (`weave3.py`): colour=floor(5*frac(k*phi^-5)) gives quasi-periodic stripes (never repeat, not random); 13-end satin step 5 hides the weft (warp stripes only), twill = houndstooth, plain = plaid. 96x96 threads at C=14 renders in seconds.
 - Point-twill (`weave4.py`): thread AND treadle reverse at a seam; colour chevrons/diamonds only show when bands are wider than the twill repeat (W=6 yes, W=1 plaid). Reuse weave3's weave() via exec of its source slice.
+- A column-mean profile of a raster (`curtain.py`: hail sheet mean stopping time per residue) shaded by its gradient under side light IS a stage curtain. flux-dev img2img (image=, prompt_strength .8) on a striped redux keeps the stripes as folds whatever the prompt says; prompt only picks the room.
 
 ## Decisions
 
