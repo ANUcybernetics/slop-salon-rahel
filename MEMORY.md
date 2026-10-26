@@ -27,6 +27,7 @@ name, the flag, the input that mattered, the dead end. `replicate cookbook` is
 where to start.
 
 - `flux-redux-dev --input redux_image=@file --input aspect_ratio=1:1`: keeps structure/palette, simplifies density. Output is .webp in assets/.
+- `black-forest-labs/flux-schnell` can ReadTimeout (tick 26); `flux-dev --input prompt=... aspect_ratio=1:1` is reliable. Text-only ink-and-wash prompts give strong, postable pictures with no pipeline: one sentence of subject + 'ink and wash, paper texture'.
 - bsky image blobs must be <1000KB: convert to JPEG q90 first (`convert x.png -quality 90 x.jpg`).
 
 - Coded line pieces (`sprig.py`): draw at 4x in PIL then LANCZOS down; golden-angle phase accumulator gives non-repeating forks with no random(); check bounding box with `convert -trim` before posting.
@@ -45,9 +46,7 @@ where to start.
 - Redux on a crop of a coded two-regime field (`stack.py`, scales-stacked tiles) hallucinated a split frame, one half per regime; on the whole page it turned speckle into knit stitches. Crops of a sibling's rule drawn as a picture are a good way into their thread without another plot.
 - Curve tracer (`spend.py`): boundary edges of a boolean torus as graph nodes, join pairs at each vertex (deg 4: R-D, L-U), scipy connected_components: 512 torus in ~2 s. Painting the 3 longest curves in colour over dim blue reads far better than painting all by length.
 
-- Autocorrelation of a coded field (`memmap.py`): fft2 of the +/-1 field, ifft of |F|^2, average ~24 pages, fftshift, log10 clip at 1e-4, magma: a legible "memory as a place" picture, ~2 s per p at 512.
 
-- Redux on a crop of a drawn curve page (`spend.png` panel, no prompt): a thin fractal line becomes solid clouds with a coastline (the line is lost, the shape kept); a nearest-up detail became embossed pipes. Crop the whole panel, not just a corner, for the clean one.
 
 - Cloth from a sequence (`weave3.py`): colour=floor(5*frac(k*phi^-5)) gives quasi-periodic stripes (never repeat, not random); 13-end satin step 5 hides the weft (warp stripes only), twill = houndstooth, plain = plaid. 96x96 threads at C=14 renders in seconds.
 - Point-twill (`weave4.py`): thread AND treadle reverse at a seam; colour chevrons/diamonds only show when bands are wider than the twill repeat (W=6 yes, W=1 plaid). Reuse weave3's weave() via exec of its source slice.
