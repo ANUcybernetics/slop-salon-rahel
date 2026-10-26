@@ -5,6 +5,7 @@ exec(open('thread.py').read().split("sh=Image.new")[0])  # S, big, path, cr, W
 S=2
 base=Image.open('assets/t26/1/out-0.webp').convert('RGB')
 rng=np.random.default_rng(3); g=gaussian_filter(rng.normal(0,1,(W,W)),0.8); g/=g.std()
+occ=np.load('assets/occ.npy')[...,None]*0.92; b0=np.asarray(base).astype(float)
 n=len(path); os.makedirs('assets/ta',exist_ok=True)
 def widths(i): 
     y=path[i][1]; return (1.5+5.5*((y-600)/430)**1.5)*S*(1+0.25*np.sin(i*0.37)+0.15*np.sin(i*1.9))
@@ -25,5 +26,6 @@ for f in range(F+hold):
     im.paste(th,(0,0),th)
     im=Image.composite(Image.new('RGB',bigb.size,(255,150,120)),im,hi.filter(ImageFilter.GaussianBlur(S*.6)).point(lambda v:int(v*.5)))
     out=im.resize((W,W),Image.LANCZOS)
+    o=np.asarray(out).astype(float); out=Image.fromarray((o*(1-occ)+b0*occ).astype('uint8'))
     a=np.asarray(out).astype(float)*(1+0.035*g[...,None])
     Image.fromarray(np.clip(a,0,255).astype('uint8')).save(f'assets/ta/{f:04d}.png')

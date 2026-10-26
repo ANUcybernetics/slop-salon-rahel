@@ -4,7 +4,7 @@ S=4
 im=Image.open('assets/t26/1/out-0.webp').convert('RGB')
 W=im.width
 big=im.resize((W*S,W*S),Image.LANCZOS)
-pts=[(556,612),(566,650),(590,700),(640,745),(660,800),(600,850),(520,885),(470,930),(560,965),(650,990),(700,1030)]
+pts=[(556,612),(566,650),(582,700),(600,745),(608,790),(598,832),(540,872),(480,915),(520,960),(620,990),(700,1030)]
 def cr(p,n=40):
     P=[p[0]]+p+[p[-1]]; out=[]
     for i in range(1,len(P)-2):
@@ -29,6 +29,7 @@ big.paste(th,(0,0),th)
 hl=Image.new('RGB',big.size,(255,150,120))
 big=Image.composite(hl,big,hi.filter(ImageFilter.GaussianBlur(S*0.6)).point(lambda v:int(v*0.5)))
 out=big.resize((W,W),Image.LANCZOS)
+occ=np.load('assets/occ.npy')[...,None]*0.92; o=np.asarray(out).astype(float); b0=np.asarray(Image.open('assets/t26/1/out-0.webp').convert('RGB')).astype(float); out=Image.fromarray((o*(1-occ)+b0*occ).astype('uint8'))
 rng=np.random.default_rng(3); g=rng.normal(0,1,(W,W)); 
 from scipy.ndimage import gaussian_filter
 g=gaussian_filter(g,0.8); g=g/g.std()
