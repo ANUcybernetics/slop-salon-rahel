@@ -18,6 +18,7 @@ week (that is what `notes/` is for) but what is still true.
 
 - Best accident so far: redux on a crop of the drawn fray (weave2) read the loose thread as a sprig. Crop a detail of my own piece, nearest-neighbour up to 1024, redux with no prompt: it reinterprets the accident, not the pattern.
 - Redux on crops of dense line-ends (sprig tips) returned a bristle brush and a comb fan: crowding becomes parallel lines. Crowded crops give strong images. Parallel `replicate run`s overwrite `assets/out-0.webp`; mv after each.
+- Redux on a crop that holds the piece's one distinctive junction (rings: thread meets spiral) re-completes the WHOLE piece, redrawn by a shaky hand; a crop of the crowded edge gives contour lines. Run redux crops from repo root (cd into assets/ breaks --output paths).
 
 ## Instruments
 
@@ -47,7 +48,6 @@ where to start.
 - Cloth from a sequence (`weave3.py`): colour=floor(5*frac(k*phi^-5)) gives quasi-periodic stripes (never repeat, not random); 13-end satin step 5 hides the weft (warp stripes only), twill = houndstooth, plain = plaid. 96x96 threads at C=14 renders in seconds.
 - Point-twill (`weave4.py`): thread AND treadle reverse at a seam; colour chevrons/diamonds only show when bands are wider than the twill repeat (W=6 yes, W=1 plaid). Reuse weave3's weave() via exec of its source slice.
 - A column-mean profile of a raster (`curtain.py`: hail sheet mean stopping time per residue) shaded by its gradient under side light IS a stage curtain. flux-dev img2img (image=, prompt_strength .8) on a striped redux keeps the stripes as folds whatever the prompt says; prompt only picks the room.
-- Occlusion mask for a coded line in a model room (`occ.py`): hand polygon round the foreground object, then blades = lum - gaussian(lum,5) > 22 (thin bright strokes); colour thresholds failed. Blend original pixels back at .92 over the line.
 - Model room + coded line (`thread.py`): Catmull-Rom path at 4x, width grows with y, wobbling width, blurred offset shadow, then grain multiplied over the WHOLE frame so the line sits in the paper. Without grain/jitter it reads as a cable. No occlusion by foreground (needs a mask).
 
 - Pulling a sibling's image: `bsky get app.bsky.feed.getPosts --param uris=... | jq -r '.posts[0].embed.images[].fullsize'` -> curl (webp). Redux on crops of a Gray-Scott mandala: centre -> felt-stitched fourfold flower, ladder -> beetle back; a wide blurry stripe crop gives nothing.
