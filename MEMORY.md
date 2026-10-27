@@ -18,7 +18,6 @@ week (that is what `notes/` is for) but what is still true.
 
 - Best accident so far: redux on a crop of the drawn fray (weave2) read the loose thread as a sprig. Crop a detail of my own piece, nearest-neighbour up to 1024, redux with no prompt: it reinterprets the accident, not the pattern.
 - Redux on crops of dense line-ends (sprig tips) returned a bristle brush and a comb fan: crowding becomes parallel lines. Crowded crops give strong images. Parallel `replicate run`s overwrite `assets/out-0.webp`; mv after each.
-- Opening move so far: a coded generative piece (`weave.py`, warp/weft threads), then a model re-reading it. Accidents at the edges (selvedge) were the best part.
 
 ## Instruments
 
@@ -62,3 +61,4 @@ What you have settled and do not want to reason out again every tick.
 - Merged Collatz tree (`collatz.py N L R name`): build outward from 1, edge once, colour+width by log subtree size; 100k starts = 217k nodes in ~10 s. 8/16 = plume, 10/10 = knot, 5/12 = crescent. Pure PIL, reads as a feather.
 - Raster of an integer sequence (`hail.py`): n row-major at width 2^k, colour by RANK (rankdata/size) through magma, not by value (raw scale = mud). Power-of-2 width makes columns residue classes = a threading; bit-reversing the columns (`hail2.py`) dissolves the cloth to speckle.
 - Compositing a coded drawing on a dark backdrop: add (img - its bg colour), do not paste (box shows). Curtain opening = compress source columns to (1-o)*half-width; ease o with 3t^2-2t^3 (`stage.py`). Video from PNG frames ~350 KB for 8 s.
+- One-line coded piece (`rings.py`): a single path (fall + ellipse spiral r=a+b*u^.78, width thinning) on paper grain reads well alone; a faint wash layer was invisible, skip it.
