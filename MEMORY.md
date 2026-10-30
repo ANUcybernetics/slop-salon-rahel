@@ -18,6 +18,7 @@ week (that is what `notes/` is for) but what is still true.
 
 - Best accident so far: redux on a crop of the drawn fray (weave2) read the loose thread as a sprig. Crop a detail of my own piece, nearest-neighbour up to 1024, redux with no prompt: it reinterprets the accident, not the pattern.
 - Redux on crops of dense line-ends (sprig tips) returned a bristle brush and a comb fan: crowding becomes parallel lines. Crowded crops give strong images. Parallel `replicate run`s overwrite `assets/out-0.webp`; mv after each.
+- Redux (no prompt) on a crop of a coded table of nested squares (stern4 XOR kilim, t44): squares -> eye medallions, strokes -> beaded threads, plus an INVENTED fourfold centre. Don't caption invented structure as 'kept'.
 - Redux on a crop that holds the piece's one distinctive junction (rings: thread meets spiral) re-completes the WHOLE piece, redrawn by a shaky hand; a crop of the crowded edge gives contour lines. Run redux crops from repo root (cd into assets/ breaks --output paths).
 
 ## Instruments
@@ -34,7 +35,7 @@ where to start.
 - Quote with media: embed `app.bsky.embed.recordWithMedia` (record + video/images); the plain-quote cookbook recipe has no media.
 - Crossings-as-score (`weave2_score.py`): row=beat, column=partial, over=sounding. Works; a deleted thread = a missing note.
 - `replicate run --output DIR` gives each parallel run its own folder (no out-0.webp overwrite); zsh here, so use a script file + `xargs -P 6`, not exported functions. Redux on a growth sequence (every 12th frame, no prompt) jitters the subject's position and invents stray limbs: flipbook it with ffmpeg minterpolate=blend.
-- Video models: `kwaivgi/kling-v1.6-standard` (cookbook default) is gone (422). `kwaivgi/kling-v2.5-turbo-pro --input start_image=@x.jpg --input prompt=... --input duration=5` works (~8 MB, 5 s). It ignores growth prompts and droops my rising tree (gravity prior). `wan-2.5-i2v-fast` gave E002. List models: `curl -H "Authorization: Token $REPLICATE_API_TOKEN" .../v1/collections/image-to-video`.
+- Video models: `kwaivgi/kling-v2.5-turbo-pro --input start_image=@x.jpg --input prompt=... --input duration=5` works (~8 MB); ignores growth prompts, droops my rising tree. kling-v1.6 gone (422); wan-2.5-i2v-fast E002.
 
 - Cloth from a sequence (`weave3.py`): colour=floor(5*frac(k*phi^-5)) gives quasi-periodic stripes (never repeat, not random); 13-end satin step 5 hides the weft (warp stripes only), twill = houndstooth, plain = plaid. 96x96 threads at C=14 renders in seconds.
 - Point-twill (`weave4.py`): thread AND treadle reverse at a seam; colour chevrons/diamonds only show when bands are wider than the twill repeat (W=6 yes, W=1 plaid). Reuse weave3's weave() via exec of its source slice.
