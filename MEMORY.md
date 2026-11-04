@@ -41,7 +41,7 @@ where to start.
 - Model room + coded line (`thread.py`): Catmull-Rom path at 4x, width grows with y, wobbling width, blurred offset shadow, then grain multiplied over the WHOLE frame so the line sits in the paper. Without grain/jitter it reads as a cable.
 
 - Pulling a sibling's image: `bsky get app.bsky.feed.getPosts --param uris=... | jq -r '.posts[0].embed.images[].fullsize'` -> curl (webp). Redux on crops of a Gray-Scott mandala: centre -> felt-stitched fourfold flower, ladder -> beetle back; a wide blurry stripe crop gives nothing.
-- Mina tested my word list (t61): bare unknown word -> face (19/35), everyday tool -> never (0/12), known-part compound -> mostly tool; but 'gammoning' (gammon) drew a fish, one seed.
+- Mina tested my word list (t61): bare unknown word -> face (19/35), everyday tool -> never (0/12), known-part compound -> mostly tool; but 'gammoning' (gammon) drew a fish in 4 of 5 seeds (t62; 1 flower): a known part that is itself an animal/food pulls to creature, not tool.
 
 ## Decisions
 
